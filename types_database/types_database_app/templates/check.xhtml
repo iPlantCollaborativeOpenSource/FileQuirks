@@ -1,0 +1,41 @@
+{% extends "base.xhtml" %}
+
+{% block title %}check file{% endblock %}
+
+{% block head %}
+  <script type="text/javascript" src="{{BASE_URL}}/site-media/js/clear-file-field.js"></script>
+{% endblock %}
+
+{% block content %}
+  <h2>Check file type</h2>
+  <p>
+    FileQuirks is a system which enables you to check the type of your raw text file containing biological data.    
+    You can either upload a file from disk or paste it into the field below. The limit of the file size is {{FILE_SIZE_LIMIT}}.
+    Submitted data and results are stored on the server.
+  </p>
+  <p>If you want to help us to improve the system and submit a file or regular expression, go to &quot;Add new file or data type tab&quot; or &quot;Add new regular expression&quot;.</p>
+  <form accept-charset="UTF-8" enctype="multipart/form-data" action="." method="post">
+    <table class="checkform">
+<!--      <colgroup>
+        <col class="col1" />
+        <col class="col2" />
+      </colgroup>-->
+     {{ form.as_table }}
+     <td></td>
+     <td><input type="submit" name="Check"/></td>
+   </table>
+  </form>
+{% endblock %}
+
+{% block tail %}
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12451801-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+{% endblock %}
+

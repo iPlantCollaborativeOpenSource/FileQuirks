@@ -1,0 +1,61 @@
+{% extends "base.xhtml" %}
+
+{% block extrastyle %}
+<style>
+td, th {
+  border: 1px solid lightgray;
+  overflow: hidden;
+}
+
+.mark0 {
+  background: #fcc;
+}
+
+.mark1 {
+  background: #cfc;
+}
+
+body {
+  width: 100%;
+}
+
+table, h2, h3, p {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+th {
+  width: 80px;
+  font-size: xx-small;
+}
+
+th:first-child {
+  width: 320px;
+}
+
+</style>
+{% endblock %}
+
+{% block content %}
+  <h2>Regex-data table</h2>
+  <table>
+    <tr>
+      <th>File:</th>
+      {% for regexp in regexps %}
+        <th>{{ regexp }}</th>
+      {% endfor %}
+    <tr>
+  {% for data_file in data_files %}
+    <tr>
+      <td>
+        <a href="../data_file_view/{{ data_file.name }}">
+          {{ data_file.name }}
+        </a>
+      </td>
+      {% for property in data_file.properties %}
+        <td class="mark{{ property }}">{{ property }}</td>
+      {% endfor %}
+    </tr>
+  {% endfor %}
+  </table>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends "base.xhtml"%}
+
+{% block content %}
+  <h2>Unsupported file format</h2>
+  <p>
+    This file can not be processed, because it seems to be in one of following types:
+  </p>
+  {% for element in Output %}
+	<li>{{ element }}<br>
+  {% endfor %} 
+  <p style="color:darkgreen">
+  
+    Input should be  a <b>text file</b> encoded in ASCII, UTF-8 or UTF-16.<br><br>
+
+  </p>
+  <hr />
+  <p style="color:dimgray;font-size:10pt">
+  This module uses a programm 'TRID' created and designed by Marco Pontello.
+  To get more information about the author (and his program), look at this webpage:<br>
+  <a href="http://mark0.net/soft-trid-e.html">http://mark0.net/soft-trid-e.html</a>
+  </ p>
+
+  <hr /> 
+
+{% endblock %}

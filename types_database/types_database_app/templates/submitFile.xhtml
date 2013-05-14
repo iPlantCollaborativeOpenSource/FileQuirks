@@ -1,0 +1,27 @@
+{% extends "base.xhtml" %}
+
+{% block title %}check file{% endblock %}
+
+{% block head %}
+  <script type="text/javascript" src="{{BASE_URL}}/site-media/js/clear-file-field2.js"></script>
+{% endblock %}
+
+{% block content %}
+  <h2>Submit new file or data type</h1>
+  <p>
+    FileQuirks is a system which enables you to check the type of your raw text file containing biological data.
+  </p>
+  <p>If your data type is not is not correctly recognized by our system, you can help us to improve it. Simply give us the file and its type/format by choosing from a list or simply typing it. If you want to help us to improve the system, tell us, what is the expected type of the file by selecting one from the list or typing it. The limit of the file size is {{FILE_SIZE_LIMIT}}.</p>
+  <form accept-charset="UTF-8" enctype="multipart/form-data" action="." method="post">
+    <table class="checkform">
+<!--      <colgroup>
+        <col class="col1" />
+        <col class="col2" />
+      </colgroup>-->
+     {{ form.as_table }}
+     <td></td>
+     <td><input type="submit" name="Check"/></td>
+   </table>
+  </form>
+{% endblock %}
+

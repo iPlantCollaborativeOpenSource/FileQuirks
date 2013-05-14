@@ -1,0 +1,36 @@
+{% extends "base.xhtml" %}
+
+{% block title %}FileQuirks Database{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+    <h2>Browse Database</h2>
+    <p>Here you can browse the database of biological data types from different categories and view available example files.</p>
+    <table>
+        {% for r in types_dict %}
+            <tr >
+                <td class="ft_category"><a href="/data_types/{{r.0|urlencode }}">Category: {{r.0}}</a>
+                    {% if r.1  %}
+                    <ul>
+                        {% for s in r.1 %}
+                        <li class="ft">
+                            <a href="/data_types/{{r.0|urlencode }}/{{s.id}}">{{s.name}}</a>
+                            {% ifequal s.id file_type %}
+                            <ul>
+                                {% for file in files %}
+                                <li class="file"><a href="/data_file_view2/{{file.id}}">{{file.file.name}}</a></li>
+                                {% endfor %}
+                            </ul>
+                            {% endifequal %}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}

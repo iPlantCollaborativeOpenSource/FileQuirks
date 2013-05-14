@@ -1,0 +1,58 @@
+{% extends "base.xhtml" %}
+{% block extrastyle %}
+  <link rel="stylesheet" type="text/css" href="{{BASE_URL}}/site-media/results.css" />
+{% endblock %}
+
+{% block content %}
+<h2>Results</h2>
+<h3>Expert expressions</h3>
+  <p>
+    {% if expert_results %}
+        <p>Your file matches following biological data types using expert regular expressions</p>
+        <table>
+            <tr ><th style="width: 90px"></th><th style="width: 600px">data type</th><th style="width: 400px"></th></tr>
+            {% for r in expert_results %}
+                <tr >
+                    <td style="font-size: smaller"><a href="{{BASE_URL}}/data_file_view/{{ r.2.file.name }}">(ex. file)</a></td>
+                    <td style="padding: 0px 15px 0px 0px;">{{r.0.data_type.name}}</td>
+                    <td style="font-size: smaller"><a href="{{BASE_URL}}/{{r.3}}/{{new_file.id}}">view match</a></td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>Your file does not match any of biological data types in the system using expert regular expressions</p>
+    {% endif %}
+  </p>
+<br><br><br>
+<h3>Heuristic matching</h3>
+<table>
+  <tr ><th style="width: 90px"></th><th style="width: 600px">data type</th><th style="width: 200px">score</th><th style="width: 200px">Z-value</th></tr>
+  {% for type in result %}
+    <tr >
+      <td style="font-size: smaller"><a href="../data_file_view/{{ type.5.file.name }}">(ex. file)</a></td>
+      <td style="padding: 0px 15px 0px 0px;">{{ type.0 }}</td>
+      <td >{{ type.1 }}</td>
+      <td class="{{ type.2 }}" >{{ type.6 }}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+<br>
+Legend:
+<table>
+  <tr><td style="width:50px" class="mark_1"></td><td>Very Confident prediction </td></tr>
+  <tr><td style="width:50px" class="mark_2"></td><td>Confident prediction </td></tr>
+  <tr><td style="width:50px" class="mark_3"></td><td>Non-confident prediction </td></tr>
+  <tr><td style="width:50px" class="mark_4"></td><td>Non-confident prediction (close to noise edge) </td></tr>
+
+</table>
+
+
+<br/><br/>
+Your original input was:
+<form>
+<textarea cols="70" rows="20" id="data_field" name="Sequence" readonly="false">
+{{fileContent}}
+</textarea>
+</form>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "base.xhtml" %}
+
+{% block title %}check file{% endblock %}
+
+{% block head %}
+  <script type="text/javascript" src="{{BASE_URL}}/site-media/js/clear-file-field.js"></script>
+{% endblock %}
+
+{% block content %}
+  <h2>Submit a new regex</h2>
+  <p>
+    If you feel you can help to improve the database by adding a regular
+    expression, you can do it in the form below. Submitted regex must me valid
+    in Python format - more information can be found
+    <a href="http://docs.python.org/library/re.html#regular-expression-syntax">
+    here</a>. You need also to supply some description. Email field is
+    optional and will be used only when submitted entry is accepted. Adding
+    user-sent regexes is moderated.
+  </p>
+  <form accept-charset="UTF-8" enctype="multipart/form-data" action="." method="post">
+    <table class="checkform">
+     {{ form.as_table }}
+     <td></td>
+     <td><input type="submit" name="Check"/></td>
+   </table>
+  </form>
+{% endblock %}
+

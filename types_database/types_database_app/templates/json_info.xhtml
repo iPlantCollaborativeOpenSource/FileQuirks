@@ -1,0 +1,25 @@
+{% extends "base.xhtml" %}
+
+{% block title %}JSON output{% endblock %}
+
+{% block content %}
+  <h2>JSON output</h2>
+  <p>
+    It is possible to call the application as a webservice. Results are
+    serialized in widely used JSON format. Example usage of JSON webservice is
+    shown in the python script:
+    <a href="{{BASE_URL}}/site-media/filequirks_json.py">download</a>.
+  </p>
+  <p>
+    Results are returned in the form of dictionary. A file_type key is
+    always set. If file_type is binary, result key contains only a sequence of
+    binary type guessed.
+  </p>
+  <p>
+    If file type is text, result contains a sequence of triplets: type name,
+    score, Z-value. There is also exper_result key which may contain a sequence
+    of triplets: type name, link to example file, link to regex match. A sample
+    of file content is sent back in a file_content key.
+  </p>
+{% endblock %}
+

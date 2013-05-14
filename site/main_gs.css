@@ -1,0 +1,572 @@
+/*============== FROM MODERNA STYLESHEET ==================*/
+
+/* Taken from genesilico Stylesheet */
+.main {background-color:#e7f3e9;
+          height:100%;
+          font-family: Verdana, Arial, Helvetica, sans-serif; 
+          color: #330000; 
+          text-decoration: none;  
+          padding-left:20pt;
+          padding-right:20pt;
+          padding-bottom:20pt;
+          padding-top:00pt; 
+          font-size:10pt; 
+          text-align:justify;
+                }
+
+.main h1{
+          text-align:center;
+}
+
+.checkform th {
+          font-size:8pt; 
+          text-align:left;
+          padding-right: 20px;
+          white-space: nowrap;
+                }
+ 
+.tabmain{ margin-top:10px;
+          margin-bottom:10px;
+          width:30%; 
+          border:none; 
+          height:98%}
+
+.tabmenu{ font-size:10pt;
+          margin-left:5pt;
+          margin-right:5pt;
+          font-family: Arial, Geneva, Helvetica, sans-serif; 
+          min-width:30pt;
+          }
+
+.tabmenu a:link {color:#904035;
+                 text-decoration: none;}
+
+.tabmenu a:visited {color:#904035;
+                    text-decoration: none;}  
+
+.tabmenu a:hover {color:white;
+                  text-decoration: none;}
+
+
+.tabthin {height:10%}
+
+.footer {color:gray;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:9pt; }
+
+.invisible {color:#e7f3e9;}
+
+a:link { color:blue;
+       text-decoration: none; }
+
+a:visited { color:purple;
+          text-decoration: none;}
+
+a:hover { color:red;
+          text-decoration: none;}
+
+
+.td{width:100%;
+    background-color:#F0A03D}
+
+.tdx a:link {color:#904035;
+                 text-decoration: none;}
+
+.tdx a:visited {color:#904035;
+                    text-decoration: none;}  
+
+.tdx a:hover {color:white;
+                  text-decoration: none;}
+
+.tdx{width:100%;
+    white-space:pre;
+    background-color:#F0A03D}
+
+.td a:link {color:#904035;
+                 text-decoration: none;}
+
+.td a:visited {color:#904035;
+                    text-decoration: none;}  
+
+.td a:hover {color:white;
+                  text-decoration: none;}
+
+.td_small{width:8px;
+          background-color:#F0A03D;
+/*              text-align: bottom; */
+          font-size:0px;
+
+}
+
+.helix{color:#FF3030}
+.nonwc{color:#3030FF}
+.loop{background-color:#C0C0C0}
+
+/* Stuff specific for Modomics */
+
+
+/* Wszystkie listy */
+ul { list-style: square; }
+
+ul.sub { list-style: disc; }
+
+li.none { list-style: none; }
+
+/* Menu (na gorze) */
+
+div.menu { background: #006699; font-family: Verdana, sans-serif; font-size: 10pt; color: #000000; text-decoration: none;}
+
+/* Niech caly tekst jest ladnie wyrownany */
+p { text-align:justify; }
+
+img.floatLeft { 
+    float: left; 
+    margin: 4px; 
+}
+
+img.floatRight { 
+    float: right; 
+    margin: 4px; 
+}
+
+
+div.menu td, div.menu td a { 
+    background: #006699; 
+    font-family: Verdana, sans-serif; 
+    font-size: 14px;
+    color: #FFFFFF; 
+    padding-bottom: 3px;
+    padding-left: 6px;
+    vertical-align: top;
+}
+
+
+div.menu td a:link, div.menu td a:visited { 
+    color:blue;
+    text-decoration: none;
+}
+
+
+div.menu td a:hover { 
+    text-decoration: underline;
+}
+
+
+div.menu td.bug { 
+    text-align: right;
+    padding-right: 6px;
+}
+
+
+/* Okienko pod menu */
+
+/* old infowin color: #DDDDDD; */
+
+div.infowin { 
+    background: background-color:#e7f3e9;
+    font-family: Verdana, sans-serif; 
+    font-size: 10pt; 
+    color: #000000; 
+    text-decoration: none;
+}
+
+div.infowin td { 
+    padding: 10px;
+    vertical-align: top;
+}
+
+div.infowin td a, a.link, a.hover, a.visited { 
+    background: #e7f3e9;
+    color: #330099;
+    
+}
+
+
+table.reaction td {
+    vertical-align: top;
+}
+
+/* Listy */
+/* former background #CCCCCC; #4B4545;
+   former color #000000 #FFFFFF */
+
+div.datagrid {
+    text-align: left;
+    background-color: #CCCCCC;
+    color: #000000;
+    font-size: 9pt; 
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+}
+
+table.datagrid {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.datagrid thead th { 
+    text-align: left;
+    background-color: #CCCCCC;
+    background-repeat: no-repeat;
+    background-position: right center;
+    color: #000000;
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+    padding: .3em .7em;
+    font-size: .9em;
+    padding-right: 5px;
+    background-repeat: no-repeat;
+    background-position: 95% right;
+}
+
+table.datagrid thead th a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.0em;
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 15px;
+}
+
+table.datagrid thead th.over {
+    background-color: #746B6B;
+    cursor: pointer;
+}
+
+table.datagrid tbody th {
+     
+    font-weight: bold;
+    
+}
+
+table.datagrid tbody td, table.datagrid tbody th {
+    
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    padding: .3em .7em;
+    border-bottom: 1px solid #555;
+}
+
+
+
+div.enztable {
+    text-align: left;
+    background-color: #CCCCCC;
+    color: #000000;
+    font-size: 9pt; 
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+}
+
+table.enztable {
+    width: 100%;
+}
+
+table.enztable thead th { 
+    text-align: left;
+    background-color: #CCCCCC;
+    background-repeat: no-repeat;
+    background-position: right center;
+    color: #000000;
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+    padding: .3em .7em;
+    font-size: .9em;
+    padding-right: 5px;
+
+    background-repeat: no-repeat;
+    background-position: 95% right;
+}
+
+table.enztable thead th a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.0em;
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 15px;
+}
+
+table.enztable thead th.over {
+    background-color: #746B6B;
+    cursor: pointer;
+}
+
+table.enztable tbody th {
+    font-weight: bold;    
+}
+
+.enzyme tr, .enzyme td {
+    
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    padding: .3em .7em;
+}
+
+.enz_pre span {white-space:pre;}
+
+.cofactor tr, .cofactor td {    
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    padding: .2em .7em;
+
+}
+
+/* ---------------------------------------------*/
+
+table.tabseq {
+    margin-top:0.2;
+    margin-bottom:0.2;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.tabseq thead th { 
+    text-align: left;
+    background-color: #CCCCCC;
+    background-repeat: no-repeat;
+    background-position: right center;
+    color: #000000;
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+    padding: .1em .5em;
+    font-size: .9em;
+    padding-right: 5px;
+    background-repeat: no-repeat;
+    background-position: 95% right;
+}
+
+table.tabseq tbody a {
+    color: #2020CC;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+table.tabseq thead th a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.0em;
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 15px;
+}
+
+table.tabseq thead th.over {
+    background-color: #746B6B;
+    cursor: pointer;
+}
+
+table.tabseq tbody th {
+    font-family: Monospace, Courier;
+    text-align: left;
+    font-size: 14px;
+    padding: .1em .5em;
+    white-space:pre;
+    font-weight: bold;
+    margin-top:0.1;
+    margin-bottom:0.1;
+}
+
+tr.seq {
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    padding: .1em .1em;
+    background-color: #CCCCCC;
+    white-space:pre;
+}
+
+pre {padding: 0;
+      background: #fed9af;
+      border-bottom: 2px solid #ccc;
+      border-right: 2px solid #ccc;
+      padding-left: 10px;
+      padding-top: 5px;
+      padding-right: 0px;
+      padding-bottom: 5px;
+      overflow-x: auto; /* Horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */
+      white-space: pre-wrap; /* css-3 */
+      white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+     white-space: -pre-wrap; /* Opera 4-6 */
+     white-space: -o-pre-wrap; /* Opera 7 */
+     word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+pre.mini {font-size: 12px;}
+
+table.tabseq tbody td {
+    font-family: Monospace, Courier;
+    text-align: left;
+    font-size: 14px;
+    margin-top:0.1;
+    margin-bottom:0.1;
+    padding: .1em .5em;
+    white-space:pre;
+}
+
+td.sequence a:link {color:blue; text-decoration: none;}
+td.sequence a:visited {color:blue; text-decoration: none;}  
+td.sequence a:hover {color:white; text-decoration: underline;}
+
+
+span.sequence span.M { 
+    color:red
+}
+span.sequence span.H { 
+    background-color:brown
+}
+span.sequence span.L { 
+    background-color:green
+}
+span.sequence span.N { 
+    background-color:blue
+}
+
+
+/* stary kolor linii #eee */
+
+table.datagrid tbody tr.alternate td, table.datagrid tbody tr.alternate th {
+    background-color: #f1f1f1;
+}
+
+
+
+.tdx{width:100%;
+white-space:pre;
+    background-color:#F0A03D}
+    
+    
+    
+/* pygments */
+
+.c { color: #408080; font-style: italic } /* Comment */
+.err { border: 1px solid #FF0000 } /* Error */
+.k { color: #008000; font-weight: bold } /* Keyword */
+.o { color: #666666 } /* Operator */
+.cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.cp { color: #BC7A00 } /* Comment.Preproc */
+.c1 { color: #408080; font-style: italic } /* Comment.Single */
+.cs { color: #408080; font-style: italic } /* Comment.Special */
+.gd { color: #A00000 } /* Generic.Deleted */
+.ge { font-style: italic } /* Generic.Emph */
+.gr { color: #FF0000 } /* Generic.Error */
+.gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.gi { color: #00A000 } /* Generic.Inserted */
+.go { color: #808080 } /* Generic.Output */
+.gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.gs { font-weight: bold } /* Generic.Strong */
+.gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.gt { color: #0040D0 } /* Generic.Traceback */
+.kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.kp { color: #008000 } /* Keyword.Pseudo */
+.kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.kt { color: #B00040 } /* Keyword.Type */
+.m { color: #666666 } /* Literal.Number */
+.s { color: #BA2121 } /* Literal.String */
+.na { color: #7D9029 } /* Name.Attribute */
+.nb { color: #008000 } /* Name.Builtin */
+.nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.no { color: #880000 } /* Name.Constant */
+.nd { color: #AA22FF } /* Name.Decorator */
+.ni { color: #999999; font-weight: bold } /* Name.Entity */
+.ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.nf { color: #0000FF } /* Name.Function */
+.nl { color: #A0A000 } /* Name.Label */
+.nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.nt { color: #008000; font-weight: bold } /* Name.Tag */
+.nv { color: #19177C } /* Name.Variable */
+.ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.w { color: #bbbbbb } /* Text.Whitespace */
+.mf { color: #666666 } /* Literal.Number.Float */
+.mh { color: #666666 } /* Literal.Number.Hex */
+.mi { color: #666666 } /* Literal.Number.Integer */
+.mo { color: #666666 } /* Literal.Number.Oct */
+.sb { color: #BA2121 } /* Literal.String.Backtick */
+.sc { color: #BA2121 } /* Literal.String.Char */
+.sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.s2 { color: #BA2121 } /* Literal.String.Double */
+.se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.sh { color: #BA2121 } /* Literal.String.Heredoc */
+.si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.sx { color: #008000 } /* Literal.String.Other */
+.sr { color: #BB6688 } /* Literal.String.Regex */
+.s1 { color: #BA2121 } /* Literal.String.Single */
+.ss { color: #19177C } /* Literal.String.Symbol */
+.bp { color: #008000 } /* Name.Builtin.Pseudo */
+.vc { color: #19177C } /* Name.Variable.Class */
+.vg { color: #19177C } /* Name.Variable.Global */
+.vi { color: #19177C } /* Name.Variable.Instance */
+.il { color: #666666 } /* Literal.Number.Integer.Long */
+
+div.caption { font-size: 80%;
+                  font-family: Verdana, sans-serif;
+                  text-align:justify; }
+
+.help {cursor:help}
+
+/*================================*/
+
+/*============ FileQuirks Specific====================*/
+
+.fileprint{ width: 500px;
+            height: 300px;
+            overflow: scroll;
+            font-family:monospace; 
+            background-color: #ccc;
+          }
+
+.errorlist li {
+    background-color: red;
+    color: black;
+    display: block;
+    font-size: 10px;
+    margin: 0 0 3px;
+    padding: 4px 5px;
+    font-weight: bold;
+}
+
+.errorlist li {
+    background-color: red;
+    color: black;
+    display: block;
+    font-size: 10px;
+    margin: 0 0 3px;
+    padding: 4px 5px;
+    font-weight: bold;
+}
+
+.ft_category{
+    padding: 0px 15px 0px 0px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ft{
+    padding: 0px 15px 0px 0px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.file{
+    padding: 0px 15px 0px 0px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+/*.main form table tr th label {
+   font-size: 30;
+}*/
+/*.col1 {
+        width: 500px;
+        font-size:20px;     
+}*/
+
+
+/* .col2 {width: 20%} */
+
+
+

@@ -1,0 +1,92 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Helvetica", "Nimbus Sans", "Arial", "sans-serif";
+}
+
+form table, table {
+    border-collapse: collapse;
+}
+
+form th {
+    text-align: right;
+    padding-right: 0.5em;
+    width: 28%;
+    font-weight: normal;
+}
+
+form td {
+    padding-left: 0.5em;
+}
+
+form tr:first-child > td {
+    border-top: none;
+}
+
+form tr:first-child > th {
+    border-top: none;
+}
+
+form th, form td {
+    border-top: 1px solid #fff;
+    border-left: none;
+    border-right: none;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+}
+
+input[type=file] {
+    width: 80%;
+}
+
+input[value=Clear] {
+    width: 20%
+}
+
+a:link {
+    color: #339;
+}
+
+a:visited {
+    color: #939;
+}
+
+
+a:active {
+    color: #933;
+}
+
+a:hover {
+    color: #66c;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: teal;
+    color: white;
+    border-bottom: 4px solid #ff9;
+    margin-top: 0;
+    padding: 0.1em 0.4em;
+}
+
+h2 {
+    font-size: large;
+    font-weight: bold;
+}
+
+
+h3 {
+    font-weight: bold;
+}
+
+
+p {
+    text-align: justify;
+}
+

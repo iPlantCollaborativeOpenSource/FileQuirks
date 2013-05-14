@@ -1,0 +1,104 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.w3.org/MarkUp/SCHEMA/xhtml11.xsd"
+     xml:lang="en" >
+  <head>
+    <base href="filequirks.genesilico.pl" />
+    <meta name="keywords" content="bioinformatics, file format, FASTA, file format recognition, data type recognition" />
+    <meta name="description" content="Biological File Formats Database" />
+
+    <title>FileQuirks -- {% block title %}{% endblock %}</title>
+    <link rel="stylesheet" type="text/css"
+	  href="{{BASE_URL}}/site-media/main_gs.css" />
+    {% block extrastyle %}
+    {% endblock %}
+    {% block head %}
+    {% endblock %}
+  </head>
+  <body>
+<!-- Logo -->
+    <table class="tabmain" align="center" cellpadding="0" cellspacing="0">
+
+    <tbody>
+      <tr>
+        <td><a href="http://iimcb.genesilico.pl/" target="_blank"><img src="{{BASE_URL}}/site-media/images/logo_iimcb.gif" alt="" title="www.iimcb.gov.pl"  border="0"></a></td>
+        <td><img src="{{BASE_URL}}/site-media/images/banner.png" alt="" title="banner.png"></td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              <tr>
+                <td class="td_small"> <img src="{{BASE_URL}}/site-media/images/menu_top1.png" alt="" title="menu_top1.png" border="0" height="8" width="8"></td>
+                <td class="td"> </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="td">
+<!-- End Logo -->
+<!-- menu cell-->
+                  <table align="center"  border="0" cellpadding="5" cellspacing="0" class="tabmenu" >
+                    <tr><td><a href="{{BASE_URL}}">Check filetype</a></td></tr>
+                    <tr><td><a href="http://webservices.genesilico.pl/index.php?option=com_content&view=article&id=1&Itemid=2">Help pages</a></td></tr>
+                    <tr><td><a href="{{BASE_URL}}/json_info/">JSON output webservice</a></td></tr>                    
+                    <tr><td><a href="{{BASE_URL}}/submit_file/">Add new file or data type</a></td></tr>
+                    <tr><td><a href="{{BASE_URL}}/submit_regex/">Add new regular expression</a></td></tr>
+                    <tr><td><a href="{{BASE_URL}}/data_types/">Browse database</a></td></tr>
+                    <tr><td><br></td></tr>
+                    <tr><td><a href="http://iimcb.genesilico.pl" target="_blank">GeneSilico Homepage</a></td></tr>
+                  </table>
+                </td>
+              </tr>
+   <!--end menu cell-->
+   <!--bottom row with rounded corner-->
+              <tr>
+                <td class="td_small" ><img src="{{BASE_URL}}/site-media/images/menu_bottom1.png" title="menu_bottom1.png" height="8" width="8" target="_blank"></td>
+                <td class="td"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+<!-- End Menu !-->
+
+<!-- Main window !-->
+        <td class="main" valign="top">
+        <h1>FileQuirks</h1>
+        {% block content %}
+        {% endblock %}
+
+          <br/>
+<!--           <p><a href="http://www.genesilico.pl/workflowsvm/FileQuirks/joomla/">More info and help pages.</a></p> -->
+          <p>Authors: Jerzy Orlowski (<a href="mailto:jerzyo@genesilico.pl">jerzyo@genesilico.pl</a>), Piotr Iwaniuk, Jakub Jopek, Janusz M. Bujnicki</p>
+
+        </td>
+      </tr>
+
+<!--footer row -->
+      <tr>
+        <td></td>
+        <td valign="top">
+
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <a href="http://validator.w3.org/check?uri=referer"><img border="0" src="{{BASE_URL}}/site-media/images/valid-html401.png" alt="Valid HTML 4.01!" height="31" width="88"></a>
+            </td>
+              <td align="right" class="footer">Copyright&copy; - International Institute of Molecular and Cell Biology  - All rights reserved
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+<!--end footer row-->
+    </tbody>
+  </table>
+    {% block tail %}
+    {% endblock %}
+</body>
+</html>

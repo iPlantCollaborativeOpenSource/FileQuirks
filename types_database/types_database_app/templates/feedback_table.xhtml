@@ -1,0 +1,87 @@
+{% extends "base.xhtml" %}
+
+{% block extrastyle %}
+<style>
+
+td, th {
+  border: 1px solid #ccc;
+  overflow: hidden;
+}i
+
+.native {
+  font-weight: bold;
+  color: black;
+}
+
+.mark_0 {
+  background: #f66;
+}
+
+.mark_1 {
+  background: #c66;
+}
+
+.mark_2 {
+  background: #966;
+}
+
+.mark_3 {
+  background: #696;
+}
+
+.mark_4 {
+  background: #6c6;
+}
+
+.mark_5 {
+  background: #6f6;
+}
+
+
+body {
+  width: 100%;
+}
+
+table, h2, h3, p {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+th {
+  width: 80px;
+  font-size: xx-small;
+}
+
+th:first-child {
+  width: 320px;
+}
+
+</style>
+{% endblock %}
+
+{% block content %}
+<h2>Feedback results table</h2>
+<table>
+    <tr>
+      <th>file name</th><th>file type</th>
+      {% for data_type in data_types %}
+        <th>{{ data_type }}</th>
+      {% endfor %} 
+    </tr>
+  {% for data_file in results %}
+    <tr>
+      <th>
+        <a  href="../data_file_view/{{ data_file.0 }}">
+          {{ data_file.0 }}
+        </a>
+      </th>
+      <th>{{ data_file.1 }}</th>
+      {% for type_result in data_file.2 %}
+        <td class="{{ type_result.1 }} {% ifequal type_result.2 data_file.1 %}native{% endifequal %}">
+          <div>{{ type_result.0 }}</div>
+         </td>
+      {% endfor %}
+    </tr>
+  {% endfor %}
+</table>
+{% endblock %}

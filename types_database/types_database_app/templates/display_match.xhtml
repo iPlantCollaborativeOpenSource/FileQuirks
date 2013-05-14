@@ -1,0 +1,37 @@
+{% extends "base.xhtml" %}
+
+{% block title %}check file{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+    Comparison between query and example file of "{{data.data_type.name}}" type. 
+    Yellow background indicates places where the expert regular expression matches.
+    
+
+    <h3>query</h3>
+    <table>
+        <tr>
+            <td>
+                <div class="fileprint" >
+                    {% autoescape off %}{{html_text1_1}}<span style="background-color:yellow">{{html_text1_2}}</span>{{html_text1_3}}{% endautoescape %}
+                </div>
+            </td>
+        </tr>
+    </table>
+    <h3>example file</h3>
+    <table>
+        <tr>
+            <td>
+                <div class="fileprint" >
+                    {% autoescape off %}{{html_text2_1}}<span style="background-color:yellow">{{html_text2_2}}</span>{{html_text2_3}}{% endautoescape %}
+
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+
+{% endblock %}
