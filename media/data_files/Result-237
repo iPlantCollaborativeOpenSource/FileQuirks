@@ -1,0 +1,95 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= query
+         (60 letters)
+
+Database: SWISS: SWISS sequence taken from the header [Last update
+May/16/2009] 
+           428,650 sequences; 154,417,242 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+sp|A5A6L1|CYR61_PANTR RecName: Full=Protein CYR61; AltName: Full...    81   2e-15
+sp|O00622|CYR61_HUMAN RecName: Full=Protein CYR61; AltName: Full...    81   2e-15
+sp|Q9ES72|CYR61_RAT RecName: Full=Protein CYR61; AltName: Full=C...    78   1e-14
+sp|P18406|CYR61_MOUSE RecName: Full=Protein CYR61; AltName: Full...    78   2e-14
+sp|P19336|CEF10_CHICK RecName: Full=Protein CEF-10; Flags: Precu...    61   1e-09
+sp|O95389|WISP3_HUMAN RecName: Full=WNT1-inducible-signaling pat...    52   8e-07
+sp|Q9Z0G4|WISP2_MOUSE RecName: Full=WNT1-inducible-signaling pat...    50   4e-06
+sp|P29279|CTGF_HUMAN RecName: Full=Connective tissue growth fact...    46   7e-05
+sp|O18739|CTGF_BOVIN RecName: Full=Connective tissue growth fact...    45   1e-04
+sp|P51609|NOV_XENLA RecName: Full=Protein NOV homolog; AltName: ...    44   2e-04
+sp|Q9JHC6|WISP2_RAT RecName: Full=WNT1-inducible-signaling pathw...    44   3e-04
+sp|P42642|NOV_COTJA RecName: Full=Protein NOV; AltName: Full=Nep...    44   3e-04
+sp|P28686|NOV_CHICK RecName: Full=Protein NOV; AltName: Full=Nep...    43   3e-04
+sp|O54775|WISP1_MOUSE RecName: Full=WNT1-inducible-signaling pat...    43   4e-04
+sp|Q99PP0|WISP1_RAT RecName: Full=WNT1-inducible-signaling pathw...    42   7e-04
+sp|O95388|WISP1_HUMAN RecName: Full=WNT1-inducible-signaling pat...    42   0.001
+sp|Q9R1E9|CTGF_RAT RecName: Full=Connective tissue growth factor...    40   0.005
+sp|Q9QZQ5|NOV_RAT RecName: Full=Protein NOV homolog;          Sh...    40   0.005
+sp|Q64299|NOV_MOUSE RecName: Full=Protein NOV homolog;          ...    39   0.007
+sp|P29268|CTGF_MOUSE RecName: Full=Connective tissue growth fact...    39   0.009
+sp|P48745|NOV_HUMAN RecName: Full=Protein NOV homolog;          ...    39   0.010
+sp|O19113|CTGF_PIG RecName: Full=Connective tissue growth factor...    35   0.10 
+sp|O76076|WISP2_HUMAN RecName: Full=WNT1-inducible-signaling pat...    32   1.2  
+sp|Q93873|NDUS2_CAEEL RecName: Full=Probable NADH dehydrogenase ...    31   1.8  
+
+1_0   1  MSSRIXXXXXXXXXXXXXXXXXXSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL 60
+65440 1  .....ARALALVVTLLHLTRLAL..................................... 60
+65438 1  .....ARALALVVTLLHLTRLAL..................................... 60
+65441 24                        ..................................... 60
+65439 24                        ..................................... 60
+41511 24                        .P...V.Q..AA..Q........P............. 60
+  Database: SWISS: SWISS sequence taken from the header [Last update
+  May/16/2009]
+    Posted date:  May 16, 2009  5:30 AM
+  Number of letters in database: 154,417,242
+  Number of sequences in database:  428,650
+  
+Lambda     K      H
+   0.328    0.139    0.516 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 428650
+Number of Hits to DB: 12,908,451
+Number of extensions: 290003
+Number of successful extensions: 1526
+Number of sequences better than 10.0: 61
+Number of HSP's gapped: 1541
+Number of HSP's successfully gapped: 61
+Length of query: 60
+Length of database: 154,417,242
+Length adjustment: 33
+Effective length of query: 27
+Effective length of database: 140,271,792
+Effective search space: 3787338384
+Effective search space used: 3787338384
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 15 ( 7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 40 (21.8 bits)
+S2: 63 (28.9 bits)

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB027951</LOCUS>
+<LENGTH>604</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PLN</DIVISION>
+<LAST_UPDATE>21-JUN-2001</LAST_UPDATE>
+
+<DEFINITION>Schizosaccharomyces pombe gene for Hypothetical protein, partialcds, clone:TB56.</DEFINITION>
+<ACCESSION>AB027951</ACCESSION>
+<VERSION>AB027951.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Schizosaccharomyces pombe</SOURCE>
+<ORGANISM>Schizosaccharomyces pombe</ORGANISM>
+<TAXONOMY>Eukaryota; Fungi; Ascomycota; Schizosaccharomycetes;Schizosaccharomycetales; Schizosaccharomycetaceae;Schizosaccharomyces.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Ding,D., Tomita,Y. and Hiraoka,Y.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (24-MAY-1999) to the DDBJ/EMBL/GenBank databases.Contact:Da-Qiao DingCommunications Research Laboratory, Kansai Advanced ResearchCenter; 588-2, Iwaoka, Iwaoka-cho, Nishiku, Kobe, Hyogo 651-2401,Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Ding,D.Q., Tomita,Y., Yamamoto,A., Chikashige,Y., Haraguchi,T. andHiraoka,Y.</authors>
+     <title>Large-scale screening of intracellular protein localization inliving fission yeast cells by the use of a GFP-fusion genomic DNAlibrary</title>
+     <journal>Genes Cells 5, 169-190 (2000)</journal>
+</REFERENCE>
+<COMMENT>An S. pombe gene library in which genomic DNA fragments are fusedto the 5&apos;-end of the GFP-S65T gene was constructed. S. pombestrain was transformed with the library DNA amplified in E.coli.Plasmids of those transformants that showed interesting GFPlocalization were isolated, and their nucleotide sequences weredetermined. Detailed information and images can be seen in our website (http://www-karc.crl.go.jp/bio/CellMagic/). Note: Only majorlocalization is described for each clone in most cases. Because itis a random fusion of DNA fragment with the GFP gene, thesubcellular localization of the fusion protein may differ fromthat of the full-length gene product.</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..604</location>
+     <qualifiers name="clone">TB56</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="note">subcellular localization of GFP fusion; Membrane</qualifiers>
+     <qualifiers name="organism">Schizosaccharomyces pombe</qualifiers>
+     <qualifiers name="strain">968 h90</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..&gt;604</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">SPBC3E7.06C</qualifiers>
+     <qualifiers name="product">Hypothetical protein</qualifiers>
+     <qualifiers name="protein_id">BAA87255.1</qualifiers>
+     <qualifiers name="translation">NDSIKDSSKNNKDVAEVNEYPRRPESSVSVVSNSPHRQDAATTNTVSTVSVSKVLPALLLGVVLAALDNTIVASTYTKIGAEFGKFSQVSWTATAYMISCTAFQPLFGKFCDIYGRKKTLLAAYCVFGIGCFLCGTSRSLWQLVAARAIAGIGGGGMNSTVSILMSDIVPLKQRGTYQGIINVFFAIGSSLGGPVGGYFAD</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        152 " C="        119 " G="        143 " T="        190 "/>
+<SEQUENCE>aatgactctatcaaagattcttccaaaaacaacaaggatgttgctgaagtgaacgagtaccctcgtaggccagaatcttcagtgtctgtagttagcaattcgcctcatcgccaggatgcagcgacgactaatactgtgtctacagtttctgtttccaaagttcttccggcgttattgttgggtgttgttttggctgctttagacaataccattgtcgcctctacgtatacgaaaattggtgccgaatttggaaagtttagtcaagtttcatggaccgctacagcatacatgatatcttgcactgcgttccaaccattgttcggaaaattttgcgatatctatgggaggaaaaagactcttctggcggcttactgtgtatttggaataggctgcttcctttgtggtacttctcgctctttatggcagctagtagcagctcgagctattgctggaattggtggaggaggcatgaattcgactgtaagcattttaatgagcgatatcgtgcctttaaaacaaagaggaacttaccaaggaattataaatgtattttttgctatcggttcaagccttggcggaccagtgggtggttactttgccgatc</SEQUENCE>
+</DDBJXML>

@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>BD000029</LOCUS>
+<LENGTH>18</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PAT</DIVISION>
+<LAST_UPDATE>04-NOV-2005</LAST_UPDATE>
+
+<DEFINITION>Probe-coupling substrate, process for producing the same, probe-array,  method for detecting target substance, method for specifying base sequence  of single-stranded nucleic acidin sample,and method for quantitating the  target substance in the sample. </DEFINITION>
+<ACCESSION>BD000029</ACCESSION>
+<VERSION>BD000029.1</VERSION>
+<KEYWORDS>JP 2000270896-A/19.</KEYWORDS>
+
+<SOURCE>synthetic construct.</SOURCE>
+<ORGANISM>synthetic construct</ORGANISM>
+<TAXONOMY>other sequences; artificial sequences.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Okamoto,H., Yamamoto,N. and Suzuki,T. </authors>
+     <title>Probe-coupling substrate, process for producing the same, probe-array,  method for detecting target substance, method for specifying base sequence  of single-stranded nucleic acidin sample,and method for quantitating the  target substance in the sample </title>
+     <journal>Patent: JP 2000270896-A 19 03-OCT-2000;CANON INCANTEN PHARMACEUT CO LTD</journal>
+</REFERENCE>
+<COMMENT>OS   Artificial SequencePN   JP 2000270896-A/19PD   03-OCT-2000PF   28-JAN-1999 JP 1999019915PR   PI   HISASHI OKAMOTO,NOBUKO YAMAMOTO,TOMOHIRO SUZUKIPC   C12Q1/68,C12M1/00,C12N15/09,G01N33/566,C12N15/00CC   FH   Key             Location/QualifiersFT   source          1..18FT                   /organism=&quot;Artificial Sequence&quot;</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..18</location>
+     <qualifiers name="mol_type">unassigned DNA</qualifiers>
+     <qualifiers name="organism">synthetic construct</qualifiers>
+</source>
+</FEATURES>
+
+<BASE_COUNT A="          3 " C="          3 " G="          7 " T="          5 "/>
+<SEQUENCE>gatggggctcaggttcat</SEQUENCE>
+</DDBJXML>

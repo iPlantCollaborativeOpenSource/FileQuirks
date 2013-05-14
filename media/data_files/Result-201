@@ -1,0 +1,335 @@
+gc; ABHYDROLASE
+gx; PR00111
+gn; COMPOUND(4)
+ga; 28-JUL-1992; UPDATE 13-JUN-1999
+gt; Alpha/beta hydrolase fold signature
+gp; INTERPRO; IPR000073
+gp; PFAM; PF00561 abhydrolase
+gp; PDB; 2DHC
+gp; SCOP; 2HDC
+bb;
+gr; 1. OLLIS, D.L., CHEAH, E., CYGLER, M., DIJKSTRA, B., FROLOW, F., FRANKEN,
+gr; S.M., HAREL, M., REMINGTON, S.J., SILMAN, I., SCHRAG, J., SUSSMAN, J.L.,
+gr; VERSCHUEREN, K.H.G. AND GOLDMAN, A.
+gr; The alpha/beta hydrolase fold.
+gr; PROTEIN ENG. 5(3) 197-211 (1992).
+bb;
+bb;
+gd; The alpha/beta hydrolase fold is common to a number of hydrolytic enzymes
+gd; of widely differing phylogenetic origin and catalytic function. The core
+gd; of each enzyme is an alpha/beta-sheet (rather than a barrel), containing 8
+gd; strands connected by helices [1]. The enzymes are believed to have diverged
+gd; from a common ancestor, preserving the arrangement of the catalytic
+gd; residues. All have a catalytic triad, the elements of which are borne on
+gd; loops, which are the best conserved structural features of the fold. 
+gd;
+gd; ABHYDROLASE is a 4-element fingerprint that provides a signature for 
+gd; members of this diverse family of enzymes. The fingerprint was derived 
+gd; from an initial alignment of 3 sequences: motifs 2 and 4 include elements
+gd; of the catalytic triad. Three iterations on OWL17.0 were required to reach
+gd; convergence, at which point a true set comprising 10 sequences was
+gd; identified: this included hydrolases, dehalogenases, lipases, and a
+gd; depolymerase. Several partial matches were also found, including magnesium
+gd; chelatase, chloroperoxidase, atropine acylhydrolase, haloacetate
+gd; dehalogenase, and so on, all of which are likely to be family members. The
+gd; low level of similarity between the different sequence types means that the
+gd; fingerprint has not performed well, and has missed sequences that are
+gd; probably family members (e.g. epoxide hydrolases). It does, however,
+gd; provide a rough diagnostic tool.
+gd;
+gd; An update on SPTR37_9f identified a true set of 29 sequences, and 44
+gd; partial matches.
+bb;
+bb;
+si; SUMMARY INFORMATION
+si; -------------------
+sd;   29 codes involving  4 elements
+sd;   12 codes involving  3 elements
+sd;   32 codes involving  2 elements
+bb;
+bb;
+ci; COMPOSITE FINGERPRINT INDEX
+ci; ---------------------------
+cr;
+cd;  4|  29   29   29   29  
+cd;  3|  11   10    7    8  
+cd;  2|  16   12   14   22  
+cd; --+---------------------
+cd;   |   1    2    3    4  
+bb;
+bb;
+tp; DMPD_PSESP     O69794         XYLF_PSEPU     TODF_PSEPU     
+tp; O69263         Q59324         Q52011         O82828         
+tp; O82829         BPHD_PSES1     Q52036         O06648         
+tp; BPHD_BURCE     O85983         O05327         O33766         
+tp; P96965         O51858         O05149         PHAB_PSEOL     
+tp; Q51514         Q59695         LIP1_PSYIM     LIP3_MORSP     
+tp; O86901         MHPC_ECOLI     ACOC_ALCEU     Q52532         
+tp; Q43936         
+bb;
+sn; Codes involving 3 elements
+st; O24830         O86011         O82821         P96851         
+st; P73490         Q52897         O07214         O85289         
+st; PRXC_STRLI     P91141         Q59093         O87637         
+bb;
+sn; Codes involving 2 elements
+st; O69356         PRXC_SYNY3     HALO_XANAU     O66382         
+st; PRXC_PSEFL     O06734         Q57172         P74484         
+st; O54172         ESTE_PSEFL     YE63_SCHPO     PRXC_PSEPY     
+st; BCHO_RHOCA     O86608         Q51980         O05119         
+st; THCF_RHOER     O67982         YU14_MYCTU     O23227         
+st; P77026         YKD7_CAEEL     Q53540         O33550         
+st; O28735         O05145         O73957         O29396         
+st; O05235         O53321         PRXH_BPMD2     O31386         
+bb;
+bb;
+tt; DMPD_PSESP       2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE (EC 3.1.1.-) (HMSH) - PSEUDOMONAS SP. (S
+tt; O69794           2-HYDROXY-6-OXOHEPTA-2,4-DIENOATE HYDROLASE - RALSTONIA SP.
+tt; XYLF_PSEPU       2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE (EC 3.1.1.-) (HMSH) - PSEUDOMONAS PUTIDA
+tt; TODF_PSEPU       2-HYDROXY-6-OXO-2,4-HEPTADIENOATE HYDROLASE (HOHH) (EC 3.1.1.-) - PSEUDOMONAS PU
+tt; O69263           2-HYDROXY-6-OXO-2,4-HEPTADIENOATE HYDROLASE - BURKHOLDERIA SP.
+tt; Q59324           BETA-D-GALACTOSIDASE (EC 3.2.1.23) (BETA-GALACTOSIDASE) (LACTASE) - COMAMONAS TE
+tt; Q52011           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOIC ACID HYDROLASE - PSEUDOMONAS PSEUDOALCA
+tt; O82828           ETBD1 - RHODOCOCCUS SP.
+tt; O82829           ETBD2 - RHODOCOCCUS SP.
+tt; BPHD_PSES1       2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (EC 3.7.1.-) - PSEUDOMONAS S
+tt; Q52036           2-HYDROXY-6-PHENYLHEXA-2 - PSEUDOMONAS PUTIDA.
+tt; O06648           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (EC 3.7.1.-) - PSEUDOMONAS A
+tt; BPHD_BURCE       2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (EC 3.7.1.-) - BURKHOLDERIA 
+tt; O85983           2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE - SPHINGOMONAS AROMATICIVORANS.
+tt; O05327           2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE - PSEUDOMONAS SP.
+tt; O33766           2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE - SPHINGOMONAS SP.
+tt; P96965           2-HYDROXY-6-OXO-7-METHYLOCTA-2,4-DIENOATE HYDROLASE - PSEUDOMONAS FLUORESCENS.
+tt; O51858           2-HYDROXY-6-OXO-7-METHYLOCTA-2,4-DIENOATE HYDROLASE - PSEUDOMONAS PUTIDA.
+tt; O05149           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (EC 3.7.1.-) (HOPD) - RHODOC
+tt; PHAB_PSEOL       POLY(3-HYDROXYALKANOATE) DEPOLYMERASE (EC 3.1.1.-) (PHA DEPOLYMERASE) (PHB DEPOL
+tt; Q51514           PHA-DEPOLYMERASE - PSEUDOMONAS AERUGINOSA.
+tt; Q59695           DIHYDROLIPOAMIDE ACETYLTRANSFERASE (EC 2.3.1.12) (DIHYDROLIPOAMIDE S-ACETYLTRANS
+tt; LIP1_PSYIM       LIPASE 1 PRECURSOR (EC 3.1.1.3) (TRIACYLGLYCEROL LIPASE) - PSYCHROBACTER IMMOBIL
+tt; LIP3_MORSP       LIPASE 3 PRECURSOR (EC 3.1.1.3) (TRIACYLGLYCEROL LIPASE) - MORAXELLA SP.
+tt; O86901           HYDROLASE, DXNB PROTEIN - SPHINGOMONAS SP.
+tt; MHPC_ECOLI       2-HYDROXY-6-KETONONA-2,4-DIENEDIOIC ACID HYDROLASE (EC 3.7.1.-) - ESCHERICHIA CO
+tt; ACOC_ALCEU       PROBABLE DIHYDROLIPOAMIDE ACETYLTRANSFERASE (EC 2.3.1.12) (FAST- MIGRATING PROTE
+tt; Q52532           PCBD - PSEUDOMONAS SP.
+tt; Q43936           3-OXOADIPATE ENOL-LACTONASE II (EC 3.1.1.24) (ENOL-LACTONE HYDROLASE II) (BETA-K
+tt;
+tt; O24830           2-HYDROXYMUCONIC SEMIALDEHYDE HYDROLASE - ACINETOBACTER SP.
+tt; O86011           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE - SPHINGOMONAS AROMATICIVORA
+tt; O82821           2-HYDROXY-6-OXO-6-(2'-AMINOPHENYL)HEXA-2, 4-DIENOATE HYDROLASE - PSEUDOMONAS STU
+tt; P96851           HYPOTHETICAL 31.9 KD PROTEIN - MYCOBACTERIUM TUBERCULOSIS.
+tt; P73490           2-HYDROXY-6-OXOHEPTA-2,4-DIENOATE HYDROLASE - SYNECHOCYSTIS SP. (STRAIN PCC 6803
+tt; Q52897           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (EC 3.7.1.-) (HOPD HYDROLASE
+tt; O07214           HYPOTHETICAL 36.9 KD PROTEIN - MYCOBACTERIUM TUBERCULOSIS.
+tt; O85289           HYDROLASE - SPHINGOMONAS SP. CB3.
+tt; PRXC_STRLI       NON-HEME CHLOROPEROXIDASE (EC 1.11.1.10) (CHLORIDE PEROXIDASE) (CPO-L) (CHLOROPE
+tt; P91141           SIMILAR TO ACETYLTRANSFERASES - CAENORHABDITIS ELEGANS.
+tt; Q59093           3-OXOADIPATE ENOL-LACTONASE I (EC 3.1.1.24) (ENOL-LACTONE HYDROLASE I) (BETA-KET
+tt; O87637           LACTONE-SPECIFIC ESTERASE - PSEUDOMONAS FLUORESCENS.
+tt;
+tt; O69356           2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE - RHODOCOCCUS ERYTHROPOLIS.
+tt; PRXC_SYNY3       PUTATIVE NON-HEME CHLOROPEROXIDASE (EC 1.11.1.10) (CHLORIDE PEROXIDASE) - SYNECH
+tt; HALO_XANAU       HALOALKANE DEHALOGENASE (EC 3.8.1.5) - XANTHOBACTER AUTOTROPHICUS.
+tt; O66382           ESTERASE2 - ACETOBACTER PASTEURIANUS.
+tt; PRXC_PSEFL       NON-HEME CHLOROPEROXIDASE (EC 1.11.1.10) (CHLORIDE PEROXIDASE) (CPO-F) (CHLOROPE
+tt; O06734           PUTATIVE - PROBABLE ESTERASE - BACILLUS SUBTILIS.
+tt; Q57172           HOMOLOGY TO HYDROLASES - ACINETOBACTER CALCOACETICUS.
+tt; P74484           HYPOTHETICAL 25.5 KD PROTEIN - SYNECHOCYSTIS SP. (STRAIN PCC 6803).
+tt; O54172           HYDROLASE - STREPTOMYCES COELICOLOR.
+tt; ESTE_PSEFL       ARYLESTERASE (EC 3.1.1.2) (ARYL-ESTER HYDROLASE) - PSEUDOMONAS FLUORESCENS.
+tt; YE63_SCHPO       HYPOTHETICAL 48.7 KD PROTEIN C6G10.03C IN CHROMOSOME I - SCHIZOSACCHAROMYCES POM
+tt; PRXC_PSEPY       NON-HEME CHLOROPEROXIDASE (EC 1.11.1.10) (CHLORIDE PEROXIDASE) (CPO-P) (CHLOROPE
+tt; BCHO_RHOCA       MAGNESIUM-CHELATASE 30 KD SUBUNIT - RHODOBACTER CAPSULATUS (RHODOPSEUDOMONAS CAP
+tt; O86608           3-OXOADIPATE ENOL-LACTONE HYDROLASE/4-CARBOXYMUCONOLACTONE DECARBOXYLASE - STREP
+tt; Q51980           HOMODA HYDROLASE - PSEUDOMONAS PUTIDA.
+tt; O05119           PUTATIVE GLYCERATE KINASE AND PYRUVATE KINASE (PYKA) GENES, COMPLETE CDS (PYKA) 
+tt; THCF_RHOER       NON-HEME HALOPEROXIDASE (EC 1.11.1.-) - RHODOCOCCUS ERYTHROPOLIS.
+tt; O67982           3-OXOADIPATE ENOL-LACTONE HYDROLASE/4-CARBOXYMUCONOLACTONE DECARBOXYLASE (EC 3.1
+tt; YU14_MYCTU       PUTATIVE HALOALKANE DEHALOGENASE (EC 3.8.1.5) - MYCOBACTERIUM TUBERCULOSIS.
+tt; O23227           HYPOTHETICAL 41.9 KD PROTEIN - ARABIDOPSIS THALIANA (MOUSE-EAR CRESS).
+tt; P77026           MACROLIDE 2'-PHOSPHOTRANSFERASE II - ESCHERICHIA COLI.
+tt; YKD7_CAEEL       HYPOTHETICAL 88.4 KD PROTEIN B0464.7 IN CHROMOSOME III - CAENORHABDITIS ELEGANS.
+tt; Q53540           ESTERASE - PSEUDOMONAS PUTIDA.
+tt; O33550           BCHO PROTEIN - RHODOBACTER SPHAEROIDES (RHODOPSEUDOMONAS SPHAEROIDES).
+tt; O28735           CARBOXYLESTERASE (EST-2) - ARCHAEOGLOBUS FULGIDUS.
+tt; O05145           2-HYDROXY-6-KETONONA-2,4-DIENOATE HYDROLASE - RHODOCOCCUS GLOBERULUS.
+tt; O73957           LIPOLYTIC ENZYME - SULFOLOBUS ACIDOCALDARIUS.
+tt; O29396           CARBOXYLESTERASE (EST-1) - ARCHAEOGLOBUS FULGIDUS.
+tt; O05235           HYPOTHETICAL 31.3 KD PROTEIN - BACILLUS SUBTILIS.
+tt; O53321           HYPOTHETICAL 32.1 KD PROTEIN - MYCOBACTERIUM TUBERCULOSIS.
+tt; PRXH_BPMD2       PUTATIVE NON-HEME HALOPEROXIDASE (EC 1.11.1.-) - MYCOBACTERIOPHAGE D29.
+tt; O31386           B-KETOADIPATE ENOL-LACTONE HYDROLASE (EC 3.1.1.24) (3-OXOADIPATE ENOL-LACTONASE)
+bb;
+bb;
+sh; SCAN HISTORY
+sh; ------------
+dn; OWL17_1     3   200 NSINGLE
+dn; OWL18_0     1   200 NSINGLE
+dn; OWL19_1     1   200 NSINGLE
+dn; OWL26_0     1   100 NSINGLE
+dn; SPTR37_9f   2   100 NSINGLE
+bb;
+bb;
+im; INITIAL MOTIF-SETS
+im; ------------------
+ic; ABHYDROLASE1
+il; 16
+it; Alpha/beta hydrolase motif I - 1
+id; SRRVIAPDMLGFGYSE                 DMPD_PSEPU     57    57
+id; GARVIAPDFFGFGKSD                 HALO_XANAU     73    73
+id; GYRVLLPDAPGFNKSD                 BPHD_PSES1     62    62
+bb;
+ic; ABHYDROLASE2
+il; 14
+it; Alpha/beta hydrolase motif II - 1
+id; LVGNSFGGGIALAL                   DMPD_PSEPU    102    29
+id; IVVQDWGGFLGLTL                   HALO_XANAU    119    30
+id; LVGNSMGGAGALNF                   BPHD_PSES1    107    29
+bb;
+ic; ABHYDROLASE3
+il; 14
+it; Alpha/beta hydrolase motif III - 1
+id; AIRHPERVRRLVLM                   DMPD_PSEPU    116     0
+id; PMADPSRFKRLIIM                   HALO_XANAU    133     0
+id; ALEYPERTGKLILM                   BPHD_PSES1    121     0
+bb;
+ic; ABHYDROLASE4
+il; 15
+it; Alpha/beta hydrolase motif IV - 1
+id; TLVIHGREDQIIPLQ                  DMPD_PSEPU    219    89
+id; TFMAIGMKDKLLGPD                  HALO_XANAU    251   104
+id; TLVTWGRDDRFVPLD                  BPHD_PSES1    228    93
+bb;
+fm; FINAL MOTIF-SETS
+fm; ----------------
+fc; ABHYDROLASE1
+fl; 16
+ft; Alpha/beta hydrolase motif I - 2
+fd; SRRVIAPDMLGFGYSE                 DMPD_PSESP     58    58
+fd; RRRVIAPDMVGFGFTQ                     O69794     56    56
+fd; TRRVIAPDMLGFGYSE                 XYLF_PSEPU     57    57
+fd; HRRVIAPDMVGFGFTQ                 TODF_PSEPU     56    56
+fd; RRRVIAPDMVGFGFTE                     O69263     56    56
+fd; GYRVILKDSPGFNKSD                     Q59324     63    63
+fd; GYRVILKDSPGFNKSD                     Q52011     63    63
+fd; RFRVLAPDMVGFGGTE                     O82828     56    56
+fd; RFRVLAPDMVGFGGTE                     O82829     56    56
+fd; GYRVLLPDAPGFNKSD                 BPHD_PSES1     63    63
+fd; GYRVILKDSPGFNKSD                     Q52036     63    63
+fd; GFRVILLDCPGFNKTD                     O06648     63    63
+fd; GYRVILKDSPGFNKSD                 BPHD_BURCE     63    63
+fd; DFRVIAPDMFGFGYSD                     O85983     61    61
+fd; DFRVIAPDMFGFGYSD                     O05327     64    64
+fd; DFRVIAPDMFGFGYSD                     O33766     61    61
+fd; FYRVIAPDMVGFGFTD                     P96965     54    54
+fd; NFRVIAADIVGFGFTD                     O51858     54    54
+fd; NFFVVAPDLIGFGQSE                     O05149     58    58
+fd; DLEVIAFDVPGVGGSS                 PHAB_PSEOL     54    54
+fd; ELEVIAFDVPGVGGSS                     Q51514     54    54
+fd; ERRVIALDLPGHGESA                     Q59695    159   159
+fd; GYHLIIPDLLGFGESS                 LIP1_PSYIM     92    92
+fd; GYHLIIPDLLGFGNSS                 LIP3_MORSP     92    92
+fd; DRRVIALDMVGFGYSD                     O86901     54    54
+fd; GYRVILLDCPGWGKSD                 MHPC_ECOLI     86    86
+fd; AYTVVALDLPGHGQSS                 ACOC_ALCEU    160   160
+fd; GYRVLLIDSPGFNKSY                     Q52532     63    63
+fd; KYFVICYDTRGHGASS                     Q43936     53    53
+bb;
+fc; ABHYDROLASE2
+fl; 14
+ft; Alpha/beta hydrolase motif II - 2
+fd; LVGNSFGGGIALAL                   DMPD_PSESP    103    29
+fd; LVGNSFGGALSLAF                       O69794    101    29
+fd; IVGNSFGGGLALAL                   XYLF_PSEPU    102    29
+fd; LVGNSFGGALSLAF                   TODF_PSEPU    101    29
+fd; FVGNSFGGGLSLAF                       O69263    101    29
+fd; LVGNSMGGATALNF                       Q59324    108    29
+fd; LVGNSMGGATALNF                       Q52011    108    29
+fd; LVGNSFGGAIALRV                       O82828    101    29
+fd; LVGNSFGGAIALRV                       O82829    101    29
+fd; LVGNSMGGAGALNF                   BPHD_PSES1    108    29
+fd; LVGNSMGGATALNF                       Q52036    108    29
+fd; LVGNSMGGATALNF                       O06648    108    29
+fd; LVGNSMGGATALNF                   BPHD_BURCE    108    29
+fd; IVGNSFGGGITLAF                       O85983    105    28
+fd; MVGNSFGGGITLAF                       O05327    108    28
+fd; MVGNSFGGGITLAF                       O33766    105    28
+fd; IVGNSFGGGLAIAT                       P96965     99    29
+fd; IVGNSFGGALAIAI                       O51858     99    29
+fd; IVGNSMGGAVTLQL                       O05149    107    33
+fd; VIGVSWGGALAQQF                   PHAB_PSEOL     98    28
+fd; AIGVSWGGALAQQF                       Q51514     98    28
+fd; LAGHSMGGAVSLNV                       Q59695    203    28
+fd; VGGNSMGGAISVAY                   LIP1_PSYIM    138    30
+fd; VGGNSMGGAISVAY                   LIP3_MORSP    138    30
+fd; IIGNSMGGRTTLAT                       O86901    105    35
+fd; LLGNSMGGHSSVAF                   MHPC_ECOLI    131    29
+fd; VVGHSMGGGVAAQL                   ACOC_ALCEU    204    28
+fd; MIGNSMGGATAMRM                       Q52532    107    28
+fd; FCGISMGGLTGQWL                       Q43936     97    28
+bb;
+fc; ABHYDROLASE3
+fl; 14
+ft; Alpha/beta hydrolase motif III - 2
+fd; AIRHPERVRRLVLM                   DMPD_PSESP    117     0
+fd; AIRFPHRVRRLVLM                       O69794    115     0
+fd; AIRHPERVRRLVLM                   XYLF_PSEPU    116     0
+fd; AIRFPHRVRRLVLM                   TODF_PSEPU    115     0
+fd; AIRFPHRVRRLVLM                       O69263    115     0
+fd; AIEYPERLGKMILM                       Q59324    122     0
+fd; AIEYPERIGKLILM                       Q52011    122     0
+fd; ATQHPERVGRLALM                       O82828    115     0
+fd; ATQHPERVERLALM                       O82829    115     0
+fd; ALEYPERTGKLILM                   BPHD_PSES1    122     0
+fd; AIEYPDRIGKLILM                       Q52036    122     0
+fd; ALEFPDRLDRLVLM                       O06648    122     0
+fd; ALEYPDRIGKLILM                   BPHD_BURCE    122     0
+fd; MIAHPDRVERAVLM                       O85983    119     0
+fd; MIAHPDRVERAVLM                       O05327    122     0
+fd; MIAHPDRVERAVLM                       O33766    119     0
+fd; ALRYSERVDRMVLM                       P96965    113     0
+fd; AIRHPGRIDRMVLM                       O51858    113     0
+fd; VVEAPERFDKVALM                       O05149    121     0
+fd; AHDYPERCKKLVLA                   PHAB_PSEOL    112     0
+fd; AHDYPERCKKLILA                       Q51514    112     0
+fd; AGLAPQRVASLSLI                       Q59695    217     0
+fd; AAKYPKDVKSLWLV                   LIP1_PSYIM    152     0
+fd; AAKYPKEIKSLWLV                   LIP3_MORSP    152     0
+fd; AIRRPDLVGDMVLM                       O86901    119     0
+fd; TLKWPERVGKLVLM                   MHPC_ECOLI    145     0
+fd; AVDAPQRVLSVALV                   ACOC_ALCEU    218     0
+fd; AVDYPEMVGKLVMM                       Q52532    121     0
+fd; AIHFPERFNQVIVA                       Q43936    111     0
+bb;
+fc; ABHYDROLASE4
+fl; 15
+ft; Alpha/beta hydrolase motif IV - 2
+fd; TLVIHGREDQIIPLQ                  DMPD_PSESP    220    89
+fd; TLIVHGRDDRVIPLE                      O69794    218    89
+fd; TLVIHGREDRIIPLQ                  XYLF_PSEPU    219    89
+fd; TLILHGRDDRVIPLE                  TODF_PSEPU    218    89
+fd; TLILHGRDDRVVPLE                      O69263    218    89
+fd; TLVTWGRDDRFVPLD                      Q59324    229    93
+fd; TFITWGRDDRFVPLD                      Q52011    229    93
+fd; TLVIHGREDRVVPLS                      O82828    218    89
+fd; TLVIHGREDRVVPLS                      O82829    218    89
+fd; TLVTWGRDDRFVPLD                  BPHD_PSES1    229    93
+fd; TFITWGRDDRFVPLD                      Q52036    229    93
+fd; TLVTWGRDDRFVPLD                      O06648    228    92
+fd; TFITWGRDDRFVPLD                  BPHD_BURCE    229    93
+fd; TLILHGIADQVIPLD                      O85983    223    90
+fd; TLILHGIADQVIPLD                      O05327    226    90
+fd; TLILHGIADQVIPLD                      O33766    223    90
+fd; TLIIHGREDQVVPLS                      P96965    216    89
+fd; TLIIHGREDQVVPLS                      O51858    216    89
+fd; VLVFHGRQDRIVPLD                      O05149    228    93
+fd; TLVLAGDDDPLIPLI                  PHAB_PSEOL    213    87
+fd; TLVLAGDDDPIIPLI                      Q51514    213    87
+fd; ALVVWGGKDAIIPAS                      Q59695    317    86
+fd; TLVVWGDKDQIIKPE                  LIP1_PSYIM    256    90
+fd; TLVVWGDKDQVIKPE                  LIP3_MORSP    256    90
+fd; TLVVNGKADKVVPPE                      O86901    220    87
+fd; TLIVWGRNDRFVPMD                  MHPC_ECOLI    252    93
+fd; VLVVWGGQDQIIPAA                  ACOC_ALCEU    320    88
+fd; TMIIWGRDDRFVPLD                      Q52532    227    92
+fd; VLVIAGAQDPVTTVA                      Q43936    210    85
+bb;

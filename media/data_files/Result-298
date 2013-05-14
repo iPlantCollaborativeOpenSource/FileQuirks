@@ -1,0 +1,8 @@
+all all
+   GO:0003674 molecular_function
+      GO:0005488 binding
+         GO:0003676 nucleic acid binding
+            GO:0003677 DNA binding
+               GO:0043566 structure-specific DNA binding
+                  GO:0000217 DNA secondary structure binding
+                     GO:0000405 bubble DNA binding

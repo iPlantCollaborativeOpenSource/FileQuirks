@@ -1,0 +1,149 @@
+LOCUS       NP_000091                 98 aa            linear   PRI 11-MAR-2009
+DEFINITION  cystatin B [Homo sapiens].
+ACCESSION   NP_000091
+VERSION     NP_000091.1  GI:4503117
+DBSOURCE    REFSEQ: accession NM_000100.2
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 98)
+  AUTHORS   Skerget,K., Vilfan,A., Pompe-Novak,M., Turk,V., Waltho,J.P.,
+            Turk,D. and Zerovnik,E.
+  TITLE     The mechanism of amyloid-fibril formation by stefin B: temperature
+            and protein concentration dependence of the rates
+  JOURNAL   Proteins 74 (2), 425-436 (2009)
+   PUBMED   18636508
+  REMARK    GeneRIF: The mechanism of amyloid-fibril formation by stefin B:
+            temperature and protein concentration dependence of the rates;the
+            observed kinetics follow the nucleation and growth behavior
+            observed for many other amyloidogenic proteins.
+REFERENCE   2  (residues 1 to 98)
+  AUTHORS   Luciano-Montalvo,C., Ciborowski,P., Duan,F., Gendelman,H.E. and
+            Melendez,L.M.
+  TITLE     Proteomic analyses associate cystatin B with restricted HIV-1
+            replication in placental macrophages
+  JOURNAL   Placenta 29 (12), 1016-1023 (2008)
+   PUBMED   18951626
+  REMARK    GeneRIF: potential role for CSTB in HIV replication in placental
+            macrophages
+REFERENCE   3  (residues 1 to 98)
+  AUTHORS   Rabzelj,S., Viero,G., Gutierrez-Aguirre,I., Turk,V., Dalla
+            Serra,M., Anderluh,G. and Zerovnik,E.
+  TITLE     Interaction with model membranes and pore formation by human stefin
+            B: studying the native and prefibrillar states
+  JOURNAL   FEBS J. 275 (10), 2455-2466 (2008)
+   PUBMED   18397316
+  REMARK    GeneRIF: Data show that wild-type stefin B and its Y31 isoform are
+            able to form pores in planar lipid bilayers, whereas the G4R
+            isoform destroys the bilayer by a non pore-forming process.
+REFERENCE   4  (residues 1 to 98)
+  AUTHORS   Lee,M.J., Yu,G.R., Park,S.H., Cho,B.H., Ahn,J.S., Park,H.J.,
+            Song,E.Y. and Kim,D.G.
+  TITLE     Identification of cystatin B as a potential serum marker in
+            hepatocellular carcinoma
+  JOURNAL   Clin. Cancer Res. 14 (4), 1080-1089 (2008)
+   PUBMED   18281540
+  REMARK    GeneRIF: CSTB is specifically overexpressed in most HCCs and is
+            also elevated in the serum of a large proportion of HCC patients
+REFERENCE   5  (residues 1 to 98)
+  AUTHORS   Cipollini,E., Riccio,M., Di Giaimo,R., Dal Piaz,F., Pulice,G.,
+            Catania,S., Caldarelli,I., Dembic,M., Santi,S. and Melli,M.
+  TITLE     Cystatin B and its EPM1 mutants are polymeric and aggregate prone
+            in vivo
+  JOURNAL   Biochim. Biophys. Acta 1783 (2), 312-322 (2008)
+   PUBMED   17920138
+  REMARK    GeneRIF: cystatin B in vivo has a polymeric structure sensitive to
+            the redox environment and that overexpression of the protein
+            generates aggregates.
+REFERENCE   6  (residues 1 to 98)
+  AUTHORS   Turk,V. and Bode,W.
+  TITLE     The cystatins: protein inhibitors of cysteine proteinases
+  JOURNAL   FEBS Lett. 285 (2), 213-219 (1991)
+   PUBMED   1855589
+  REMARK    Review article
+REFERENCE   7  (residues 1 to 98)
+  AUTHORS   Stubbs,M.T., Laber,B., Bode,W., Huber,R., Jerala,R., Lenarcic,B.
+            and Turk,V.
+  TITLE     The refined 2.4 A X-ray crystal structure of recombinant human
+            stefin B in complex with the cysteine proteinase papain: a novel
+            type of proteinase inhibitor interaction
+  JOURNAL   EMBO J. 9 (6), 1939-1947 (1990)
+   PUBMED   2347312
+REFERENCE   8  (residues 1 to 98)
+  AUTHORS   Jerala,R., Trstenjak,M., Lenarcic,B. and Turk,V.
+  TITLE     Cloning a synthetic gene for human stefin B and its expression in
+            E. coli
+  JOURNAL   FEBS Lett. 239 (1), 41-44 (1988)
+   PUBMED   3053245
+REFERENCE   9  (residues 1 to 98)
+  AUTHORS   Lenarcic,B., Kos,J., Dolenc,I., Lucovnik,P., Krizaj,I. and Turk,V.
+  TITLE     Cathepsin D inactivates cysteine proteinase inhibitors, cystatins
+  JOURNAL   Biochem. Biophys. Res. Commun. 154 (2), 765-772 (1988)
+   PUBMED   3261170
+REFERENCE   10 (residues 1 to 98)
+  AUTHORS   Jarvinen,M., Rinne,A. and Hopsu-Havu,V.K.
+  TITLE     Human cystatins in normal and diseased tissues--a review
+  JOURNAL   Acta Histochem. 82 (1), 5-18 (1987)
+   PUBMED   3122506
+  REMARK    Review article
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC003370.1 and AF208234.1.
+            
+            Summary: The cystatin superfamily encompasses proteins that contain
+            multiple cystatin-like sequences. Some of the members are active
+            cysteine protease inhibitors, while others have lost or perhaps
+            never acquired this inhibitory activity. There are three inhibitory
+            families in the superfamily, including the type 1 cystatins
+            (stefins), type 2 cystatins and kininogens. This gene encodes a
+            stefin that functions as an intracellular thiol protease inhibitor.
+            The protein is able to form a dimer stabilized by noncovalent
+            forces, inhibiting papain and cathepsins l, h and b. The protein is
+            thought to play a role in protecting against the proteases leaking
+            from lysosomes. Evidence indicates that mutations in this gene are
+            responsible for the primary defects in patients with progressive
+            myoclonic epilepsy (EPM1). [provided by RefSeq].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the
+            Entrez Gene record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21q22.3"
+     Protein         1..98
+                     /product="cystatin B"
+                     /note="stefin B; liver thiol proteinase inhibitor; CPI-B"
+                     /calculated_mol_wt=11008
+     Region          4..>79
+                     /region_name="CY"
+                     /note="Cystatin-like domain; Cystatins are a family of
+                     cysteine protease inhibitors that occur mainly as single
+                     domain proteins. However some extracellular proteins such
+                     as kininogen, His-rich glycoprotein and fetuin also
+                     contain these domains; cd00042"
+                     /db_xref="CDD:28923"
+     Site            order(4,46..48,50)
+                     /site_type="other"
+                     /note="putative proteinase inhibition site"
+                     /db_xref="CDD:28923"
+     variation       15
+                     /replace="x"
+                     /db_xref="dbSNP:11553836"
+     CDS             1..98
+                     /gene="CSTB"
+                     /gene_synonym="CST6; EPM1; PME; STFB"
+                     /coded_by="NM_000100.2:110..406"
+                     /db_xref="CCDS:CCDS13701.1"
+                     /db_xref="GeneID:1476"
+                     /db_xref="HGNC:2482"
+                     /db_xref="HPRD:03091"
+                     /db_xref="MIM:601145"
+ORIGIN      
+        1 mmcgapsatq pataetqhia dqvrsqleek enkkfpvfka vsfksqvvag tnyfikvhvg
+       61 dedfvhlrvf qslphenkpl tlsnyqtnka khdeltyf
+//

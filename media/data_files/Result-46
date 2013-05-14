@@ -1,0 +1,91 @@
+<HTML>
+<TITLE>VecScreen Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE><b>BLASTN 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 
+         (685 letters)
+
+<b>Database:</b> Vector database designed by NCBI [Last update
+Jan/13/2009 (build 5.1)] 
+           2943 sequences; 672,866 total letters
+
+<B>Distribution of Vector Matches on the Query Sequence</B>
+
+<IMG hspace=1 SRC=http://www.ncbi.nlm.nih.gov/sutils/tunf.cgi?450x12-1(1)150(171)300(342)450(513)600(685)
+>
+<IMG hspace=1 SRC=http://www.ncbi.nlm.nih.gov/gorf/gun2.cgi?0M(009g)FF0000(000S)>
+   <B>Match to Vector: </B><IMG SRC=http://www.ncbi.nlm.nih.gov/gorf/gun2.cgi?0M(000M)FF0000(000M)> <B>Strong </B>  <IMG SRC=http://www.ncbi.nlm.nih.gov/gorf/gun2.cgi?0M(000M)FF00FF(000M)> <B>Moderate </B>  <IMG SRC=http://www.ncbi.nlm.nih.gov/gorf/gun2.cgi?0M(000M)00FF00(000M)> <B>Weak </B>
+   <B>Segment of suspect origin: </B><IMG SRC=http://www.ncbi.nlm.nih.gov/gorf/gun2.cgi?0M(000M)FFFF00(000M)>
+
+<B>Segments matching vector: </B>
+<A HREF="http://www.ncbi.nlm.nih.gov/VecScreen/VecScreen_docs.html#Strong" TARGET="VecScreenInfo">Strong match</A>:   1-32
+
+</PRE>
+<PRE>
+><a name = 558></a>gnl|uv|NGB00139.1:48-195 pCMVSPORT4 multiple cloning site with SalI
+           adapter
+          Length = 148
+
+ Score = 64.6 bits (32), Expect = 6e-08
+ Identities = 32/32 (100%)
+ Strand = Plus / Minus
+
+                                           
+Query: 1   gtccggaattcccgggtcgacccacgcgtccg 32
+           ||||||||||||||||||||||||||||||||
+Sbjct: 131 gtccggaattcccgggtcgacccacgcgtccg 100
+</PRE>
+
+
+<PRE>
+  Database: Vector database designed by NCBI [Last update Jan/13/2009
+  (build 5.1)]
+    Posted date:  Feb 12, 2009  1:15 PM
+  Number of letters in database: 672,866
+  Number of sequences in database:  2943
+  
+Lambda     K      H
+    1.39    0.747     1.38 
+
+Gapped
+Lambda     K      H
+    1.39    0.747     1.38 
+
+
+Matrix: blastn matrix:1 -5
+Gap Penalties: Existence: 3, Extension: 3
+Number of Hits to DB: 317
+Number of Sequences: 2943
+Number of extensions: 317
+Number of successful extensions: 317
+Number of sequences better than 700.0: 26
+Number of HSP's better than 700.0 without gapping: 26
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 90
+Number of HSP's gapped (non-prelim): 40
+length of query: 685
+length of database: 672,866
+effective HSP length: 14
+effective length of query: 671
+effective length of database: 631,664
+effective search space: 423846544
+effective search space used: 1750000000000
+T: 0
+A: 0
+X1: 11 (22.0 bits)
+X2: 15 (30.0 bits)
+S1: 12 (24.4 bits)
+S2: 10 (20.5 bits)
+</PRE>
+
+</BODY>
+</HTML>

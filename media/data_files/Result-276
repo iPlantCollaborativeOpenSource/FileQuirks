@@ -1,0 +1,102 @@
+3963 feature(s) are registered.
+Feature ID	Feature type	Accession	location	COG ID	COG category	product	isolation	organism
+AF250767.1_8	CDS	AF250767.1	complement(<110..>1264)	COG0842	V	possible ABC transporter multidrug efflux pump, permease subunit	-	uncultured bacterium pCosFS1
+AJ564903.1_5	CDS	AJ564903.1	<2524..>5082	-	-	CagE, TrbE, VirB component of type IV transporter system	activated sludge	uncultured bacterium
+AM048832.1_20	CDS	AM048832.1	<14685..>17243	-	-	CagE, TrbE, VirB component of type IV transporter system	Mercury-polluted river sediment	uncultured bacterium
+DQ314496.1_30	CDS	DQ314496.1	complement(<26035..>28659)	-	-	probable cationic amino acids transporter/stress response protein	solar saltern	uncultured prokaryote 2E01B
+DQ366712.1_7	CDS	DQ366712.1	<24774..>25715	-	-	putative SMR family transporter, PecM-like	sea water	uncultured Prochlorococcus marinus clone ASNC1363
+DQ366716.1_22	CDS	DQ366716.1	complement(<27366..>28307)	-	-	putative SMR family transporter, PecM-like	sea water	uncultured Prochlorococcus marinus clone ASNC2388
+DQ366720.1_25	CDS	DQ366720.1	<40526..>42097	-	-	ABC transporter, substrate binding protein, possibly oligopeptides	sea water	uncultured Prochlorococcus marinus clone HF10-110B11
+DQ366721.1_5	CDS	DQ366721.1	<13829..>14737	-	-	ABC transporter, substrate binding protein, possibly Mn	sea water	uncultured Prochlorococcus marinus clone HF10-11A3
+DQ366721.1_7	CDS	DQ366721.1	<15518..>16390	-	-	ABC transporter component, possibly Mn transport	sea water	uncultured Prochlorococcus marinus clone HF10-11A3
+DQ366724.1_13	CDS	DQ366724.1	complement(<29269..>30177)	-	-	ABC transporter, substrate binding protein, possibly Mn	sea water	uncultured Prochlorococcus marinus clone HF10-11H7
+DQ366724.1_15	CDS	DQ366724.1	complement(<27615..>28487)	-	-	ABC transporter component, possibly Mn transport	sea water	uncultured Prochlorococcus marinus clone HF10-11H7
+DQ366736.1_6	CDS	DQ366736.1	<6449..>7732	-	-	multidrug efflux transporter, MFS family	sea water	uncultured Prochlorococcus marinus clone HOT0M-3E5
+DQ366743.1_10	CDS	DQ366743.1	complement(<25779..>27062)	-	-	multidrug efflux transporter, MFS family	sea water	uncultured Prochlorococcus marinus clone HOT0M-8F9
+AACY01012167_1	CDS	AACY01012167	145..996	-	-	ABC transporter, ATP binding component, possibly iron transporter	Sargasso Sea	environmental sequence
+AACY01032428_5	CDS	AACY01032428	complement(222..977)	-	-	ABC transporter, ATP binding domain, possibly Mn transporter	Sargasso Sea	environmental sequence
+AACY01034963_2	CDS	AACY01034963	complement(177..935)	-	-	ABC transporter, ATP binding domain, possibly Mn transporter	Sargasso Sea	environmental sequence
+AACY01092519_1	CDS	AACY01092519	2597..4027	-	-	sodium:solute transporter family, possible urea transporter	Sargasso Sea	environmental sequence
+AACY01117453_2	CDS	AACY01117453	complement(532..1983)	-	-	sodium:solute transporter family, possible urea transporter	Sargasso Sea	environmental sequence
+AB186499.1_2	CDS	AB186499.1	<1488..>2435	COG0715	P	ABC transporter, substrate-binding protein, aliphatic sulphonates	groundwater from underground crude oil storage cavity	uncultured bacterium
+CR937011.1_35	CDS	CR937011.1	complement(<29496..>30260)	COG1117	P	phosphate ABC transporter, ATP-binding protein	fosmid library from a sediment above gas hydrates at Hydrate Ridge	uncultured archaeon
+DQ325538.1_21	CDS	DQ325538.1	<21097..>22527	-	-	sodium:solute transporter family, possible urea transporter	Gulf of Mexico	uncultured marine type-A Synechococcus GOM 3M9
+DQ325542.1_2	CDS	DQ325542.1	<749..>2179	-	-	sodium:solute transporter family, possible urea transporter	Gulf of Mexico	uncultured marine type-A Synechococcus GOM 4P21
+AACY01000009_2	CDS	AACY01000009	complement(<1..977)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01000300_3	CDS	AACY01000300	complement(636..2036)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01000464_15	CDS	AACY01000464	53644..54804	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01000474_91	CDS	AACY01000474	complement(33220..34734)	-	-	Ammonium transporter	Sargasso Sea	environmental sequence
+AACY01000477_104	CDS	AACY01000477	complement(7723..9030)	-	-	Chromate transporter	Sargasso Sea	environmental sequence
+AACY01000477_105	CDS	AACY01000477	complement(7199..7726)	-	-	Chromate transporter	Sargasso Sea	environmental sequence
+AACY01000560_24	CDS	AACY01000560	complement(24142..24807)	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01000669_10	CDS	AACY01000669	21986..23269	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01000705_39	CDS	AACY01000705	complement(28128..29621)	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01000752_22	CDS	AACY01000752	60342..61616	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01000928_1	CDS	AACY01000928	complement(122..1258)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01000986_1	CDS	AACY01000986	complement(<1..764)	-	-	Transporter	Sargasso Sea	environmental sequence
+AACY01000996_1	CDS	AACY01000996	complement(390..977)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01001457_1	CDS	AACY01001457	complement(984..1676)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01001458_4	CDS	AACY01001458	complement(361..1212)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01001549_1	CDS	AACY01001549	117..1022	-	-	Transporter	Sargasso Sea	environmental sequence
+AACY01002629_1	CDS	AACY01002629	55..1179	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01003522_2	CDS	AACY01003522	563..1147	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01003539_1	CDS	AACY01003539	245..1072	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01003681_1	CDS	AACY01003681	complement(1010..2410)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01004242_1	CDS	AACY01004242	431..2017	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01004558_1	CDS	AACY01004558	589..1629	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01004634_1	CDS	AACY01004634	complement(549..1241)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01004791_1	CDS	AACY01004791	complement(85..669)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01005791_3	CDS	AACY01005791	complement(689..1990)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01005883_8	CDS	AACY01005883	complement(1054..2454)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01005895_1	CDS	AACY01005895	139..>1173	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01006168_12	CDS	AACY01006168	38371..39333	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01006208_35	CDS	AACY01006208	complement(3107..4414)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01006222_61	CDS	AACY01006222	complement(8052..9419)	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01006222_65	CDS	AACY01006222	complement(1935..3125)	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01006400_1	CDS	AACY01006400	661..>1476	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01006595_4	CDS	AACY01006595	complement(4679..6082)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01006595_5	CDS	AACY01006595	complement(3424..4686)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01006599_3	CDS	AACY01006599	complement(3292..4332)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01006843_1	CDS	AACY01006843	100..1137	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01007172_1	CDS	AACY01007172	complement(250..1410)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01007379_40	CDS	AACY01007379	68649..69887	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01007379_77	CDS	AACY01007379	complement(125507..128710)	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01007385_2	CDS	AACY01007385	complement(1011..1943)	-	-	transporter	Sargasso Sea	environmental sequence
+AACY01007554_7	CDS	AACY01007554	complement(1469..2368)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01007996_2	CDS	AACY01007996	2209..3060	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01008017_3	CDS	AACY01008017	complement(<1..1336)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01008909_3	CDS	AACY01008909	complement(790..2058)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01009084_9	CDS	AACY01009084	complement(10533..11420)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01009369_3	CDS	AACY01009369	822..1901	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01009876_1	CDS	AACY01009876	74..487	-	-	putative transporter	Sargasso Sea	environmental sequence
+AACY01010051_1	CDS	AACY01010051	complement(996..1643)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01010051_2	CDS	AACY01010051	complement(259..951)	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01010358_2	CDS	AACY01010358	complement(2287..3174)	-	-	Transporter	Sargasso Sea	environmental sequence
+AACY01010829_2	CDS	AACY01010829	959..2299	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01010938_1	CDS	AACY01010938	complement(1446..2033)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01010938_2	CDS	AACY01010938	complement(95..1456)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01011136_1	CDS	AACY01011136	275..1120	-	-	Transporter	Sargasso Sea	environmental sequence
+AACY01011664_1	CDS	AACY01011664	3..1334	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01011898_1	CDS	AACY01011898	complement(23..1288)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01011910_3	CDS	AACY01011910	1026..2426	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01012103_1	CDS	AACY01012103	complement(23..1300)	-	-	transporter	Sargasso Sea	environmental sequence
+AACY01012123_2	CDS	AACY01012123	complement(14..859)	-	-	Transporter	Sargasso Sea	environmental sequence
+AACY01012325_9	CDS	AACY01012325	31234..32793	-	-	transporter, putative	Sargasso Sea	environmental sequence
+AACY01012343_4	CDS	AACY01012343	complement(2138..3364)	-	-	Chromate transporter	Sargasso Sea	environmental sequence
+AACY01012389_3	CDS	AACY01012389	1085..1672	-	-	transporter	Sargasso Sea	environmental sequence
+AACY01012596_1	CDS	AACY01012596	complement(215..1159)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01013768_2	CDS	AACY01013768	complement(446..1747)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01013859_2	CDS	AACY01013859	1361..>2502	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01013969_1	CDS	AACY01013969	88..1266	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01014024_9	CDS	AACY01014024	complement(6152..7552)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01014203_2	CDS	AACY01014203	1608..>2049	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01015269_523	CDS	AACY01015269	complement(65677..66453)	-	-	Chromate transporter	Sargasso Sea	environmental sequence
+AACY01015269_524	CDS	AACY01015269	complement(65141..66325)	-	-	Chromate transporter	Sargasso Sea	environmental sequence
+AACY01015399_4	CDS	AACY01015399	complement(1135..1926)	-	-	Sugar transporter	Sargasso Sea	environmental sequence
+AACY01015676_7	CDS	AACY01015676	5680..7080	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01015677_1	CDS	AACY01015677	247..1505	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01016037_3	CDS	AACY01016037	complement(97..1377)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01016283_1	CDS	AACY01016283	42..797	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01016412_1	CDS	AACY01016412	complement(<1..1083)	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01017044_2	CDS	AACY01017044	624..2024	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01017160_3	CDS	AACY01017160	5911..6873	-	-	transporter, putative	Sargasso Sea	environmental sequence

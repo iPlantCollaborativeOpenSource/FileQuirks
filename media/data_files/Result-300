@@ -1,0 +1,5 @@
+all all
+   GO:0008150 biological_process
+      GO:0050896 response to stimulus
+         GO:0009628 response to abiotic stimulus
+            GO:0009415 response to water

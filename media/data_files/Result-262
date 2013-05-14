@@ -1,0 +1,68 @@
+<HTML>
+<TITLE>VecScreen Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE><b>BLASTN 2.2.15 [Oct-15-2006]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b>Query=</b> 
+         (180 letters)
+
+<b>Database:</b> Vector database designed by NCBI [Last update
+Jan/13/2009 (build 5.1)] 
+           2943 sequences; 672,866 total letters
+
+
+<B> ****** No hits found ******</B>
+
+
+</PRE>
+<PRE>
+  Database: Vector database designed by NCBI [Last update Jan/13/2009
+  (build 5.1)]
+    Posted date:  Feb 12, 2009  1:15 PM
+  Number of letters in database: 672,866
+  Number of sequences in database:  2943
+  
+Lambda     K      H
+    1.39    0.747     1.38 
+
+Gapped
+Lambda     K      H
+    1.39    0.747     1.38 
+
+
+Matrix: blastn matrix:1 -5
+Gap Penalties: Existence: 3, Extension: 3
+Number of Hits to DB: 36
+Number of Sequences: 2943
+Number of extensions: 36
+Number of successful extensions: 36
+Number of sequences better than 700.0: 0
+Number of HSP's better than 700.0 without gapping: 0
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 15
+Number of HSP's gapped (non-prelim): 0
+length of query: 180
+length of database: 672,866
+effective HSP length: 13
+effective length of query: 167
+effective length of database: 634,607
+effective search space: 105979369
+effective search space used: 1750000000000
+T: 0
+A: 0
+X1: 11 (22.0 bits)
+X2: 15 (30.0 bits)
+S1: 12 (24.4 bits)
+S2: 9 (18.5 bits)
+</PRE>
+
+</BODY>
+</HTML>

@@ -1,0 +1,39 @@
+LOCUS       AB000105                 285 bp    DNA     linear   PLN 25-NOV-1998
+DEFINITION  Trichosporon montevideense gene for large subunit ribosomal RNA,
+            atrain TIMM 1979, partial sequence.
+ACCESSION   AB000105
+VERSION     AB000105.1
+KEYWORDS    large subunit ribosomal RNA.
+SOURCE      Trichosporon montevideense
+  ORGANISM  Trichosporon montevideense
+            Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Tremellales;
+            mitosporic Tremellales; Trichosporon.
+REFERENCE   1  (bases 1 to 285)
+  AUTHORS   Sugita,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Takashi Sugita
+            Meiji Pharmaceutical University, Department of Microbiology;
+            2-522-1 Noshio, Kiyose, Tokyo 204-8588, Japan
+REFERENCE   2
+  AUTHORS   Sugita,T., Makimura,K., Nishikawa,A., Uchida,K., Yamaguchi,H. and
+            Shinoda,T.
+  TITLE     Partial sequence of large subunit ribosomal DNA of a new yeast
+            species, Trichosporon domesticum and related species
+  JOURNAL   Microbiol. Immunol. 41, 571-573 (1998)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /mol_type="genomic DNA"
+                     /organism="Trichosporon montevideense"
+                     /strain="TIMM 1979"
+     rRNA            <1..>285
+                     /product="large subunit ribosomal RNA"
+BASE COUNT           74 a           51 c           78 g           82 t
+ORIGIN      
+        1 aaagatgaaa agcactttgg aaagagagtt aaacagtacg tgaaattgtt gaaagggaaa
+       61 cgattgaagt cagtcgtgtt cattggattc agctagttct tctagtctac ttcctttgaa
+      121 cgggtcaaca tcagttttgt ccggtggata aaggatttag gaatgtgact ccctcgggag
+      181 tgttatagcc taggttcaca tacactgggt gagactgagg actgcagctc gccttttggc
+      241 cggggttcgc ccacgttcga gcttaggatg ttgacataat ggctt
+//

@@ -1,0 +1,95 @@
+LOCUS       AF218567                2385 bp    DNA     linear   PLN 25-JAN-2000
+DEFINITION  Cryphonectria parasitica putative maturase (maturase) gene,
+            complete cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF218567
+VERSION     AF218567.1
+KEYWORDS    .
+SOURCE      Cryphonectria parasitica mitochondrion
+  ORGANISM  Cryphonectria parasitica
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Sordariomycetidae; Diaporthales;
+            Cryphonectriaceae; Cryphonectria-Endothia complex; Cryphonectria.
+REFERENCE   1  (bases 1 to 2385)
+  AUTHORS   Baidyaroy,D., Fulbright,D.W. and Bertrand,H.
+  TITLE     A mitochondrial plasmid-like element and its role in induction of
+            hypovirulence in Cryphonectria parasitica
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2385)
+  AUTHORS   Baidyaroy,D., Fulbright,D.W. and Bertrand,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1999) Microbiology, Michigan State University,
+            318 Giltner Hall, East Lansing, MI 48824-1101, USA
+FEATURES             Location/Qualifiers
+     source          1..2385
+                     /organism="Cryphonectria parasitica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:5116"
+     gene            <40..>2376
+                     /gene="maturase"
+     CDS             40..2376
+                     /gene="maturase"
+                     /note="similar to mitochondrial intron-encoded maturases;
+                     similar to pleC9"
+                     /codon_start=1
+                     /transl_table=4
+                     /product="putative maturase"
+                     /protein_id="AAF27656.1"
+                     /db_xref="GI:6746623"
+                     /translation="MFLKIKSDLSYIYDREINRDIRRGYSRLDVLIIHLVRVAEYKRA
+                     LWYGLPHREECLNGSSHVEANKPDTYKCLHAAEDILSRIYRYLCDLAEKYGNRFLGCH
+                     KITHSLYTKSPHGNKQAAKTTWTINITSRQPRDRTASVNLYMSMRRRSLHSSVNMKGD
+                     SKSTLEVDVLDCDQEKLADEVKPAKVAKRVGVTTIARKLLDQSKIANQKYYNILNVLA
+                     DPNFLIACYDEIKGKQGNMTRGYDKATLDGLDYNWFVKTAGELKAGKYNFKPSRRVEI
+                     PKANGKTRPLGVGSPRDKIVQKALHAILEAIFEPLFLPSSHGFRPNRSTHSALLKVYL
+                     SGNKHNWVIQGDITKCFDSIPHSIILKRIGAQIGDKKYLNLISKYLEAGHIDPKTGTK
+                     VVLNYGTPQGGILSPILSNIVLHEFDKYMAKLSESFHKGKKRRWNPAYKRLLARRGRT
+                     KSLEEKQTLLKQMRTMRSIDAFDPNFRRLDYVRYADDFVVFISGSSKDALFIRNNLKD
+                     YLKVNCGLELNVDKTAISNLATEKWKFLGAELSKIKLNANWLVSHGRKRIIGTPMLLV
+                     NAPISGLISSLKKVGIVRQNLKQKVFPQGLTSLVNLCHYDIIRFYNSKIHGILNYYSF
+                     AANRNSLHSIVWLLRASCALTLARKFKLRTMSKAFQKFGRDLKCPGTGISIFDPGSLK
+                     AIHDYKSGPVPGVEGITNQVWSGKLTKSSFGLSCVICGSTTNLEMHHYRSVKEVRAKF
+                     RKGNEISFAEFRGALLRKQIPLCESITNYPQRGSADTN"
+BASE COUNT          758 a          475 c          539 g          613 t
+ORIGIN      
+        1 gttgccgtta gcttattacg tgcgccgggc gaggccctga tgtttcttaa gatcaagtcc
+       61 gatctttcgt atatatatga ccgtgaaatt aatcgcgata tacgccgtgg gtattcacga
+      121 cttgatgtgc taataataca tctagtacgg gtagctgaat acaaacgggc attatgatat
+      181 ggactgcccc atagagaaga atgcctgaac gggagtagtc atgtcgaggc taacaaacct
+      241 gatacttata agtgccttca cgctgcggaa gatatcttaa gcaggatata tcggtatctt
+      301 tgtgatctgg ctgagaaata tggtaataga tttcttggtt gtcataaaat tacacactct
+      361 ctttatacga agagcccaca tgggaataag caggcggcta aaactacttg gactataaac
+      421 ataacatcaa ggcaaccccg ggatcgaacc gcctctgtca atttatatat gagcatgcgg
+      481 agacggagtc tccatagtag tgtcaacatg aagggagata gcaaatcaac tctggaagta
+      541 gacgtcttag attgtgacca agaaaagctg gcagacgagg tcaaacctgc gaaggtggct
+      601 aagcgagtcg gtgtcaccac tattgcaaga aaacttctgg accagagcaa aatagctaac
+      661 caaaaatatt acaatatact caatgtacta gcggacccca acttcttaat agcttgctat
+      721 gacgaaatca aggggaaaca gggaaatatg accaggggat atgacaaagc gaccttggat
+      781 ggcttggatt ataactgatt cgtgaagacc gcaggagagc ttaaggctgg aaaatataat
+      841 ttcaaaccca gtcgtcgagt ggaaataccc aaggccaacg gtaaaacacg accgcttgga
+      901 gtagggtctc ccagggataa aattgtgcaa aaggcgcttc atgcaattct agaagcaata
+      961 tttgaacccc tgttcttgcc atcttcgcat ggtttccgcc ctaatcgctc cacacattcc
+     1021 gcattgctta aggtatacct ttcagggaat aaacataact gagtaattca aggggacatc
+     1081 actaaatgct ttgactcaat accccactcg attattttaa agcgtatcgg tgcccagatt
+     1141 ggtgataaga aatatttgaa cttgataagc aaatatcttg aagcgggaca tattgacccc
+     1201 aaaacaggaa cgaaagttgt tctgaactat ggaactccgc agggaggtat attgagtcct
+     1261 attcttagta atatcgtatt gcacgagttt gacaagtata tggctaagct gtcggagagt
+     1321 tttcacaagg gaaagaagag aagatgaaac ccggcttata aaagattact agccagaagg
+     1381 gggagaacca aatccctcga ggagaaacag actcttctta aacaaatgag aactatgaga
+     1441 agtatagatg cttttgatcc taacttcaga aggttggatt acgttcggta tgcggatgac
+     1501 ttcgtggtct tcatatcagg tagttcaaag gacgcactat ttattagaaa taaccttaaa
+     1561 gattatctga aagttaattg cggactagag ttaaacgtgg acaaaacagc gatatccaac
+     1621 ttagcaaccg aaaaatggaa attcctgggg gccgaattgt ctaaaatcaa actgaacgca
+     1681 aactgacttg ttagccacgg tagaaaaaga attattggta caccgatgtt actagtgaac
+     1741 gcacctattt ccggtctgat tagttctctt aagaaggttg gtatagttcg acagaatctt
+     1801 aaacagaagg tgttccctca aggattaact tccctggtca acctgtgtca ctatgatatt
+     1861 ataaggttct ataactctaa aattcatgga atcctaaatt attatagttt cgcagccaat
+     1921 cggaacagct tacattctat agtgtgattg ctgagagcat catgtgctct tacccttgcc
+     1981 cgtaagttca agttaagaac aatgagcaag gcctttcaaa agtttggtag ggacttaaaa
+     2041 tgtccgggga cgggtataag tatcttcgac cctggatcct taaaggccat tcatgactac
+     2101 aagtcaggtc cggtcccagg ggtagagggt ataaccaacc aagtctgaag cggaaaactt
+     2161 acaaagtcca gctttggtct gtcgtgcgta atttgcggtt ctactaccaa ccttgaaatg
+     2221 caccactata gatcggttaa ggaagtgaga gctaagtttc ggaaaggtaa cgagatctct
+     2281 ttcgcagagt tcaggggagc ccttctacgt aaacagattc cactatgtga gtccatcaca
+     2341 aattatccac aaaggggatc tgccgatacg aactagaaaa atcgc
+//

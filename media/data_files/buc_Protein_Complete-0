@@ -1,0 +1,502 @@
+ID   13SB_FAGES              Reviewed;         194 AA.
+AC   P83004;
+DT   11-APR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2001, sequence version 1.
+DT   03-MAR-2009, entry version 31.
+DE   RecName: Full=13S globulin basic chain;
+OS   Fagopyrum esculentum (Common buckwheat).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+OC   Caryophyllales; Polygonaceae; Fagopyrum.
+OX   NCBI_TaxID=3617;
+RN   [1]
+RP   PROTEIN SEQUENCE, FUNCTION, AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. BDS-1354; TISSUE=Endosperm;
+RX   MEDLINE=22545158; PubMed=12657290; DOI=10.1016/S0031-9422(02)00755-0;
+RA   Bharali S., Chrungoo N.K.;
+RT   "Amino acid sequence of the 26 kDa subunit of legumin-type seed
+RT   storage protein of common buckwheat (Fagopyrum esculentum Moench):
+RT   molecular characterization and phylogenetic analysis.";
+RL   Phytochemistry 63:1-5(2003).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-17.
+RX   MEDLINE=97357448; PubMed=9214774; DOI=10.1016/S0031-9422(97)00051-4;
+RA   Rout M.K., Chrungoo N.K., Rao K.S.;
+RT   "Amino acid sequence of the basic subunit of 13S globulin of
+RT   buckwheat.";
+RL   Phytochemistry 45:865-867(1997).
+CC   -!- FUNCTION: Seed storage protein with a relatively high level of Lys
+CC       and Met.
+CC   -!- SUBUNIT: Hexamer; each subunit is composed of an acidic and a
+CC       basic chain derived from a single precursor and linked by a
+CC       disulfide bond (By similarity).
+CC   -!- TISSUE SPECIFICITY: Cotyledons and endosperm protein bodies.
+CC   -!- SIMILARITY: Belongs to the 11S seed storage protein (globulins)
+CC       family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   HSSP; P04776; 1FXZ.
+DR   GO; GO:0045735; F:nutrient reservoir activity; IEA:InterPro.
+DR   InterPro; IPR006045; Cupin_1.
+DR   InterPro; IPR014710; RmlC-like_jellyroll.
+DR   InterPro; IPR006044; Seedstore11s_pln.
+DR   Gene3D; G3DSA:2.60.120.10; RmlC-like_jellyroll; 1.
+DR   Pfam; PF00190; Cupin_1; 1.
+DR   PRINTS; PR00439; 11SGLOBULIN.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Disulfide bond; Seed storage protein;
+KW   Storage protein.
+FT   CHAIN         1    194       13S globulin basic chain.
+FT                                /FTId=PRO_0000152877.
+FT   DISULFID      7      ?       Interchain (between basic and acidic
+FT                                chains) (Potential).
+SQ   SEQUENCE   194 AA;  21847 MW;  65A6FC49AFC1E9D0 CRC64;
+     GIDENVCTMK LRENIKSPQE ADFYNPKAGR ITTANSQKLP ALRSLQMSAE RGFLYSNGIY
+     APHWNINAHS ALYVTRGNAK VQVVGDEGNK VFDDEVKQGQ LIIVPQYFAV IKKAGNQGFE
+     YVAFKTNDNA MINPLVGRLS AFRAIPEEVL RSSFQISSEE AEELKYGRQE ALLLSEQSQQ
+     GKREVADEKE RERF
+//
+ID   1433S_HUMAN             Reviewed;         248 AA.
+AC   P31947; Q6FH30; Q6FH51; Q96DH0;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 1.
+DT   14-APR-2009, entry version 94.
+DE   RecName: Full=14-3-3 protein sigma;
+DE   AltName: Full=Stratifin;
+DE   AltName: Full=Epithelial cell marker protein 1;
+GN   Name=SFN; Synonyms=HME1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Epithelium;
+RX   MEDLINE=93002614; PubMed=1390337;
+RA   Prasad G.L., Valverius E.M., McDuffie E., Cooper H.L.;
+RT   "Complementary DNA cloning of a novel epithelial cell marker protein,
+RT   HME1, that may be down-regulated in neoplastic mammary cells.";
+RL   Cell Growth Differ. 3:507-513(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND PROTEIN SEQUENCE OF 19-25;
+RP   42-49; 118-122; 130-139; 149-159; 161-181; 196-199; 225-229 AND
+RP   231-239.
+RC   TISSUE=Keratinocyte;
+RX   MEDLINE=93294871; PubMed=8515476; DOI=10.1006/jmbi.1993.1346;
+RA   Leffers H., Madsen P., Rasmussen H.H., Honore B., Andersen A.H.,
+RA   Walbum E., Vandekerckhove J., Celis J.E.;
+RT   "Molecular cloning and expression of the transformation sensitive
+RT   epithelial marker stratifin. A member of a protein family that has
+RT   been involved in the protein kinase C signalling pathway.";
+RL   J. Mol. Biol. 231:982-998(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1).
+RX   MEDLINE=98324083; PubMed=9659898; DOI=10.1016/S1097-2765(00)80002-7;
+RA   Hermeking H., Lengauer C., Polyak K., He T.-C., Zhang L.,
+RA   Thiagalingam S., Kinzler K.W., Vogelstein B.;
+RT   "14-3-3 sigma is a p53-regulated inhibitor of G2/M progression.";
+RL   Mol. Cell 1:3-11(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Halleck A., Ebert L., Mkoundinya M., Schick M., Eisenstein S.,
+RA   Neubert P., Kstrang K., Schatten R., Shen B., Henze S., Mar W.,
+RA   Korn B., Zuo D., Hu Y., LaBaer J.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D.,
+RA   Dunham A., Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A.,
+RA   Jones M.C., Gillson C., Searle S., Zhou Y., Kokocinski F.,
+RA   McDonald L., Evans R., Phillips K., Atkinson A., Cooper R., Jones C.,
+RA   Hall R.E., Andrews T.D., Lloyd C., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Anderson F., Andrew R.W., Ashwell R.I.S., Aubin K.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Beasley H., Bethel G.,
+RA   Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J., Buckley D.,
+RA   Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y., Clarke G.,
+RA   Clee C., Cobley V., Collier R.E., Corby N., Coville G.J., Davies J.,
+RA   Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R.,
+RA   Hammond S., Harrison E.S.I., Hart E., Haugen E., Heath P.D.,
+RA   Holmes S., Holt K., Howden P.J., Hunt A.R., Hunt S.E., Hunter G.,
+RA   Isherwood J., James R., Johnson C., Johnson D., Joy A., Kay M.,
+RA   Kershaw J.K., Kibukawa M., Kimberley A.M., King A., Knights A.J.,
+RA   Lad H., Laird G., Lawlor S., Leongamornlert D.A., Lloyd D.M.,
+RA   Loveland J., Lovell J., Lush M.J., Lyne R., Martin S.,
+RA   Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W., McLaren S.,
+RA   Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C.,
+RA   Subramanian S., Sycamore N., Tracey A., Tromans A., Van Helmond Z.,
+RA   Wall M., Wallis J.M., White S., Whitehead S.L., Wilkinson J.E.,
+RA   Willey D.L., Williams H., Wilming L., Wray P.W., Wu Z., Coulson A.,
+RA   Vaudin M., Sulston J.E., Durbin R.M., Hubbard T., Wooster R.,
+RA   Dunham I., Carter N.P., McVean G., Ross M.T., Harrow J., Olson M.V.,
+RA   Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Cervix, Lung, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 42-49 AND 118-122.
+RC   TISSUE=Keratinocyte;
+RX   MEDLINE=93162043; PubMed=1286667; DOI=10.1002/elps.11501301199;
+RA   Rasmussen H.H., van Damme J., Puype M., Gesser B., Celis J.E.,
+RA   Vandekerckhove J.;
+RT   "Microsequences of 145 proteins recorded in the two-dimensional gel
+RT   protein database of normal human epidermal keratinocytes.";
+RL   Electrophoresis 13:960-969(1992).
+RN   [8]
+RP   IDENTIFICATION IN A COMPLEX WITH XPO7; ARHGAP1; EIF4A1; VPS26A; VPS29
+RP   AND VPS35.
+RX   PubMed=15282546; DOI=10.1038/sj.emboj.7600338;
+RA   Mingot J.-M., Bohnsack M.T., Jaekle U., Goerlich D.;
+RT   "Exportin 7 defines a novel general nuclear export pathway.";
+RL   EMBO J. 23:3227-3236(2004).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-248, AND MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Epithelium;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein
+RT   phosphorylation analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-248, AND MASS
+RP   SPECTROMETRY.
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of
+RT   the kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-248, AND MASS
+RP   SPECTROMETRY.
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [12]
+RP   IDENTIFICATION [LARGE SCALE ANALYSIS], AND MASS SPECTROMETRY.
+RA   Colinge J., Superti-Furga G., Bennett K.L.;
+RL   Submitted (OCT-2008) to UniProtKB.
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) IN COMPLEX WITH PHOSPHOSERINE
+RP   PEPTIDE.
+RX   PubMed=15731107; DOI=10.1074/jbc.M500982200;
+RA   Wilker E.W., Grant R.A., Artim S.C., Yaffe M.B.;
+RT   "A structural basis for 14-3-3sigma functional specificity.";
+RL   J. Biol. Chem. 280:18891-18898(2005).
+CC   -!- FUNCTION: Adapter protein implicated in the regulation of a large
+CC       spectrum of both general and specialized signaling pathway. Binds
+CC       to a large number of partners, usually by recognition of a
+CC       phosphoserine or phosphothreonine motif. Binding generally results
+CC       in the modulation of the activity of the binding partner. When
+CC       bound to KRT17, regulates protein synthesis and epithelial cell
+CC       growth by stimulating Akt/mTOR pathway (By similarity).
+CC   -!- FUNCTION: p53-regulated inhibitor of G2/M progression.
+CC   -!- SUBUNIT: Homodimer. Interacts with KRT17 (By similarity). Found in
+CC       a complex with XPO7, EIF4A1, ARHGAP1, VPS26A, VPS29, VPS35 and
+CC       SFN.
+CC   -!- INTERACTION:
+CC       P00519:ABL1; NbExp=1; IntAct=EBI-476295, EBI-375543;
+CC       Q14103-3:HNRNPD; NbExp=1; IntAct=EBI-476295, EBI-432539;
+CC       Q14103-4:HNRNPD; NbExp=3; IntAct=EBI-476295, EBI-432545;
+CC       O00444:PLK4; NbExp=1; IntAct=EBI-476295, EBI-746202;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus (By similarity).
+CC       Secreted. Note=May be secreted by a non-classical secretory
+CC       pathway.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P31947-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P31947-2; Sequence=VSP_021768;
+CC         Note=No experimental confirmation available;
+CC   -!- TISSUE SPECIFICITY: Present mainly in tissues enriched in
+CC       stratified squamous keratinising epithelium.
+CC   -!- SIMILARITY: Belongs to the 14-3-3 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M93010; AAA59546.1; -; mRNA.
+DR   EMBL; X57348; CAA40623.1; -; mRNA.
+DR   EMBL; AF029081; AAC52029.1; -; Genomic_DNA.
+DR   EMBL; AF029082; AAC52030.1; -; mRNA.
+DR   EMBL; CR541905; CAG46703.1; -; mRNA.
+DR   EMBL; CR541926; CAG46724.1; -; mRNA.
+DR   EMBL; AL034380; CAB92118.1; -; Genomic_DNA.
+DR   EMBL; BC000329; AAH00329.1; -; mRNA.
+DR   EMBL; BC000995; AAH00995.1; -; mRNA.
+DR   EMBL; BC001550; AAH01550.1; -; mRNA.
+DR   EMBL; BC002995; AAH02995.1; -; mRNA.
+DR   EMBL; BC023552; AAH23552.1; -; mRNA.
+DR   IPI; IPI00013890; -.
+DR   IPI; IPI00411765; -.
+DR   PIR; S34753; S34753.
+DR   PIR; S38956; S38956.
+DR   RefSeq; NP_006133.1; -.
+DR   UniGene; Hs.523718; -.
+DR   PDB; 1YWT; X-ray; 2.40 A; A/B=1-248.
+DR   PDB; 1YZ5; X-ray; 2.80 A; A/B=1-248.
+DR   PDBsum; 1YWT; -.
+DR   PDBsum; 1YZ5; -.
+DR   IntAct; P31947; 18.
+DR   PhosphoSite; P31947; -.
+DR   SWISS-2DPAGE; P31947; -.
+DR   Aarhus/Ghent-2DPAGE; 9109; IEF.
+DR   Cornea-2DPAGE; P31947; -.
+DR   OGP; P31947; -.
+DR   PeptideAtlas; P31947; -.
+DR   PRIDE; P31947; -.
+DR   Ensembl; ENSG00000175793; Homo sapiens.
+DR   GeneID; 2810; -.
+DR   KEGG; hsa:2810; -.
+DR   GeneCards; GC01P027062; -.
+DR   H-InvDB; HIX0000327; -.
+DR   HGNC; HGNC:10773; SFN.
+DR   HPA; CAB006268; -.
+DR   HPA; HPA011105; -.
+DR   MIM; 601290; gene.
+DR   PharmGKB; PA177; -.
+DR   HOGENOM; P31947; -.
+DR   HOVERGEN; P31947; -.
+DR   Pathway_Interaction_DB; a6b1_a6b4_integrin_pathway; a6b1 and a6b4 Integrin signaling.
+DR   Pathway_Interaction_DB; pi3kciaktpathway; Class I PI3K signaling events mediated by Akt.
+DR   Pathway_Interaction_DB; foxopathway; FoxO family signaling.
+DR   Pathway_Interaction_DB; insulin_glucose_pathway; Insulin-mediated glucose transport.
+DR   Pathway_Interaction_DB; p38_mk2pathway; p38 signaling mediated by MAPKAP kinases.
+DR   Pathway_Interaction_DB; nfat_3pathway; Role of Calcineurin-dependent NFAT signaling in lymphocytes.
+DR   Pathway_Interaction_DB; pi3kplctrkpathway; Trk receptor signaling mediated by PI3K and PLC-gamma.
+DR   LinkHub; P31947; -.
+DR   NextBio; 11071; -.
+DR   ArrayExpress; P31947; -.
+DR   Bgee; P31947; -.
+DR   CleanEx; HS_SFN; -.
+DR   GermOnline; ENSG00000175793; Homo sapiens.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0005615; C:extracellular space; TAS:ProtInc.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:InterPro.
+DR   GO; GO:0008426; F:protein kinase C inhibitor activity; TAS:ProtInc.
+DR   GO; GO:0008630; P:DNA damage response, signal transduction re...; IDA:HGNC.
+DR   GO; GO:0043154; P:negative regulation of caspase activity; IDA:HGNC.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; TAS:ProtInc.
+DR   GO; GO:0001836; P:release of cytochrome c from mitochondria; IDA:HGNC.
+DR   InterPro; IPR000308; 14-3-3.
+DR   Gene3D; G3DSA:1.20.190.20; 14-3-3; 1.
+DR   PANTHER; PTHR18860; 14-3-3; 1.
+DR   Pfam; PF00244; 14-3-3; 1.
+DR   PIRSF; PIRSF000868; 14-3-3; 1.
+DR   PRINTS; PR00305; 1433ZETA.
+DR   ProDom; PD000600; 14-3-3; 1.
+DR   SMART; SM00101; 14_3_3; 1.
+DR   PROSITE; PS00796; 1433_1; 1.
+DR   PROSITE; PS00797; 1433_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytoplasm;
+KW   Direct protein sequencing; Nucleus; Phosphoprotein; Polymorphism;
+KW   Secreted.
+FT   CHAIN         1    248       14-3-3 protein sigma.
+FT                                /FTId=PRO_0000058643.
+FT   SITE         56     56       Interaction with phosphoserine on
+FT                                interacting protein.
+FT   SITE        129    129       Interaction with phosphoserine on
+FT                                interacting protein.
+FT   MOD_RES      64     64       Phosphoserine (By similarity).
+FT   MOD_RES     216    216       Phosphoserine (By similarity).
+FT   MOD_RES     248    248       Phosphoserine.
+FT   VAR_SEQ      85    116       Missing (in isoform 2).
+FT                                /FTId=VSP_021768.
+FT   VARIANT     155    155       M -> I (in dbSNP:rs11542705).
+FT                                /FTId=VAR_048095.
+FT   CONFLICT     77     77       K -> M (in Ref. 4; CAG46703).
+FT   CONFLICT    120    120       Y -> H (in Ref. 2; AAA59546).
+FT   CONFLICT    242    242       A -> V (in Ref. 2; AAA59546).
+FT   HELIX         3     15
+FT   HELIX        19     31
+FT   HELIX        38     66
+FT   HELIX        67     69
+FT   HELIX        80    104
+FT   TURN        105    107
+FT   STRAND      108    110
+FT   HELIX       114    133
+FT   HELIX       137    161
+FT   HELIX       167    182
+FT   HELIX       187    202
+FT   HELIX       205    207
+FT   TURN        210    212
+FT   HELIX       213    229
+SQ   SEQUENCE   248 AA;  27774 MW;  7F4B44E3AA59ECE6 CRC64;
+     MERASLIQKA KLAEQAERYE DMAAFMKGAV EKGEELSCEE RNLLSVAYKN VVGGQRAAWR
+     VLSSIEQKSN EEGSEEKGPE VREYREKVET ELQGVCDTVL GLLDSHLIKE AGDAESRVFY
+     LKMKGDYYRY LAEVATGDDK KRIIDSARSA YQEAMDISKK EMPPTNPIRL GLALNFSVFH
+     YEIANSPEEA ISLAKTTFDE AMADLHTLSE DSYKDSTLIM QLLRDNLTLW TADNAGEEGG
+     EAPQEPQS
+//
+ID   1433_DICDI              Reviewed;         252 AA.
+AC   P54632; Q1ZXP9;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   03-MAR-2009, entry version 42.
+DE   RecName: Full=14-3-3-like protein;
+GN   Name=fttB; ORFNames=DDB_G0269138;
+OS   Dictyostelium discoideum (Slime mold).
+OC   Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+OX   NCBI_TaxID=44689;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9223628; DOI=10.1016/S0167-4889(97)00060-8;
+RA   Knetsch M.L.W., Van Heusden G.P.H., Ennis H.L., Shaw D.R.,
+RA   Epskamp S.J.P., Snaar-jagalska B.E.;
+RT   "Isolation of a dictyostelium discoideum 14-3-3 homologue.";
+RL   Biochim. Biophys. Acta 1357:243-248(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AX4;
+RX   PubMed=15875012; DOI=10.1038/nature03481;
+RA   Eichinger L., Pachebat J.A., Gloeckner G., Rajandream M.A.,
+RA   Sucgang R., Berriman M., Song J., Olsen R., Szafranski K., Xu Q.,
+RA   Tunggal B., Kummerfeld S., Madera M., Konfortov B.A., Rivero F.,
+RA   Bankier A.T., Lehmann R., Hamlin N., Davies R., Gaudet P., Fey P.,
+RA   Pilcher K., Chen G., Saunders D., Sodergren E.J., Davis P.,
+RA   Kerhornou A., Nie X., Hall N., Anjard C., Hemphill L., Bason N.,
+RA   Farbrother P., Desany B., Just E., Morio T., Rost R., Churcher C.M.,
+RA   Cooper J., Haydock S., van Driessche N., Cronin A., Goodhead I.,
+RA   Muzny D.M., Mourier T., Pain A., Lu M., Harper D., Lindsay R.,
+RA   Hauser H., James K.D., Quiles M., Madan Babu M., Saito T.,
+RA   Buchrieser C., Wardroper A., Felder M., Thangavelu M., Johnson D.,
+RA   Knights A., Loulseged H., Mungall K.L., Oliver K., Price C.,
+RA   Quail M.A., Urushihara H., Hernandez J., Rabbinowitsch E., Steffen D.,
+RA   Sanders M., Ma J., Kohara Y., Sharp S., Simmonds M.N., Spiegler S.,
+RA   Tivey A., Sugano S., White B., Walker D., Woodward J.R., Winckler T.,
+RA   Tanaka Y., Shaulsky G., Schleicher M., Weinstock G.M., Rosenthal A.,
+RA   Cox E.C., Chisholm R.L., Gibbs R.A., Loomis W.F., Platzer M.,
+RA   Kay R.R., Williams J.G., Dear P.H., Noegel A.A., Barrell B.G.,
+RA   Kuspa A.;
+RT   "The genome of the social amoeba Dictyostelium discoideum.";
+RL   Nature 435:43-57(2005).
+RN   [3]
+RP   IDENTIFICATION [LARGE SCALE ANALYSIS], AND MASS SPECTROMETRY.
+RX   PubMed=16512674; DOI=10.1021/pr050350q;
+RA   Reinders Y., Schulz I., Graef R., Sickmann A.;
+RT   "Identification of novel centrosomal proteins in Dictyostelium
+RT   discoideum by comparative proteomic approaches.";
+RL   J. Proteome Res. 5:589-598(2006).
+CC   -!- SIMILARITY: Belongs to the 14-3-3 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X95568; CAA64814.1; -; mRNA.
+DR   EMBL; AAFI02000005; EAS66939.1; -; Genomic_DNA.
+DR   RefSeq; XP_001134475.1; -.
+DR   HSSP; P93343; 1O9E.
+DR   SMR; P54632; 3-231.
+DR   GeneID; 4238034; -.
+DR   KEGG; ddi:DDB_0232938; -.
+DR   dictyBase; DDB_G0269138; fttB.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:InterPro.
+DR   InterPro; IPR000308; 14-3-3.
+DR   Gene3D; G3DSA:1.20.190.20; 14-3-3; 1.
+DR   PANTHER; PTHR18860; 14-3-3; 1.
+DR   Pfam; PF00244; 14-3-3; 1.
+DR   PIRSF; PIRSF000868; 14-3-3; 1.
+DR   PRINTS; PR00305; 1433ZETA.
+DR   ProDom; PD000600; 14-3-3; 1.
+DR   SMART; SM00101; 14_3_3; 1.
+DR   PROSITE; PS00796; 1433_1; 1.
+DR   PROSITE; PS00797; 1433_2; 1.
+PE   1: Evidence at protein level;
+KW   Complete proteome.
+FT   CHAIN         1    252       14-3-3-like protein.
+FT                                /FTId=PRO_0000058649.
+FT   CONFLICT     25     25       A -> T (in Ref. 1; CAA64814).
+SQ   SEQUENCE   252 AA;  28704 MW;  30F03CC39D4E273D CRC64;
+     MTREENVYMA KLAEQAERYE EMVEAMKKVA ELDVELTVEE RNLLSVAYKN VIGARRASWR
+     IISSIEQKEE SKGNENHVKK IKEYKCKVEK ELTDICNDIL EVLESHLIVS SASGESKVFY
+     YKMKGDYFRY LAEFATGNPR KTSAESSLIA YKAASDIAVT ELPPTHPIRL GLALNFSVFY
+     YEILNSPDRA CNLAKTAFDD AIAELDTLSE DSYKDSTLIM QLLRDNLTLW TSDVHNMEKN
+     QDGDDDQNEP GM
+//
+ID   3MGH_LISMO              Reviewed;         207 AA.
+AC   P58621;
+DT   23-JAN-2002, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2002, sequence version 1.
+DT   25-NOV-2008, entry version 38.
+DE   RecName: Full=Putative 3-methyladenine DNA glycosylase;
+DE            EC=3.2.2.-;
+GN   OrderedLocusNames=lmo0928;
+OS   Listeria monocytogenes.
+OC   Bacteria; Firmicutes; Bacillales; Listeriaceae; Listeria.
+OX   NCBI_TaxID=1639;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-679 / EGD-e / Serovar 1/2a;
+RX   MEDLINE=21537279; PubMed=11679669; DOI=10.1126/science.1063447;
+RA   Glaser P., Frangeul L., Buchrieser C., Rusniok C., Amend A.,
+RA   Baquero F., Berche P., Bloecker H., Brandt P., Chakraborty T.,
+RA   Charbit A., Chetouani F., Couve E., de Daruvar A., Dehoux P.,
+RA   Domann E., Dominguez-Bernal G., Duchaud E., Durant L., Dussurget O.,
+RA   Entian K.-D., Fsihi H., Garcia-del Portillo F., Garrido P.,
+RA   Gautier L., Goebel W., Gomez-Lopez N., Hain T., Hauf J., Jackson D.,
+RA   Jones L.-M., Kaerst U., Kreft J., Kuhn M., Kunst F., Kurapkat G.,
+RA   Madueno E., Maitournam A., Mata Vicente J., Ng E., Nedjari H.,
+RA   Nordsiek G., Novella S., de Pablos B., Perez-Diaz J.-C., Purcell R.,
+RA   Remmel B., Rose M., Schlueter T., Simoes N., Tierrez A.,
+RA   Vazquez-Boland J.-A., Voss H., Wehland J., Cossart P.;
+RT   "Comparative genomics of Listeria species.";
+RL   Science 294:849-852(2001).
+CC   -!- SIMILARITY: Belongs to the DNA glycosylase MPG family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL591977; CAC99006.1; -; Genomic_DNA.
+DR   PIR; AH1190; AH1190.
+DR   RefSeq; NP_464453.1; -.
+DR   HSSP; P29372; 1F6O.
+DR   GeneID; 985312; -.
+DR   GenomeReviews; AL591824_GR; lmo0928.
+DR   KEGG; lmo:lmo0928; -.
+DR   ListiList; LMO00928; -.
+DR   HOGENOM; P58621; -.
+DR   BioCyc; LMON169963:LMO0928-MON; -.
+DR   GO; GO:0003905; F:alkylbase DNA N-glycosylase activity; IEA:InterPro.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0006284; P:base-excision repair; IEA:InterPro.
+DR   HAMAP; MF_00527; -; 1.
+DR   InterPro; IPR003180; PurDNA_glycsylse.
+DR   PANTHER; PTHR10429; PurDNA_glycsylse; 1.
+DR   Pfam; PF02245; Pur_DNA_glyco; 1.
+DR   ProDom; PD009649; PurDNA_glycsylse; 1.
+DR   TIGRFAMs; TIGR00567; 3mg; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; DNA damage; DNA repair; Hydrolase.
+FT   CHAIN         1    207       Putative 3-methyladenine DNA glycosylase.
+FT                                /FTId=PRO_0000100091.
+SQ   SEQUENCE   207 AA;  23372 MW;  8D66CCF4A5E1807D CRC64;
+     MEAMITKEFF ESKTTIELAR DILGMRLVHQ TNEGLLSGLI VETEAYLGAT DMAAHSFQNL
+     RTKRTEVMFS SPGTIYMYQM HRQVLLNFIT MPKGIPEAIL IRAIEPDEQA KQQMTQNRHG
+     KTGYELTNGP GKLTQALGLS MQDYGKTLFD SNIWLEEAKL PHLIEATNRI GVPNKGIATH
+     YPLRFTVKGS PYISGQRKNS IRTGIWK
+//

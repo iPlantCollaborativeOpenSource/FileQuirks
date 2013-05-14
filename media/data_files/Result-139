@@ -1,0 +1,63 @@
+LOCUS       BD000105                1550 bp    DNA     linear   PAT 04-NOV-2005
+DEFINITION  Differentiation and transformation of transfected epithelial basal 
+            cell  into neural progenitor cell, neuron cell and/or glia cell. 
+ACCESSION   BD000105
+VERSION     BD000105.1
+KEYWORDS    JP 2000295987-A/3.
+SOURCE      Homo sapiens.
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Catarrhini;
+            Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1550)
+  AUTHORS   Rebesuku,M.F. and Newman,T. 
+  TITLE     Differentiation and transformation of transfected epithelial basal 
+            cell  into neural progenitor cell, neuron cell and/or glia cell 
+  JOURNAL   Patent: JP 2000295987-A 3 24-OCT-2000;
+            CEDARS SINAI MEDICAL CENTER
+COMMENT     OS   Homo sapiens (human)
+            PN   JP 2000295987-A/3
+            PD   24-OCT-2000
+            PF   20-JAN-2000 JP 2000048291
+            PR   20-JAN-1999 US       234332
+            PI   MICHEL F REBESUKU,THOMAS NEWMAN
+            PC   C12N15/02,A61K35/30,A61P25/28,A61P43/00,C12N5/10,C12Q1/02,
+            PC   G01N33/15,
+            PC   G01N33/50//C07K14/52,C12P21/02,C12N15/00,C12N5/00
+            CC   
+            FH   Key             Location/Qualifiers
+            FT   gene            (0)..(0)
+            FT   unsure          (1219)..(1226)
+FEATURES             Location/Qualifiers
+     source          1..1550
+                     /mol_type="unassigned DNA"
+                     /organism="Homo sapiens"
+BASE COUNT          250 a          569 c          486 g          243 t
+ORIGIN
+        1 cccctcactt tgtgctgtct gtctcccctt cccgcccgcg gggcgccctc aggcaccatg
+       61 ctgacccgcc tgttcagcga gcccggcctt ctctcggacg tgcccaagtt cgccagctgg
+      121 ggcgacggcg aagacgacga gccgaggagc gacaagggcg acgcgccgcc accgccaccg
+      181 cctgcgcccg ggccaggggc tccggggcca gcccgggcgg ccaagccagt ccctctccgt
+      241 ggagaagagg ggacggaggc cacgttggcc gaggtcaagg aggaaggcga gctgggggga
+      301 gaggaggagg aggaagagga ggaggaagaa ggactggacg aggcggaggg cgagcggccc
+      361 aagaagcgcg ggcccaagaa gcgcaagatg accaaggcgc gcttggagcg ctccaagctt
+      421 cggcggcaga aggcgaacgc gcgggagcgc aaccgcatgc acgacctgaa cgcagccctg
+      481 gacaacctgc gcaaggtggt gccctgctac tccaagacgc agaagctgtc caagatcgag
+      541 acgctgcgcc tagccaagaa ctatatctgg gcgctctcgg agatcctgcg ctccggcaag
+      601 cggccagacc tagtgtccta cgtgcagact ctgtgcaagg gtctgtcgca gcccaccacc
+      661 aatctggtgg ccggctgtct gcagctcaac tctcgcaact tcctcacgga gcaaggcgcc
+      721 gacggtgccg gccgcttcca cggctcgggc ggcccgttcg ccatgcaccc ctacccgtac
+      781 ccgtgctcgc gcctggcggg cgcacagtgc caggcggccg gcggcctggg cggcggcgcg
+      841 gcgcacgccc tgcggaccca cggctactgc gccgcctacg agacgctgta tgcggcggca
+      901 ggcggtggcg gcgcgagccc ggactacaac agctccgagt acgagggccc gctcagcccc
+      961 ccgctctgtc tcaatggcaa cttctcactc aagcaggact cctcgcccga ccacgagaaa
+     1021 agctaccact actctatgca ctactcggcg ctgcccggtt cgcggcccac gggccacggg
+     1081 ctagtcttcg gctcgtcggc tgtgcgcggg ggcgtccact cggagaatct cttgtcttac
+     1141 gatatgcacc ttcaccacga ccggggcccc atgtacgagg agctcaatgc gttttttcat
+     1201 aactgagact tcgcgccgnc tccctncttt ttcttttgcc tttgcccgcc cccctgtccc
+     1261 cagcccccag agcgcaggga cacccccatc ctaccccggc gccgggcgcg gggagcgggc
+     1321 caccggtcct gccgctctcc tggggcagcg cagtcctgtt acctgtgggt ggcctgtccc
+     1381 aggggcctcg cttcccccag gggactcgcc ttctctcccc aaggggttcc ctcctcctct
+     1441 ctcccaagga gtgcttctcc agggacctct ctccgggggc tccctggagg cacccctccc
+     1501 ccattcccaa tatcttcgct gaggtttcct cctccccctc ctccctgcag
+//

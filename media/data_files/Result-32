@@ -1,0 +1,2372 @@
+LOCUS       BA000008             1226565 bp    DNA     circular BCT 19-MAY-2007
+DEFINITION  Chlamydophila pneumoniae J138 genomic DNA, complete sequence.
+ACCESSION   BA000008 AB033780-AB033818 AB036071-AB036089 AB038345-AB038352
+            AP002545-AP002548
+VERSION     BA000008.3
+PROJECT     GenomeProject:257
+KEYWORDS    .
+SOURCE      Chlamydophila pneumoniae J138
+  ORGANISM  Chlamydophila pneumoniae J138
+            Bacteria; Chlamydiae; Chlamydiales; Chlamydiaceae; Chlamydophila.
+REFERENCE   1  (bases 1 to 1226565)
+  AUTHORS   Hattori,M., Ishii,K. and Shiba,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUL-2000) to the DDBJ/EMBL/GenBank databases.
+            Contact:Masahira Hattori
+            Graduate School of Frontier Sciences, University of Tokyo; 5-1-5
+            Kashiwanoha, Kashiwa, Chiba 277-8561, Japan
+REFERENCE   2  
+  AUTHORS   Shirai,M., Hirakawa,H., Kimoto,M., Tabuchi,M., Kishi,F., Ouchi,K.,
+            Shiba,T., Ishii,K., Hattori,M., Kuhara,S. and Nakazawa,T.
+  TITLE     Comparison of whole genome sequences of Chlamydia pneumoniae J138
+            from Japan and CWL029 from USA
+  JOURNAL   Nucleic Acids Res. 28, 2311-2314 (2000)
+REFERENCE   3  
+  AUTHORS   Shirai,M., Hirakawa,H., Ouchi,K., Tabuchi,M., Kishi,F., Kimoto,M.,
+            Takeuchi,A., Nishida,J., Shibata,K., Fujinaga,R., Yoneda,H.,
+            Matsushima,H., Tanaka,C., Furukawa,S., Miura,K., Nakazawa,A.,
+            Ishii,K., Shiba,T., Hattori,M., Kuhara,S. and Nakazawa,T.
+  TITLE     Comparison of Outer Membrane Protein Genes omp and pmp in the
+            Whole Genome Sequences of Chlamydia pneumoniae Isolates from Japan
+            and the United States
+  JOURNAL   J. Infect. Dis. 181, S524-S527 (2000)
+COMMENT     This work was done in collaboration with Mutsunori Shirai,
+            Mitsuaki Kimoto, Mitsuaki Tabuchi, Fumio Kishi, Teruko Nakazawa
+            (Yamaguchi University), Kazunobu Ouchi (Shimonoseki Saiseikai
+            General Hospital), Hideki Hirakawa, Satoru Kuhara (Kuyshu
+            University), and supported by the Research for the Future Program
+            of the Japan Society for the Promotion of Science.
+FEATURES             Location/Qualifiers
+     source          1..1226565
+                     /db_xref="taxon:138677"
+                     /mol_type="genomic DNA"
+                     /note="synonym:Chlamydia pneumoniae (strain J138)"
+                     /organism="Chlamydophila pneumoniae J138"
+                     /strain="J138"
+     CDS             complement(1..282)
+                     /codon_start=1
+                     /gene="CPj0001"
+                     /product="CT001 hypothetical protein"
+                     /protein_id="BAA98211.1"
+                     /transl_table=11
+                     /translation="MLGKIIRGLSSLIVILCALNVGLIGITHNKLNIIAKLCGGVSTP
+                     ATQITYIIIGIAGVICLLSFCPFCSKKSRHSHGDSCSSGGCHSHHSDKN"
+     CDS             573..878
+                     /codon_start=1
+                     /gene="gatC"
+                     /product="Glu-tRNA Gln amidotransferase (C subunit)"
+                     /protein_id="BAA98212.1"
+                     /transl_table=11
+                     /translation="MEQFHLDREEILLLAKASALQLSEELIQEYQTSLSAVITSMKEA
+                     LAIEIDDADSCESLFMHVVNVEDLREDSVTSDFNREEFLRNVPESLGGLVKVPAVIK"
+     CDS             895..2373
+                     /codon_start=1
+                     /gene="gatA"
+                     /product="Glu tRNA Gln amidotransferae (A subunit)"
+                     /protein_id="BAA98213.1"
+                     /transl_table=11
+                     /translation="MYRYSALELAKAVTLGELTATGVTQHFFHRIEEAEGQVGAFISL
+                     CKEQALEQAELIDKKRSRGEPLGKLAGVPVGIKDNIHVTGLKTTCASRVLENYQPPFD
+                     ATVVERIKKEDGIILGKLNMDEFAMGSTTLYSAFHPTHNPWDLSRVPGGSSGGSAAAV
+                     SARFCPVALGSDTGGSIRQPAAFCGVVGFKPSYGAVSRYGLVAFASSLDQIGPLANTV
+                     EDVALMMDVFSGRDPKDATSREFFRDSFMSKLSTEVPKVIGVPRTFLEGLRDDIRENF
+                     FSSLAIFEGEGTHLVDVELDILSHAVSIYYILASAEAATNLARFDGVRYGYRSPQAHT
+                     ISQLYDLSRGEGFGKEVMRRILLGNYVLSAERQNVYYKKATAVRAKIVKAFRTAFEKC
+                     EILAMPVCSSPAFEIGEILDPVTLYLQDIYTVAMNLAYLPAIAVPSGFSKEGLPLGLQ
+                     IIGQQGQDQQVCQVGYSFQEHAQIKQLFSKRYAKSVVLGGQS"
+     CDS             2370..3836
+                     /codon_start=1
+                     /gene="gatB"
+                     /product="(Pet112) Glu tRNA Gln amidotransferase (B
+                     subunit)"
+                     /protein_id="BAA98214.1"
+                     /transl_table=11
+                     /translation="MSAVYADWESVIGLEVHVELNTASKLFSSALNRFGDEPNTNIST
+                     VCTGLPGSLPVLNQSAVEKAVLFGCAVEGEISLLSRFDRKSYFYPDSPRNFQITQFEH
+                     PIIRGGRIKAIVQGEERYFELAQTHIEDDAGMLKHFGEFAGVDYNRAGVPLIEIVSKP
+                     CMFCPEDAVAYATSLVSLLDYIGISDCNMEEGSIRFDVNVSVRPKGSPELRNKVEIKN
+                     MNSFAFMAQALEAEKQRQIDEYLNQPNKDPKLVIPAATYRWDPEKKKTVLMRLKESAE
+                     DYKYFPEPDLPTLQLTESYIERIRKTLPELPYDKYHRYIQEYGLSEDIASILISDKNI
+                     ATFFEVACKDCKNFRSLSNWVSVEFGGRCKTLGVKLPSSGIFPEGVAQLVNAIDQGVI
+                     TGKIAKEIADLMMESPGKNPEEILKEKPELLPMSDEGELQKIIAEVVLANPESIVDYK
+                     NGKTKALGFLVGQIMKRTAGKAPPKRVNELLLLELDKG"
+     CDS             4127..6895
+                     /codon_start=1
+                     /gene="pmp_1"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98215.1"
+                     /transl_table=11
+                     /translation="MRFSLCGFPLVFSFTLLSVFDTSLSATTISLTPEDSFHGDSQNA
+                     ERSYNVQAGDVYSLTGDVSISNVDNSALNKACFNVTSGSVTFAGNHHGLYFNNISSGT
+                     TKEGAVLCCQDPQATARFSGFSTLSFIQSPGDIKEQGCLYSKNALMLLNNYVVRFEQN
+                     QSKTKGGAISGANVTIVGNYDSVSFYQNAATFGGAIHSSGPLQIAVNQAEIRFAQNTA
+                     KNGSGGALYSDGDIDIDQNAYVLFRENEALTTAIGKGGAVCCLPTSGSSTPVPIVTFS
+                     DNKQLVFERNHSIMGGGAIYARKLSISSGGPTLFINNISYANSQNLGGAIAIDTGGEI
+                     SLSAEKGTITFQGNRTSLPFLNGIHLLQNAKFLKLQARNGYSIEFYDPITSEADGSTQ
+                     LNINGDPKNKEYTGTILFSGEKSLANDPRDFKSTIPQNVNLSAGYLVIKEGAEVTVSK
+                     FTQSPGSHLVLDLGTKLIASKEDIAITGLAIDIDSLSSSSTAAVIKANTANKQISVTD
+                     SIELISPTGNAYEDLRMRNSQTFPLLSLEPGAGGSVTVTAGDFLPVSPHYGFQGNWKL
+                     AWTGTGNKVGEFFWDKINYKPRPEKEGNLVPNILWGNAVDVRSLMQVQETHASSLQTD
+                     RGLWIDGIGNFFHVSASEDNIRYRHNSGGYVLSVNNEITPKHYTSMAFSQLFSRDKDY
+                     AVSNNEYRMYLGSYLYQYTTSLGNIFRYASRNPNVNVGILSRRFLQNPLMIFHFLCAY
+                     GHATNDMKTDYANFPMVKNSWRNNCWAIECGGSMPLLVFENGRLFQGAIPFMKLQLVY
+                     AYQGDFKETTADGRRFSNGSLTSISVPLGIRFEKLALSQDVLYDFSFSYIPDIFRKDP
+                     SCEAALVISGDSWLVPAAHVSRHAFVGSGTGRYHFNDYTELLCRGSIECRPHARNYNI
+                     NCGSKFRF"
+     CDS             complement(7138..7293)
+                     /codon_start=1
+                     /gene="CPj0006"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98216.1"
+                     /transl_table=11
+                     /translation="MQEPLRSALLERLSEWLVLLGVPSPETTRSTPEKDANQLPKDSR
+                     NRTLESL"
+     CDS             7515..10169
+                     /codon_start=1
+                     /gene="CPj0007"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98217.2"
+                     /transl_table=11
+                     /translation="MFSFLVVIPLTDSTTSSLSTSLLDEGNPQSMRKLRILAIVLIAL
+                     SIILIAGGVVLLTVAIPGLSSVISSPAGMGACALGCVMLALGIDVLLKKREVPIVLAS
+                     VTTTPGTVSPRSGISISGADSTIRSLPTYLLDEGHPQSMRKLRILAIVLIVFSIILIA
+                     SGVVLLTVAIPGLSSIISSPAEMGACALGCVMLALGIDVLLKKREVPIVVPAPIPEEV
+                     VIDDIDEESIRLQQEAEAALARLPEEMSAFEGYIKVVESHLENMKSLPYDGHGLEEKT
+                     KHQIRVVRSSLKAMVPEFLDIRRIFEEEEFFFLSARKRLIDLATTLVERKILTEQLER
+                     NNLRKAFSYLYQDSIFKKIIDNFEKLAWKFMILSKSICRFTIIFENHEHGVAKSLLHK
+                     NAVLLEKVIYRSLQKSYRDIGMSSAKMKILHGNPFFSLEDNKKTIMKEHAEMLESLSS
+                     YRKVFLALSDENVVDTPSDPKKWDLSGIPCRDALSEISRDEQWQKKAHLKHQESLYTQ
+                     ARDRLTDQSSKENQKELEKAEQEYISSWERVKKFEIERVQERIQAIQKLYPNILEREE
+                     ETTGQETVTPTVQGTTASSDLTDILGRIEVSSREDNQNQESCVKVLRSHEVEMSWEVK
+                     QEYGPKKKEFQDQMGSLERFFTEHIEELEVLQKDYSKHLSYFKKVNNKKEVQYAKFRL
+                     KVLESDLEGILAQTESAESLLTQEELPILATRGALEKAVFKGSLCCALASKAKPYFEE
+                     DPRFQDSDTQLRALTLRLQEAKASLEEEIKRFSNLENDIAEERRLLKESKQTFERAGL
+                     GVLREIAVESTYDLRSLTNTWEGTPESEKVYFSMYLNYYNEEKRRAKTRLVEMTQRYR
+                     DFKMALEAMQFNEEALLQEELSIQAPSE"
+     CDS             10645..11358
+                     /codon_start=1
+                     /gene="CPj0008"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98218.1"
+                     /transl_table=11
+                     /translation="MISGLLFLLVRREVPTVRSEEIPRGVSVTPSEEPALEKAQKEPE
+                     TKKILDRLPKELDQLDTYIQEVFACLERLKDPKYEDRGLLTEAKEKLRVFDVVEKDMM
+                     SEFLDIQRVLNEEAYYVEHCQDPLENIAYEIFSSQELRDYYCAGVCGYLPSGDARADR
+                     LKRSVKEVMDRFMRVTWKSWEASVMLDHSYGVARELFKKAVGVLEESVYKILFKSYRD
+                     AFYECEKAKIQRDGRFKWL"
+     CDS             11485..12792
+                     /codon_start=1
+                     /gene="CPj0009"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98219.1"
+                     /transl_table=11
+                     /translation="MWLDRYADKFILREKEEKMERHELFHATMVRKASGHAYAKAKAA
+                     FEKERSNENQRKVKDVEKWLSKGLAEFRNQESRRARERLRELQTLYPEVSVEERVLER
+                     QRTKKVNLENLYADIEKKYHHCVREQEHYWKEVENKEAEYRENGEKVLSAEEVSECLQ
+                     RLEDCLETWSKKLTKAEESVFEMKFDATEKLGNKVLSDVTNRLEILCEDAEEMIFRIE
+                     EIEMTLRMVELPLLFMKNTFEKASLQYNSCKEMLAKVEPQCKESPTYRSSQERLERLN
+                     QDLQTAYTNCQERLQGFSDLESKVRTCRDHLREQMKHFEVQGLNFINEELLWVGAELF
+                     TQARLDLVATVPYMEFYLQYHNIKREKVRSQWMAKTERYREIRQAFQGVMKEDLLAED
+                     TILKEEDYWLLRDDWLLRDERKNRQRRLICNKIAAAQQRVKGF"
+     CDS             13104..15428
+                     /codon_start=1
+                     /gene="CPj0010"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98220.1"
+                     /transl_table=11
+                     /translation="MLLLISGALFLTLGIPGLSAAISFGLGIGLSALGGVLMISGLLC
+                     LLVKREIPTVRPEEIPEGVSLAPSEEPALQAAQKTLAQLPKELDQLDTDIQEVFACLR
+                     KLKDSKYESRSFLNDAKKELRVFDFVVEDTLSEIFELRQIVAQEGWDLNFLINGGRSL
+                     MMTAESESLDLFHVSKRLGYLPSGDVRGEGLKKSAKEIVARLMSLHCEIHKVAVAFDR
+                     NSYAMAEKAFAKALGALEESVYRSLTQSYRDKFLESERAKIPWNGHITWLRDDAKSGC
+                     AEKKLRDAEERWKKFRKAVFWVEEDGGFDINNLLGDWGTVLDPYRQERMDEITFHELY
+                     EKTTFLKRLHRKCALAKTTFEKKRSKKNLQAVEEANARRLKYVRDWYDQEFQKAGERL
+                     EKLHALYPEVSVSIRENKIQETRSNLEKAYEAIEENYRCCVREQEDYWKEEEKREAEF
+                     RERGNKILSPEELESSLEQFDHGLKNFSEKLMELEGHILKLQKEATAEVENKILSDAE
+                     SRLEIVFEDVKEMPCRIEEIEKTLRMAELPLLPTKKAFEKACSQYNSCAEMLEKVKPY
+                     CKESLAYVTSKERLVSLDEDLRRAYTECQKRFQGDSGLESEVRACREQLRERIQEFET
+                     QGLDLVEKELLCVSSRLRNTECDCVSGVKKEAPPGKKFYAQYYDEIYRVRVQSRWMTM
+                     SERLREGVQACNKMLKAGLSEEDKVLKEEEYWLYREERKNKEKRLVGTKIVATQQRVA
+                     AFESIEVPEIPEAPEEKPSLLDKARSLFTREDHS"
+     CDS             15571..16296
+                     /codon_start=1
+                     /gene="CPj0011"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98221.1"
+                     /transl_table=11
+                     /translation="MTAAPAILHVSPTPPEETKFVIPKDSKSRALGITLLVVGILLVV
+                     CGAIVLSGVISGLSALIVCGLGISTISLGVVLFVLGLILLLRKRELTLEQIEAKQIAE
+                     TFADELKELEMYIQSTEKSLEKIEGSRYSDQGFLNRATQKILDLESSLSSITSEFRDL
+                     RQLFDEEKIELLSGERLLEFIAANLFKQGRDVYLNLGNLADIRAYMGPNNYKVAMVIE
+                     KAKAVVHEFIVLTTMARELEFFF"
+     CDS             16323..17894
+                     /codon_start=1
+                     /gene="CPj0012"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98222.1"
+                     /transl_table=11
+                     /translation="MYQENLRLLERLLYNSVQKSYADRLFSYEKTKMVHDTPLIPWEE
+                     DKEKCAEAEKAFLEQQKILLDYGKSIFWLNENDEINLNDPWSWGLNTVRTRKVFQEVD
+                     DSERWNHKVLIQKLEDDYEKLLEESSKESTEANKKLLSDLVDRLEDAKTKFFLKKQEE
+                     VETRVKDLRARYGGTVDPKQDTEAKKKVELEASLETFLDSIESELVQCLEDQDIYWKE
+                     QDVKDLARTQELEEQDIEAKREEAAEDLRSLNERLKKSKTMLDRAKWHIENAEDSITW
+                     WTSQIEMKDMKARLKILKEDITSVLPEIDEIETCLSLEELPLLTTRELLTKSYLKFKI
+                     CSETLLKMTSVFENNIYVQEYEVQLQNLGFKLQGISQRFGKKQDDFANLEEQVALQKK
+                     RLRELTQNFEIQGFNFMKEDFKAAAKDLYIRSTAEQKMNFDVPCMELFRRYHEEVNKP
+                     LLELMYNCADSYRDAKKKLCSLRLDEKELLQKEIKKEEFYQKKQQRHADRSRHTTYQK
+                     LRIAEELALELKKKI"
+     CDS             18263..20401
+                     /codon_start=1
+                     /gene="pmp_2_1"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98223.1"
+                     /transl_table=11
+                     /translation="MKIPLRFLLISLVPTLSMSNLLGAATTEELSASNSFDGTTSTTS
+                     FSSKTSSATDGTNYVFKDSVVIENVPKTGETQSTSCFKNDAAAGDLNFLGGGFSFTFS
+                     NIDATTASGAAIGSEAANKTVTLSGFSALSFLKSPASTVTNGLGAINVKGNLSLLDND
+                     KVLIQDNFSTGDGGAINCAGSLKIANNKSLSFIGNSSSTRGGAIHTKNLTLSSGGETL
+                     FQGNTAPTAAGKGGAIAIADSGTLSISGDSGDIIFEGNTIGATGTVSHSAIDLGTSAK
+                     ITALRAAQGHTIYFYDPITVTGSTSVADALNINSPDTGDNKEYTGTIVFSGEKLTEAE
+                     AKDEKNRTSKLLQNVAFKNGTVVLKGDVVLSANGFSQDANSKLIMDLGTSLVANTESI
+                     ELTNLEINIDSLRNGKKIKLSAATAQKDIRIDRPVVLAISDESFYQNGFLNEDHSYDG
+                     ILELDAGKDIVISADSRSIDAVQSPYGYQGKWTINWSTDDKKATVSWAKQSFNPTAEQ
+                     EAPLVPNLLWGSFIDVRSFQNFIELGTEGAPYEKRFWVAGISNVLHRSGRENQRKFRH
+                     VSGGAVVGASTRMPGGDTLSLGFAQLFARDKDYFMNTNFAKTYAGSLRLQHDASLYSV
+                     VSILLGEGGLREILLPYVSKTLPCSFYGQLSYGHTDHRMKTESLPPPPRRSRRIILLG
+                     EDMSGLESWELELLLKIPAAEDFSKSTLHL"
+     CDS             20332..20787
+                     /codon_start=1
+                     /gene="pmp_2_2"
+                     /note="frame-shift with pmp2_1"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98224.1"
+                     /transl_table=11
+                     /translation="MGTRVAVENTSGRGFFQEYTPFVKVQAVYARQDSFVELGAISRD
+                     FSDSHLYNLAIPLGIKLEKRFAEQYYHVVAMYSPDVCRSNPKCTTTLLSSQGSWKTKG
+                     SNLARQAGIVQASGFRSLGAAAELFGNFGFEWRGSSRSYNVDAGSKIKF"
+     CDS             21043..21603
+                     /codon_start=1
+                     /gene="pmp_3_1"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98225.1"
+                     /transl_table=11
+                     /translation="MQNQSIYFTMKSSFPKFVFSTFAIFPLSMIATETVLDSSASFDG
+                     NKNGNFSVRESQEDAGTTYLFKGNVTLENIPGTGTAITKSCFNNTKGDLTFTGNGNSL
+                     LFQTVDAGTVAGAAVNSSVVDKSTTFIGFSSLSFIASPGSSITTGKGAVSCSTGSLSL
+                     TKMSVCSSAKTFQRIMAVLSPQKLFH"
+     CDS             21537..23855
+                     /codon_start=1
+                     /gene="pmp_3_2"
+                     /note="frame-shift with pmp3_1"
+                     /product="Pmp_3"
+                     /protein_id="BAA98226.1"
+                     /transl_table=11
+                     /translation="MLFSKNFSTDNGGAITAKTLSLTGTTMSALFSENTSSKKGGAIQ
+                     TSDALTITGNQGEVSFSDNTSSDSGAAIFTEASVTISNNAKVSFIDNKVTGASSSTTG
+                     DMSGGAICAYKTSTDTKVTLTGNQMLLFSNNTSTTAGGAIYVKKLELASGGLTLFSRN
+                     SVNGGTAPKGGAIAIEDSGELSLSADSGDIVFLGNTVTSTTPGTNRSSIDLGTSAKMT
+                     ALRSAAGRAIYFYDPITTGSSTTVTDVLKVNETPADSALQYTGNIIFTGEKLSETEAA
+                     DSKNLTSKLLQPVTLSGGTLSLKHGVTLQTQAFTQQADSRLEMDVGTTLEPADTSTIN
+                     NLVINISSIDGAKKAKIETKATSKNLTLSGTITLLDPTGTFYENHSLRNPQSYDILEL
+                     KASGTVTSTAVTPDPIMGEKFHYGYQGTWGPIVWGTGASTTATFNWTKTGYIPNPERI
+                     GSLVPNSLWNAFIDISSLHYLMETANEGLQGDRAFWCAGLSNFFHKDSTKTRRGFRHL
+                     SGGYVIGGNLHTCSDKILSAAFCQLFGRDRDYFVAKNQGTVYGGTLYYQHNETYISLP
+                     CKLRPCSLSYVPTEIPVLFSGNLSYTHTDNDLKTKYTTYPTVKGSWGNDSFALEFGGR
+                     APICLDESALFEQYMPFMKLQFVYAHQEGFKEQGTEAREFGSSRLVNLALPIGIRFDK
+                     ESDCQDATYNLTLGYTVDLVRSNPDCTTTLRISGDSWKTFGTNLARQALVLRAGNHFC
+                     FNSNFEAFSQFSFELRGSSRNYNVDLGAKYQF"
+     CDS             24094..25377
+                     /codon_start=1
+                     /gene="pmp_4_1"
+                     /product="polymorphic outer membrane protein G Family"
+                     /protein_id="BAA98227.1"
+                     /transl_table=11
+                     /translation="MRSSFSLLLISSSLAFPLLMSVSADAADLTLGSRDSYNGDTSTT
+                     EFTPKAATSDASGTTYILDGDVSISQAGKQTSLTTSCFSNTAGNLTFLGNGFSLHFDN
+                     IISSTVAGVVVSNTAASGITKFSGFSTLRMLAAPRTTGKGAIKITDGLVFESIGNLDL
+                     NENASSENGGAINTKTLSLTGSTRFVAFLGNSSSQQGGAIYASGDSVISENAGILSFG
+                     NNSATTSGGAISAEGNLVISNNQNIFFDGCKATTNGGAIDCNKAGANPDPILTLSGNE
+                     SLHFLNNTAGNSGGAIYTKKLVLSSGRGGVLFSNNKAANATPKGGAIAILDSGEISIS
+                     ADLGNIIFEGNTTSTTGSPASVTRNAIDLASNAKFLNLRATRGNKVIFYDPITSSGAT
+                     DKLSLNKADAGSGNTYEGYIVFSGEKLSEVRNLTI"
+     CDS             25374..25862
+                     /codon_start=1
+                     /gene="pmp_4_1_2"
+                     /note="frame-shift with pmp_4_1"
+                     /product="polymorphic outer membrane protein G Family"
+                     /protein_id="BAA98228.1"
+                     /transl_table=11
+                     /translation="MKSTFTQAVELAAGALVLKDGVTVVANTITQVEGSKVVMDGGTT
+                     FEASAEGVTLNGLAINIDSLDGTNKAIIKATAASKDVALSGPIMLVDAQGNYYEHHNL
+                     SQQQVFPLIELSAQGTMTTTDIPDTPILNTTNHYGYQGNWNNCLGRRCNCKNKKCYLN
+                     LD"
+     CDS             25765..26844
+                     /codon_start=1
+                     /gene="pmp_4_2"
+                     /note="frame-shift with pmp_4_1_2"
+                     /product="Pmp_4"
+                     /protein_id="BAA98229.1"
+                     /transl_table=11
+                     /translation="MLRITMGIKGTGIIVWVDDATAKTKNATLTWTKTGYKPNPERQG
+                     PLGPNSLWGSFVDVRSIQSLMDRSTSSLSSSTNLWVSGIADFLHEDQKGNQRSYRHSS
+                     AGYALGGGFFTASENFFNFAFCQLFGYDKDHLVAKNHTHVYAGAMSYRHLGESKTLAK
+                     ILSGNSDSLPFVFNARFAYGHTDNNMTTKYTGYSPVKGSWGNDAFGIECGGAIPVVAS
+                     GRRSWVDTHTPFLNLEMIYAHQNDFKENGTEGRSFQSEDLFNLAVPVGIKFEKFSDKS
+                     TYDLSIAYVPDVIRNDPGCTTTLMVSGDSWSTCGTSLSRQALLVRAGNHHAFASNFEV
+                     FSQFEVELRGSSRSYAIDLGGRFGF"
+     CDS             27193..28677
+                     /codon_start=1
+                     /gene="pmp_5_1"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98230.1"
+                     /transl_table=11
+                     /translation="MKTSVSMLLALLCSGASSIVLHAATTPLNPEDGFIGEGNTNTFS
+                     PKSTTDAAGTTYSLTGEVLYIDPGKGGSITGTCFVETAGDLTFLGNGNTLKFLSVDAG
+                     ANIAVAHVQGSKNLSFTDFLSLVITESPKSAVTTGKGSLVSLGAVQLQDINTLVLTSN
+                     ASVEDGGVIKGNSCLIQGIKNSAIFGQNTSSKKGGAISTTQGLTIENNLGTLKFNENK
+                     AVTSGGALDLGAASTFTANHELIFSQNKTSGNAANGGAINCSGDLTFTDNTSLLLQEN
+                     STMQDGGALCSTGTISITGSDSINVIGNTSGQKGGAISAASLKILGGQGGALFSNNVV
+                     THATPLGGAIFINTGGSLQLFTQGGDIVFEGNQVTTTAPNATTKRNVIHLESTAKWTG
+                     LAASQGNAIYFYDPITTNDTGASDNLRINEVSANQKLSGSIVFSGERLSTAEAIAENL
+                     TSRINQPVTLVEGSLVLKQGVTLITQGFSQEPESTLLLDLGTSL"
+     CDS             28693..30030
+                     /codon_start=1
+                     /gene="pmp_5_2"
+                     /note="frame-shift with pmp_5_1"
+                     /product="Pmp_5"
+                     /protein_id="BAA98231.1"
+                     /transl_table=11
+                     /translation="MVITNLSINADTIYGKNPINIVASAANKNITLTGTLALVNADGA
+                     FYENHTLQDSQDYSFVKLSPGAGGTIITQDASQKPLEVAPSRPHYGYQGHWNVQVIPG
+                     TGTQPSQANLEWVRTGYLPNPERQGSLVPNSLWGSFVDQRAIQEIMVNSSQILCQERG
+                     VWGAGIANFLHRDKINEHGYRHSGVGYLVGVGTHAFSDATINAAFCQLFSRDKDYVVS
+                     KNHGTSYSGVVFLEDTLEFRSPQGFYTDSSSEACCNQVVTIDMQLSYSHRNNDMKTKY
+                     TTYPEAQGSWANDVFGLEFGATTYYYPNSTFLFDYYSPFLRLQCTYAHQEDFKETGGE
+                     VRHFTSGDLFNLAVPIGVKFERFSDCKRGSYELTFAYVPDVIRKDPKSTATLASGATW
+                     STHGNNLSRQGLQLRLGNHCLINPGIEVFSHGAIELRGSSRNYNINLGGKYRF"
+     CDS             complement(30271..32358)
+                     /codon_start=1
+                     /gene="CPj0020"
+                     /note="leader peptide: outer membrane"
+                     /note="putative"
+                     /product="Omp"
+                     /protein_id="BAA98232.1"
+                     /transl_table=11
+                     /translation="MKRCFLFLASFVLMGSSADALTHQEAVKKKNSYLSHFKSVSGIV
+                     TIEDGVLNIHNNLRIQANKVYVENTVGQSLKLVAHGNVMVNYRAKTLVCDYLEYYEDT
+                     DSCLLTNGRFAMYPWFLGGSMITLTPETIVIRKGYISTSEGPKKDLCLSGDYLEYSSD
+                     SLLSIGKTTLRVCRIPILFLPPFSIMPMEIPKPPINFRGGTGGFLGSYLGMSYSPISR
+                     KHFSSTFFLDSFFKHGVGMGFNLHCSQKQVPENVFNMKSYYAHRLAIDMAEAHDRYRL
+                     HGDFCFTHKHVNFSGEYHLSDSWETVADIFPNNFMLKNTGPTRVDCTWNDNYFEGYLT
+                     SSVKVNSFQNANQELPYLTLRQYPISIYNTGVYLENIVECGYLNFAFSDHIVGENFSS
+                     LRLAARPKLHKTVPLPIGTLSSTLGSSLIYYSDVPEISSRHSQLSAKLQLDYRFLLHK
+                     SYIQRRHIIEPFVTFITETRPLAKNEDHYIFSIQDAFHSLNLLKAGIDTSVLSKTNPR
+                     FPRIHAKLWTTHILSNTESKPTFPKTACELSLPFGKKNTVSLDAEWIWKKHCWDHMNI
+                     RWEWIGNDNVAMTLESLHRSKYSLIKCDRENFILDVSRPIDQLLDSPLSDHRNLILGK
+                     LFVRPHPCWNYRLSLRYGWHRQDTPNYLEYQMILGTKIFEHWQLYGVYERREADSRFF
+                     FFLKLDKPKKPPF"
+     CDS             complement(32375..34081)
+                     /codon_start=1
+                     /gene="CPj0021"
+                     /note="leader peptide"
+                     /note="putative"
+                     /product="Omp"
+                     /protein_id="BAA98233.1"
+                     /transl_table=11
+                     /translation="MGLFHLTLFGLLLCSLPISLVAKFPESVGHKILYISTQSTQQAL
+                     ATYLEALDAYGDHDFFVLRKIGEDYLKQSIHSSDPQTRKSTIIGAGLAGSSEALDVLS
+                     QAMETADPLQQLLVLSAVSGHLGKTSDDLLFKALASPYPVIRLEAAYRLANLKNTKVI
+                     DHLHSFIHKLPEEIQCLSAAIFLRLETEESDAYIRDLLAAKKSAIRSATALQIGEYQQ
+                     KRFLPTLRNLLTSASPQDQEAILYALGKLKDGQSYYNIKKQLQKPDVDVTLAAAQALI
+                     ALGKEEDALPVIKKQALEERPRALYALRHLPSEIGIPIALPIFLKTKNSEAKLNVALA
+                     LLELGCDTPKLLEYITERLVQPHYNETLALSFSKGRTLQNWKRVNIIVPQDPQERERL
+                     LSTTRGLEEQILTFLFRLPKEAYLPCIYKLLASQKTQLATTAISFLSHTSHQEALDLL
+                     FQAAKLPGEPIIRAYADLAIYNLTKDPEKKRSLHDYAKKLIQETLLFVDTENQRPHPS
+                     MPYLRYQVTPESRTKLMLDILETLATSKSSEDIRLLIQLMTEGDAKNFPVLAGLLIKI
+                     VE"
+     CDS             complement(34063..34653)
+                     /codon_start=1
+                     /gene="maf"
+                     /product="Maf-type protein"
+                     /protein_id="BAA98234.1"
+                     /transl_table=11
+                     /translation="MSLPLVLGSSSPRRKFILEKFRVPFTVIPSNFDESKVSYSGDPI
+                     AYTQELAAQKAYAVSELHSPCDCIILTGDTIVSYDGRIFTKPQDKADAIQMLKTLRNQ
+                     THDVVTSIAVLHKGKLLTGSETSQISLTMIPDHRIESYIDTVGTLNNCGAYDVCHGGL
+                     ILKKVHGCVYNVQGLPIQTLKYLLEELNIDLWDYSI"
+     CDS             complement(34682..36274)
+                     /codon_start=1
+                     /gene="yjjK"
+                     /product="ABC transporter protein ATPase"
+                     /protein_id="BAA98235.1"
+                     /transl_table=11
+                     /translation="MSIVLDKIGKSLGTRILFDDVSVVFNPGNCYGLTGPNGAGKSTL
+                     LKIIMGMIEPTRGSISLPKKVGILRQNIDSFHDTTVLDCVIMGNTRLWEALQRRDNLY
+                     LQEFTDAIGMELGEIEEIIGEENGYRADSEAEELLTGIGIPNEMFDKKMAMIPIDLQF
+                     RVLLCQALFGHPEALLLDEPTNHLDLYSINWLGNFLKDYEGTVIVVSHDRHFLNTITT
+                     HIADIDYDTIIIYPGNYDDMVEMKTASREQEKADIKSKEKKISQLKEFVAKFGAGSRA
+                     SQVQSRLREIKKLQPQELKKSNIQRPYIRFPLSDKSSGKVVLSLEAITKDYGDHQVIH
+                     PFSLEIYQGDKLGIIGNNGLGKTTLMKLLAGVEAPSSGSIKLGHQAICSYFPQNHSDV
+                     LADCGQETLFEWLRNRKTGINDQEIRSVLGKMLFGGDDAFKQIQALSGGETARLLMAG
+                     MMLENHNVLILDEANNHLDLESVSALSWAINDYKGTAIFVSHDRGLIQDCATKLLIFD
+                     KDKITFFDGTMVDYTAGHKQLL"
+     CDS             complement(36329..37267)
+                     /codon_start=1
+                     /gene="xerC"
+                     /product="integrase/recombinase"
+                     /protein_id="BAA98236.1"
+                     /transl_table=11
+                     /translation="MIASIYSFLDYLKMVKSASPHTLRNYCLDLNGLKIFLEERGNLA
+                     PSSPLQLATEKRKVSELPFSLFTKEHVRMYIAKLIENGKAKRTIKRCLSSIKSFAHYC
+                     VIQKILLENPAETIHGPRLPKELPSPMTYAQVEVLMATPDISKYHGLRDRCLMELFYS
+                     SGLRISEIVAVNKQDFDLSTHLIRIRGKGKKERIIPVTSNAIQWIQIYLNHPDRKRLE
+                     KDPQAIFLNRFGRRISTRSIDRSFQEYLRRSGLSGHITPHTIRHTIATHWLESGMDLK
+                     TIQALLGHSSLETTTVYTQVSVKLKKQTHQEAHPHA"
+     CDS             complement(37352..38275)
+                     /codon_start=1
+                     /gene="atsA"
+                     /product="sulphohydrolase/glycosulfatase"
+                     /protein_id="BAA98237.1"
+                     /transl_table=11
+                     /translation="MSSRELIILGCSSQQPTRTRNQGAYLFRWNGEGLLFDPGEGTQR
+                     QFIFANIAPTTVNRIFVSHFHGDHCLGLGSMLMRLNLDKVSHPIHCYYPASGKKYFDR
+                     LRYGTIYHETIQVVEHPISEEGIVEDFGSFRIEAQRLQHQVDTLGWRITEPDTIKFLP
+                     KELESRGIRGLIIQDLIRDQEISIGGSTVYLSDVSYVRKGDSIAIIADTLPCQAAIDL
+                     AKNSCMMLCESTYLEQHRHLAESHFHMTAKQAATLAKRAATQKLILTHFSARYLNLDD
+                     FYKEASAVFPNVSVAQEYRSYPFPKNPLLNK"
+     CDS             complement(38430..39296)
+                     /codon_start=1
+                     /gene="CPj0026"
+                     /product="CT345 hypothetical protein"
+                     /protein_id="BAA98238.1"
+                     /transl_table=11
+                     /translation="MSHLIPSLRNSVTSYFHKPQPIKQAAPSKSIRDICNIAYLIIIC
+                     VLVVVVLVGAMLCMFIPSVGIPLCLSSLALLVLLSIFNPCLINWISTKKTKEIAPKDA
+                     SESQPTKSASRKGSPQLSPHHDHEPKNFIRTQLEKGVNYVTNKFKSGEESPHISDEHH
+                     SPRQSKRSSEIESSDESSPELHRKAKGKAPHTATTKGSKTSTTESSKKKKKTKHSLHR
+                     TTSSIHKRSAPKPMVPSKKRKPVLLKKTVPLPIEDLEHQSSGNESSDSSSPPPVQRKA
+                     ILPWFCKQPTDP"
+     CDS             complement(39446..41905)
+                     /codon_start=1
+                     /gene="lon"
+                     /product="Lon ATP-dependent protease"
+                     /protein_id="BAA98239.1"
+                     /transl_table=11
+                     /translation="MDSTTNSDSPILDPNPEDVEKLLDESEEESEDQSTERLLPSELF
+                     ILPLNKRPFFPGMAAPILIESGPYYEVLKVLAKSSQKYIGLVLTKKENADILKVSFNQ
+                     LHKTGVAARILRIMPIEGGSAQVLLSIEERIRIIEPIKDKYLKARVSYHADNKELTEE
+                     LKAYSISIVSVIKDLLKLNPLFKEELQIFLGHSDFTEPGKLADFSVALTTATREELQE
+                     VLETTNMHDRIDKALILLKKELDLSRLQSSINQKIEATITKSQKEFFLKEQLKTIKKE
+                     LGLEKEDRAIDIEKFSERLRKRHVPDYAMEVIQDEIEKLQTLETSSAEYTVCRNYLDW
+                     LTIIPWGIQSKEYHDLKKAEIVLNKDHYGLDEIKQRILELISVGKLSKGLKGSIICLV
+                     GPPGVGKTSIGRSIAKVLHRKFFRFSVGGMRDEAEIKGHRRTYIGAMPGKMVQALKQS
+                     QAMNPVIMIDEVDKIGASYHGDPASALLEVLDPEQNKDFLDHYLDVRVDLSNVLFILT
+                     ANVLDTIPDPLLDRMEILRLSGYILEEKLQIAKKYLVPKARKEIGLTASEVNFQPEAL
+                     KYMINNYAREAGVRTLNGNIKKVLRKVALKIVQNQEKPKSKKITFKISSKNLQTYLGK
+                     PIFSSDRFYESTPVGVATGLAWTSLGGATLYIESVQVSSLKTDMHLTGQAGEVMKESS
+                     QIAWTYLHSALHRYAPGYTFFPKSQVHIHIPEGATPKDGPSAGITMVTSLLSLLLETP
+                     VVNNLGMTGEITLTGRVLGVGGIREKLIAARRSRLNILIFPEDNRRDYEELPAYLKTG
+                     LKIHFVSHYDDVLKVAFPKLK"
+     CDS             complement(42211..42996)
+                     /codon_start=1
+                     /gene="CPj0028"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98240.1"
+                     /transl_table=11
+                     /translation="MFLQFFHPIVFSDQSLSFLPYLGKSSGIIEKCSNIVEHYLHLGG
+                     DTSVIITGVSGATFLSVDHALPISKSEKIIKILSYILILPLILALFIKIVLRIILFFK
+                     YRGLILDVKKEDLKKTLTPDQENLSLPLPSPTTLKKIHALHILVRSGKTYNELIQEGF
+                     SFTKITDLGQAPSPKQDIGFSYNSLLPNFYFHSLVSVPNISGEERALNYHKEQQEEMA
+                     VKLKTMQACSFVFRSLHLPSMQTKDKKAGFGLLTFFPWKIYPL"
+     CDS             complement(43058..43426)
+                     /codon_start=1
+                     /gene="CPj0029"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98241.1"
+                     /transl_table=11
+                     /translation="MNDGLRFCYSYILLRPMLLDSSLLRKGGQELLKKFQIKLRTTSI
+                     KSSLISLRQQLGKREATQSDILYGTSRFQYLNSFEIEDPRIPPTMAAQLQEIIWSRSV
+                     MELKIKFYVYLNSERNKTKP"
+     CDS             43562..44203
+                     /codon_start=1
+                     /gene="gcp_1"
+                     /product="O-sialoglycoprotein endopeptidase"
+                     /protein_id="BAA98242.1"
+                     /transl_table=11
+                     /translation="MYFYKYVIIDTSGYYPFLACVDNQQVLEHWSLPVGPDLGIVLEF
+                     LFKSKNLSFQGVAVALGPGNFSATRIGISFAQGLAMAKNVPLLGYSSLEGYLLSKDEK
+                     KALMLPLGKRGGVLTLSSEIPEEGLNEKRRGVGPGALLSYEEASDYCVAHGYYHVISP
+                     NPQLFASSFSDKITVEEVAPSVEQIRRHVISQFMFVEYDKQLSPDYRSYSCIF"
+     CDS             44382..44558
+                     /codon_start=1
+                     /gene="rs21"
+                     /product="S21 ribosomal protein"
+                     /protein_id="BAA98243.1"
+                     /transl_table=11
+                     /translation="MPSVKVRVGEPVDRALRILKKKIDKEGILKAAKSHRFYDKPSVK
+                     KRAKSKAAAKYRSR"
+     CDS             44594..45772
+                     /codon_start=1
+                     /gene="dnaJ"
+                     /product="heat shock protein J"
+                     /protein_id="BAA98244.1"
+                     /transl_table=11
+                     /translation="MDYYSILGISKTASAEEIKKAYRKLAVKYHPDKNPGDAAAEKRF
+                     KEVSEAYEVLSDPQKRDSYDRFGKDGPFAGAGGFGGAGGMGNMEDALRTFMGAFGGEF
+                     GGGSFFDGLFGGLGEAFGMRSDPAGARQGASKKVHINLTFEEAAHGVEKELVVSGYKS
+                     CETCSGQGAVNPQGIKSCERCKGSGQVVQSRGFFSMASTCPECGGEGRIITDPCSSCR
+                     GQGRVKDKRSVHVHIPAGVDSGMRLKMEGYGDAGQNGAPSGDLYVFIDVESHPVFERR
+                     GDDLILELPIGFVDAALGMKKEIPTLLKTEGSCRLTVPEGIQSGTILKVRNQGFPNVH
+                     GKGRGDLLVRISVETPQNLSEEQKELLRTFASTEKAENFPKKRSFLDKIKGFFSDFTV
+                     "
+     CDS             45809..47845
+                     /codon_start=1
+                     /gene="pdhA_pdhB"
+                     /product="(pyruvate) oxoisovalerate dehydrogenase alpha
+                     and beta fusion"
+                     /protein_id="BAA98245.1"
+                     /transl_table=11
+                     /translation="MGVVQNQVISSIRDVLKLVWELRFAEHKMLLLSRQSGSGGTFQL
+                     SCAGHELAGVLAGKSLIPGKDWSFPYYRDQGFPIGLGCDLSEIFASFLARTTPNHSSA
+                     RMMPYHYSHKKLRICCQSSVVGTQFLQAAGRAWAVKHSSADEVVYVSGGDGATSQGEF
+                     HEMLNFVALHQLPLITVIQNNHWAISVPFEDQCGADLASLGRCHQGLAVYEVDGGNYT
+                     SLTETFSHAVDQARQHSVPALILIDVVRLSSHSNSDNQEKYRSALDLKLSMDKDPLIL
+                     LEKEAINVFGLSPFEIEEIKAEAQEEVRKSCEIAEALPFPSKGSTSHEVFSPYTETLI
+                     DYENSESAQNLRNSEPKVMRDAISEALVEEMTRDSGVIVFGEDVAGDKGGVFGVTRNL
+                     TEKFGPQRCFNSPLAEATIIGTAIGMALDGIHKPVVEIQFADYIWPGINQLFSEASSI
+                     YYRSAGEWEVPLVIRAPSGGYIQGGPYHSQSIEGFLAHCPGIKVAYPSNAADAKALLK
+                     AAIRDPNPVVFLEHKALYQRRIFSACPVFSHDYVLPFGKAAIVHPGKDLTIVSWGMPL
+                     VLSLEVAQELASRGISIEVIDLRTMVPCDFATVLKSLEKTGRLLVIHEASEFCGFGSE
+                     LVATMSEQGYAYLDAPIRRLGGLHAPVPYSKVLENEVLPHKESILQAAKSLAEF"
+     CDS             complement(47878..49128)
+                     /codon_start=1
+                     /gene="CPj0034"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98246.1"
+                     /transl_table=11
+                     /translation="MAEISTPSLPDSSIVSQKTPPVPDPDSSPDHIPTIPTQAPFKPQ
+                     RKKETPSSIVNAIAFAILAFLSCLGGVFAICLGCSLEITMPLFILTAVFIAFTLLYFI
+                     HYLEKPKIPEPLPTPPPSPTLRAPTLTPEIPAPAPGIPLPPTLPKVDRTKLTCNPDIH
+                     YPSTYDPKACFSLLKQLFSLDPETRPEDRKYSNKLASILLRSKEKSGFRFHCFKGHFS
+                     HDKILNKKSGAVVISSHSSMDFSTTLGRAFAVTTCLQRSCWEKIKNNIPTPEKHLPIG
+                     SCVSGPWDVEEGAQLYTSHLIVINPPTLETLIKEKMRRAITLKDFSMKEAFTNLVLAY
+                     LQCFDICIEHNLESVQLEVFGLNNLSADQEEFTTWESCCHLALLESVRILLASKEEYA
+                     LSNVSVNSISQVPLQTACRALFLN"
+     CDS             complement(49237..50700)
+                     /codon_start=1
+                     /gene="CPj0035"
+                     /product="CT339 hypothetical protein"
+                     /protein_id="BAA98247.1"
+                     /transl_table=11
+                     /translation="MWNRCQVFSSFFFRYPISSWLIRLRASCECFQQRHPIFLCGLYW
+                     LAGITSRGYPECSALILIFLGMFLPRNPKQWLPLASAWIISLMLTPAPFLHDGPISGT
+                     FVIHHAGGQGTYYGEALCIQTPCGKRAHHLSCQILSESRLELKKVYELEGTLHHTSQI
+                     VFKSNACYKEIPRSRFYIMKEKCRESSCHFLNHRFPSSEVGPFASSLLLGTPLPQNLR
+                     DLFRQKGLSHLFAISGWHFSLCATTLWMLCALLPLKIKKILSFIVLTSLACIFPMSLS
+                     VWRSWISVTLLCFSWCFSGSCSGLNRLGAGFILCSIFFSPFSPTFVLSFLATLGILLF
+                     FPKIFSFLYTPWTQFLSPFWLYPIRYLAMTLAISLSAQLFIVLPIMQYFGSLPLEGLL
+                     YNLIVPFTILPIIVFLIATIILPCCSPITEALIQGFLSHPWLHNPNILKTLSFAPVPP
+                     WMLTLASLILFFIGILRTNVSPYASTSATSYRFIETL"
+     CDS             50673..51470
+                     /codon_start=1
+                     /gene="CPj0036"
+                     /product="CT338 hypothetical protein"
+                     /protein_id="BAA98248.1"
+                     /transl_table=11
+                     /translation="MKKPDNDSTFDVRSFFPFDVLCIEQLRKEMSWEVVSAKIPRLPR
+                     GWYELMGLSKEDRIDFCLDFWCSVLGIEHKESPSICRFFSLLETIEVYIYRLEKEPYQ
+                     LKMFYVFRDGRCGFQGEPPLLDFLGHHRLPPLGDRHYEKFFSIHNGFGKWEDEGIFPM
+                     RSLAKVQQKLRQQLVVMNKMQAEDNCYSLGIFPFYGYEEPFAYQSFFFDPEIRRDLPS
+                     PNVLLNEESLEHRSLETIELLHLSKSYYPSFLSWLENYLHSEEVYNE"
+     CDS             51463..51789
+                     /codon_start=1
+                     /gene="ptsH"
+                     /product="Pts phosphocarrier protein hpr"
+                     /protein_id="BAA98249.1"
+                     /transl_table=11
+                     /translation="MNEPTRTYLESEKDTQDQIEELQATCIVKNAAGIHVRPAGVIVR
+                     LFDGEPCDVHFTYAGKTINAKSIMSILMLGAPQGGEILVTIRSKEAHRILQKIQDAFS
+                     SGFGEL"
+     CDS             51790..53505
+                     /codon_start=1
+                     /gene="ptsI"
+                     /product="Pts pep phosphotransferase"
+                     /protein_id="BAA98250.1"
+                     /transl_table=11
+                     /translation="MDTQSSIGNEEWRIAGTSVVSGMALGKVFFLGTSPLHVRELTLP
+                     QEEVEHEIHRYYKALNRSKSDIVALEQEVTGQQGLQEVSSILQAHLEIMKDPLLTEEV
+                     VNTIRKDRKNAEYVFSSVMGKIEESLTAVRGMPSVVDRVQDIHDISNRVIGHLCCQHK
+                     SSLGESDQNLIIFSEELTPSEVASANSAYIRGFVSLVGAATSHTAIVSRAKSIPYLAN
+                     ISEELWNIAKRYNGKLVLIDGYRGELIFNPKPATLQSCYKKELSVVAHTSQRLVRKSL
+                     HPIVSSHAGSDKDVEDLLENFPQTSIGLFRSEFLAVILGRLPTLREQVDLYEKLARFP
+                     GDSPSVLRLFDFGEDKPCPGIKNKKERSIRWLLDYSVILEDQLQAIAKASLQGSIKVL
+                     IPGVSDVSEIIEVKKKWETIQTRFPKGHKVSWGTMIEFPSAVWMIEEILPECDFLSIG
+                     TNDLVQYTLGISRESALPKHLNVTLPPAVIRMIHHVLQAAKQNQVPVSICGEAAGQLS
+                     LTPLFIGLGVQELSVAMPVINRLRNHIALLELNSCLEITEALLQAKTCSEVEELLNRN
+                     NKITS"
+     CDS             complement(53631..53921)
+                     /codon_start=1
+                     /gene="ybaB"
+                     /product="YbaB family hypothetical protein"
+                     /protein_id="BAA98251.1"
+                     /transl_table=11
+                     /translation="MGSGYAKKKKEAKIMEQQFLEMEASLLEKRYEGQAGNGLVSVVI
+                     NGKCDLISVKVQPTCLDPEDPEVIEDLFRAAFKLAKEQMDQEMSLMRSTMPF"
+     CDS             complement(53986..55314)
+                     /codon_start=1
+                     /gene="dnaX_1"
+                     /product="DNA polymerase III gamma and tau"
+                     /protein_id="BAA98252.1"
+                     /transl_table=11
+                     /translation="MTLQPYQASSRKYRPQIFREILGQSSVVAVLKNALVFNRAAHAY
+                     LFSGIRGTGKTTLARILAKALNCVHLSEDGEPCNQCFSCKEIASGSSLDVLEIDGASH
+                     RGIEDIRQINETVLFTPVKAKFKIYIIDEVHMLTKEAFNALLKTLEEPPQHVKFFFAT
+                     TEIHRIPGTILSRCQKMHLQRIPEKTILEKLSLMAQDDHIEASQEALAPIARAAQGSL
+                     RDAESLYDYVISLFPKSLSPDTVAQALGFASQDSLRTLDNAILQRDYATALGIVTDFL
+                     NSGVAPVTFLHDLTLFYRNLLLTNSTTSKFSSQYKTEQLLEIIDFLGESAKHLQNTIF
+                     EQTFLETVIIHIIRIYQRPVLSELISSIKSRQFEGLRNIKEPTLTQQVSAPQPQPTYK
+                     EQSFLEKKNQPAAEGKIISVEVKSSASIKSAAVDTLLQFAVVEFSGILRQ"
+     CDS             55667..57016
+                     /codon_start=1
+                     /gene="CPj0041"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98253.1"
+                     /transl_table=11
+                     /translation="MLLLISGALFLTLGIPGLTAGVSFGLGIGLSALGGVLVVSGLLC
+                     LLVKREVSKVCPEEIPAVQPEETPEGVPVTPFEKPALDEAQKEQKTQKILDQLPQELD
+                     QLDRYIQEVFACLGPLKDLKYEDQGFLQDVKEEFQVFDFVQKDMIAEFVELQQILCQE
+                     GRLLEFVINQTRYIGRDLFKREDSLYKLWEWLGYLPSGDVRGERLKKSAREVVDRFMR
+                     TTCNIRKIAMTFDRHVYSVAKTAFEKAFGALETCVYESMRESYREAFCEYEKAKLLGD
+                     EEKSAHAEQRFQDIKNRWEDVKDAFFWVKEDGKIEIDDAIGNSCKWSERYEEHRITRA
+                     RWYKVAEHQLFNATMRVKDSLREHNEARVAFEKERSKENQRQVQKKKEKRLRDLKELH
+                     DQELPRAQERLRELQALYPEIAVSVVEARREVASDLEKAHESIDKHYQSCVREQELY"
+     CDS             57074..57856
+                     /codon_start=1
+                     /gene="CPj0042"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98254.1"
+                     /transl_table=11
+                     /translation="MEEVSEYLQQVENQLESCSKRLTKMETFALGVRLEAKEEIESII
+                     LSDVVNRFEVLCRDIEDMLSRVEEIERMLRMAELPLLPIKEALTKAFVQHNSCKEKLT
+                     KVEPYFKESPAYLTSEERLQSLNQTLQRAYKESQKVSGLESEVRACREQLKDQVRQFE
+                     TQGVSLIKEEILFVTSTFRTKFSYHSFRLHVPCMRLYEEYYDDIDLERTRARWMAMSE
+                     RYRDAFQAFQEMLKEGLVEEAQALRETEYWLYREERKSKKKH"
+     CDS             58118..60046
+                     /codon_start=1
+                     /gene="CPj0043"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98255.1"
+                     /transl_table=11
+                     /translation="MQVPLSPQLPPPPPDHSVGASFCLSKFRVLAITFLVLGVLLLIS
+                     GALFLTLGISGVSLGVGLGLSALGSVLVISGFLLLLERREVSGVGLEGIPTGIPVGPS
+                     AEPSSEEIQKKQKAKQILDQLPQELDQLDTDIQHVLSCLGKLKDLKCKDRGLLKDAKE
+                     KLQVFDFVWKDMMMEFVELQQVMDQESRYLEGLIHEVQSIAHKLFVDDVNIRSHLGES
+                     CGYLPSEDVRGELLKRFAKEVVARFMKVTRDIRKIAMAFNKNAYGAAKNAFDKAFGSL
+                     ETCLYKSLTKSYRDTFCDYKRAKILPDENNSARAEQRFREVKDHWEDLNETVFWVKED
+                     GRIDIEVLTAVGGWPDRYPEHLILEKRKDKVMSHQLWEATMRVKEAEVTYSVARVAFE
+                     KDGSQQNQKKFQEKTKERLRCLKDLRDQECHRAQERLEKLTALYPEVSVSVVETERER
+                     KFNLEKAYGNLEERYQSVVQDQEDYWTEQKNREAEFRAKGTKVRSMEEVAEHLQILEN
+                     LLEDCYKRLSKAETFALGVEREATEEIEYTILSDAANRLKVLCEDIEDTLPRVEEIEM
+                     MLRMAERPLHPIKQAFTKAFVQYNRCKERLAKVEPYYKESPAYVNSEERLQSLDQASQ
+                     CIQRVPKGFKFRNGSMYI"
+     CDS             60090..60452
+                     /codon_start=1
+                     /gene="CPj0044"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98256.1"
+                     /transl_table=11
+                     /translation="MSLIKEELLFLSSTLKSKLSYDPLIANIPCMKFYYQYYDDIDKA
+                     RAQSRWLEKSERYRNAKRRFQEIVKKGLFKEAKPLKKEEYRLLQEERSNKEKRLIYNK
+                     MAVARQRVQEFESMEIPE"
+     CDS             60740..62947
+                     /codon_start=1
+                     /gene="CPj0045"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98257.1"
+                     /transl_table=11
+                     /translation="MLLLISGALFLTLGVPGLAAGLSFGLGIGLSALGGVLVVSGLLF
+                     FLIRRGVSKVRPEEIPVTPSHEAQKILCQLPQELDQLDTSIQEVVSCLGKLKDLKYED
+                     QGLLTEVQEKLRVFDFVRKDMVTEFLELQQVVAQEGQFLDYLINQVQSISHKLFVPDV
+                     NIGAHLAELCGYLPSGDVRVERLKRSARQVVDRFMRVTCDTRKVAMAFDENACGVAKN
+                     AFDKAFGALEECVYKSLTESYREAFYEYEKAKILRNEDVEWLQDKNKSARAEQRFREV
+                     KDRWEDLKETVFWVKENGCIDLEVLTAVGGWPDRGPEHLIPEKRRNKVMSHKLWEATM
+                     RMKGAEGTYSVARVAFEKDGSRKNQKKFQEKTKEWLRCLKDLHDQECHRARERLAELE
+                     ALYPEVSVSVVETERETKFKLETAYGNLEERYQSVVRDQEDYWKEEENKEAEFREKGT
+                     KVRSPEEVVEYLQILENLLEDCSKQLTIAEVVVLGVELEATAEFEYTILSDAANRLKV
+                     LCEDIEDILPRVEEIEIMLRIAELPFLPIKQAFTKAFLQYNSCKDKLAKVEPYCQESV
+                     DYRRNKERFQSLNQDLQNVYQECQKATGLESEVSAYRDHLREQITEFETQGLDVIKEE
+                     LLFVSSTLKSKLSYDPLIADIPCMKFYEEYYDGIDKARVQSRWLEKSERYRKAKKGFQ
+                     EMLKEGLFKEDQALKKAEYRLLREKRMNKEKLLICNKIEAAQQRVQEFGPSDS"
+     CDS             63136..63336
+                     /codon_start=1
+                     /gene="CPj0047"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98258.1"
+                     /transl_table=11
+                     /translation="MTIVGFFRFVLEGILTMYHFQKIRMTLTTQGFVLNKSLRKDYEL
+                     WFVYGSCPESKVNRQTSSHKWL"
+     CDS             63368..65485
+                     /codon_start=1
+                     /gene="yqfF"
+                     /product="conserved hypothetical inner membrane protein"
+                     /protein_id="BAA98259.1"
+                     /transl_table=11
+                     /translation="MKELRHESYNRALHKLSHQWVRYFLYTFVSCSFIVAIFTFAWLK
+                     VLYVPEYKAGEISRISLTAPMDFSLSWSAHKFYKRTAHISEAFGKVYHLTLSPGSLLS
+                     KEGNADENTDYWFKKAADFLLSTNFVDSSTQKCLKDLCIYPPLLGKEKKTLEININSN
+                     KGNVIAQCFCHLKIFLIQENCPQPCFDAIMDILKIANFEVAVDKEMSGCVKGELLGKR
+                     CIEKITKGTPILEKYQRIDDRDAKILKQLRAQLLSVHTLFSCRSLWGAIFVVLLILLW
+                     GYGALKALCPEMLKSPQRFMLYIAILTLSLLWCRGTEIFCAYWVSYLSYPPILPFTAV
+                     LLGYFLGLPIAGFSCTFLALLYTLGSDLWNNSWFLSINLLCSWRILVSLHRVSRLSSV
+                     FWACMKLGGVAMGSLLMFRIFTNTISREALYADGIESFVYSLITAISVVALIPVFEAS
+                     FGASTNFSLLTYLSPENALLKRLFKEAPGTYQHSVLVGSLAEAAAQAIGADSLYCLVA
+                     AHYHDIGKLINPGFFSENQKILQQSGHSLSPLECAKMIMRHIPEGVNLARQAGLPESF
+                     IQVIEEHHGTSVIRSAYYSHMVENPSTGSFDEELFRYSGNKPSSKETTIIMIADSFEA
+                     ASRSLKNASLPDLQRLIDQIIQGKLQDGQFSCSPITLDELALISKSMVQTLYGALHSR
+                     MKYPEISYQISMDSCPKPSIGGT"
+     CDS             complement(65495..65977)
+                     /codon_start=1
+                     /gene="CPj0049"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98260.1"
+                     /transl_table=11
+                     /translation="MLHQPYYDKILTGNTIYIPGHTHKDSNKLFQKKSRAIWVDEKPF
+                     SLDCFSNVFLIFVSLVPIAGLVRAYQIKKSLDRTTVQIGYSPSLSCEQKECVEAFVNG
+                     YGLICISILGGLGILVPILILVVLSLLLLGILMLFSLSTYESIKNYISKHICWKSNAT
+                     "
+     CDS             complement(66220..66489)
+                     /codon_start=1
+                     /gene="CPj0050"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98261.1"
+                     /transl_table=11
+                     /translation="MRYAKHQTNWNDENVKANLGYLPSTNCKNALCRMSSRLTSSIKT
+                     AGILGGCGILLPIFLLLLAILLISVLFQLIMLPFRLCCFASISVL"
+     CDS             66509..66790
+                     /codon_start=1
+                     /gene="CPj0051"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98262.1"
+                     /transl_table=11
+                     /translation="MGNHETYIHPGVLPSSHAQDVSRSTVYPSRSFIMRRMLMGWNFN
+                     RVPSKSSEQLMDGHRIPLIFFGKHHPTISILNVNRFSWLSIFYNGERGF"
+     CDS             complement(66977..67681)
+                     /codon_start=1
+                     /gene="hemC"
+                     /product="porphobilinogen deaminase"
+                     /protein_id="BAA98263.1"
+                     /transl_table=11
+                     /translation="MLSVCYSDPCLSDFCQGKRPLRIASRNSNLAKAQVHECISLLRS
+                     WYPKLWFQLSTTETTGDREKKIPLHLVENSYFFTDGVDALVHKGVCDLAIHSAKDLPE
+                     TPSLPVVAITRCLHPADLLVYADHYVHEPLPLSPRLGSSSLRRSAVLKQLFPQGQILD
+                     IRGTIEERLDQLHRGHYDAIVLAKAASLRLHLHHAYSIELPPPYHALQGSLAITAKDH
+                     AGKWKQLFTPIHCHSS"
+     CDS             complement(67659..69020)
+                     /codon_start=1
+                     /gene="sms"
+                     /product="Sms protein"
+                     /protein_id="BAA98264.1"
+                     /transl_table=11
+                     /translation="MATKTKTQWTCNQCGATAPKWLGQCPGCHNWNSLVEEYVPQARS
+                     GTSSRSSTSAIALSSIELENESRIFIDHAGWDRILGGGVVRGSLTLLGGDPGIGKSTL
+                     LLQTAERLASQKYKVLYVCGEESVTQTSLRAKRLNISSPLIYLFPETNLDNIKQQIAT
+                     LEPDILIIDSIQIIFNPTLNSAPGSVAQVREVTYELMQIAKSAQITTFIIGHVTKSGE
+                     IAGPRVLEHLVDTVLYFEGNSHANYRMIRSVKNRFGPTNELLILSMHADGLKEVSNPS
+                     GLFLQEKTGPTTGSMIIPIIEGSGALLIELQALVSSSPFANPVRKTAGFDPNRFSLLL
+                     AVLEKRAQVKLFTMDVFLSITGGLKIIEPAADLGALLAVASSLYNRLLPNNSIVIGEV
+                     GLGGEIRHVAHLERRIKEGKLMGFEGAILPEGQISSLPKEIRENFRLQGVKTIKDAIR
+                     LLL"
+     CDS             complement(68986..69699)
+                     /codon_start=1
+                     /gene="rnc"
+                     /product="ribonuclease III"
+                     /protein_id="BAA98265.1"
+                     /transl_table=11
+                     /translation="MHPPIDITAIEAKLNFTFTQPKLLEIALTHPSYKNESAVQIEDS
+                     ERLEFLGDAVLGLIVTEHLFLLFPSMDEGTLSTARASLVNAKACCRYTTMLGIGDYLL
+                     IGKGEKIQSERGRLSAYANLFESILGAVYLDGGLSPARKLTVPLLPPREEILPLMSGN
+                     PKNLLQQFTQKQFRVLPVYQSTAVTDAQGNVSYQIQVLVNQEVWGEGNASSKKEAEKI
+                     AAQQALDTYGNKNQNTMDV"
+     CDS             69805..70269
+                     /codon_start=1
+                     /gene="CPj0055"
+                     /product="CT296 hypothetical protein"
+                     /protein_id="BAA98266.1"
+                     /transl_table=11
+                     /translation="MRSALHLQHLRHFHNHGSILFENLLTIKDCFLLETKLQNFIAKA
+                     SKTIDTVRWRENIFRSMPEIYTVVRKRRLDFFAAELVHRPKLSLVRDLWVFPGEEILE
+                     GEEDCMLFLLLSGDRAGSGIFFTGPYPSDLYELEKGTTGLLLAFSSVGIPVI"
+     CDS             481526..484063
+                     /codon_start=1
+                     /gene="clpC"
+                     /product="ClpC protease"
+                     /protein_id="BAA98645.1"
+                     /transl_table=11
+                     /translation="MFETFTNRAKQVIKLAKKEAQRLNHNYLGTEHILLGLLKLGQGV
+                     AVNVLRNLGIDFDTARQEVERLIGYGPEIQVYGDPALTGRVKKSFESANEEASLLEHN
+                     YVGTEHLLLGILHQSDSVALQVLENLHIDPREVRKEILKELETFNLQLPPSSSSSSSS
+                     SRSNPSSSKSPLGHSLGSDKNEKLSALKAYGYDLTEMVRESKLDPVIGRSSEVERLIL
+                     ILCRRRKNNPVLIGEAGVGKTAIVEGLAQKIILNEVPDALRKKRLITLDLALMIAGTK
+                     YRGQFEERIKAVMDEVRKHGNILLFIDELHTIVGAGAAEGAIDASNILKPALARGEIQ
+                     CIGATTIDEYRKHIEKDAALERRFQKIVVHPPSVDETIEILRGLKKKYEEHHNVFITE
+                     EALKAAATLSDQYVHGRFLPDKAIDLLDEAGARVRVNTMGQPTDLMKLEAEIENTKLA
+                     KEQAIGTQEYEKAAGLRDEEKKLRERLQSMKQEWENHKEEHQVPVDEEAVAQVVSLQT
+                     GIPSARLTEAESEKLLKLEDTLRRKVIGQNDAVTSICRAIRRSRTGIKDPNRPTGSFL
+                     FLGPTGVGKSLLAQQIAIEMFGGEDALIQVDMSEYMEKFAATKMMGSPPGYVGHEEGG
+                     HLTEQVRRRPYCVVLFDEIEKAHPDIMDLMLQILEQGRLTDSFGRKVDFRHAIIIMTS
+                     NLGADLIRKSGEIGFGLKSHMDYKVIQEKIEHAMKKHLKPEFINRLDESVIFRPLEKE
+                     SLSEIIHLEINKLDSRLKNYQMALNIPDSVISFLVTKGHSPEMGARPLRRVIEQYLED
+                     PLAELLLKESCRQEARKLRATLVENRVAFEREEEEQEAALPSPHLES"
+     CDS             complement(484041..485126)
+                     /codon_start=1
+                     /gene="ycbF"
+                     /product="PP-loop superfamily ATPase"
+                     /protein_id="BAA98646.1"
+                     /transl_table=11
+                     /translation="MQQTVIVAMSGGVDSSVVAYLFKKFTNYKVIGLFMKNWEEDSEG
+                     GLCSSTKDYEDVERVCLQLDIPYYTVSFAKEYRERVFARFLKEYSLGYTPNPDILCNR
+                     EIKFDLLQKKVQELGGDYLATGHYCRLNTELQETQLLRGCDPQKDQSYFLSGTPKSAL
+                     HNVLFPLGEMNKTEVRAIAAQAALPTAEKKDSTGICFIGKRPFKEFLEKFLPNKTGNV
+                     IDWDTKEIVGQHQGAHYYTIGQRRGLDLGGSEKPCYVVGKNIEENSIYIVRGEDHPQL
+                     YLRELTARELNWFTPPKSGCHCSAKVRYRSPDEACTIDYSSGDEVKVRFSQPVKAVTP
+                     GQTIAFYQGDTCLGSGVIDVPMIPSEG"
+     CDS             485263..485790
+                     /codon_start=1
+                     /gene="CPj0439"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98647.1"
+                     /transl_table=11
+                     /translation="MSSTLNGVFPSSLPEESADLFITNKEIVALGEKGNVFLTHSIPM
+                     HIAAITILVIVALAGIAIICLGCYSQSILLIAVGIVLTILTLLCLQALVGFIKFIRQL
+                     PQQLHTTVQFIREKIRPESSLQLVTNAQRKTTQDTLKLYEELCDLSQKEFKLQSTLYQ
+                     KRFELSHKNEKTNQN"
+     CDS             485815..486453
+                     /codon_start=1
+                     /gene="CPj0440"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98648.1"
+                     /transl_table=11
+                     /translation="MATSVAPSPVPESSPLSHATEVLNLPNAYITQPHPIPAAPWETF
+                     RSKLSTKHTLCFALTLLLTLGGTISAGYAGYTGNWIICGIGLGIIVLTLILALLLAIP
+                     LKNKQTGTKLIDEISQDISSIGSGFVQRYGLMFSTIKSVHLPELTTQNQEKTRILNEI
+                     EAKKESIQNLELKITECQNKLAQKQPKRKSSQKSFMRSIKHLSKNPVILFDC"
+     CDS             486601..487551
+                     /codon_start=1
+                     /gene="CPj0441"
+                     /product="CT007 hypothetical protein"
+                     /protein_id="BAA98649.1"
+                     /transl_table=11
+                     /translation="MFKLLFHIAAFAGHVLSTPIFIVQDACGIDEEACKNPPPRPFSA
+                     QVQYLKVNDAKFKKLPHQTIGYRQYDGTFLCTLPITEHSGLLFSTGYIGADIQWKSSL
+                     PISETDPNGLGWATFQDTSFYNYVLLSLGAYTLSLKNWQWSIILSGLVDPKNIEMGYG
+                     LYQGVLSGKYQATEKLSAIFGVINETGLHQEKAWPLVGVSYKATDQLTLNCIYPVNFS
+                     IDYRSTSVCNLGLAYRLTRFRKKLYKNHLISSRGIFEYQGREIEANVKLTPWPGSFIK
+                     GFYGWSIGNDISIADDHNNNKTSHTFKTSAFFGGSAVMNF"
+     CDS             487723..488241
+                     /codon_start=1
+                     /gene="CPj0442"
+                     /product="CT006 hypothetical protein"
+                     /protein_id="BAA98650.1"
+                     /transl_table=11
+                     /translation="MGFKNICKQGSQLYLNGIFPERILARKLKNCAKSYPRTALTIEV
+                     LVSSVLGALKVILIPCASTYAALTLPLRALFNAIKTKSCQHLASYAMAWLLNILTIAV
+                     IIGLVFSLVFIPPPVVFISLGLLMSVTTSVTLFQVHKNLFPPYEPPPSRPHTPPPFAD
+                     EYVPLISESYFD"
+     CDS             488439..489692
+                     /codon_start=1
+                     /gene="CPj0443"
+                     /product="CT005 hypothetical protein"
+                     /protein_id="BAA98651.1"
+                     /transl_table=11
+                     /translation="MSQPPINPLGQPQVPAAASPSGQPSVVKRLKTSSTGLFKRFITV
+                     PDKYPKMRYVYDTGIIALAAIAILSILLTASGNSLMLYALAPALALGALGVTLLISDI
+                     LDSPKAKKIGEAITAIVVPIIVLAIAAGLIAGAFVASSGTMLVFANPMFVMGLITVGL
+                     YFMSLNKLTLDYFRREHLLRMEKKTQETAEPILVTPSADDAKKIAVEKKKDLSASARM
+                     EEHEASQRQDARHRRIGREAQGSFFYSSRNPEHRRSFGSLSRFKTKPSDAASTRPASI
+                     SPPFKDDFQPYHFKDLRSSSFGSGASSAFTPIMPASSRSPNFSTGTVLHPEPVYPKGG
+                     KEPSIPRVSSSSRRSPRDRQDKQQQQQNQDEEQKQQSKKKSGKSNQSLKTPPPDGKST
+                     ANLSPSNPFSDGYDEREKRKHRKNK"
+     CDS             489997..493827
+                     /codon_start=1
+                     /gene="pmp_6"
+                     /product="polymorphic outer membrane protein G/I family"
+                     /protein_id="BAA98652.1"
+                     /transl_table=11
+                     /translation="MKYSLPWLLTSSALVFSLHPLMAANTDLSSSDNYENGSSGSAAF
+                     TAKETSDASGTTYTLTSDVSITNVSAITPADKSCFTNTGGALSFVGADHSLVLQTIAL
+                     THDGAAINNTNTALSFSGFSSLLIDSAPATGTSGGKGAICVTNTEGGTATFTDNASVT
+                     LQKNTSEKDGAAVSAYSIDLAKTTTAALLDQNTSTKNGGALCSTANTTVQGNSGTVTF
+                     SSNTATDKGGGIYSKEKDSTLDANTGVVTFKSNTAKTGGAWSSDDNLALTGNTQVLFQ
+                     ENKTTGSAAQANNPEGCGGAICCYLATATDKTGLAISQNQEMSFTSNTTTANGGAIYA
+                     TKCTLDGNTTLTFDQNTATAGCGGAIYTETEDFSLKGSTGTVTFSTNTAKTGGALYSK
+                     GNSSLTGNTNLLFSGNKATGPSNSSANQEGCGGAILSFLESASVSTKKGLWIEDNENV
+                     SLSGNTATVSGGAIYATKCALHGNTTLTFDGNTAETAGGAIYTETEDFTLTGSTGTVT
+                     FSTNTAKTAGALHTKGNTSFTKNKALVFSGNSATATATTTTDQEGCGGAILCNISESD
+                     IATKSLTLTENESLSFINNTAKRSGGGIYAPKCVISGSESINFDGNTAETSGGAIYSK
+                     NLSITANGPVSFTNNSGGKGGAIYIADSGELSLEAIDGDITFSGNRATEGTSTPNSIH
+                     LGAGAKITKLAAAPGHTIYFYDPITMEAPASGGTIEELVINPVVKAIVPPPQPKNGPI
+                     ASVPVVPVAPANPNTGTIVFSSGKLPSQDASIPANTTTILNQKINLAGGNVVLKEGAT
+                     LQVYSFTQQPDSTVFMDAGTTLETTTTNNTDGSIDLKNLSVNLDALDGKRMITIAVNS
+                     TSGGLKISGDLKFHNNEGSFYDNPGLKANLNLPFLDLSSTSGTVNLDDFNPIPSSMAA
+                     PDYGYQGSWTLVPKVGAGGKVTLVAEWQALGYTPKPELRATLVPNSLWNAYVNIHSIQ
+                     QEIATAMSDAPSHPGIWIGGIGNAFHQDKQKENAGFRLISRGYIVGGSMTTPQEYTFA
+                     VAFSQLFGKSKDYVVSDIKSQVYAGSLCAQSSYVIPLHSSLRRHVLSKVLPELPGETP
+                     LVLHGQVSYGRNHHNMTTKLANNTQGKSDWDSHSFAVEVGGSLPVDLNYRYLTSYSPY
+                     VKLQVVSVNQKGFQEVAADPRIFDASHLVNVSIPMGLTFKHESAKPPSALLLTLGYAV
+                     DAYRDHPHCLTSLTNGTSWSTFATNLSRQAFFAEASGHLKLLHGLDCFASGSCELRSS
+                     SRSYNANCGTRYSF"
+     CDS             494089..496899
+                     /codon_start=1
+                     /gene="pmp_7"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98653.1"
+                     /transl_table=11
+                     /translation="MKSSVSWLFFSSIPLFSSLSIVAAEVTLDSSNNSYDGSNGTTFT
+                     VFSTTDAAAGTTYSLLSDVSFQNAGALGIPLASGCFLEAGGDLTFQGNQHALKFAFIN
+                     AGSSAGTVASTSAADKNLLFNDFSRLSIISCPSLLLSPTGQCALKSVGNLSLTGNSQI
+                     IFTQNFSSDNGGVINTKNFLLSGTSQFASFSRNQAFTGKQGGVVYATGTITIENSPGI
+                     VSFSQNLAKGSGGALYSTDNCSITDNFQVIFDGNSAWEAAQAQGGAICCTTTDKTVTL
+                     TGNKNLSFTNNTALTYGGAISGLKVSISAGGPTLFQSNISGSSAGQGGGGAINIASAG
+                     ELALSATSGDITFNNNQVTNGSTSTRNAINIIDTAKVTSIRAATGQSIYFYDPITNPG
+                     TAASTDTLNLNLADANSEIEYGGAIVFSGEKLSPTEKAIAANVTSTIRQPAVLARGDL
+                     VLRDGVTVTFKDLTQSPGSRILMDGGTTLSAKEANLSLNGLAVNLSSLDGTNKAALKT
+                     EAADKNISLSGTIALIDTEGSFYENHNLKSASTYPLLELTTAGANGTITLGALSTLTL
+                     QEPETHYGYQGNWQLSWANATSSKIGSINWTRTGYIPSPERKSNLPLNSLWGNFIDIR
+                     SINQLIETKSSGEPFERELWLSGIANFFYRDSMPTRHGFRHISGGYALGITATTPAED
+                     QLTFAFCQLFARDRNHITGKNHGDTYGASLYFHHTEGLFDIANFLWGKATRAPWVLSE
+                     ISQIIPLSFDAKFSYLHTDNHMKTYYTDNSIIKGSWRNDAFCADLGASLPFVISVPYL
+                     LKEVEPFVKVQYIYAHQQDFYERYAEGRAFNKSELINVEIPIGVTFERDSKSEKGTYD
+                     LTLMYILDAYRRNPKCQTSLIASDANWMAYGTNLARQGFSVRAANHFQVNPHMEIFGQ
+                     FAFEVRSSSRNYNTNLGSKFCF"
+     CDS             496943..499735
+                     /codon_start=1
+                     /gene="pmp_8"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98654.1"
+                     /transl_table=11
+                     /translation="MKIPLHKLLISSTLVTPILLSIATYGADASLSPTDSFDGAGGST
+                     FTPKSTADANGTNYVLSGNVYINDAGKGTALTGCCFTETTGDLTFTGKGYSFSFNTVD
+                     AGSNAGAAASTTADKALTFTGFSNLSFIAAPGTTVASGKSTLSSAGALNLTDNGTILF
+                     SQNVSNEANNNGGAITAKTLSISGNTSSITFTSNSAKKLGGAIYSSAAASISGNTGQL
+                     VFMNNKGETGGGALGFEASSSITQNSSLFFSGNTATDAAGKGGAIYCEKTGETPTLTI
+                     SGNKSLTFAENSSVTQGGAICAHGLDLSAAGPTLFSNNRCGNTAAGKGGAIAIADSGS
+                     LSLSANQGDITFLGNTLTSTSAPTSTRNAIYLGSSAKITNLRAAQGQSIYFYDPIASN
+                     TTGASDVLTINQPDSNSPLDYSGTIVFSGEKLSADEAKAADNFTSILKQPLALASGTL
+                     ALKGNVELDVNGFTQTEGSTLLMQPGTKLKADTEAISLTKLVVDLSALEGNKSVSIET
+                     AGANKTITLTSPLVFQDSSGNFYESHTINQAFTQPLVVFTAATAASDIYIDALLTSPV
+                     QTPEPHYGYQGHWEATWADTSTAKSGTMTWVTTGYNPNPERRASVVPDSLWASFTDIR
+                     TLQQIMTSQANSIYQQRGLWASGTANFFHKDKSGTNQAFRHKSYGYIVGGSAEDFSEN
+                     IFSVAFCQLFGKDKDLFIVENTSHNYLASLYLQHRAFLGGLPMPSFGSITDMLKDIPL
+                     ILNAQLSYSYTKNDMDTRYTSYPEAQGSWTNNSGALELGGSLALYLPKEAPFFQGYFP
+                     FLKFQAVYSRQQNFKESGAEARAFDDGDLVNCSIPVGIRLEKISEDEKNNFEISLAYI
+                     GDVYRKNPRSRTSLMVSGASWTSLCKNLARQAFLASAGSHLTLSPHVELSGEAAYELR
+                     GSAHIYNVDCGLRYSF"
+     CDS             499885..502671
+                     /codon_start=1
+                     /gene="pmp_9"
+                     /product="polymorphic outer membrane protein G/I family"
+                     /protein_id="BAA98655.1"
+                     /transl_table=11
+                     /translation="MKSSLHWFLISSSLALPLSLNFSAFAAVVEINLGPTNSFSGPGT
+                     YTPPAQTTNADGTIYNLTGDVSITNAGSPTALTASCFKETTGNLSFQGHGYQFLLQNI
+                     DAGANCTFTNTAANKLLSFSGFSYLSLIQTTNATTGTGAIKSTGACSIQSNYSCYFGQ
+                     NFSNDNGGALQGSSISLSLNPNLTFAKNKATQKGGALYSTGGITINNTLNSASFSENT
+                     AANNGGAIYTEASSFISSNKAISFINNSVTATSATGGAIYCSSTSAPKPVLTLSDNGE
+                     LNFIGNTAITSGGAIYTDNLVLSSGGPTLFKNNSAIDTAAPLGGAIAIADSGSLSLSA
+                     LGGDITFEGNTVVKGASSSQTTTRNSINIGNTNAKIVQLRASQGNTIYFYDPITTSIT
+                     AALSDALNLNGPDLAGNPAYQGTIVFSGEKLSEAEAAEADNLKSTIQQPLTLAGGQLS
+                     LKSGVTLVAKSFSQSPGSTLLMDAGTTLETADGITINNLVLNVDSLKETKKATLKATQ
+                     ASQTVTLSGSLSLVDPSGNVYEDVSWNNPQVFSCLTLTADDPANIHITDLAADPLEKN
+                     PIHWGYQGNWALSWQEDTATKSKAATLTWTKTGYNPNPERRGTLVANTLWGSFVDVRS
+                     IQQLVATKVRQSQETRGIWCEGISNFFHKDSTKINKGFRHISAGYVVGATTTLASDNL
+                     ITAAFCQLFGKDRDHFINKNRASAYAASLHLQHLATLSSPSLLRYLPGSESEQPVLFD
+                     AQISYIYSKNTMKTYYTQAPKGESSWYNDGCALELASSLPHTALSHEGLFHAYFPFIK
+                     VEASYIHQDSFKERNTTLVRSFDSGDLINVSVPIGITFERFSRNERASYEATVIYVAD
+                     VYRKNPDCTTALLINNTSWKTTGTNLSRQAGIGRAGIFYAFSPNLEVTSNLSMEIRGS
+                     SRSYNADLGGKFQF"
+     CDS             complement(503012..504127)
+                     /codon_start=1
+                     /gene="yxjG_2"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98656.1"
+                     /transl_table=11
+                     /translation="MEMMSPFQQPEQCHFDVVGSFLRPESLTRARSDFEEGRIVYEQM
+                     RVVEDAAIRNLIKKQTEAGLIFFTDGEFRRYSWDFDFMWGFHGVDRRRDSNDPEIGVY
+                     LKDKISVSKHPFIEHFEFVKTFEKGNAKAKQTIPSPSQFFHEMIFAPNLKNTRKFYPT
+                     NQELIDDIVFYYRQVIQDLYAAGCRNLQLDDCAWCRLLDIRAPSWYGVDSHDRLQEIL
+                     EQFLWIHNLVMKDRPEDLFVSLHVCRGDYQAEFFSRRAYDSIEEPLFAKTDVDSYHYY
+                     WALDDKYSGGAEPLAYVSGEKHVCLGLISSNHSCIEDRDAVVSRIYEAASYIPLERLS
+                     LSPQCGFASCEGDHRMTEEEQWKKIAFVKEIAKEIWG"
+     CDS             complement(504644..507430)
+                     /codon_start=1
+                     /gene="pmp_10"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98657.1"
+                     /transl_table=11
+                     /translation="MKSQFSWLVLSSTLACFTSCSTVFAATAENIGPSDSFDGSTNTG
+                     TYTPKNTTTGIDYTLTGDITLQNLGDSAALTKGCFSDTTESLSFAGKGYSLSFLNIKS
+                     SAEGAALSVTTDKNLSLTGFSSLTFLAAPSSVITTPSGKGAVKCGGDLTFDNNGTILF
+                     KQDYCEENGGAISTKNLSLKNSTGSISFEGNKSSATGKKGGAICATGTVDITNNTAPT
+                     LFSNNIAEAAGGAINSTGNCTITGNTSLVFSENSVTATAGNGGALSGDADVTISGNQS
+                     VTFSGNQAVANGGAIYAKKLTLASGGGGGISFSNNIVQGTTAGNGGAISILAAGECSL
+                     SAEAGDITFNGNAIVATTPQTTKRNSIDIGSTAKITNLRAISGHSIFFYDPITANTAA
+                     DSTDTLNLNKADAGNSTDYSGSIVFSGEKLSEDEAKVADNLTSTLKQPVTLTAGNLVL
+                     KRGVTLDTKGFTQTAGSSVIMDAGTTLKASTEEVTLTGLSIPVDSLGEGKKVVIAASA
+                     ASKNVALSGPILLLDNQGNAYENHDLGKTQDFSFVQLSALGTATTTDVPAVPTVATPT
+                     HYGYQGTWGMTWVDDTASTPKTKTATLAWTNTGYLPNPERQGPLVPNSLWGSFSDIQA
+                     IQGVIERSALTLCSDRGFWAAGVANFLDKDKKGEKRKYRHKSGGYAIGGAAQTCSENL
+                     ISFAFCQLFGSDKDFLVAKNHTDTYAGAFYIQHITECSGFIGCLLDKLPGSWSHKPLV
+                     LEGQLAYSHVSNDLKTKYTAYPEVKGSWGNNAFNMMLGASSHSYPEYLHCFDTYAPYI
+                     KLNLTYIRQDSFSEKGTEGRSFDDSNLFNLSLPIGVKFEKFSDCNDFSYDLTLSYVPD
+                     LIRNDPKCTTALVISGASWETYANNLARQALQVRAGSHYAFSPMFEVLGQFVFEVRGS
+                     SRIYNVDLGGKFQF"
+     CDS             507593..510379
+                     /codon_start=1
+                     /gene="pmp_11"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98658.1"
+                     /transl_table=11
+                     /translation="MKTSIPWVLVSSVLAFSCHLQSLANEELLSPDDSFNGNIDSGTF
+                     TPKTSATTYSLTGDVFFYEPGKGTPLSDSCFKQTTDNLTFLGNGHSLTFGFIDAGTHA
+                     GAAASTTANKNLTFSGFSLLSFDSSPSTTVTTGQGTLSSAGGVNLENIRKLVVAGNFS
+                     TADGGAIKGASFLLTGTSGDALFSNNSSSTKGGAIATTAGARIANNTGYVRFLSNIAS
+                     TSGGAIDDEGTSILSNNKFLYFEGNAAKTTGGAICNTKASGSPELIISNNKTLIFASN
+                     VAETSGGAIHAKKLALSSGGFTEFLRNNVSSATPKGGAISIDASGELSLSAETGNITF
+                     VRNTLTTTGSTDTPKRNAINIGSNGKFTELRAAKNHTIFFYDPITSEGTSSDVLKINN
+                     GSAGALNPYQGTILFSGETLTADELKVADNLKSSFTQPVSLSGGKLLLQKGVTLESTS
+                     FSQEAGSLLGMDSGTTLSTTAGSITITNLGINVDSLGLKQPVSLTAKGASNKVIVSGK
+                     LNLIDIEGNIYESHMFSHDQLFSLLKITVDADVDTNVDISSLIPVPAEDPNSEYGFQG
+                     QWNVNWTTDTATNTKEATATWTKTGFVPSPERKSALVCNTLWGVFTDIRSLQQLVEIG
+                     ATGMEHKQGFWVSSMTNFLHKTGDENRKGFRHTSGGYVIGGSAHTPKDDLFTFAFCHL
+                     FARDKDCFIAHNNSRTYGGTLFFKHSHTLQPQNYLRLGRAKFSESAIEKFPREIPLAL
+                     DVQVSFSHSDNRMETHYTSLPESEGSWSNECIAGGIGLDLPFVLSNPHPLFKTFIPQM
+                     KVEMVYVSQNSFFESSSDGRGFSIGRLLNLSIPVGAKFVQGDIGDSYTYDLSGFFVSD
+                     VYRNNPQSTATLVMSPDSWKIRGGNLSRQAFLLRGSNNYVYNSNCELFGHYAMELRGS
+                     SRNYNVDVGTKLRF"
+     CDS             510637..512181
+                     /codon_start=1
+                     /gene="pmp_12"
+                     /product="polymorphic outer membrane protein (truncated)
+                     A/I family"
+                     /protein_id="BAA98659.1"
+                     /transl_table=11
+                     /translation="MTILRNFLTCSALFLALPAAAQVVYLHESDGYNGAINNKSLEPK
+                     ITCYPEGTSYIFLDDVRISNVKHDQEDAGVFINRSGNLFFMGNRCNFTFHNLMTEGFG
+                     AAISNRVGDTTLTLSNFSYLAFTSAPLLPQGQGAIYSLGSVMIENSEEVTFCGNYSSW
+                     SGAAIYTPYLLGSKASRPSVNLSGNRYLVFRDNVSQGYGGAISTHNLTLTTRGPSCFE
+                     NNHAYHDVNSNGGAIAIAPGGSISISVKSGDLIFKGNTASQDGNTIHNSIHLQSGAQF
+                     KNLRAVSESGVYFYDPISHSESHKITDLVINAPEGKETYEGTISFSGLCLDDHEVCAE
+                     NLTSTILQDVTLAGGTLSLSDGVTLQLHSFKQEASSTLTMSPGTTLLCSGDARVQNLH
+                     ILIEDTDNFVPVRIRAEDKDALVSLEKLKVAFEAYWSVYDFPQFKEAFTIPLLELLGP
+                     SFDSLLLGETTLERTQVTTENDAVRGFWSLSWEEYPPSLDKDRRITPTKKTVFLTWNP
+                     EITSTP"
+     CDS             512552..515473
+                     /codon_start=1
+                     /gene="pmp_13"
+                     /product="polymorphic outer membrane protein G family"
+                     /protein_id="BAA98660.1"
+                     /transl_table=11
+                     /translation="MKTSIRKFLISTTLAPCFASTAFTVEVIMPSENFDGSSGKIFPY
+                     TTLSDPRGTLCIFSGDLYIANLDNAISRTSSSCFSNRAGALQILGKGGVFSFLNIRSS
+                     ADGAAISSVITQNPELCPLSFSGFSQMIFDNCESLTSDTSASNVIPHASAIYATTPML
+                     FTNNDSILFQYNRSAGFGAAIRGTSITIENTKKSLLFNGNGSISNGGALTGSAAINLI
+                     NNSAPVIFSTNATGIYGGAIYLTGGSMLTSGNLSGVLFVNNSSRSGGAIYANGNVTFS
+                     NNSDLTFQNNTASPQNSLPAPTPPPTPPAVTPLLGYGGAIFCTPPATPPPTGVSLTIS
+                     GENSVTFLENIASEQGGALYGKKISIDSNKSTIFLGNTAGKGGAIAIPESGELSLSAN
+                     QGDILFNKNLSITSGTPTRNSIHFGKDAKFATLGATQGYTLYFYDPITSDDLSAASAA
+                     ATVVVNPKASADGAYSGTIVFSGETLTATEAATPANATSTLNQKLELEGGTLALRNGA
+                     TLNVHNFTQDEKSVVIMDAGTTLATTNGANNTDGAITLNKLVINLDSLDGTKAAVVNV
+                     QSTNGALTISGTLGLVKNSQDCCDNHGMFNKDLQQVPILELKATSNTVTTTDFSLGTN
+                     GYQQSPYGYQGTWEFTIDTTTHTVTGNWKKTGYLPHPERLAPLIPNSLWANVIDLRAV
+                     SQASAADGEDVPGKQLSITGITNFFHANHTGDARSYRHMGGGYLINTYTRITPDAALS
+                     LGFGQLFTKSKDYLVGHGHSNVYFATVYSNITKSLFGSSRFFSGGTSRVTYSRSNEKV
+                     KTSYTKLPKGRCSWSNNCWLGELEGNLPITLSSRILNLKQIIPFVKAEVAYATHGGIQ
+                     ENTPEGRIFGHGHLLNVAVPVGVRFGKNSHNRPDFYTIIVAYAPDVYRHNPDCDTTLP
+                     INGATWTSIGNNLTRSTLLVQASSHTSVNDVLEIFGHCGCDIRRTSRQYTLDIGSKLR
+                     F"
+     CDS             515500..518436
+                     /codon_start=1
+                     /gene="pmp_14"
+                     /product="polymorphic outer membrane protein H family"
+                     /protein_id="BAA98661.1"
+                     /transl_table=11
+                     /translation="MPLSFKSSSFCLLACLCSASCAFAETRLGGNFVPPITNQGEEIL
+                     LTSDFVCSNFLGASFSSSFINSSSNLSLLGKGLSLTFTSCQAPTNSNYALLSAAETLT
+                     FKNFSSINFTGNQSTGLGGLIYGKDIVFQSIKDLIFTTNRVAYSPASVTTSATPAITT
+                     VTTGASALQPTDSLTVENISQSIKFFGNLANFGSAISSSPTAVVKFINNTATMSFSHN
+                     FTSSGGGVIYGGSSLLFENNSGCIIFTANSCVNSLKGVTPSSGTYALGSGGAICIPTG
+                     TFELKNNQGKCTFSYNGTPNDAGAIYAETCNIVGNQGALLLDSNTAARNGGAICAKVL
+                     NIQGRGPIEFSRNRAEKGGAIFIGPSVGDPAKQTSTLTILASEGNIAFQGNMLNTKPG
+                     IRNAITVEAGGEIVSLSAQGGSRLVFYDPITHSLPTTSPSNKDITINANGASGSVVFT
+                     SKGLSSTELLLPANTTTILLGTVKIASGELKITDNAVVNVLGFATQGSGQLTLGSGGT
+                     LGLATPTGAPAAVDFTIGKLAFDPFSFLKRDFVSASVNAGTKNVTLTGALVLDEHDVT
+                     DLYDMVSLQSPVAIPIAVFKGATVTKTGFPDGEIATPSHYGYQGKWSYTWSRPLLIPA
+                     PDGGFPGGPSPSANTLYAVWNSDTLVRSTYILDPERYGEIVSNSLWISFLGNQAFSDI
+                     LQDVLLIDHPGLSITAKALGAYVEHTPRQGHEGFSGRYGGYQAALSMNYTDHTTLGLS
+                     FGQLYGKTNANPYDSRCSEQMYLLSFFGQFPIVTQKSEALISWKAAYGYSKNHLNTTY
+                     LRPDKAPKSQGQWHNNSYYVLISAEHPFLNWCLLTRPLAQAWDLSGFISAEFLGGWQS
+                     KFTETGDLQRSFSRGKGYNVSLPIGCSSQWFTPFKKAPSTLTIKLAYKPDIYRVNPHN
+                     IVTVVSNQESTSISGANLRRHGLFVQIHDVVDLTEDTQAFLNYTFDGKNGFTNHRVST
+                     GLKSTF"
+     CDS             complement(518773..520851)
+                     /codon_start=1
+                     /gene="CPj0456"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98662.1"
+                     /transl_table=11
+                     /translation="MTHCLHGWFSVVRHHFVQAFNFSRPLYSRITHFALGVIKAIPIV
+                     GHLVMGVDWLISHCFERGVSHPGLPSDIAPILKVEKIAGRDHISRIENQLKSLRKTIE
+                     VEDLDKVHGQYQENPYADMASSEVLKLDKGVHVSELGKAFSRVRNRITRSYSYAPTPQ
+                     LDSIAIVGIDLVSPEEQENLVRLANEVIQLYPKSKTTLYLLIDFNKEWVGDISSDKEK
+                     QLRSLGLHSEVQCLSVLEPQGAEGEDTKHFDLMVGCYGKDSYLREGKILQQALGTSLG
+                     TVPWVNVMHTLPSRYRSRLSLPINTEKDKTELYKEISRTHHQLHTLGMGLGAQDSGLL
+                     LDRQRLHAPLSQGSHCHSYLADLTHEELKILLFSAFVDAKNISKKELREVSLNFANDT
+                     SVESWLRFLLLVSYDEKEKDVVVVCNHSEPNILGLPPEAVSQLIEELSDEGYSYLNVV
+                     RCDLSGETTVQQRLLLNADEGRSMTVVISELPEGHPDIRNLQLASERIFVSREKEAAD
+                     AYASGCKVVAFDDEHLPWVSSHIAYAEEIREKQEQTMQGSLTEEQLGALLCNTVSTEK
+                     NLAFALDAVIKQSVWRFRNPDLFAYEREALEASVTDALVSYVSNLDMIPYTSSQGIVI
+                     EDSSIVRTSQEHTLIVNCAAFDKLASQIEFLCPSDVLPISGKDPLISDDEDEELNPKV
+                     SSAADSKDKT"
+     CDS             complement(521295..523184)
+                     /codon_start=1
+                     /gene="CPj0457"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98663.1"
+                     /transl_table=11
+                     /translation="MASCLSAWFSIVREHFYRAFDFSLPFCARITEFVLGVIKGIPVV
+                     GHIIVGIEWLVSRYLESFVTKPTFVSDVVSLLKTEKVAGRDHIARVVETLKRQRVAVA
+                     PEDEDKVHGKIPVHPFGGIQPVEVLTLYPEVQDATLGLAFSKIRNRVRQAYLQAPRPK
+                     LQKIYIIGNDMNPFEVDDFLHLARLCNETQRLYPDATISLYLTASGGRNAMDKKNRKL
+                     LSDCELNPKIACLDFNQGDVVKQATCDCWMVYHGENDQGTLNQIQEELEKSGEETPWI
+                     HVGQKPLSQSLWDFSPFSSLEMKGDKEKALEYSELEKEQLYSRLVYVGERSSVLSLGF
+                     GDSRSGILMDPKRVHAPLSEGHYCHSYLADLENPGLQKTILAAFLNPKELSSTILQPI
+                     SLNLILNSKTYLRQHFGFFERMSRSDRNVVVVVCDSWWGTDWKEEPSFQHFIMELECR
+                     GYSHFNIFAFRSNSMCVEERRILNESSQEKAFTMIFCEDSVSQGDIRCLHLASEGMLC
+                     GKECYAVDVYTSGCANFMMEEVLTLERESNLWNRKHGLWKREVRKQKQEAALDQDESE
+                     IYVCNQLTAQQNFACSLDAAIRQSIWRSRMPELLSIERRALGEQLFTTVHHYLTTQKK
+                     ILRGI"
+     CDS             complement(523552..525639)
+                     /codon_start=1
+                     /gene="CPj0458"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98664.1"
+                     /transl_table=11
+                     /translation="MFVSNFIFFVVMPIPYISSWISTVRQHFVKAFDFSRPFCSRVTN
+                     FALGVIKAIPIVGHIVMGMEWLVSSCVAGIITRSSFTSDVVQIVKTEKALGRDHISRV
+                     AEILQRERGTITPENQDKVHGKFPVCPFGRLKSEETLKLKPGERGGTLDTVFSPIRTR
+                     VTRAYLQAPRPEIRTISIVGSKLKTPQDFSQFVSLANETQRLHPEALVCLYLTGLNRE
+                     SQMCDTTTAEKKQYLHNSGLDSRIQCKDSKEDDAGSPENPELWIGYYSREQQHNIDGQ
+                     YIQQCLGKSADPIPWIHVTEDTKDFYYPPNFTSYSHTRQSTDPTSPPRLPESEGDKDS
+                     LYGQLSRSYHHEYMLGLGLKPEDAGLLMDPDRIYAPLSQGHYCHSYLADIENEDLRTL
+                     VLSPFLDPGNLSSEDLRPVAFNIARLPLELDSLFFRLVAGQQEGRNIVTLAHGTPRPE
+                     DLDPDSMNILTRRLQMSGYSYLNIFSYKSRKMIVKERQFFGDRSEGKSFTLILFEDPI
+                     SAADFRCLQLAAEGMVAKDLPSVADICASGCSCIQFSEMQSPQAIEYRQWEARVEDEA
+                     GEEAREPVIYSQDQLSSMLTTQQNFVFSLDAVVKQAIWRFRSKGLLTMERKALGEEFL
+                     TAIFSYLGSQERNENMGKRTTEEHEVVISFEELDRMVQVLPAEVPADSGNDPTHPVPN
+                     PDSNPDSSQNEGS"
+     CDS             complement(525935..526324)
+                     /codon_start=1
+                     /gene="CPj0459"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98665.1"
+                     /transl_table=11
+                     /translation="MREEGSVSFREYFRAYMCDKIVAQKNFLFTLDAVIKQAGWRSQE
+                     KLNLFYVESQALGREIKVSLEEYIQSMVGILGSQRTKKSFKFSVDFTPLEQALQERCS
+                     SDDDEDATATSTATGATASPTDMHEDE"
+     CDS             complement(526308..527159)
+                     /codon_start=1
+                     /gene="CPj0460"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98666.1"
+                     /transl_table=11
+                     /translation="MIQHLLNFALEETPSISVQYQEQEKLSPCDHSPEIGKKKRWNKL
+                     ESFSTYCSLFMSVKDHYKLNLGIQNSLSGWLLDPYRVCAPLSSPYSCPSYLLDLQNKE
+                     LRRSLLSTFLDPKNLTSETFRSVSINFGNSSFGQRWSEFLSRVLHDEKEKHVAVVCND
+                     AKLLEEGLSPEALSLLEEDLRESGYSYLNILSVSPEGVSKVQERQILRRDLQGRSFTV
+                     MITDLPLGSEDIRSLQLASDRILVSSSLDAADACASGCKVLVYENPNASWAQELENFY
+                     KQVERRR"
+     CDS             complement(527160..527957)
+                     /codon_start=1
+                     /gene="CPj0461"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98667.1"
+                     /transl_table=11
+                     /translation="MACPSISSWFTVVRQHFVNAFDFTHPVCSRITNFALGIIKAIPV
+                     LGHIVMGIEWLISWIPRHTVRHGMFTSDVSSAIKVEQTRGHNCLAPLEAYLSSLRVPI
+                     SQEDLGKVHGRTPEDPFVDITPTEIVQLLPDEELSTVDEALQGVRSRLTYAYRSVEKP
+                     MIQDLALVGFGLRDSADLINFVRLANGVQNHYPHTKVKLYLAKNLADVWDCEISEEEK
+                     GQLRALGLDPKIESISLTSAGLPSVPEVATVDFMITCYGKDQEVQDP"
+     CDS             complement(528353..530371)
+                     /codon_start=1
+                     /gene="CPj0462"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98668.1"
+                     /transl_table=11
+                     /translation="MACYISIWISTVKQHFIRAFDFTRPLGSRITNFALGVIKAIPIL
+                     GCVVIGVSWLVSTCSARRFGKPAFTSDVASIVKIEKTRGYNPLAWVEQYLRQLRVRLP
+                     EGDLGKIHGKVSRDYVCDRTPQENLNMVPHQYLGELGRAFYGIRNRVTKAYQRVTPLE
+                     VPCLTLVGFDILDPEDQVNFVRLANGIQTQYPQTQIKLYLISIQKIWNQCDGTISQEK
+                     EQQLRSLGLDAKIKCVSAPALLLQKYLQSENLPSCDLLINYYGKQQSVRDVDSIKSLL
+                     NLSSEHIPAISVTYRPDDPFYSYYFFPGSQGGTAPDQRIPWSEQEHLQTYTTLSNPRC
+                     DRYAVHLGMEDFASGVFLDPLRVSAPLSGEYSCPSYLLDLKSEELRCFLLSAFIDPNN
+                     SGQGNPRPMSINFGNSPLGQRWSEFLSRVLHDETEKHVAVVCNNPQLIKKSFPSHSLS
+                     LLENELEESGYSYLNIVSVSQERTCVKERRILSSDPSGRSFTVILTDLPEGSSDIRNL
+                     QLASDRILVSSALDAADACASECKILEYEDPEQEWAQQYASFYRNIDRAGDLQRQGIP
+                     GEPLGVSASTRVVLEKDIVFNLNAVIQQAMWKFKKRDLFAVESQALGDDMRRALEGYI
+                     GSSLLVEGTIQPQVACNVNVSFATLDEAVCAACDSAQDAPSEENNTDD"
+     CDS             complement(530507..531676)
+                     /codon_start=1
+                     /gene="CPj0463"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98669.1"
+                     /transl_table=11
+                     /translation="MMKQGVGQDAKELYTFLSRGNEHYQPCLWFSLEEELGFLFDEKM
+                     LCAPLSEDHYCHSYLVDLVDQHLKDLILSMFLDPQNISAGELLKVSINVGDSFSPLQQ
+                     KDFLSMVLRDETGKNVVVVFKGVLSLPATQVCKLVEELNSKDYSYLNIFSCHGDSSPQ
+                     LLFRKELEGTSGRYFTVICALYLGDTDMRSLQLASERIMVSREFDLVDAYAARCKLLK
+                     IDHTNWRPGTFSRHADFADAVDVSAGFNSREFKLITQANQGILESGELPLPSKTFWEG
+                     FLAFCDRVTVTRHFIPMLDAAIKQAVWTHKHPSLIDKECEALDLKTQCLPSIVSYLEY
+                     VTNSHEKTSKGPFIQKEIIADCSPLKEALFPGSDEDVPSTSEDPSDDHPSDLEDS"
+     CDS             complement(531682..532161)
+                     /codon_start=1
+                     /gene="CPj0464"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98670.1"
+                     /transl_table=11
+                     /translation="MFSEGTALNLFRIFAPLRNRVTTEYSRARQPDLHRIAIVYIGVL
+                     DSESSKILERLISYMSCIYSESQMYLRFFMGKNVNQSAVLSKLHVENLHIRCGFFSED
+                     AVPESEPFDLSIYVHTDRSCPLPTKKRSSSWELQTVELPESIYPQSEFLLMRPRMLS"
+     CDS             complement(532187..532531)
+                     /codon_start=1
+                     /gene="CPj0465"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98671.1"
+                     /transl_table=11
+                     /translation="MSYYFSLWYLKVQQHFQAAFDFTRSLCSRISNFALGVIALLPII
+                     GQLYVGLDWLLSRIKKPEFPSDVDQIVRVEHVVGHDHRSRVEDILKRQRLSLEPRDEG
+                     KVRGDLPSAPFF"
+     CDS             533043..535859
+                     /codon_start=1
+                     /gene="pmp_15"
+                     /product="polymorphic outer membrane protein E family"
+                     /protein_id="BAA98672.1"
+                     /transl_table=11
+                     /translation="MRFFCFGMLLPFTFVLANEGLQLPLETYITLSPEYQAAPQVGFT
+                     HNQNQDLAIVGNHNDFILDYKYYRSNGGALTCKNLLISENIGNVFFEKNVCPNSGGAI
+                     YAAQNCTISKNQNYAFTTNLVSDNPTATAGSLLGGALFAINCSITNNLGQGTFVDNLA
+                     LNKGGALYTETNLSIKDNKGPIIIKQNRALNSDSLGGGIYSGNSLNIEGNSGAIQITS
+                     NSSGSGGGIFSTQTLTISSNKKLIEISENSAFANNYGSNFNPGGGGLTTTFCTILNNR
+                     EGVLFNNNQSQSNGGAIHAKSIIIKENGPVYFLNNTATRGGALLNLSAGSGNGSFILS
+                     ADNGDIIFNNNTASKHALNPPYRNAIHSTPNMNLQIGARPGYRVLFYDPIEHELPSSF
+                     PILFNFETGHTGTVLFSGEHVHQNFTDEMNFFSYLRNTSELRQGVLAVEDGAGLACYK
+                     FFQRGGTLLLGQGAVITTAGTIPTPSSTPTTVGSTITLNHIAIDLPSILSFQAQAPKI
+                     WIYPTKTGSTYTEDSNPTITISGTLTLRNSNNEDPYDSLDLSHSLEKVPLLYIVDVAA
+                     QKINSSQLDLSTLNSGEHYGYQGIWSTYWVETTTITNPTSLLGANTKHKLLYANWSPL
+                     GYRPHPERRGEFITNALWQSAYTALAGLHSLSSWDEEKGHAASLQGIGLLVHQKDKNG
+                     FKGFRSHMTGYSATTEATSSQSPNFSLGFAQFFSKAKEHESQNSTSSHHYFSGMCIEN
+                     TLFKEWIRLSVSLAYMFTSEHTHTMYQGLLEGNSQGSFHNHTLAGALSCVFLPQPHGE
+                     SLQIYPFITALAIRGNLAAFQESGDHAREFSLHRPLTDVSLPVGIRASWKNHHRVPLV
+                     WLTEISYRSTLYRQDPELHSKLLISQGTWTTQATPVTYNALGIKVKNTMQVFPKVTLS
+                     LDYSADISSSTLSHYLNVASRMRF"
+     CDS             535952..538756
+                     /codon_start=1
+                     /gene="pmp_16"
+                     /product="polymorphic outer membrane protein E family"
+                     /protein_id="BAA98673.1"
+                     /transl_table=11
+                     /translation="MFGMTPAVYSLQTDSLEKFALERDEEFRTSFPLLDSLSTLTGFS
+                     PITTFVGNRHNSSQDIVLSNYKSIDNILLLWTSAGGAVSCNNFLLSNVEDHAFFSKNL
+                     AIGTAGAIACQGACTITKNRGPLIFFSNRGLNNASTGGETRGGAIACNGDFTISQNQG
+                     TFYFVNNSVNNWGGALSTNGHCRIQSNRAPLLFFNNTAPSGGGALRSENTTISDNTRP
+                     IYFKNNCGNNGGAIQTSVTVAIKNNSGSVIFNNNTALSGSINSGNGSGGAIYTTNLSI
+                     DDNPGTILFNNNYCIRDGGAICTQFLTIKNSGHVYFTNNQGNWGGALMLLQDSTCLLF
+                     AEQGNIAFQNNEVFLTTFGRYNAIHCTPNSNLQLGANKGYTTAFFDPIEHQHPTTNPL
+                     IFNPNANHQGTILFSSAYIPEASDYENNFISSSKNTSELRNGVLSIEDRAGWQFYKFT
+                     QKGGILKLGHAASIATTANSETPSTSVGSQVIINNLAINLPSILAKGKAPTLWIRPLQ
+                     SSAPFTEDNNPTITLSGPLTLLNEENRDPYDSIDLSEPLQNIHLLSLSDVTARHINTD
+                     NFHPESLNATEHYGYQGIWSPYWVETITTTNNASIETANTLYRALYANWTPLGYKVNP
+                     EYQGDLATTPLWQSFHTMFSLLRSYNRTGDSDIERPFLEIQGIADGLFVHQNSIPGAP
+                     GFRIQSTGYSLQASSETSLHQKISLGFAQFFTRTKEIGSSNNVSAHNTVSSLYVELPW
+                     FQEAFATSTVLAYGYGDHHLHSLHPSHQEQAEGTCYSHTLAAAIGCSFPWQQKSYLHL
+                     SPFVQAIAIRSHQTAFEEIGDNPRKFVSQKPFYNLTLPLGIQGKWQSKFHVPTEWTLE
+                     LSYQPVLYQQNPQIGVTLLASGGSWDILGHNYVRNALGYKVHNQTALFRSLDLFLDYQ
+                     GSVSSSTSTHHLQAGSTLKF"
+     CDS             538951..539754
+                     /codon_start=1
+                     /gene="pmp_17.1"
+                     /product="polymorphic outer membrane protein E family"
+                     /protein_id="BAA98674.1"
+                     /transl_table=11
+                     /translation="MMIFYDKLYFHIKVWMFMRPICLSILSTALCCSLSGNEVPNLAS
+                     CQMSRKDISAFHTSPSFRLNVTPEPLVSSFRPSNLLNGFGHDITQDITITGNSINSVI
+                     DYNYHYEDGGILACKNLFISENKGNLSFERNSSHSSGGALYSVRECWISKNQNYSFIS
+                     NAASLATTTTSGFGGAIHALDSYITNNLGEGQFLDNVSKNRGGAIYVGVSLSITDNLG
+                     PIVIKKNQTLEDSSFGGGIFCRAVNIERNYQNIQINDNASGQGVVYFLP"
+     CDS             539739..540782
+                     /codon_start=1
+                     /gene="pmp_17.2"
+                     /note="frame-shift with pmp_17.1"
+                     /product="polymorphic outer membrane protein"
+                     /protein_id="BAA98675.1"
+                     /transl_table=11
+                     /translation="MFSALGVIISSNKEIIEISNHSASSINTASGKLYPGGGGIMCTS
+                     LVIENNPKGLIFNNKTAALSGGAIHTRSFIFQNNGPTAFINNSATSGGALINLSGIGS
+                     TPQNFFLSADYGDILFNNNTITSSSPQPGYRNALYAAPGINLKLGARQGYKILFYDPI
+                     DHDQTTTDPIVFNYEPHHLGTVLFSGINVDSNATNPLNFLSKFSNSSRLERGVLAIED
+                     RAAISCKTLSQTGGILRLGNAALIRTKGPGSSINFNAIAINLPSILQSEASAPKFWIY
+                     PTLTGSTYSEDTSSTITLSGPLTFLNDENENPYDSLDLSEPRKDIPPPLPPRCDCKKN
+                     RYFESHCRSHELR"
+     CDS             540676..541854
+                     /codon_start=1
+                     /gene="pmp_17.3"
+                     /note="Frame-shift with pmp_17.2"
+                     /product="polymorphic outer membrane protein"
+                     /protein_id="BAA98676.1"
+                     /transl_table=11
+                     /translation="MSLNLERISPLLYLLDVTAKKIDTSNLIVEAMNLDEHYGYQGIW
+                     SPYWMETTTTTSSTVPEQTNTNHRQLYVDWTPVGYRPNPERHGEFIANTLWQSAYNAL
+                     LGIRILPPQNLKEHDLEASLQGLGLLINQHNREGRKGFRNHTTGYAATTSAKTAARHS
+                     FSLGFAQMFSKTRERQSPSTTSSHNYFAGLRFDSLLFRDFISTGLSLGYSYGDHHMLC
+                     HYTEILKGSSKAFFNNHTLVASLDCTFLPARITRTLELQPFISAIALRCSQASFQETG
+                     DHIRKFHPKHPLTDLSSPIGFRSEWKTSHHIPMLWTTEISYVPTLYRKNPEMFTTLLI
+                     SNGTWTTQATPVSYNSVAAKIKNTSQLFSRVTLSLDYSAQVSSSTVGQYLKAESHCTF
+                     "
+     CDS             541883..544723
+                     /codon_start=1
+                     /gene="pmp_18"
+                     /product="polymorphic outer membrane protein E/F family"
+                     /protein_id="BAA98677.1"
+                     /transl_table=11
+                     /translation="MQNNRSLSKSSFFVGALILGKTTILLNATPLSDYFDNQANQLTT
+                     LFPLIDTLTNMTPYSHRATLFGVRDDTNQDIVLDHQNSIESWFENFSQDGGALSCKSL
+                     AITNTKNQILFLNSFAIKRAGAMYVNGNFDLSENHGSIIFSGNLSFPNASNFADTCTG
+                     GAVLCSKNVTISKNQGTAYFINNKAKSSGGAIQAAIINIKDNTGPCLFFNNAAGGTAG
+                     GALFANACRIENNSQPIYFLNNQSGLGGAIRVHQECILTKNTGSVIFNNNFAMEADIS
+                     ANHSSGGAIYCISCSIKDNPGIAAFDNNTAARDGGAICTQSLTIQDSGPVYFTNNQGT
+                     WGGAIMLRQDGACTLFADQGDIIFYNNRHFKDTFSNHVSVNCTRNVSLTVGASQGHSA
+                     TFYDPILQRYTIQNSIQKFNPNPEHLGTILFSSAYIPDTSTSRDDFISHFRNHIGLYN
+                     GTLALEDRAEWKVYKFDQFGGTLRLGSRAVFSTTDEEQSSSSVGSVININNLAINLPS
+                     ILGNRVAPKLWIRPTGSSAPYSEDNNPIINLSGPLSLLDDENLDPYDTADLAQPIAEV
+                     PLLYLLDVTAKHINTDNFYPEGLNTTQHYGYQGVWSPYWIETITTSDTSSEDTVNTLH
+                     RQLYGDWTPTGYKVNPENKGDIALSAFWQSFHNLFATLRYQTQQGQIAPTASGEATRL
+                     FVHQNSNNDAKGFHMEATGYSLGTTSNTASNHSFGVNFSQLFSNLYESHSDNSVASHT
+                     TTVALQINNPWLQERFSTSASLAYSYSNHHIKASGYSGKIQTEGKCYSTTLGAALSCS
+                     LSLQWRSRPLHFTPFIQAIAVRSNQTAFQESGDKARKFSVHKPLYNLTVPLGIQSAWE
+                     SKFRLPTYWNIELAYQPVLYQQNPEVNVSLESSGSSWLLSGTTLARNAIAFKGRNQIF
+                     IFPKLSVFLDYQGSVSSSTTTHYLHAGTTFKF"
+     CDS             complement(544897..547224)
+                     /codon_start=1
+                     /gene="CPj0472"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98678.1"
+                     /transl_table=11
+                     /translation="MASGIGGSSGLGKIPPKDNGDRSRSPSPKGELGSHEISLPPQEH
+                     GEEGASGSSHIHSSSSFLPEDQESQSSSSAASSPGFFSRVRSGVDRALKSFGNFFSAE
+                     STSQARETRQAFVRLSKTITADERRDVDSSSAAATEARVAEDASVSGENPSQGVPETS
+                     SGPEPQRLFSLPSVKKQSGLGRLVQTVRDRIVLPSGAPPTDSEPLSLYELNLRLSSLR
+                     QELSDIQSNDQLTPEEKAEATVTIQQLIQITEFQCGYMEATQSSVSLAEARFKGVETS
+                     DEINSLCSELTDPELQELMSDGDSLQNLLDETADDLEAALSHARLSFSLDDNPTPIDN
+                     NPTLISQEEPIYEEIGGAADPQRTRENWSTRLWNQIREALVSLLGMILSILGSILHRL
+                     RIARHAAAEAVGRCCTCRGEECTSSEEDSMSVGSPSEIDETERTGSPHDVPRRNGSPR
+                     EDSPLMNALVGWAHKHGAKTKESSESSTPEISISAPIVRGWSQDSSVSFIVMEDDHIF
+                     YDVPRRKDGIYDVPSSPRWSPARELEEDVFGDYEVPITSAEPSKDKNIYMTPRLATPA
+                     IYDLPSRPGSSGSSRSPSSDRVRSSSPNRRGVPLPPVPSPAMSEEGSIYEDMSGASGA
+                     GESDYEDMSRSPSPRGDLDEPIYANTPEDNPFTQRNIDRILQERSGGASASPVEPIYD
+                     EIPWIHGRPPATLPRPENTLTNVSLRVSPGFGPEVRAALLSESVSAVMVEAESIVPPT
+                     EPGDGESEYLEPLGGLVATTKILLQKGWPRGESNA"
+     CDS             complement(547386..548912)
+                     /codon_start=1
+                     /gene="CPj0473"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98679.1"
+                     /transl_table=11
+                     /translation="MAVGGVGGSRSPSPIPPNRRNSEDGKVSPKDNLGEHTVSSSDSS
+                     LASQGPTIEERKAQLGGTDKIPLPSVKEPGDSPTSGRSGVLQRIWKGVKGVFKKTPQA
+                     RPEVSSPRLPSHVQHGQRLPGLEGFRDRIQKRSENPEADLGKMKRSYSDGDLDRVGHD
+                     SNEDSTEDSRSEGGEPSSKSSSFLSGVRGAVSKVHGALGDIKGKFQRSASEDDLTTQG
+                     EDSAGDTVKERRSEEAEASSKSSSFLSGVRGATSTVQGALGDAKEKVSAFGEQAAGAI
+                     RSAPGNIRTRFQRSSSEGDLSNVNKAAKHLRKALENLEKVAPEQVSPEVASRVQSLLA
+                     RMEQLTHQEPPTVEDLITFVESNVGSDSVEYASIVPQDGSQAPAETAEAPETGGVEGS
+                     AAQGAWKALRDFVVSIFQAVASFFRAIASRLSSARRESAVDDLASESNTQWFVEQEGV
+                     SNPSAAPSLSFAEEIARRAAEMSNRNAQSLEKLESGNVTDPVIQQGLGLARSFAPEGQ
+                     "
+     CDS             complement(549123..550892)
+                     /codon_start=1
+                     /gene="CPj0474"
+                     /product="CT365 hypothetical protein"
+                     /protein_id="BAA98680.1"
+                     /transl_table=11
+                     /translation="MSTSPISNDPRYLSLSNATEKTSLLANSRSLSPVPNSLVPSNPE
+                     DTGLRKSIFTHSVTLFAGLVVLLVAVSVVVVALTVLAPGVPQAILLGIAISGVGIGGF
+                     SIMKSLVYMVRDYMSPRMQESSRIKSALAVGTGFTVMGLVMKVGANFVPGGYGGLVGS
+                     LGSSAYSRGSQTTLASFSHYIYTKFFRSEKVAKGEKLTEAETIKEAKKLHYITLSIAT
+                     IGVGLAVLGILLAIAGTVLLGGAPATIAIILAPPLISIGLTTVLQTILHSSIGKWRAF
+                     LLTQEKKDLFVDTSLKDIRLEKLPPSEVEESETSQSVIEVPDSEGIAETRISAEEIDT
+                     RLSLTTRQKVIFALATLLLLASIAAFIVTGFGGLTVMQVLLVASVGSAVASVTLPMVS
+                     SGFSYVAYQLKARLNISKLRWKEAKNKKRVRQFLIESGVIASDREFNQMWKTVYKKQI
+                     QKTDAAIREEVRNFEKGGEVNSALVGGILLGVGTGIMLLALVPAFAPIVPGILALGGS
+                     TLGIAGSILMRKFVNWLYDELVKLYERRRNRRELLYGPESKMRSIATDLVVEALAASH
+                     DHLFDLDGPVDFIDVDVDIDGAA"
+     CDS             complement(551001..553163)
+                     /codon_start=1
+                     /gene="glgB"
+                     /product="glucan branching enzyme"
+                     /protein_id="BAA98681.1"
+                     /transl_table=11
+                     /translation="MVDKLIHPWDLDLLVSGRQKDPHKLLGILASEDSSDHIVIFRPG
+                     AHTVAIELLGELHHAVAYRSGLFFLSVPKGIGHGDYRVYHQNGLLAHDPYAFPPLWGE
+                     IDSFLFHRGTHYRIYERMGAIPMEVQGISGVLFVLWAPHAQRVSVVGDFNFWHGLVNP
+                     LRKISDQGIWELFVPGLGEGIRYKWEIVTQSGNVIVKTDPYGKSFDPPPQGTARVADS
+                     ESYSWSDHRWMERRSKQSEGPVTIYEVHLGSWQWQEGRPLSYSEMAHRLASYCKEMHY
+                     THVELLPITEHPLNESWGYQVTGYYAPTSRYGTLQEFQYFVDYLHKENIGIILDWVPG
+                     HFPVDAFALASFDGEPLYEYTGHSQALHPHWNTFTFDYSRHEVTNFLLGSALFWLDKM
+                     HIDGLRVDAVASMLYRDYGREDGEWTPNIYGGKENLESIEFLKHLNSVIHKEFSGVLT
+                     FAEESTAFPGVTKDVDQGGLGFDYKWNLGWMHDTFHYFMKDPMYRKYHQKDLTFSLWY
+                     AFQESFILPLSHDEVVHGKGSLVNKLPGDTWTRFAQMRVLLSYQICLPGKKLLFMGGE
+                     FGQYGEWSPDRPLDWELLNHHYHKTLRNCVSALNALYIHQPYLWMQESSQECFHWVDF
+                     HDIENNVIAYYRFAGSNRSSALLCVHHFSASTFPSYVLRCEGVKHCELLLNTDDESFG
+                     GSGKGNRAPVVCQDQGVAWGLDIELPPLATVIYLVTFF"
+     CDS             complement(553174..554163)
+                     /codon_start=1
+                     /gene="CPj0476"
+                     /product="CT865 hypothetical protein"
+                     /protein_id="BAA98682.1"
+                     /transl_table=11
+                     /translation="MIDIMQHFKPYTMVPGQKLPIPGSLLYAQVFPTLWRLFSSKHEI
+                     LNEQTLQVQGPLKRFAVFQDLHRGGLAVTSERYKYYLLPSGECTQSIKGKLPSAAQAG
+                     PLLSLGVHKHADWQKVRCRRDLKEILPLWFRFAAMAPKGSYRDLETTAIGSLVKTAHQ
+                     RVLHRETTEIAPALLSIALAGFSECFLPRSYDEEFQGILPQDGDPEGGVPFELLSYSF
+                     GMIQDIFLRHQGQLVEILPALPPEFPCGRLIHVALPNLGTLSIVWTKKTIRQVELHAE
+                     YSGEVFLKFCSSLCSARLREWSERRLSGSKRLSLGETLEIKAGTTYLWDCFHK"
+     CDS             complement(554160..555425)
+                     /codon_start=1
+                     /gene="yqeV"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98683.1"
+                     /transl_table=11
+                     /translation="MTVAEVKGTFKLVCLGCRVNQYEVQAYRDQLTILGYQEVLDSEI
+                     PADLCIINTCAVTASAESSGRHAVRQLCRQNPTAHIVVTGCLGESDKEFFASLDRQCT
+                     LVSNKEKSRLIEKIFSYDTTFPEFKIHSFEGKSRAFIKVQDGCNSFCSYCIIPYLRGR
+                     SVSRPAEKILAEIAGVVDQGYREVVIAGINVGDYCDGERSLASLIEQVDQIPGIERIR
+                     ISSIDPDDITEDLHRAITSSRHTCPSSHLVLQSGSNSILKRMNRKYSRGDFLDCVEKF
+                     RASDPRYAFTTDVIVGFPGESDQDFEDTLRIIEDVGFIKVHSFPFSARRRTKAYTFDN
+                     QIPNQVIYERKKYLAEVAKRVGQKEMMKRLGETTEVLVEKVTGQVATGHSPYFEKVSF
+                     PVVGTVAINTLVSVRLDRVEEEGLIGEIV"
+     CDS             complement(555526..556944)
+                     /codon_start=1
+                     /gene="hflX"
+                     /product="GTP binding protein"
+                     /protein_id="BAA98684.1"
+                     /transl_table=11
+                     /translation="MDTIDTPGEQGSQSFGNSLGARFDLPRKEQDPSQALAVASYQNK
+                     TDSQVVEEHLDELISLADSCGISVLETRSWILKTPSASTYINVGKLEEIEEILKEFPS
+                     IGTLIIDEEITPSQQRNLEKRLGLVVLDRTELILEIFSSRALTAEANIQVQLAQARYL
+                     LPRLKRLWGHLSRQKSGGGSGGFVKGEGEKQIELDRRMVRERIHKLSAQLKAVIKQRA
+                     ERRKVKSRRGIPTFALIGYTNSGKSTLLNLLTAADTYVEDKLFATLDPKTRKCVLPGG
+                     RHVLLTDTVGFIRKLPHTLVAAFKSTLEAAFHEDVLLHVVDASHPLALEHVQTTYDLF
+                     QELKIEKPRIITVLNKVDRLPQGSIPMKLRLLSPLPVLISAKTGEGIQNLLSLMTEII
+                     QEKSLHVTLNFPYTEYGKFTELCDAGVVASSRYQEDFLVVEAYLPKELQKKFRPFISY
+                     VFPEDCGDDEGRGPVLESSFGD"
+     CDS             complement(556932..557744)
+                     /codon_start=1
+                     /gene="phnP"
+                     /product="metal dependent hydrolase"
+                     /protein_id="BAA98685.1"
+                     /transl_table=11
+                     /translation="MVRDIQSESIGKLVFLGTGNPEGIPVPFCSCRVCQNTGIHRLRS
+                     SVLIQYQNKTLVIDAGPDFRTQMLVAGVSELDGVFLTHPHYDHIGGIDDLRAWYIVTQ
+                     RSLPLVLSASTYRFLNKAKEYLFATPNVESSLPAVLEFTILNEDCGQEEFQGIPYTYV
+                     SYYQKSCHVTGFRFGNLAYLTDLCSYDAKIFSYLDNVETLILSAGPSETPIPFQGHKS
+                     SHLTVEEAKAFANHAGIKNLIITHISHCLEAERDQHPEVTFAYDGMEVLWTL"
+     CDS             complement(557966..558622)
+                     /codon_start=1
+                     /gene="CPj0480"
+                     /product="CT383 hypothetical protein"
+                     /protein_id="BAA98686.1"
+                     /transl_table=11
+                     /translation="MLGSLPCYPGAGNIEEYKNRYFYCQLCAEVVSPYVVPVIVVDVQ
+                     GAPPTGILQVLRCKQHKFQGLPVHGPITSLWALEPVGKGAPQLESAMYELCSQVRNFD
+                     ICSIVSWVFGGLCIFAGLIVGVMVEAPLIAGLSAWVIPCIIGGVGAILCLFAILMAYL
+                     GRGRVREWLNLSHEYITQCHCRQIQAHSQNYSVITEYPATCALSQPITKLPNGSRRDN
+                     "
+     CDS             complement(558655..560265)
+                     /codon_start=1
+                     /gene="CPj0481"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98687.1"
+                     /transl_table=11
+                     /translation="MATSVPVTSSTSVGEANSSNERFTERTSRMYYAALVLGALSCLI
+                     FIAMIVIFPQVGLWAVVLGFALGCLLLSLAIVFAVSGLVLGKTLEPSREATPPEIVAQ
+                     KEWTTQQDVLGNEYWRSELISLFLRGDLHESLIVDSKDRSLDIDQSLQNILKLEPLST
+                     TLSLLKKDCVHINIILHLVRQWNLLGVDLSPEVTAHAEELLLFLIEEQYYSPDILKLI
+                     RYGDALQATSPLMDWADSGSFSVDADGVFSCRREECSPEDALAQFDLLLALENPDRRF
+                     LKDSFLTYIWSSSFFEKFLHRHLESLQRKLPETAIDVARYEAQIQTFLSRYFQKLDLI
+                     NAMSLDWGYNCAEGEKCYESANQRLDNLFIAFSSSVPAMKRLFDKYGSVVRVDRRQIR
+                     EQILSNTEILENESGFLCSLYEYPLSYLIDWAVLLDCVRGTEISLEDQADYTVCLQGL
+                     DSMLSQFASRLQSGQKVLNPRDVLSEQAAVMLVHGLAAQGVSFQGLKALMYLTAVPQR
+                     MWLGALPLFESFPVFNRMKEFLGESLGD"
+     CDS             complement(560277..561056)
+                     /codon_start=1
+                     /gene="artJ"
+                     /product="arginine periplasmic binding protein"
+                     /protein_id="BAA98688.1"
+                     /transl_table=11
+                     /translation="MIKQIGRFFRAFIFIMPLSLTSCESKIDRNRIWIVGTNATYPPF
+                     EYVDAQGEVVGFDIDLAKAISEKLGKQLEVREFAFDALILNLKKHRIDAILAGMSITP
+                     SRQKEIALLPYYGDEVQELMVVSKRSLETPVLPLTQHSSVAVQTGTFQEHYLLSQPGI
+                     CVRSFDSTLEVIMEVRYGKSPVAVLEPSVGRVVLKDFPNLVATRLELPPECWVLGCGL
+                     GVAKDRPEEIQTIQQAITDLKSEGVIQSLTKKWQLSEVAYE"
+     CDS             561155..564286
+                     /codon_start=1
+                     /gene="CPj0483"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98689.1"
+                     /transl_table=11
+                     /translation="MIKKRAIFERMFPIPPPHCPPNNKNNFYHLTTDTKDPLLLRILR
+                     TIGYVLLHIITLGLLLLIHYYKHHRVVRKEGLPTPPTLPKGPEPKTIEIAKQPPKDGE
+                     DKKPDVPKPGTPPPEDTPPPPPKAPSPASPKVPKQPADKKPTPPPEAPPPPVRVATPM
+                     PLRPSSQGYWQCLNRMVSMVLRRAPLPLPAMQVDPILGDFNPHFVASYPNRIDNEPMY
+                     FQIKQFKKIAQNPDLPQQHRRLAQLSLEQALYLNDNYYLVNVPGDGNCFYRAYAVGWL
+                     SALYEESSRNDIVFEQEATRLLDLPFASSSPANANLCAEMAELLQLCSTYCSFIDLYD
+                     GVILSQKHTATLIAFLRKLSAYAIRQQIAASSNEETARALFISDMQDDLLPSVLEFLA
+                     ANRPYSELFQNLIDHSALPYMQSRDKLFLLLEHLPALFLTDAELQKMSPEDQQLRKQY
+                     EREIREAFAKLSRRIADSGWDTERFNAIVKDYLPEAIRCQYSRFLATIENRRSGDLPW
+                     SPALSFFAFLCTCPSVRFHKLCATFYKSLEDIIIASAPPQRSIQEILQISNASLSYLN
+                     EDLDSSWQREVISSNIMTILTTHESLTLESSMPQLETLHKRIANLLKNVISTSFETPP
+                     LSNQPDLLSNLVNKLLVAIHSKLELKEHFNTVCSARSLRLTRDEGSGLSQEQDLLYTQ
+                     AVQLLFFILQHPQVNNRPETKDAVKELKMLLLPFLQYAFKKVENEKKLQKLLRSILGS
+                     LVLKPPARYPSTPSNKDKETFCKFWSRHPEVMVLDPILEKNCMQFLRATFPNYQLETE
+                     AILLEKEIESTFRNGWNVFLTRLNLFGSKLGSPSSPTALSDQFSKSFLIFCFLNNYPK
+                     LLQKKTPLAARLDAFQREASHRFTQVKDKLLLSLKYGFPLATATINQYSRARDQLICN
+                     LLKNTVTASDGFCRSGFRQSLIGYLHSLSSNELGDILDDVKEQAEANDVAAMTTVPLQ
+                     PFAVCLIMSDRDTVSEENIENFVAMHGFLNTISPERDARIFLIRFPNHYGCLLPRNPR
+                     TEDQNSKPDSSNP"
+     CDS             564289..565146
+                     /codon_start=1
+                     /gene="aroG"
+                     /product="deoxyheptonate aldolase"
+                     /protein_id="BAA98690.1"
+                     /transl_table=11
+                     /translation="MHEVLILTFTYPLPRTLKQHPDEVHTVPISPNLSFGEGSPILIA
+                     GPCTLESYEHTVSSALTVKEAGAQVFRGSIRKPRTSPFSFQGWEKECVLWHKEAQSIH
+                     GLPTETEVLDVRDVEITAEHVDILRIGAKNMHNTPLLQEVSKSHRPIILKRSPAATLE
+                     EWLCAAEYILASSPSCPGVILCERGIRTFEHSTRYTLDLNTVALLKEISSLPVIVDPS
+                     HAAGKRSLVLPLASAGLSVGADGLMIEVHAHPEKALCDAKQQITPEELHLFAKKHFCP
+                     SESRAHAIS"
+     CDS             565357..565551
+                     /codon_start=1
+                     /gene="CPj0485"
+                     /product="CT382.1 hypothetical protein"
+                     /protein_id="BAA98691.1"
+                     /transl_table=11
+                     /translation="MIKQACKFYLLQCLLCALYWLLKYCRKLLKGTLHHSEETLYQAL
+                     LSSLIDLLYQLKQLPAPTNE"
+     CDS             complement(565721..567103)
+                     /codon_start=1
+                     /gene="CPj0486"
+                     /product="hypothetical proline permease"
+                     /protein_id="BAA98692.1"
+                     /transl_table=11
+                     /translation="MLKGNIFHLGCGVLYFMNFSLFLFFLIAIQGICLYVGRRGSKKV
+                     EDRESYFLAGRSLKIFPLMMTFIATQIGGGVLLGAAEEAFCYGYGGILYPLGVALGLI
+                     FLGMGPGKRLAEGSLTTVVSIFEVFYGSKKLRKIAFLLSAGSLFFILVAQVIALDRLF
+                     SSFPFGKYVTVAFWIVLASYTSTGGFRGVVRTDVIQAGFLLIAVLVCGVSVWLSVPKS
+                     LSVLDPFQSLPCAKLSNWIFMPMLFMLVEQDMVQRCVAASSPKRLQWAAVGAGLVLLL
+                     FNFIPLFLGSLGAKAGLKAGCPLIDTIAYFCNPSLAAVMAAAIGVAILSTADSLMNAV
+                     SQLIAEEYPTLKAPYYRYLVLGLAVAAPLVAIGFTNIVDVLILSYSLSVCCLSVPVGF
+                     YLLAPKGRRVSGAAAWAGVLVGALGYGWVQIVSLGMFGELLAWVGSLVAFSFVGFIEI
+                     TWKNKVKTQT"
+     CDS             complement(567428..569059)
+                     /codon_start=1
+                     /gene="CPj0487"
+                     /product="CT384 hypothetical protein"
+                     /protein_id="BAA98693.1"
+                     /transl_table=11
+                     /translation="MFGSESLRYQLLIQDFAKVSEEGIGLLESKEYSLLQAKLVLRAL
+                     AQNSSFDDWFRSFKKCQISYPELAHDRDVLEEFGIQVLREGIENPSVTVRAVSVLAIG
+                     LARDFRLVPLLLQSCNDDSAIVRSLALQVAVNYGSESLKKAIVELARNDDSIHVRITA
+                     YQVVALLQIEELLPFLRERAENKLVDSVERREAWKACLELSSQFLETGVAKDDIDQAL
+                     FTCEVLRNGMLPETTEIFTELLSVEHPEVQESLLLSALAWSHQLQNHKEFLSKVRHVM
+                     CTSPFAKVRFQAAALLHLHGDPLGRDSLVEGLRSPQPLVCEAASAALCSLGIHGVPLA
+                     KEHLESLSSRKAAANLSILLLVSREDIERAGDVIARYLSNPEMCWAIEYFLWDAQWNL
+                     RGDTFPLYSDMIKREIGRKLIRLLAVARYSQAKAVTATFLSGQQAQGWSFFSGMFWEE
+                     GDVKTSEDLVTDACFAAKLEGALASLCQKKDQASLQRVSQLYNDSRWQDKLAILESVA
+                     FSENLDAVPFLLDCCHHEAPSLRSAAAGALFSIFK"
+     CDS             complement(569083..569415)
+                     /codon_start=1
+                     /gene="ycfF"
+                     /product="HIT family hydrolase"
+                     /protein_id="BAA98694.1"
+                     /transl_table=11
+                     /translation="MTVFKQIIDGLIDCEKVFENENFIAIKDRFPQAPVHLLIIPKKP
+                     IPRFQDIPGDEMILMAEAGKIVQELAAEFGIADGYRVVINNGAEGGQAVFHLHIHLLG
+                     GRPLGAIA"
+     CDS             complement(569412..570284)
+                     /codon_start=1
+                     /gene="CPj0489"
+                     /product="CT386 hypothetical protein"
+                     /protein_id="BAA98695.1"
+                     /transl_table=11
+                     /translation="MQIPRSIGTHDGSFHADEVTACALLIIFDLVDENKIIRSRDPVV
+                     LSKCEYVCDVGGVYSIENKRFDHHQVSYDGSWSSAGMILHYLKEFGYMDCEEYHFLNN
+                     TLVHGVDEQDNGRFFSKEGFCSFSDIIKIYNPREEEETNSDADFSCALHFTIDFLCRL
+                     RKKFQYDRVCRGIVREAMETEDMCLYFDRPLAWQENFFFLGGEKHPAAFVCFPSCDQW
+                     ILRGIPPNLDRRMEVRVPFPENWAGLLGKELSKVSGIPGAVFCHKGLFLSVWTNRESC
+                     QRALRLTLQDRGII"
+     CDS             570598..572655
+                     /codon_start=1
+                     /gene="CPj0490"
+                     /product="CT387 hypothetical protein"
+                     /protein_id="BAA98696.1"
+                     /transl_table=11
+                     /translation="MYNLLHAHHDAASPDGRLVSHLKKLSPHIYEGEVLIENIPAYFL
+                     GFHLPQQCIQVNLKSSLAQLGVEAVLNHLELNKARKEARLHVLFMSQDPIATAMLELL
+                     EPGSFVCKLFAADDRRLVRSPCYLNRMFTHTDRTGSPLLRFGKKLEHFITLEIINDRL
+                     VVFLPILPGTICYEETIYGFLPLMSKSLTRPHLKIRKFLPLYQMVTDRPPVPEDHKIL
+                     LIKTEPLHIRTVFARVVQDLLPQGLRHTAADILEPTTQESGDIYEFYGSTSEPIERIP
+                     LEFFTLEPYKEHSFFFYRDMLQETLESPQEVFRVFESIPEGEDQAAMFISKGSELLEL
+                     SQDSWIIKPRISPSDERHAREIQKHIEDQPCFPFLKAMETDHITSQGVLFSRYFPSAS
+                     LKGMFLSNYSRYYLQHIYFQIPSPTSGEFFSNRDRSFLLDLYFAGISVFWADLESKRL
+                     LQYIKRRNKDVGMFVPKHQAEQFAQSYFIGIHGSCLIAGDYDEFLRELLTGMHTLSQQ
+                     FTIPEFPPQTPLAILTGGGSGAMELANRVATELSILSCGNLISLDTTNAYVEAKMSYA
+                     IPDLLERQADFHVDLAVFVIGGMGTDFELLLELISLKTGKKALVPVFLIGPVDYWKSK
+                     ITALYNSNHAVGTIRGSEWVHNCLFCLSSAKAGIAIFRRYLNHTLPIGPEHPVPEDGF
+                     VIV"
+     CDS             complement(572652..573671)
+                     /codon_start=1
+                     /gene="CPj0491"
+                     /product="CT389 hypothetical protein"
+                     /protein_id="BAA98697.1"
+                     /transl_table=11
+                     /translation="MHFLDSRTQVVIEKNRAYLFSLPVDSSLSEAITNFVRDLPFICA
+                     VEICERPYGECITRSSAERPLLPKEKTLGMPIFCGKEGVWLPQNTILFSPLIADPRQV
+                     TNSAGIRFNEKVVGNRVGATIFGGDFILLRLFDVSRFHVDCDFGIQGGVFSVFDLDHP
+                     ESCMVNSDFFVAGLWSGAIDKWSFRFRLWHLSSHLGDEFILTHPNFPRFNLSDEGVDL
+                     FISFRYTPQIRLYGGCGYIVSRDLTFPERPFYCEWGAELRPFGLREGNLHAQPIFAMH
+                     FRCWEEQKFGLDQSYILGMEWAKFQEIGRKIRAVLEYHQGFSKEGQFIREPCNYYGFR
+                     LTYGF"
+     CDS             573971..574126
+                     /codon_start=1
+                     /gene="CPj0492"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98698.1"
+                     /transl_table=11
+                     /translation="MIFPICEERNSQQTYKHLHVESACFLLESPLKIHWSSPYGFPPF
+                     YRRDLKL"
+     CDS             complement(574171..574323)
+                     /codon_start=1
+                     /gene="CPj0493"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98699.1"
+                     /transl_table=11
+                     /translation="MRTYTRSPKQSGVERKQEDAETSFIETPKGILKKPGNKDPKGKH
+                     VHWKDS"
+     CDS             complement(574462..574683)
+                     /codon_start=1
+                     /gene="CPj0494"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98700.1"
+                     /transl_table=11
+                     /translation="MIRVNPYGSYRGRNPSPEDGKKDVPLSGNSRLHRRGGIRRKHKS
+                     ASVGVTSGSKTGKASLEKKVKGISEAHFK"
+     CDS             574922..576115
+                     /codon_start=1
+                     /gene="aspC"
+                     /product="aspartate aminotransferase"
+                     /protein_id="BAA98701.1"
+                     /transl_table=11
+                     /translation="MRRNPHFSLLKPQYLFSEISKKLAQFRKENPEISVIDLSIGDTT
+                     QPLCRSITQAIKEFCVSQEKQETYRGYGPETGLEKLRTKIASEVYENRISPEEIFISD
+                     GAKPDIFRLFSFFGSEKTLGLQDPVYPAYRDIAHITGIRDIIPLACRKETGFIPELPN
+                     QQSLDILCLCYPNNPTGTVLTFQQLQALVNYANQHGTVLIFDAAYSAFVSDPSLPKSI
+                     FEIPEAKYCAIEINSFSKSLGFTGMRLAWNVIPKELTYDNNEPMINDWKRLFATTFNG
+                     ASLLMQEAGYYGLDLFPTPPAISLYLTNAQKLKKSLETAGFSVHGGDHAPYLWVELPE
+                     GISDEEAFDFFLHQYHIAVTPGHGFGSCGQGFVRFSALTQPQNIALACDRLCTASLKE
+                     TMVLA"
+     CDS             576112..577134
+                     /codon_start=1
+                     /gene="CPj0496"
+                     /product="CT391 hypothetical protein"
+                     /protein_id="BAA98702.1"
+                     /transl_table=11
+                     /translation="MTILRKLSQYLFFFSLFCSFIYVATCGSQPDSVSSPKIAIFLSF
+                     PHPLLEDCSKSCIETLKDFENLPEIVVLNAEDSIVKARKIARSLHTDKNVVAIVTLGT
+                     IATKVMSHIETQKPVIYAAVPDRESLTPPKNTMNIYGVNDTLDINQYCFAIQAVATNA
+                     QSIVYLKPSEPFPSDLQKEIVKKLHASGIEVIEISITSSTFKTRIRQAIDKRPSAIFI
+                     PLSPLSHKEGTAFLQEILKEKIPIITDDTSLISEGACIACSVDYKKSGKQIAKIVHHL
+                     LYNNHDVDSLRKIIAQRLSPTTTFNEDIIKYLGIKLHKTERNQFLSFKSKKLEKSEKG
+                     KNVAVS"
+     CDS             complement(577136..577408)
+                     /codon_start=1
+                     /gene="CPj0497"
+                     /product="CT388 hypothetical protein"
+                     /protein_id="BAA98703.1"
+                     /transl_table=11
+                     /translation="MDDSWILEVKVTPKAKENKIVGFDGQALKVRVTEPPEKGKANDA
+                     VISLLAKALSLPKRDVTLIAGETSRKKKFLLPNRVQDIIFSLHIDV"
+     CDS             complement(577401..578354)
+                     /codon_start=1
+                     /gene="CPj0498"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98704.1"
+                     /transl_table=11
+                     /translation="MNRRKARWVVALFAMTALISVGCCPWSQAKSRCSIDKYIPVVNR
+                     LLEVCGLPEAENVEDLIESSSAWVLTPEERFSGELVSICQVKDEHAFYNDLSLLHMTQ
+                     AVPSYSATYDCAVVFGGPLPALRQRLDFLVREWQRGVRFKKIVFLCGERGRYQSIEEQ
+                     EHFFDSRYNPFPTEENWESGNRVTPSSEEEIAKFVWMQMLLPRAWRDSTSGVRVTFLL
+                     AKPEENRVVANRKDTLLLFRSYQEAFPGRVLFVSSQPFIGLDACRVGQFFKGESYDLA
+                     GPGFAQGVLKYHWAPRICLHTLAEWLKETNGCLNISEGCFG"
+     CDS             complement(578522..579679)
+                     /codon_start=1
+                     /gene="CPj0499"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98705.1"
+                     /transl_table=11
+                     /translation="MSSVNQSSGTPNPEEVTSPESTEENKNVVSSDEAQATHAVALPI
+                     VTQLSLPEGVGTSSEETASNPKVDEIVAEVSSSRAVADQISSLVERVGELLDDLKGAQ
+                     SLFTSFQSELKNCLPAWKSSTRRLETRGAGDNADIARLELFRSDYEAVLGHANQFHGK
+                     AHLILSKLTDVHHKLQGLSREDLSLAFDNNDRVLEHLGSLGLDVDAEGNWSLSCERGI
+                     PRLVLTADSMLVQIKKVNLPTVEELRTLQGTTESSSDPRVEESLSCCERLLNELRRLW
+                     ANFVGFISSCYDNIVFVLMWIVRRINLLPGLGCLPFHNPDASQEDQRSSSGERSTRRE
+                     RLSRRSDLSEEEMIVRAEGESIHPESPHGDGRNQPSRGDKQDSDSEEETEL"
+     CDS             579979..581685
+                     /codon_start=1
+                     /gene="proS"
+                     /product="prolyl tRNA synthetase"
+                     /protein_id="BAA98706.1"
+                     /transl_table=11
+                     /translation="MKTSQLFYKTSKNANKSAAVLSNELLEKAGYLFKVSKGVYTYTP
+                     LLWRVVSKMMNIIREELNAIGGQELLLPLLHNAELWQHTGRWEAFTSEGLLYTLKDRE
+                     GKSHCLAPTHEEVICSFVAQWLSSKRQLPLHLYQIATKFRDEIRPRFGLIRSRELLME
+                     DSYTFSDSPEQMNEQYEKLRSAYSKIFDRLGLAYVIVTADGGKIGKGKSEEFQVLCSL
+                     GEDTICVSGSYGANIEAAVSIPPQHAYDREFLPVEEVATPGITTIEALANFFSIPLHK
+                     ILKTLVVKLSYSNEEKFIAIGMRGDRQVNLVKVASKLNADDIALASDEEIERVLGTEK
+                     GFIGPLNCPIDFFADETTSPMTNFVCAGNAKDKHYVNVNWDRDLLPPQYGDFLLAEEG
+                     DTCPENPGHPYRIYQGIEVAHIFNLGTRYTDSFEVNFLDEHGQTQQCWMGTYGIGVGR
+                     TLAACVEQLPDDRGIVWPKALAPFSITIAFNGGDTVSQELAETIYHELQSQGYEPLLD
+                     DRDERLGFKLKDSDLIGIPYKLILGKSYQSSGIFEIESRSGEKYTVSPEAFPTWCQNH
+                     LA"
+     CDS             581777..582973
+                     /codon_start=1
+                     /gene="hrcA"
+                     /product="HTH transcriptional repressor"
+                     /protein_id="BAA98707.1"
+                     /transl_table=11
+                     /translation="MLSVTIVLVGLEMARSKVSKRDSKILDILFATTELYLKTGQPVG
+                     SKTLKESFCSDLSTATIRNYFAELEAEGFLKKNHTSGGRIPTDLALRHYVDHQEECPE
+                     AEISAPIFDKISQLPSESRNIIKDLQKATELLGEILDLPTFFSSPRFENDSVTNIQIT
+                     QVDKQRAVTILSTEFGQIFTDTLWLPEACDTLSIKRIEKFLQNYIRKLPTNEELSKKE
+                     EHLSMSLYNEVVVRYLTRYCNFSEEDLYQTGMSKLLKYEAFKDPEVLALGLSLFENRR
+                     QMCELLNIGMHKGRATAFIGKELSDILGTSNPGCSVITIPYYMNRSPLGALGILGPIN
+                     LPYKEALPLLKLFANKINETLTQSFYKFKLSFRRPLTSNCKLSNEPILRTEYSSIKLL
+                     PSKETL"
+     CDS             582970..583524
+                     /codon_start=1
+                     /gene="grpE"
+                     /product="HSP-70 cofactor"
+                     /protein_id="BAA98708.1"
+                     /transl_table=11
+                     /translation="MTDTPPENEEQHESNVQNENEVEHLQQEIVTLKTELKEKNDKYL
+                     MALAESENSRKRLQKERQELMQYALENTLIDFLNPIESMEKALGFATQMSDDVKNWAL
+                     GFNMILNQFKQIFEEKGIIEYSSIGQKFNPFLHEAVQTEETSEVPEGTILEEFAKGYK
+                     IGERPIRVAKVKVAKAPTPKENKE"
+     CDS             583554..585536
+                     /codon_start=1
+                     /gene="dnaK"
+                     /product="heat shock protein-70"
+                     /protein_id="BAA98709.1"
+                     /transl_table=11
+                     /translation="MSEHKKSSKIIGIDLGTTNSCVSVMEGGQAKVITSSEGTRTTPS
+                     IVAFKGNEKLVGIPAKRQAVTNPEKTLGSTKRFIGRKYSEVASEIQTVPYTVTSGSKG
+                     DAVFEVDGKQYTPEEIGAQILMKMKETAEAYLGETVTEAVITVPAYFNDSQRASTKDA
+                     GRIAGLDVKRIIPEPTAAALAYGIDKVGDKKIAVFDLGGGTFDISILEIGDGVFEVLS
+                     TNGDTLLGGDDFDEVIIKWMIEEFKKQEGIDLSKDNMALQRLKDAAEKAKIELSGVSS
+                     TEINQPFITMDAQGPKHLALTLTRAQFEKLAASLIERTKSPCIKALSDAKLSAKDIDD
+                     VLLVGGMSRMPAVQETVKELFGKEPNKGVNPDEVVAIGAAIQGGVLGGEVKDVLLLDV
+                     IPLSLGIETLGGVMTTLVERNTTIPTQKKQIFSTAADNQPAVTIVVLQGERPMAKDNK
+                     EIGRFDLTDIPPAPRGHPQIEVSFDIDANGIFHVSAKDVASGKEQKIRIEASSGLQED
+                     EIQRMVRDAEINKEEDKKRREASDAKNEADSMIFRAEKAIKDYKEQIPETLVKEIEER
+                     IENVRNALKDDAPIEKIKEVTEDLSKHMQKIGESMQSQSASAAASSAANAKGGPNINT
+                     EDLKKHSFSTKPPSNNGSSEDHIEEADVEIIDNDDK"
+     CDS             585807..587837
+                     /codon_start=1
+                     /gene="vacB"
+                     /product="ribonuclease family"
+                     /protein_id="BAA98710.1"
+                     /transl_table=11
+                     /translation="MLKKPKRKPGRRTYGKSLKIFIPGTLFVHARKGFGFVSPDNPEE
+                     YPFDIFVPARDLRGALDGDHVIVSVLPYPRDGQKLKGTISEVLARGKTTLVGTITSLV
+                     SPTSALAYTSMSGSQSLIPVELLPGRTYKIGDRILLSTPPWVDKPQEGASPALQMLEF
+                     IGHITNAKADFQAIQAEYNLAEEFPPEVIEEASLFSQKHITQVLHSRKDLRDLLCFTI
+                     DSSTARDFDDAISLTYDHNNNYILGVHIADVSHYVTPHSHLDKEAAKRCNSTYFPGKV
+                     IPMLPSALSDNLCSLKPNVDRLAVSVFMTFTKSGHLSDYQIFRSVIRSKYRMTYDEVD
+                     NIIEKKHSHPLSKILNEMATLSKKFSDIREERGCIRFVLPSVTMSLDNLQEPVALIEN
+                     HQTFSHKLIEEFMLKANEVVAYHISHQGVSLPFRSHEPPNDENLLAFQELAKNMGFDI
+                     TFTPTQEPDYQYLLQTTSAGHPLEQVLHSQFVRSMKTASYSTENKGHYGLKLDYYTHF
+                     TSPIRRYIDLIVHRLLFNPLSIDQTHLEIIVRACSTKERVSAKAENSFENLKKTRFIN
+                     KFLQEQPKTTYHAYIITANHEGLSFVVTEFCHEGFIAAAELPKEYSLKKNALPESIPD
+                     KMKPGASIKVTIDSVNLLTQKIVWSIATTTEDKPKKIKKTPSKKKGTKKRAS"
+     CDS             587839..588429
+                     /codon_start=1
+                     /gene="CPj0505"
+                     /product="3-methyladenine DNA glycosylase"
+                     /protein_id="BAA98711.1"
+                     /transl_table=11
+                     /translation="MLQEHFFLSEDVITLAQQLLGHKLITTHEGLITSGYIVETEAYR
+                     GPDDKACHAYNYRKTQRNRAMYLKGGSAYLYRCYGMHHLLNVVTGPEDIPHAVLIRAI
+                     LPDQGKELMIQRRQWRDKPPHLLTNGPGKVCQALGISLENNRQRLNTPALYISKEKIS
+                     GTLTATARIGIDYAQEYRDVPWRFLLSPEDSGKVLS"
+     CDS             588492..589163
+                     /codon_start=1
+                     /gene="CPj0506"
+                     /product="CT421 hypothetical protein"
+                     /protein_id="BAA98712.1"
+                     /transl_table=11
+                     /translation="MKKYFITGLVILLPLAITIAIVTMIMNFLTQPFVGLASEFFEKF
+                     SFYTKHRALLKFVLQIILLFGLFFATVLLGFLTRIMIFKSLLSIYDKILHRIPIIKTV
+                     YKAAQQVMTTIFGSKSGSFKQVVMVPFPNANVQCIGLVAGDAPTVCCTGEKEDDPLVT
+                     VFIPTTPNPTSGFLTLFRKSDIVFLDMKIEDAFKYIISCGVLSTPMACPSSPLPDELH
+                     QDQGS"
+     CDS             589281..589445
+                     /codon_start=1
+                     /gene="CPj0507"
+                     /product="CT421.1 hypothetical protein"
+                     /protein_id="BAA98713.1"
+                     /transl_table=11
+                     /translation="MTRMSKQARRRAKSPKKRKPKYAIVHPAPAPRIVYKLHTNALST
+                     SDSIFIPKIG"
+     CDS             589462..589623
+                     /codon_start=1
+                     /gene="CPj0508"
+                     /product="CT421.2 hypothetical protein"
+                     /protein_id="BAA98714.1"
+                     /transl_table=11
+                     /translation="MSRHRSYGKSVKGVTKRNVLKRFERVEVLRKLGRWNDSTAKKVT
+                     GLPKTPILK"
+     CDS             589655..590131
+                     /codon_start=1
+                     /gene="CPj0509"
+                     /note="putative"
+                     /product="metalloenzyme"
+                     /protein_id="BAA98715.1"
+                     /transl_table=11
+                     /translation="MTQEKIKIHVSNEQTCIPIHLVSVEKLVLTLLEHLKVTTNEIFI
+                     YFLEDKALAELHDKVFADPSLTDTITLPIDAPGDPAYPHVLGEAFISPQAALRFLENT
+                     SPNQEDIYEEISRYLVHSILHMLGYDDTSSEEKRKMRVKENQILCMLRKKHALLTA"
+     CDS             590133..591296
+                     /codon_start=1
+                     /gene="tlyC_2"
+                     /product="CBS domains (hemolysin homolog)"
+                     /protein_id="BAA98716.1"
+                     /transl_table=11
+                     /translation="MLHILLAIFCILLFLAFGLTQPSCHGSSKFLKTLNQRFFKDKGR
+                     EYPPFPSAPTILATLLCILYGALGTKLYTLLPPKTAHKDLLFWPLYSLSALIAYGFLP
+                     PWISTKVPKETTAHLRFLASVFQLGLFPLQLLFYRRRPNQQVRSSTSFQSQLSEALSA
+                     FDNLIVREVMIPKVDIFALPEETTLQEALVLVSEEGYSRVPVYKKNLDNITGILLVKD
+                     LLLLYTSSHDLSQPISSVAKPPFYAPEIKKASSLLQEFRQKHRHLAIIVNEYGFTEGI
+                     ATMEDIIEEIIGEIADEHDVQENTPYKKIGSSWIVDGRMNISDAEEYFNLKIDHENSY
+                     DTLGGHVFHKVGAVPQKGMRIHHENFDIEIITCTERNVGKLKITPRKRKFNIS"
+     CDS             591461..591811
+                     /codon_start=1
+                     /gene="rsbV_1"
+                     /product="sigma regulatory factor"
+                     /protein_id="BAA98717.1"
+                     /transl_table=11
+                     /translation="MSDIQKEEHGSTTIFHLHGKLDGISSPEVQENISQSLAAGSKNI
+                     ILDCAHLDYMSSAGIRVLLQSYHQVGQHSGKIVLTTVPKTIEQTLYVTGFLSYFKIFN
+                     TVDEAIQTLNKDGD"
+     CDS             591873..593735
+                     /codon_start=1
+                     /gene="CPj0512"
+                     /product="CT425 hypothetical protein"
+                     /protein_id="BAA98718.1"
+                     /transl_table=11
+                     /translation="MRRSVCYVNPSIARAGQISTWKFLYSLATPLPAGTKCKFDLAGS
+                     GKPTDWEAPATDLSQTRNVIYAEMPEGEIIEATAIPVKDNPVPQFEFTLPYELQVGET
+                     LTIVMGASPNHPQVDDAGNGAQLFAQRRKPFYLYIDPTGEGNYDEPDVFSMDIRGNVL
+                     KKIEIFTPSYVVKNKRFDITVRFEDEFGNLTNFSPEETRIELSYEHLRENLNWQLFIP
+                     ETGFVILPNLYFNEPGIYRIQLKNLSTQEIFISAPIKCFADSAPNLMWGLLHGESERV
+                     DSEENIETCMRYFRDDRALNFYASSSFENQENLSPDIWKLINQTVSDFNEEDRFITLS
+                     GFQYSGEPHLEGVRHILHTKETKSHSKHKEYKHIPLAKLYKSTVNHDMISIPSFTASK
+                     EHGFDFENFYPEFERVVEIYNAWGSSETTAALNNPFPIQGKDSEDPRGTVIEGLKKNL
+                     RFGFVAGGLDDRGIYKDYFDSPQVQYSPGLTAIICNKYTRESLVEALFARHCYATTGP
+                     RIVLSFNITSAPMGSELSTGSKPGLNVNRHISGHVAGTALLKTVEIIRNGEVLHTFFP
+                     DSNNLDYEYDDMVPLSSVTLKDPNGKAPFVFYYLRVTQADNAMAWSSPIWVDLN"
+     CDS             593967..595076
+                     /codon_start=1
+                     /gene="CPj0513"
+                     /product="Fe-S oxidoreductase"
+                     /protein_id="BAA98719.1"
+                     /transl_table=11
+                     /translation="MTTCLPQPPKTSPLYSIFEKLDAQERLSSEDALHLLLLTNKEDQ
+                     RTLWNFADQVRKQRVGDTVYYSSTLYLYPTNFCDFSCKFCSFYAKPGDPKGWLYSPDD
+                     LLQQIQNIKTPITEVHIVGGCFPSCNLQYYSDLFTKIKEYDPQIHIKALTAIEYAYLS
+                     DLDNLSIRDVLLTLKDAGLDSIPGGGAEILVDKIRNFLAPKRLSSSDFLNIHKMAHQL
+                     GIHSNITMLCYHKEGPEDLVTHMVKVRDLQDETQGFKNFILLKFAQENNVLGKRLRKS
+                     GQGHAIPLKSLMAVARIFLDNFSNMKALWNYLGIEAALDLLSCGANDLSSTHMGEKVF
+                     QMASSKEPIKMDAEGMAALITQQGRTPCLTNSSHV"
+     CDS             595049..595843
+                     /codon_start=1
+                     /gene="CPj0514"
+                     /product="CT427 hypothetical protein"
+                     /protein_id="BAA98720.1"
+                     /transl_table=11
+                     /translation="MSNQLQPCISLGCVSYINSFPLSLQLIKRNDIRCVLAPPADLLN
+                     LLIEGKLDVALTSSLGAISHNLGYVPGFGIAANQRILSANLYAAPTFFNSPQPRIAAT
+                     LESRSSIGLLKVLCRHLWRIPTPHILRFITTKVLRQTPENYDGLLLIGDAALQHPVLP
+                     GFVTYDLASGWYDLTKLPFVFALLLHSTSWKEHPLPNLAMEEALQQFESSPEEVLKEA
+                     HQHTGLPPSLLQEYYALCQYRLGEEHYESFEKFREYYGTLYQQARL"
+     CDS             595812..596504
+                     /codon_start=1
+                     /gene="ubiE"
+                     /product="ubiquinone methyltransferase"
+                     /protein_id="BAA98721.1"
+                     /transl_table=11
+                     /translation="MEPSTNKPDCKKIFDSIASKYDRTNTILSLGMHHFWNRSLIQIL
+                     GSGYSLLDLCAGTGKVAKRYIAAHPQASVTLVDFSSAMLDIAKQHLPQGSCSFIHSDI
+                     NQLPLENHSYPLAAMAYGLRNLSDPHKALQEISRVLMPSGKLGILELTPPKKTHPTYS
+                     AHKLYLRAVVPWIGKSVSKDPDAYSYLSKSIQQLPKDHDLEDLFSKSGFYIAKKKKLF
+                     LGAATIWLLEKQ"
+     CDS             complement(596572..598134)
+                     /codon_start=1
+                     /gene="CPj0516"
+                     /product="hypothetical protein"
+                     /protein_id="BAA98722.1"
+                     /transl_table=11
+                     /translation="MVARGLCDFPTLVPNERLPIGPFFVPQHTSGAKGKEFAKRNFSI
+                     ISGLDDILKLCILQRRPFALQWDNLSVKSDYEEAGPAIGIRSLEPQVSQISPAHGRLC
+                     STLVQWAPILGSEERLVWLEETMKRLKFPKSLGSKDAVIVDSEMVPVNANPTQEIPAA
+                     SETVESSPVAPGNTTDTMPAASGTTDTTSGVSEAAAAEATVDSTPGTEEEPSFSLRYA
+                     LVVQNVPYPEPPKEPEVMFTDEEKSLILEATRARRMELDLYNGYLADYELSKDEIQKH
+                     VPDLPENWRTNWRWSERLYKFFFKTKKEGLEEIFLNKELGNMILARGLAATQSQARIK
+                     VFNSLVAWLLQSFNVGRSCTAKPLPTSKLDLFKSEFESKPKNNILTEFLVASDEEILF
+                     KGLRVLEPGIEGWYDHPDQAGEIRSVLEGLVQAGRISGYWENQPFGRFVLRGVGERRT
+                     ELVELLESLVASGEIMQFFESSDEEGAFIIDNEPSKTAMLKQRFKSCVRTKLVGSFAD
+                     ESLPRGRFTILV"
+     CDS             1219847..1220278
+                     /codon_start=1
+                     /gene="yfgA"
+                     /product="HTH transcriptional regulator"
+                     /protein_id="BAA99276.1"
+                     /transl_table=11
+                     /translation="MQEHIHKELLHLGEIFRSSRESQSLSLKDVEAATSIRYSCLEAI
+                     EQGCLGKLISPVYAQGFIKKYATYLGLDGDSILQEHPYVMKIFKEFSDHNMEMLLDLE
+                     SMGGRNSPERAIHSWSNLWWAGLIIIGGIMVWWLGSLFSIF"
+     CDS             complement(1220475..1221845)
+                     /codon_start=1
+                     /gene="CPj1070"
+                     /product="hypothetical protein"
+                     /protein_id="BAA99277.1"
+                     /transl_table=11
+                     /translation="MTFPCGNCNCYYRETPPPNPGGEDIPLQEGGQSGSQGGRVITQQ
+                     PGTGGREMGISLGSDNVLGMVEQAGSLLNNLLDSARMQRLGHYCYRTGTPWCREHCPG
+                     FLQWIWGGCCACCLETVDDPDNPSAQFLQQLIQQYGPICVGMSFQQLPHCTQKIEQGE
+                     PLGDGDKQEVENGCKLHRELLKAAQPRCMGESLVKLLQNNGLGEDMQQTPPWSLILQA
+                     VSEGALSFVTSSDNPPTCWILQPEQQPCPPPPTDEEQLQGAVGGAPAPQQKKHPAQEC
+                     RVTCKLNFRTLLQKLSRLEVLSLESGYKGPLGQAAKQIVDLIKKSLKRLVASDLATFL
+                     GPGIGLSLESQVFEVLVLLCLLSKGYLPLDPLHPEQTVLDPRVQGPWQRILRKVLVTT
+                     TAGENIWRQTQGEAPRQAPPPPDPWDDDEIERDGIVTGGGFGIPCQCLRCWRKLPTEK
+                     RPNRWL"
+     CDS             complement(1222217..1223659)
+                     /codon_start=1
+                     /gene="CPj1071"
+                     /product="hypothetical protein"
+                     /protein_id="BAA99278.1"
+                     /transl_table=11
+                     /translation="MVCPNNSWFRMCGNFNCEWVEVTTTEETTRQSASDISEEAGSSG
+                     GAAPITTQPTKITKVEKRVQFNTAQGDESTIHMIQEAGELVDSILSHRRTQGCTEYCY
+                     DSYATGCGQRCGSFGRLICGTYKACCLDREDNQVAGLVHECEQTHGPIAVALAAKTMG
+                     LNLMELVEKNTILSEEQKNEFRQHCSEAKTQLYGTMQSLSQNFFLEGVNSIRERGLDD
+                     SLVQAVLSFIATRSWEKTIESEEASGTSSASNSTRIPACYILNTSPLTTSRLSCGSRD
+                     ARRPSSVGAEPQYVAKKYNDNGMARQLGKIQVTNLKTGDFSALGPFGLLIVKMLNSFL
+                     LSASQSTSSILKHTGGEICYTCPNFRDIVVLLMLAIGYCPANTDETSVVDIHMIDDPI
+                     MTIFYRLQYSYRTGKTSASFLKKKPSLVRQESLDCPTPAESVPLMSSLEEEDENEDDD
+                     EDGNLAYQQRILECSGHLQTLFLGIKINKE"
+     CDS             1224304..1225173
+                     /codon_start=1
+                     /gene="CPj1072"
+                     /product="hypothetical protein"
+                     /protein_id="BAA99279.1"
+                     /transl_table=11
+                     /translation="MLKIQKKRMCVSVVITVGAIVGFFNSADAAPKKKKIPIQILYSF
+                     TKVSSYLKNEDASTIFCVDVDRGLLQHRYLGSPGWQETRRRQLFKSLENQSYGNERLG
+                     EETLAIDIFRNKECLESEIPEQMEAILANSSALVLGISSFGITGIPATLHSLLRQNLS
+                     FQKRSIASESFLLKIDSAPSDASVFYKGVLFRGETAIVDALSQLFAQLDLSPKKIIFL
+                     GEDPEVVQAVGSACIGWGMNFLGLVYYPAQESLFSYVHPYSTATELQEAQGLQVISDE
+                     VAQLTLNALPKMN"
+     CDS             1225346..1226170
+                     /codon_start=1
+                     /gene="CPj1073"
+                     /note="putative"
+                     /product="outer membrane protein (CT371)"
+                     /protein_id="BAA99280.1"
+                     /transl_table=11
+                     /translation="MRRYLFMVLALCLYRAAPLEAVVIKITDAQAVLKFAREKTLVCF
+                     NIEDTVVFPKQMVGQSAWLYNRELDLKTTLSEEQAREQAFLEWMGISFLVDYELVSAN
+                     LRNVLTGLSLKRSWVLGISQRPVHLIKNTLRILRSFNIDFTSCPAICEDGWLSHPTKD
+                     TTFDQAMAIEKNILFVGSLKNGQPMDAALEVLLSGISSPPSQIIYVDQDAERLRSIGA
+                     FCKKANIYFIGMLYTPAKQRVESYNPKLTAIQWSQIRKNLSDEYYESLLSYVKSKG"
+     tRNA            complement(1226280..1226363)
+                     /gene="tRNA-Ser"
+BASE COUNT       366268 a       249304 c       248454 g       362538 t
+ORIGIN      
+        1 ctaatttttg tcagaatgat gagagtggca gcctcctgaa gagcagctgt ctccgtgtga
+       61 atgacgggac ttcttgctgc agaaaggaca aaagcttagc aagcaaatga caccagcaat
+      121 tccaatgata atataggtaa tttgggtggc aggagtagaa acgcctccac acaacttagc
+      181 aataatattt aatttattgt gagtgattcc tataagtccc acgttcaatg cacaaagaat
+      241 aacaataaga gaggataatc ctcgaataat tttgcctagc atcgcttttc tcctaagtga
+      301 tgtatactta atttcatctt ttaatctttt ttataattta ataaacagtt tttttcaaaa
+      361 gacttctttg ctaaagtctc tcagtctcgt tgactttttg aatacaaagg tttaagttgt
+      421 tcaagaagtt tttgaactgt aaacaacttc cagtttttat gattagagag acagttcaga
+      481 ataaaaactt caatttttta agtttagata atctttcttt acttgcattg agaaaagagc
+      541 atatttttat aagccgcaat ttaggataac atatggagca atttcatttg gatagggaag
+      601 aaattttact tttggcaaag gcctcagcac tacaactttc tgaagagctt atccaggagt
+      661 atcaaacttc tttaagcgct gtgattactt ctatgaaaga agctcttgcc atagagattg
+      721 atgatgcgga ttcatgcgaa tctcttttta tgcatgtagt aaatgttgaa gatttgagag
+      781 aagattcggt gacctctgat ttcaatcgag aggaattttt gcgtaatgtt ccagagtctt
+      841 tagggggatt agtgaaagtt cctgcggtaa tcaagtaagg gagtctgaaa aattatgtat
+      901 cgatatagtg ctttagaatt agcaaaagct gtgactttag gggaactgac agccacaggg
+      961 gtgactcaac atttttttca tagaatagaa gaagctgagg ggcaggtagg tgcctttatt
+     1021 tccttgtgta aggaacaagc tttagaacag gcagagctca tagataaaaa gcgttcgcgt
+     1081 ggagaacctt taggaaaact cgcaggtgtt cctgtaggaa ttaaagataa tattcacgtt
+     1141 acaggcctga agacaacatg cgcctctcgt gtgctcgaga attatcaacc accgtttgat
+     1201 gctactgttg tagaaagaat caaaaaagaa gatgggatta tcttaggcaa actcaatatg
+     1261 gatgagtttg ctatgggatc aacaacgcta tattctgctt ttcatcctac ccacaacccc
+     1321 tgggatttat ctcgtgttcc tggaggttct tcagggggat ctgcggccgc agtttctgct
+     1381 agattttgtc ccgtagccct aggatcagat accggaggat ccatccgtca gcccgcagca
+     1441 ttttgtggtg ttgtaggttt taagccttcc tacggagccg tttcgcgtta cgggcttgta
+     1501 gcctttgcct cttcgctaga tcaaatcggt cctttagcca atactgtaga agacgtcgcc
+     1561 ctaatgatgg atgtgttttc tggtagagat cctaaagatg caacctcaag agagtttttc
+     1621 cgtgattctt ttatgagcaa gttgtctacg gaggttccta aagtgattgg ggtgcctaga
+     1681 acatttttag agggactccg tgatgatatt agggagaatt tcttctcttc attagccatt
+     1741 tttgaaggag aaggaaccca tcttgtggat gtggagttgg atattctcag ccacgctgta
+     1801 tctatatatt acattttagc atctgctgaa gctgccacga atttagcaag gttcgatggg
+     1861 gtgcgttatg gatatcgttc tcctcaagcg cataccatca gccaactcta cgatctctca
+     1921 cgtggagaag gatttggcaa agaggtcatg cgcagaatcc tcttagggaa ctatgtcttg
+     1981 tctgcggaga gacagaatgt ttattataag aaagctacgg cagtgcgtgc taagattgta
+     2041 aaagcattta gaactgcatt tgaaaagtgt gaaatcttag ccatgcccgt ctgttctagc
+     2101 cccgcgtttg aaataggaga aattctagat cctgtgactt tatatctaca ggatatctat
+     2161 actgtagcta tgaatttagc gtatcttcct gccattgccg taccctctgg attttctaag
+     2221 gagggcctgc ccttaggcct acagattatc ggacagcaag gacaagacca acaagtgtgc
+     2281 caagtgggtt acagtttcca agagcatgcg caaattaagc aattgttttc taagagatat
+     2341 gccaaaagtg ttgttctagg aggtcaatca tgagtgctgt ttatgcagat tgggaatcag
+     2401 tcataggact tgaagttcac gtagaattga acacagcatc caagttattt agctctgctt
+     2461 taaatcgctt tggagatgaa ccaaacacta atatttctac agtatgtaca ggattgccag
+     2521 gatcattgcc tgtattgaat cagagtgccg tggagaaagc tgtgcttttt ggctgcgctg
+     2581 tcgaaggtga aatctctcta ttgagtcgtt tcgataggaa gtcttacttc tatcccgata
+     2641 gtcccaggaa ttttcaaatt acacaattcg aacatcctat tatccgagga ggacgcatta
+     2701 aggcgattgt ccaaggggaa gagcgttatt ttgaattagc ccaaacccat atagaagatg
+     2761 atgccggaat gctgaagcac ttcggagagt ttgccggtgt agactacaat cgtgccggag
+     2821 tccccctaat cgaaattgtt tcaaaaccct gtatgttttg tcctgaagat gctgttgctt
+     2881 acgcaacttc tttggtttcc ttgttagact atattggaat ttccgattgc aatatggaag
+     2941 aaggctccat ccgttttgat gtcaatgtct ccgtacgccc taagggatcc ccagaacttc
+     3001 gcaataaggt agaaatcaag aatatgaact ccttcgcttt tatggcacaa gctttagaag
+     3061 ctgaaaaaca acgtcagatc gatgagtatc ttaatcagcc aaataaagat cccaagctgg
+     3121 tgattccagc cgctacctac cgctgggatc ccgaaaagaa aaaaactgtg ctgatgcgtc
+     3181 tcaaagagag tgccgaagat tataaatatt ttcccgagcc tgatctgccg acactacaat
+     3241 tgacagagtc ctatatagaa aggattcgca agaccttgcc agaacttcct tatgacaagt
+     3301 accatcgcta tattcaggag tacggtctat ccgaagatat cgcaagtatt ctgatcagcg
+     3361 ataagaatat cgcaacgttt tttgaagtcg cttgtaaaga ttgtaaaaac tttaggtctt
+     3421 tatctaactg ggtatccgtt gaatttggag gccgctgcaa aaccctagga gtgaagttgc
+     3481 catcttcagg aattttcccc gagggagtcg ctcagctggt caacgcaatc gaccaaggtg
+     3541 tgatcacagg gaaaattgct aaggaaatcg cagatcttat gatggaatcc ccaggaaaga
+     3601 atcctgagga gattttaaaa gagaagccag agctgcttcc catgtcagat gaaggggaat
+     3661 tgcagaaaat tatcgcagag gtggttcttg caaatcctga atctatcgta gactataaaa
+     3721 atggaaagac taaggctcta ggattcctag tcgggcagat tatgaagcgt acagcaggaa
+     3781 aagctcctcc caagcgagtg aacgaacttt tacttttaga attagataag ggctagaatt
+     3841 ttctgtcaca gtctgtctta aaaaatcata aaagcatgtt agagatcttt ctaacatgct
+     3901 ttttttatct aaatacacat ttctaagttg caaaaacgaa agcagaaaat ttcgatttgc
+     3961 ctttctacct acactttatg gatccatcag aattaaattt tgcaaagcca tgtctacgcg
+     4021 ggagataatt ctttttaagt gacaagaaat tcttgtgctc ggcttgcttt cttattctta
+     4081 ttgacgtatt gcttgatcag atattcattt tgatttaggt actaaaatgc gattttcgct
+     4141 ctgcggattt cctctagttt tttcttttac attgctctca gtcttcgaca cttctttgag
+     4201 tgctactacg atttctttaa ccccagaaga tagttttcat ggagatagtc agaatgcaga
+     4261 acgttcttat aatgttcaag ctggggatgt ctatagcctt actggtgatg tctcaatatc
+     4321 taacgtcgat aactctgcat taaataaagc ctgcttcaat gtgacctcag gaagtgtgac
+     4381 gttcgcagga aatcatcatg ggttatattt taataatatt tcctcaggaa ctacaaagga
+     4441 aggggctgta ctttgttgcc aagatcctca agcaacggca cgtttttctg ggttctccac
+     4501 gctctctttt attcagagcc ccggagatat taaagaacag ggatgtctct attcaaaaaa
+     4561 tgcacttatg ctcttaaaca attatgtagt gcgttttgaa caaaaccaaa gtaagactaa
+     4621 aggcggagct attagtgggg cgaatgttac tatagtaggc aactacgatt ccgtctcttt
+     4681 ctatcagaat gcagccactt ttggaggtgc tatccattct tcaggtcccc tacagattgc
+     4741 agtaaatcag gcagagataa gatttgcaca aaatactgcc aagaatggtt ctggaggggc
+     4801 tttgtactcc gatggtgata ttgatattga tcagaatgct tatgttctat ttcgagaaaa
+     4861 tgaggcattg actactgcta taggtaaggg aggggctgtc tgttgtcttc ccacttcagg
+     4921 aagtagtact ccagttccta ttgtgacttt ctctgacaat aaacagttag tctttgaaag
+     4981 aaaccattcc ataatgggtg gcggagccat ttatgctagg aaacttagca tctcttcagg
+     5041 aggtcctact ctatttatca ataatatatc atatgcaaat tcgcaaaatt taggtggagc
+     5101 tattgccatt gatactggag gggagatcag tttatcagca gagaaaggaa caattacatt
+     5161 ccaaggaaac cggacgagct taccgttttt gaatggcatc catcttttac aaaatgctaa
+     5221 attcctgaaa ttacaggcga gaaatggata ctctatagaa ttttatgatc ctattacttc
+     5281 tgaagcagat gggtctaccc aattgaatat caacggagat cctaaaaata aagagtacac
+     5341 agggaccata ctcttttctg gagaaaagag tctagcaaac gatcctaggg attttaaatc
+     5401 tacaatccct cagaacgtca acctgtctgc aggatactta gttattaaag agggggccga
+     5461 agtcacagtt tcaaaattca cgcagtctcc aggatcgcat ttagttttag atttaggaac
+     5521 caaactgata gcctctaagg aagacattgc catcacaggc ctcgcgatag atatagatag
+     5581 cttaagctca tcctcaacag cagctgttat taaagcaaac accgcaaata aacagatatc
+     5641 cgtgacggac tctatagaac ttatctcgcc tactggcaat gcctatgaag atctcagaat
+     5701 gagaaattca cagacgttcc ctctgctctc tttagagcct ggagccgggg gtagtgtgac
+     5761 tgtaactgct ggagatttcc taccggtaag tccccattat ggttttcaag gcaattggaa
+     5821 attagcttgg acaggaactg gaaacaaagt tggagaattc ttctgggata aaataaatta
+     5881 taagcctaga cctgaaaaag aaggaaattt agttcctaat atcttgtggg ggaatgctgt
+     5941 agatgtcaga tccttaatgc aggttcaaga gacccatgca tcgagcttac agacagatcg
+     6001 agggctgtgg atcgatggaa ttgggaattt cttccatgta tctgcctccg aagacaatat
+     6061 aaggtaccgt cataacagcg gtggatatgt tctatctgta aataatgaga tcacacctaa
+     6121 gcactatact tcgatggcat tttcccaact ctttagtaga gacaaggact atgcggtttc
+     6181 caacaacgaa tacagaatgt atttaggatc gtatctctat caatatacaa cctccctagg
+     6241 gaatattttc cgttatgctt cgcgtaaccc taatgtaaac gtcgggattc tctcaagaag
+     6301 gtttcttcaa aatcctctta tgatttttca ttttttgtgt gcttatggtc atgccaccaa
+     6361 tgatatgaaa acagactacg caaatttccc tatggtgaaa aacagctgga gaaacaattg
+     6421 ttgggctata gagtgcggag ggagcatgcc tctattggta tttgagaacg gaagactttt
+     6481 ccaaggtgcc atcccattta tgaaactaca attagtttat gcttatcagg gagatttcaa
+     6541 agagacgact gcagatggcc gtagatttag taatgggagt ttaacatcga tttctgtacc
+     6601 tctaggcata cgctttgaga agctggcact ttctcaggat gtactctatg actttagttt
+     6661 ctcctatatt cctgatattt tccgtaagga tccctcatgt gaagctgctc tggtgattag
+     6721 cggagactct tggcttgttc cggcagcaca cgtatcaaga catgcttttg tagggagtgg
+     6781 aacgggtcgg tatcacttta acgactatac tgagctctta tgtcgaggaa gtatagaatg
+     6841 ccgcccccat gctaggaatt ataatataaa ctgtggaagc aaatttcgtt tttagaaggt
+     6901 ttccattgcc tgtgtggttc cggatcttaa ctataaatcc tggactatgg atcataggca
+     6961 ttgggtttct cgaacttgtg tggagaataa cgacatttta tatgcataac ggaatactcg
+     7021 tatcacctca gcccctagag acattcttta ggggttcttt atttgtctaa acttcgtatt
+     7081 ttatcgagaa tcctttacgt tcttggtttg cttgtctccg aggagttctc taacgaatca
+     7141 tagggattcc agggttctgt tccttgagtc ctttggcagc tgatttgcgt ctttctcagg
+     7201 agtagagcgt gtggtttcag ggcttgggac tcctagtaag acgagccatt ctgatagcct
+     7261 ctctaggaga gcgcttcgaa gaggttcctg caactgcttc taagtaaaaa tctaaagaga
+     7321 agtctagttt tttcgataca ttgacttctt ttttgaaacc agacactcat tgctagccga
+     7381 attttaagag tccatgagca tgatttctgt aaaatcctcg caatgagctt tttgtcttct
+     7441 caccttatga tgtgctttct ataagtattt aaatgaactt ttattaaaag agttttcgct
+     7501 ataacctttc gctcattttt tcctttcttg tcgtgatacc gctaactgat agcactacaa
+     7561 gctctctttc aacgtctctc ttagatgaag gaaacccaca atccatgagg aaacttcgta
+     7621 ttcttgcgat cgttctcata gctttgagca ttattttgat tgcaggtggt gtggtattgc
+     7681 ttactgtagc gatccctgga ttaagctcag tcatttcttc cccggcaggg atgggtgcct
+     7741 gtgctttggg atgtgtgatg cttgctttag ggatcgatgt tcttctgaag aaacgagaag
+     7801 tccctatagt tctcgcatct gtaactacga caccaggaac tgtcagccct agaagtggta
+     7861 tttctatttc aggagctgat agcaccatac gttctcttcc tacgtatctc ttggacgagg
+     7921 gacatccaca atccatgagg aaacttcgta ttcttgcgat cgttctcata gtttttagca
+     7981 ttattttgat tgcaagtggt gtggtattgc ttactgtagc gatccctgga ttaagctcga
+     8041 tcatttcttc cccagcggag atgggtgctt gtgctttggg atgtgtgatg cttgctttgg
+     8101 ggatcgacgt tcttctgaag aaacgagaag tccctatagt agttcccgca cctattcctg
+     8161 aagaagtcgt catagatgat atagatgaag agagtatacg gctgcagcag gaagctgaag
+     8221 ccgctttagc aagacttcct gaggagatga gtgcatttga aggttacata aaagttgtcg
+     8281 agagtcattt ggagaacatg aaaagcctgc cttatgatgg tcatgggcta gaagagaaaa
+     8341 cgaaacatca gataagagtc gtcagatctt ctttgaaggc tatggttcca gaatttttag
+     8401 atatcagaag aatttttgaa gaagaagagt tcttttttct ctcagctcgc aaacgactta
+     8461 tagatttagc tactacttta gtagagagaa aaattttaac agagcaactt gagcgcaata
+     8521 atttaaggaa agcgttttct tatttatatc aggactcaat ttttaaaaaa attattgata
+     8581 acttcgagaa gttagcatgg aaatttatga ttttgagtaa atcaatttgt cgatttacaa
+     8641 ttatttttga aaatcatgaa catggtgtag caaagagcct gttacacaag aatgcagtgt
+     8701 tactggagaa ggtaatctat aggagtttgc aaaaaagcta tagagatata ggcatgtcat
+     8761 ctgcaaagat gaaaatcttg cacggcaacc cttttttctc tttggaagat aataaaaaga
+     8821 cgataatgaa agaacacgca gagatgcttg aaagtctcag tagctatagg aaggtatttt
+     8881 tagctctatc tgatgagaac gttgtagata cacctagcga tccaaagaaa tgggatttgt
+     8941 caggaatccc ctgtagggac gcgttgtctg agatttctcg tgatgaacag tggcagaaga
+     9001 aagcacatct aaagcatcaa gagtccctct atacgcaagc tagggatcgt ttaacagacc
+     9061 agagctctaa agaaaatcag aaagagttag agaaagctga acaagagtac atatcttctt
+     9121 gggaacgggt taaaaaattt gagattgaga gagtacagga gaggatacag gcaattcaaa
+     9181 agctttatcc taatatcctc gagagagaag aagaaaccac aggtcaggag actgtgactc
+     9241 caactgttca agggacgacg gcttcatccg atttaacaga tattttagga agaatagagg
+     9301 tctccagtag ggaggataat cagaatcaag agtcttgtgt aaaagtctta agaagtcatg
+     9361 aggtagaaat gagctgggaa gtcaaacaag agtatggccc taagaaaaaa gaatttcagg
+     9421 atcaaatggg ttctttagag aggtttttta cagagcatat tgaagagtta gaagtattac
+     9481 agaaggacta ctctaaacac ttgtcttatt ttaaaaaagt aaacaataag aaagaggttc
+     9541 aatatgcgaa gtttaggttg aaggttttag agtcagattt agaagggatt ctagctcaga
+     9601 ctgagagtgc tgagagtctg ttaactcaag aagaacttcc gattcttgca actcggggag
+     9661 ccttagagaa agctgttttc aaagggagtc tatgttgcgc gctagcaagc aaagcaaaac
+     9721 cctattttga agaggatccc agattccaag attctgatac gcaattgcga gctctgactc
+     9781 taaggttaca ggaggctaag gcaagcctgg aagaagagat aaagagattt tcaaatcttg
+     9841 agaacgatat tgcagaggaa agacgccttc ttaaagagag caagcagacg ttcgaaagag
+     9901 caggtttagg ggttctccga gaaattgcag tcgagtctac ttatgatttg cgttccttaa
+     9961 caaatacatg ggaagggacc ccagagagtg agaaggtcta ttttagcatg tatcttaatt
+    10021 attacaacga agagaaacgt agggctaaaa caagattggt tgaaatgaca cagaggtata
+    10081 gagattttaa aatggccttg gaagctatgc agtttaatga agaagccctt ttgcaagagg
+    10141 aactctctat tcaagctccc agtgaataac aagaatccga ggcaagagct cggcatgtcg
+    10201 ctcgctatag gctacgagtt gcccaatctc gtttggctga tttagaagct ggagtcatcc
+    10261 agaaacgtaa aacaatcaaa gatttgttca agaaacgacg gtctcaacct tcttctaaga
+    10321 aatagaaaat ttcgtccatg cttccagggt tttgaaatga gaaaaagacc ttggaataaa
+    10381 ataattgata tgagtagctt agttgcttta acttatgttt ttgagcatga tgacatcaca
+    10441 gattcataat gcaagtattc ttatctcctc aactaccccc cccccccccg acgctctcta
+    10501 ggggtttctt gttctaaact tcgtagttta tcgatcactc ttttagttct tggtgtgctt
+    10561 ttgttgacct tggggattcc gggactcact gcagggatct cttttggagc cggtttggga
+    10621 ttttctgctt taggaggagt gctcgtgatt tcgggacttc tattccttct agtaagacga
+    10681 gaggttccga cagtacgttc agaggaaatt cccagagggg tttctgtgac cccttctgaa
+    10741 gagcctgctc tagagaaggc tcaaaaagaa ccggagacaa agaaaatttt agatcggttg
+    10801 ccgaaggaat tggatcagtt agatacgtat attcaggaag tgtttgcatg tttagagagg
+    10861 ctgaaggatc ctaagtacga agatcgaggt cttttaacag aggcgaagga gaaacttcga
+    10921 gtttttgacg ttgttgagaa agatatgatg tcagagtttt tagacataca acgagtgttg
+    10981 aatgaggaag catattatgt agaacattgt caagatcccc tagagaatat agcctacgag
+    11041 attttctctt cccaagagct tcgtgattac tactgtgcag gggtgtgtgg gtatttgcct
+    11101 tctggggatg ctcgagcgga tcgattaaag agatcagtta aggaggtaat ggatcgcttt
+    11161 atgagggtga cctggaaatc ttgggaggca tcagtcatgt tggatcatag ctatggggta
+    11221 gcgcgagagt tattcaagaa ggcagtagga gtactagagg agagtgtcta taaaattctg
+    11281 tttaagagct atagagatgc gttttatgaa tgtgagaagg caaagatcca gagggatggg
+    11341 cgtttcaaat ggttatagga tacgagtgct catgcggaac aaaggtttag ggatatcaat
+    11401 ggttgttggg aggacttaaa gcaaacgatc ttttgggtag gagaacatga ttgtacggac
+    11461 atagagaccg tacgtaaaag ctgtatgtgg ctggatcgtt atgcagataa atttattttg
+    11521 agggaaaaag aggaaaagat ggagcgtcat gagctctttc atgcgactat ggtccgaaaa
+    11581 gcatctgggc acgcgtatgc taaagctaaa gcagcctttg aaaaggagag atctaatgag
+    11641 aatcagagga aagtcaagga tgttgaaaaa tggttatcta aaggtttagc ggagtttcgt
+    11701 aatcaagagt ctcgcagagc tcgggagagg ctgagagagc tgcaaacttt gtatcctgag
+    11761 gtttctgtag aagagagagt gttagagaga caaaggacta aaaaagttaa tctggagaac
+    11821 ttgtatgcag atatagaaaa gaagtatcac cactgtgttc gagagcaaga gcattactgg
+    11881 aaagaggtag agaacaagga agcagagtat agggagaacg gagaaaaggt tctctctgcc
+    11941 gaggaggtgt cagagtgtct tcagaggttg gaagattgtt tagagacgtg gtctaagaaa
+    12001 ttaacaaaag cggaagagag tgtctttgag atgaagtttg atgcgacaga aaaactaggg
+    12061 aataaagtac tttctgatgt aacgaaccgt cttgagattt tatgtgaaga tgctgaggag
+    12121 atgatttttc gaatcgaaga gatagagatg actctgcgta tggtagagct tccactactt
+    12181 tttatgaaaa atacttttga gaaagcctct ctacaataca acagctgcaa agagatgtta
+    12241 gccaaagtag agccccaatg taaggaaagc ccaacctata gaagtagcca agagcgctta
+    12301 gaaaggttga atcaggattt acaaacagca tatacaaatt gccaggagag actccagggt
+    12361 ttttcagatt tggaatcaaa agtacgtaca tgtagagatc atcttagaga gcagatgaaa
+    12421 catttcgaag ttcaaggact gaattttata aacgaagagc ttttatgggt cggggcagag
+    12481 ctctttacac aagccagatt ggatctagta gcaacagttc cgtatatgga gttctatttg
+    12541 cagtaccata atattaaaag agaaaaagtt cgatcccaat ggatggcgaa gaccgagagg
+    12601 tatagagaga ttcggcaggc atttcaaggg gtgatgaagg aagatttgtt agcagaagat
+    12661 acgatcttga aagaagaaga ttattggctg cttcgcgatg attggttgct gcgtgatgag
+    12721 aggaagaata gacaaagacg tttaatctgt aataagatag cagcagcgca acagcgagtc
+    12781 aaaggcttct aacctgaaga gatttaaaag atcctgaaag agaaaacacc tcttgtggct
+    12841 agagtgcgtt ctttatttac tcgcgaggac catacctagc ataaaactcc aggagctgtg
+    12901 tttctttaaa attctttgaa taaaatacta tatattagta gcttagtggg tttaatttat
+    12961 gtgtttgatc gcgatggcac cacagattca taatgcaagt acttctatct ccgcagctac
+    13021 cccccccccc ccaacactct gtagggtcga tttcttctcc atctaaactt cgcgttttag
+    13081 cgattacttt tttagttttt ggtatgctct tactgatttc aggagctctc tttctgacgt
+    13141 tagggattcc aggattgagt gcagcaattt cttttggatt aggcatcggt ctctccgcat
+    13201 taggaggagt gctgatgatt tcgggactac tatgtctttt agtaaaacga gagattccga
+    13261 cagtacgacc agaagaaatt cctgaagggg tttcgctggc tccttctgag gagccagctc
+    13321 tacaggcagc tcagaagact ttagctcagc tgcctaagga attggatcag ttagatacag
+    13381 atattcagga agtgttcgca tgtttaagaa agctgaaaga ttctaagtat gaaagtcgaa
+    13441 gttttttaaa cgatgctaag aaggagcttc gagtttttga ctttgtggtt gaggataccc
+    13501 tctcggagat tttcgagttg cggcagattg tggctcaaga gggatgggat ttaaactttt
+    13561 tgatcaatgg gggacgaagc ctcatgatga ctgcagaatc tgaatcgctt gatttgtttc
+    13621 atgtatcgaa gcggctaggg tatttacctt ctggggatgt tcgaggggag gggttaaaga
+    13681 aatctgcgaa ggagatagtc gctcgtttga tgagcttgca ttgcgagatt cacaaggtgg
+    13741 cggtagcgtt tgataggaat tcctatgcga tggcagaaaa ggcgtttgcg aaagcgttgg
+    13801 gagctttaga agagagtgtg tatcggagtc tgacgcagag ttatagagat aaatttttgg
+    13861 agagtgagag ggcgaagatc ccatggaatg ggcatataac ctggttaaga gatgatgcga
+    13921 agagtgggtg tgctgaaaag aagcttcggg atgccgagga acgttggaag aaatttagga
+    13981 aagcagtctt ttgggtagaa gaagacgggg gctttgacat caataatctc cttggagact
+    14041 gggggacagt gcttgatcct tatagacaag agagaatgga cgagataacg ttccatgagt
+    14101 tgtatgaaaa aactacgttt ttgaaaagac tgcacagaaa gtgtgcgtta gcgaaaacaa
+    14161 cctttgaaaa gaagagatct aaaaagaatt tgcaggcagt cgaggaggcg aatgcacgta
+    14221 ggttgaaata tgtaagggat tggtatgatc aggagtttca gaaagcaggg gagagattag
+    14281 agaaactgca tgctttgtat cctgaggttt cagtctctat aagagagaac aaaatacaag
+    14341 agacgcgctc taatttagag aaagcctatg aggctatcga agagaactat cgttgctgtg
+    14401 tccgagagca agaggactac tggaaagaag aagagaaaag ggaagcggag tttagggaga
+    14461 ggggaaacaa gattctttct cctgaggagc tggaaagttc tttggagcaa ttcgaccatg
+    14521 gtttgaaaaa tttttctgag aaattaatgg aattggaagg gcatatctta aaacttcaga
+    14581 aagaagccac agcagaggtg gagaataaaa tactttcaga tgcagagagc cgccttgaga
+    14641 ttgtatttga agatgtcaag gagatgccct gtcgaattga ggagatagag aagacgctgc
+    14701 gtatggcgga gctgccccta cttcctacga agaaggcgtt tgagaaggcc tgctcacaat
+    14761 ataatagctg cgcagagatg ttggagaagg tgaagcctta ctgcaaggag agcctcgcct
+    14821 atgtgactag caaagagcgt ttagtgagct tggatgaaga tttacgacga gcctacacag
+    14881 agtgtcagaa gagattccag ggggattcgg gtttggagtc ggaagtaaga gcctgtcgag
+    14941 agcaactgcg agagcggatc caagagtttg aaactcaagg gctggacttg gtggaaaaag
+    15001 agttgctttg tgtgagtagt agattaagaa atacagagtg cgattgtgta tctggtgtta
+    15061 agaaagaagc acctcctggt aagaagtttt atgcccagta ttatgatgag atttatcgag
+    15121 ttagagttca atcccgatgg atgacgatgt ctgagagatt gagagaggga gttcaagcat
+    15181 gcaacaagat gttgaaggca ggcctaagcg aagaagataa ggttcttaaa gaagaagagt
+    15241 attggttgta tcgagaggag agaaagaata aagagaaacg tttggttggt actaagatag
+    15301 tagcaacgca gcagcgagtt gcagcatttg aatccataga agttcctgag attcctgagg
+    15361 ccccagagga gaaaccgagt ttgctggata aagcgcgttc tttatttact cgcgaggacc
+    15421 attcctagaa ctattctagg agtctatgtg cactattttt taagaggttt attattccgt
+    15481 gggtatgtct gagagacttt gattaaatgg gatattatta tatcctagtt gctctaatca
+    15541 atattcctct tatgattttg gtattcgatc atgactgcag caccagctat tctacacgta
+    15601 tccccgacgc cccctgaaga aacaaaattc gttattccta aagatagtaa atctcgcgct
+    15661 cttgggatta ctttattagt cgtaggcatc cttctggtag tttgtggtgc gattgtactc
+    15721 agtggagtga tttctggatt gagtgcactc attgtttgtg gattgggtat tagtacgatt
+    15781 tctctaggag ttgtcctatt tgttttagga ttgatattat tacttagaaa gcgggaactt
+    15841 accttagaac agatcgaggc taagcaaatt gcggagacct ttgctgatga actgaaagaa
+    15901 ctagaaatgt acattcagtc gacagagaaa agcttagaga agatagaagg gtcccgttat
+    15961 agtgaccaag gttttctgaa tcgtgccacc caaaaaatct tagatttaga atcttcattg
+    16021 agctctatta cttctgagtt tcgtgatctt aggcaactct ttgatgaaga aaaaatagag
+    16081 ttactttctg gagaaaggct tttagaattt attgcagcga atttatttaa acaaggaaga
+    16141 gatgtctatt taaatttagg gaatttagca gacattcgtg cgtacatggg gcccaacaat
+    16201 tataaagttg cgatggtcat agaaaaagct aaagcagttg tgcatgagtt tatagttctg
+    16261 actacaatgg ctagggaatt agagtttttt ttctaaaaaa taaatatggt ttattaaagg
+    16321 ggatgtacca ggagaatcta agattgttgg aaaggcttct ttataatagt gttcaaaaga
+    16381 gctatgcgga tcggctgttt tcctatgaaa agacaaagat ggtgcacgat actccgctga
+    16441 ttccttggga agaggataag gaaaaatgtg ctgaagctga gaaagctttc ttagagcaac
+    16501 agaagattct cctagattat ggaaaatcta tcttttggct gaatgagaac gatgagatca
+    16561 atttaaacga tccttggagt tggggtctta atacggtgag gactaggaaa gtattccaag
+    16621 aggttgacga cagtgaacgt tggaatcata aggtactcat tcaaaaactc gaggacgatt
+    16681 atgagaaact tctagaggaa agttcaaaag agtctactga agcaaataag aagcttttat
+    16741 ctgacttagt agatcgtctt gaagatgcta agacaaaatt tttcctgaag aaacaggagg
+    16801 aggtggagac tcgcgttaag gatcttagag ctcgatatgg aggcacagta gatcctaagc
+    16861 aggatacgga agctaagaag aaagtcgaat tggaggctag cttagaaacc tttttagatt
+    16921 ccatcgaatc agagctagta cagtgtttag aagatcaaga tatatattgg aaagaacagg
+    16981 atgtcaaaga tctagcacgt acgcaagagc tcgaggaaca agatattgaa gcgaagaggg
+    17041 aagaagctgc cgaagaccta agaagtctta atgagcgttt aaagaagtca aaaactatgt
+    17101 tagatagggc taaatggcat attgaaaatg ctgaggacag tattacctgg tggactagtc
+    17161 agatagaaat gaaggatatg aaagcaagac tgaagatctt aaaagaagat ataacaagtg
+    17221 ttctacctga aatagatgag attgaaacgt gtttaagctt agaggagctt cctttgctta
+    17281 cgaccaggga actcttaact aagtcctacc taaagtttaa gatttgttcg gaaacactat
+    17341 taaaaatgac ttctgtgttt gagaacaata tctatgttca ggagtacgag gttcagctgc
+    17401 aaaatctagg gtttaagtta caaggtatat ctcagagatt cggaaagaaa caagacgatt
+    17461 ttgcgaatct agaggaacag gttgctttgc aaaagaaacg actcagagag ctcactcaga
+    17521 attttgaaat acaaggattc aatttcatga aagaagattt taaggcagcc gctaaagatc
+    17581 tttatataag aagtacagct gaacaaaaga tgaactttga tgtgccttgc atggagctct
+    17641 tccgtaggta tcatgaggag gtcaacaagc cgcttcttga gttgatgtac aattgtgcag
+    17701 acagttatag agatgctaag aaaaagcttt gctctctacg tcttgatgaa aaagagttat
+    17761 tacaaaaaga aatcaagaaa gaggaatttt atcaaaagaa acaacaaagg catgcagata
+    17821 gatcacgtca tactacgtat caaaagctac gaattgctga agagcttgct cttgagctga
+    17881 agaagaaaat ctaatcacta aagcctagtt aagggttctt ttgaattggg ccctgtgttt
+    17941 ccatttctct agggatcctc ttagctgagg atcttctttg tacctctttt gattcgaaaa
+    18001 gaggtgctat tgtgagttgc caatagcaac gatccacctt cgtttttgaa aagatacatc
+    18061 agttgctaag ggaacttttc agaaaatatc ataaaaaact cccaagattt tggcttggaa
+    18121 agcgagcctt tcttgctact tttgttacaa caaaagtgtt ctattttaac gtgcgtatca
+    18181 tttgtgacta agagatagac ttgctttctt tatctatctt ctgtattgga aagaaagccc
+    18241 cttgagggaa aaaaaggttg ttatgaagat tccactccgc tttttattga tatcattagt
+    18301 acctacgctt tctatgtcga atttattagg agctgctact accgaagagt tatcggctag
+    18361 caatagcttc gatggaacta catcaacaac aagcttttct agtaaaacat catcggctac
+    18421 agatggcacc aattatgttt ttaaagattc tgtagttata gaaaatgtac ccaaaacagg
+    18481 ggaaactcag tctactagtt gttttaaaaa tgacgctgca gctggagatc taaatttctt
+    18541 aggaggggga ttttctttca catttagcaa tatcgatgca accacggctt ctggagctgc
+    18601 tattggaagt gaagcagcta ataagacagt cacgttatca ggattttcgg cactttcttt
+    18661 tcttaaatcc ccagcaagta cagtgactaa tggattggga gctatcaatg ttaaagggaa
+    18721 tttaagccta ttggataatg ataaggtatt gattcaggac aatttctcaa caggagatgg
+    18781 cggagcaatt aattgtgcag gctccttgaa gatcgcaaac aataagtccc tttcttttat
+    18841 tggaaatagt tcttcaacac gtggcggagc gattcatacc aaaaacctca cactatcttc
+    18901 tggtggggaa actctatttc aggggaatac agcgcctacg gctgctggta aaggaggtgc
+    18961 tatcgcgatt gcagactctg gcaccctatc catttctgga gacagtggcg acattatctt
+    19021 tgaaggcaat acgataggag ctacaggaac cgtctctcat agtgctattg atttaggaac
+    19081 tagcgctaag ataactgcgt tacgtgctgc gcaaggacat acgatatact tttatgatcc
+    19141 gattactgta acaggatcga catctgttgc tgatgctctc aatattaata gccctgatac
+    19201 tggagataac aaagagtata cgggaaccat agtcttttct ggagagaagc tcacggaggc
+    19261 agaagctaaa gatgagaaga accgcacttc taaattactt caaaacgttg cttttaaaaa
+    19321 tgggactgta gttttaaaag gtgatgtcgt tttaagtgcg aacggtttct ctcaggatgc
+    19381 aaactctaag ttgattatgg atttagggac gtcgttggtt gcaaacaccg aaagtatcga
+    19441 gttaacgaat ttggaaatta atatagactc tctcaggaac gggaaaaaga taaaactcag
+    19501 tgctgccaca gctcagaaag atattcgtat agatcgtcct gttgtactgg caattagcga
+    19561 tgagagtttt tatcaaaatg gctttttgaa tgaggaccat tcctatgatg ggattcttga
+    19621 gttagatgct gggaaagaca tcgtgatttc tgcagattct cgcagtatag atgctgtaca
+    19681 atctccgtat ggctatcagg gaaagtggac gatcaattgg tctactgatg ataagaaagc
+    19741 tacggtttct tgggcgaagc agagttttaa tcccactgct gagcaggagg ctccgttagt
+    19801 tcctaatctt ctttggggtt cttttataga tgttcgttcc ttccagaatt ttatagagct
+    19861 aggtactgaa ggtgctcctt acgaaaagag attttgggtt gcaggcattt ccaatgtttt
+    19921 gcataggagc ggtcgtgaaa atcaaaggaa attccgtcat gtgagtggag gtgctgtagt
+    19981 aggtgctagc acgaggatgc cgggtggtga taccttgtct ctgggttttg ctcagctctt
+    20041 tgcgcgtgac aaagactact ttatgaatac caatttcgca aagacctacg caggatcttt
+    20101 acgtttgcag cacgatgctt ccctatactc tgtggtgagt atccttttag gagagggagg
+    20161 actccgcgag atcctgttgc cttatgtttc caagactctg ccgtgctctt tctatgggca
+    20221 gcttagctac ggccatacgg atcatcgcat gaagaccgag tctctacccc cccccccccg
+    20281 acgctctcga cggatcatac ttcttgggga ggatatgtct gggctggaga gctgggaact
+    20341 cgagttgctg ttgaaaatac cagcggcaga ggatttttcc aagagtacac tccatttgta
+    20401 aaagtccaag ctgtttacgc tcgccaagat agctttgtag aactaggagc tatcagtcgt
+    20461 gattttagtg attcgcatct ttataacctt gcgattcctc ttggaatcaa gttagagaaa
+    20521 cggtttgcag agcaatatta tcatgttgta gcgatgtatt ctccagatgt ttgtcgtagt
+    20581 aaccccaaat gtacgactac cctactttcc agccaaggga gttggaagac caaaggttcg
+    20641 aacttagcaa gacaggctgg tattgttcag gcctcaggtt ttcgatcttt gggagctgca
+    20701 gcagagcttt tcgggaactt tggctttgaa tggcggggat cttctcgtag ctataatgta
+    20761 gatgcgggta gcaaaatcaa attttagcga tttctctttc gatgctattt ttccatggct
+    20821 atttttaaaa tgatagccat ggttatagat acgtagtcct tatttcaaag aagacactgt
+    20881 tgcattagat acgctctctg atccctcaaa atcacatttt ggtatctgat tgctaagatt
+    20941 gcaggatacc acgcatctta agagaaaggc gctcttacct agtagaggtt gagtgaattt
+    21001 cttgacttgt ttctcctatt ggtgtatctc ttaaaatatt aaattcaaaa tcaaagtata
+    21061 tattttacaa tgaagtcttc tttccccaag tttgtatttt ctacatttgc tattttccct
+    21121 ttgtctatga ttgctaccga gacagttttg gattcaagtg cgagtttcga tgggaataaa
+    21181 aatggtaatt tttcagttcg tgagagtcag gaagatgctg gaactaccta cctatttaag
+    21241 ggaaatgtca ctctagaaaa tattcctgga acaggcacag caatcacaaa aagctgtttt
+    21301 aacaacacta agggcgattt gactttcaca ggtaacggga actctctatt gttccaaacg
+    21361 gtggatgcag ggactgtagc aggggctgct gttaacagca gcgtggtaga taaatctacc
+    21421 acgtttatag ggttttcttc gctatctttt attgcgtctc ctggaagttc gataactacc
+    21481 ggcaaaggag ccgttagctg ctctacgggt agcttgagtt tgacaaaaat gtcagtttgc
+//

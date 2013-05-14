@@ -1,0 +1,290 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB001103</LOCUS>
+<LENGTH>9069</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>HUM</DIVISION>
+<LAST_UPDATE>23-OCT-2004</LAST_UPDATE>
+
+<DEFINITION>Homo sapiens gene for H-cadherin, complete cds.</DEFINITION>
+<ACCESSION>AB001103</ACCESSION>
+<VERSION>AB001103.2</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Homo sapiens</SOURCE>
+<ORGANISM>Homo sapiens</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Horii,A.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (18-FEB-1997) to the DDBJ/EMBL/GenBank databases.Contact:Akira HoriiTohoku University School of Medicine, Department of MolecularPathology; 2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 980-8575,Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Sato,M., Mori,Y., Sakurada,A., Fujimura,S. and Horii,A.</authors>
+     <title>The H-cadherin (CDH13) gene is inactivated in human lung cancer</title>
+     <journal>Hum. Genet. 103, 96-101 (1998)</journal>
+</REFERENCE>
+<REFERENCE ID="3">
+     <authors>Sato,M., Mori,Y., Sakurada,A., Fujimura,S. and Horii,A.</authors>
+     <title>A GT dinucleotide repeat polymorphism in intron 1 of theH-cadherin (CDH13) gene</title>
+     <journal>J. Hum. Genet. 43, 285-286 (1998)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..9069</location>
+     <qualifiers name="chromosome">16</qualifiers>
+     <qualifiers name="db_xref">taxon:9606</qualifiers>
+     <qualifiers name="map">16q24</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Homo sapiens</qualifiers>
+</source>
+<exon>
+     <location>1549..1713</location>
+     <qualifiers name="number">1</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<cds>
+     <location>join(1669..1713,2169..2280,2509..2717,2983..3099,3376..3528,3775..3919,4219..4397,4617..4757,5262..5444,5808..6061,6321..6463,6818..7051,7358..7576,7950..7957)</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+     <qualifiers name="protein_id">BAA32411.1</qualifiers>
+     <qualifiers name="translation">MQPRTPLVLCVLLSQVLLLTSAEDLDCTPGFQQKVFHINQPAEFIEDQSILNLTFSDCKGNDKLRYEVSSPYFKVNSDGGLVALRNITAVGKTLFVHARTPHAEDMAELVIVGGKDIQGSLQDIFKFARTSPVPRQKRSIVVSPILIPENQRQPFPRDVGKVVDSDRPERSKFRLTGKGVDQEPKGIFRINENTGSVSVTRTLDREVIAVYQLFVETTDVNGKTLEGPVPLEVIVIDQNDNRPIFREGPYIGHVMEGSPTGTTVMRMTAFDADDPATDNALLRYNIRQQTPDKPSPNMFYIDPEKGDIVTVVSPALLDRETLENPKYELIIEAQDMAGLDVGLTGTATATIMIDDKNDHSPKFTKKEFQATVEEGAVGVIVNLTVEDKDDPTTGAWRAAYTIINGNPGQSFEIHTNPQTNEGMLSVVKPLDYEISAFHTLLIKVENEDPLVPDVSYGPSSTATVHITVLDVNEGPVFYPDPMMVTRQEDLSVGSVLLTVNATDPDSLQHQTIRYSVYKDPAGWLNINPINGTVDTTAVLDRESPFVDNSVYTALFLAIDSGNPPATGTGTLLITLEDVNDNAPFIYPTVAEVCDDAKNLSVVILGASDKDLHPNTDPFKFEIHKQAVPDKVWKISKINNTHALVSLLQNLNKANYNLPIMVTDSGKPPMTNITDLRVQVCSCRNSKVDCNAAGALRFSLPSVLLLSLFSLACL</qualifiers>
+</cds>
+<intron>
+     <location>1714..&gt;1983</location>
+     <qualifiers name="number">1</qualifiers>
+</intron>
+<repeat_region>
+     <location>1917..1964</location>
+     <qualifiers name="rpt_unit_seq">gt</qualifiers>
+</repeat_region>
+<gap>
+     <location>1985..2084</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;2085..2168</location>
+     <qualifiers name="number">1</qualifiers>
+</intron>
+<exon>
+     <location>2169..2280</location>
+     <qualifiers name="number">2</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>2281..&gt;2369</location>
+     <qualifiers name="number">2</qualifiers>
+</intron>
+<gap>
+     <location>2370..2469</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;2470..2508</location>
+     <qualifiers name="number">2</qualifiers>
+</intron>
+<exon>
+     <location>2509..2717</location>
+     <qualifiers name="number">3</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>2718..&gt;2787</location>
+     <qualifiers name="number">3</qualifiers>
+</intron>
+<gap>
+     <location>2788..2887</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;2888..2982</location>
+     <qualifiers name="number">3</qualifiers>
+</intron>
+<exon>
+     <location>2983..3099</location>
+     <qualifiers name="number">4</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>3100..&gt;3205</location>
+     <qualifiers name="number">4</qualifiers>
+</intron>
+<gap>
+     <location>3206..3305</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;3306..3375</location>
+     <qualifiers name="number">4</qualifiers>
+</intron>
+<exon>
+     <location>3376..3528</location>
+     <qualifiers name="number">5</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>3529..&gt;3588</location>
+     <qualifiers name="number">5</qualifiers>
+</intron>
+<gap>
+     <location>3589..3688</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;3689..3774</location>
+     <qualifiers name="number">5</qualifiers>
+</intron>
+<exon>
+     <location>3775..3919</location>
+     <qualifiers name="number">6</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>3920..&gt;4086</location>
+     <qualifiers name="number">6</qualifiers>
+</intron>
+<gap>
+     <location>4087..4186</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;4187..4218</location>
+     <qualifiers name="number">6</qualifiers>
+</intron>
+<exon>
+     <location>4219..4397</location>
+     <qualifiers name="number">7</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>4398..&gt;4482</location>
+     <qualifiers name="number">7</qualifiers>
+</intron>
+<gap>
+     <location>4483..4582</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;4583..4616</location>
+     <qualifiers name="number">7</qualifiers>
+</intron>
+<exon>
+     <location>4617..4757</location>
+     <qualifiers name="number">8</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>4758..&gt;4949</location>
+     <qualifiers name="number">8</qualifiers>
+</intron>
+<gap>
+     <location>4950..5049</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;5050..5261</location>
+     <qualifiers name="number">8</qualifiers>
+</intron>
+<exon>
+     <location>5262..5444</location>
+     <qualifiers name="number">9</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>5445..&gt;5652</location>
+     <qualifiers name="number">9</qualifiers>
+</intron>
+<gap>
+     <location>5653..5752</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;5753..5807</location>
+     <qualifiers name="number">9</qualifiers>
+</intron>
+<exon>
+     <location>5808..6061</location>
+     <qualifiers name="number">10</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>6062..&gt;6167</location>
+     <qualifiers name="number">10</qualifiers>
+</intron>
+<gap>
+     <location>6168..6267</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;6268..6320</location>
+     <qualifiers name="number">10</qualifiers>
+</intron>
+<exon>
+     <location>6321..6463</location>
+     <qualifiers name="number">11</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>6464..&gt;6547</location>
+     <qualifiers name="number">11</qualifiers>
+</intron>
+<gap>
+     <location>6548..6647</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;6648..6817</location>
+     <qualifiers name="number">11</qualifiers>
+</intron>
+<exon>
+     <location>6818..7051</location>
+     <qualifiers name="number">12</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>7052..&gt;7098</location>
+     <qualifiers name="number">12</qualifiers>
+</intron>
+<gap>
+     <location>7099..7198</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;7199..7357</location>
+     <qualifiers name="number">12</qualifiers>
+</intron>
+<exon>
+     <location>7358..7576</location>
+     <qualifiers name="number">13</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<intron>
+     <location>7577..&gt;7640</location>
+     <qualifiers name="number">13</qualifiers>
+</intron>
+<gap>
+     <location>7641..7740</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+<intron>
+     <location>&lt;7741..7949</location>
+     <qualifiers name="number">13</qualifiers>
+</intron>
+<exon>
+     <location>7950..9066</location>
+     <qualifiers name="number">14</qualifiers>
+     <qualifiers name="product">H-cadherin</qualifiers>
+</exon>
+<polya_signal>
+     <location>9046..9051</location>
+</polya_signal>
+<polya_site>
+     <location>9066</location>
+</polya_site>
+</FEATURES>
+<BASE_COUNT A="       2025 " C="       1826 " G="       1700 " T="       2164 "/>
+<SEQUENCE>agcttcagncatcactnncatctttatcaatgnccttgggnccacaggnngngnccttctgnccaaacagcagccaatgnaggnatcttaaaaggcacatcactttatatttattcagtggttatgncatcacttaatcctcaccacaaccttgtgngntcagtacaatttgtgntttcattttatctgtgaacaaatggaggcagnnntttgngtaatttacaagtaagtggcagatccgggggctgtgcctagacaatgtggctccagactccttgcccctccctgccttctgctgcatcttgattgagtctagccatctatttctttaacacacactaattgctgtctccatgttccaggccctgtgccagatgctagaaatacatccccatccactggatcttggcatggtccattgctcagtgtcctgctatgttacgtgttacataatgcatttattccggtatttagcccatggaaaataatgctgaaagacattgtatgcatgtttctacaacaaaactatgtaacttatgtttcttttattgctttggctatcaggaagctcttatccaaatcagagcaaatacattagaatttgggcttgtcatttcagtttgctgaacttttccttctggcccagattttctattttggttcataaattctattgcacaaatgtcctttattgtaaaacaccttaaattctttctaagggaaggctgcatggaaatgatacagtaaggtcttccctgcattttcttagattcctattagggaaggcagacctagatgtccctcttaccctcagtcccaaagccccccatttataaaatcccttaagcagtgactactgctgttctgagtacctggaggtagttcagagcttctgaaaggtaaaatccatatacaaaaagaagttccttccgatccagatcccagctttggtgccagatgcacatttgaggagtaggtggctagtcagactctcacctgagcagttaataaaatctattgccccttaatggaattttttctgcaagctcgaattgatctgtcatctttgtgatttgtgagatggcagggaagcaccaaacaccatcatgacttgggccacagtggtgggaaaaaaggaaaaaagaaaaaaaaaatccactgccaagccttgccaggcgtanaaagggctggaactgctggggccattttatctgatttattggaaatagagtggatcttattaacattttaataaagagaatctttttgcactaggctggaagtggccgccagtcccccgtgcaattccattctctggaaaagtggaatcagctggcattgcccagcgtgatttgtgaggctgagccccaacagtccaaagaagcaaatgggatgccacctccgcggggctcgctcctcgcgaggtgctcaccccgtatctgccatgcaaaacgagggagcgttaggaaggaatccgtcttgtaaagccattggtcctggtcatcagcctctacccaatgctttcgtgatgctgctgctgatctatttgggaagttggctggctggcgaggcagagcctctcctcaaagcctggctcccacggaaaatatgctcagtgcagccgcgtgcatgaatgaaaacgccgccgggcgcttctagtcggacaaaatgcagccgagaactccgctcgttctgtgcgttctcctgtcccaggtagggaagaggggctgccgggcgcgctctgcgccccgtttctgcattcggatcgcccggcacgggcagggtgagggggctttcggggggtcggggcctccggtcgcggcggcgaagacagatcggggctcggtagggaggtcattccgagcccagagatcctaggcaccccccacacacaggctcccactctggcgtgcgtgcgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtacgttcgttaacgggaggannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntctaaaagttgcagatttggcgaaagttagcagggcaaacacataagaccgctattaaaatattgatggctttggttttctcaggtgctgctgctaacatctgcagaagatttggactgcactcctggatttcagcagaaagtgttccatatcaatcagccagctgaattcattgaggaccagtcaattctaaactgtaagcaatgtcactcaaagatgcttttagactcttctcatatttgaatttactaatgtttatgactgtgtctcaggatgtggtatttcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncctactcatgctccttctgttgtttcgtttgtttcccagtgaccttcagtgactgtaagggaaacgacaagctacgctatgaggtctcgagcccatacttcaaggtgaacagcgatggcggcttagttgctctgagaaacataactgcagtgggcaaaactctgttcgtccatgcacggaccccccatgcggaagatatggcagaactcgtgattgtcggggggaaagacatccagggctccttgcaggtaacacatctgtttgagataacttgggttcaaggaggacattaggttctgtctgtcttatgtggaaaatnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgtatgctttccnaacaaaggaactctatctcggagcagactgatacatcatttcaatgggagattttaatcaatccttttgttttcccttttaggatatatttaaatttgcaagaacttctcctgtcccaagacaaaagaggtccattgtggtatctcccattttaattccagagaatcagagacagcctttcccaagagatgttggcaaggtaagtcagacaaacagcaaatgacaaaaacatgtttttatgaaaagatgagcacagcagactgagtatgactgtcttggtgaccagctggaattagtcttcatctnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagtatgtttgcaatgtgctttctctgtgttttccaggcagntttaaatgtctctctgtttttctcactaggtagtcgatagtgacaggccagaaaggtccaagttccggctcactggaaagggagtggatcaagagcctaaaggaattttcagaatcaatgagaacacagggagcgtctccgtgacacggaccttggacagagaagtaatcgctgtttatcaagtgagtacccctctcccatgcccaccctgtgcgcagaaatgtggctttcaaagattgtttnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaaccatctttctctagagaanccntatttgaattttcataatgaattaatatcttctttctcccccaatctctttgctcaaatagctatttgtggagaccactgatgtcaatggcaaaactctcgaggggccggtgcctctggaagtcattgtgattgatcagaatgacaaccgaccgatctttcgggaaggcccctacatcggccacgtcatggaagggtcacccacaggtatgtcacattggcttacctttagcgtaatggcttggaaagaggcacactttgatctttgtggattctagggactgtcttatggctgttccaacttgtcagctcggtatcagcgtcgacttaatacttccctgcgtagagccaggttggaagctaagtgcaagcttnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnccattccgtgcctttctgtcttgccccggtaggcaccacagtgatgcggatgacagcctttgatgcagatgacccagccaccgataatgccctcctgcggtataatatccgtcaacagacgcctgacaagccatctcccaacatgttctacatcgatcctgagaaaggagacattgtcactgttgtgtcacctgcgctgctggaccgagaggtgagctgaaaagaataccactttctttttcacgagaatagaatnnnncttttcatgcaatttatgatgtnnggctccagtcagtnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngctcatattatttctttgtgcttgtgctttnnagactctggaaaatcccaagtatgaactgatcatcgaggctcaagatatggctggactggatgttggattaacaggcacggccacagccacgatcatgatcgatgacaaaaatgatcactcaccaaaattcaccaagaaagaggtaaacccctgtgccaaacaccaaccaccactgtggtcacagctacaattactgattgatgttaattcacgtaccacgncacttgctggcccccctttcaaaatcaaaatactcctttgtgggananacganggtgttttgctggaattctttctcacatttttattttgtgtttgtgtgtgangctaaaatnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncccacattctgcaggagagaagttagtctcgtggcctcacctaagttcaaggaaagctgagaagaagagcatagtatcttccaaccgtaatcctcttatgttattatttatttttaagtgagatgatgtgtgtaacatacccaatgctttgcatgtagtaaatgactatgtgttttcaaaatagtgaccattaccatctgctttgtttgcagtttcaagccacagtcgaggaaggagctgtgggagttattgtcaatttgacagttgaagataaggatgaccccaccacaggtgcatggagggctgcctacaccatcatcaacggaaaccccgggcagagctttgaaatccacaccaaccctcaaaccaacgaagggatgctttctgttgtcaaagtaagggtgcttccaattgcctctttctcctcatgcgagcacggagggccccatgaggcagctcatagaatcattgagtttagaaggccacagataaattcccccagtctcctccttctgggaattaacaaaggaaaaggctcatggcttaagggtgcactcgtatcctcagcagcataaacaagcagccataaaacaaacctgttttnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnccacntgccttttgtggntggtgtgcatcctgagacccttctgtctgctttccagccattggactatgaaatttctgccttccacaccctgctgatcaaagtggaaaatgaagacccactcgtacccgacgtctcctacggccccagctccacagccaccgtccacatcactgtcctggatgtcaacgagggcccagtcttctacccagaccccatgatggtgaccaggcaggaggacctctctgtgggcagcgtgctgctgacagtgaatgccacggaccccgactccctgcagcatcaaaccatcaggtgggtgagtggctccggaaccacagacgggaggtgggcaggaatggcttttcctttccagtcgcagaagctggttgtcaggagcagacaccattaaattaaacttnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttcttgaatctactttgaatgcagagtctgacattgtggggatttttttcaggtattctgtttacaaggacccagcaggttggctgaatattaaccccatcaatgggactgttgacaccacagctgtgctggaccgtgagtccccatttgtcgacaacagcgtgtacactgctctcttcctggcaattgacagtggtgagtacttgacaaagaccatcaagggtatacttttctgctacaaatatacttttacatttttaaatttcttctgatacacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgtagcatataccagttgcataccaacatnttccctttttcccacaggcaaccctcccgctacgggcactgggactttgctgataaccctggaggacgtgaatgacaatgccccgttcatttaccccacagtagctgaagtctgtgatgatgccaaaaacctcagtgtaggcaaccctcccgctacgggcactgggactttgctgataaccctggaggacgtgaatgacaatgccccgttcatttaccccacagtagctgaagtctgtgatgatgccaaaaacctcagtgtagtcattttgggagcatcagataaggatcttcacccgaatacagatcctttcaaatttgaaatccacaaacaagctgttcctgataaagtctggaagatctccaagatcaacagtaagtctggctaaagcatttctncctattcttccagctttcagtttnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntggtattttcacttgatgttaatgaatttaaatgtaagcattcgcacaattataaatgaaaatgcaatgcctgtttggtgtgactttcatcaccaaaacctcatcttttattggaaaaagtctcatccactctcaccagaaccctccttgcctttacagatacacacgccctggtaagccttcttcaaaatctgaacaaagcaaactacaacctgcccatcatggtgacagattcagggaaaccacccatgacgaatatcacagatctcagggtacaagtgtgctcctgcaggaattccaaagtggactgcaacgcggcgggggccctgcgcttcagcctgccctcagtcctgctcctcagcctcttcagcttagcttgtaagttgacctaactccantgcatgcacaaacaggaaattgtnacttcantgggttcgtgaagnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcattttcagagaagtccagctttttaccatataaccattcattntgtcttccaatgtgatccttaaggaaaaaaaaaattcccccatagtcgtgtgatgtttaaaatgtgtttattataccttgcctgtcatttttctggcttttagctaaaatgttttgaattgagtggtgatattcccgannnaacnctgaaccctcnnnnttcaggtctgtgagaactcctgacgtctgaagcttgactcccaagtttccatagcaacaggaaaaaaaaaaatctatccaaatctgaagattgcggtttacagctatcgaacttcacaactaggcctcaattgttccggttttttattttctttacaatttcacttagtctgtacttcatcattttgacagcatcttcctccctcctttaattaatggaatcttctgaattttccctgaatgtttaaagatcatgacatatgacttgatcttctgggagcaggaacaatgactactttttctggtgtgttaacatgtcgctagccagtgctccaggcacccagctttgtctgtgggttagtattggtgtatgtatgagtatctgtatgtatatatacacggtatttatagagagagactatcctggagaagcctcgttttgatgccattcttccttgcaaggttaagcaaggtgggtggaaactaagacacctgaaccctccagggcctcccgcatcaaggtcagcatgaggacagaccacagagctgtcacttttgctccgaagctacttctccactgtcccgttcagtctgaatctgccacaaccagccaggcaggtccacagagagggagagcagagaaagaagtcctttctctttattgagttcgaggactacaaccaatttacactgccatctgatgccgtgatcctgagccaaggaggtgaggagcagagcaggcaatttcaccaccaaatgccaagaaaagggctgacattttctttcatgggcaccaacctgcatttgtatgtgtcccgaatccacagtcgtactgattctaatggggacacagatcatggtagagaatctctccctcctcagtaaatgtacaactgcacctgtcatcatggaggtcatacatgcatacaaagaggtgtacaggtaccatcttgtatacacatatatacccacatgtacagacatacatttatgcacattcacgctgtttgtttcatatatacaggcataaaatagagtaaatacaggtagttttaaaagtacccttttgtgtgaattgactaccgttgtttgcaaacccgaaaataaaagacgttcattatgtatg</SEQUENCE>
+</DDBJXML>

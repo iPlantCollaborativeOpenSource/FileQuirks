@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>GG000009</LOCUS>
+<LENGTH>116682</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>CON</DIVISION>
+<LAST_UPDATE>06-NOV-2008</LAST_UPDATE>
+
+<DEFINITION>Choloepus hoffmanni scaffold_8 genomic scaffold, whole genomeshotgun sequence.</DEFINITION>
+<ACCESSION>GG000009</ACCESSION>
+<VERSION>GG000009.1</VERSION>
+<KEYWORDS>WGS.</KEYWORDS>
+
+<SOURCE>Choloepus hoffmanni</SOURCE>
+<ORGANISM>Choloepus hoffmanni</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Xenarthra; Megalonychidae; Choloepus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.</authors>
+     <title>The Genome Sequence of Choloepus hoffmanni (sloth)</title>
+     <journal>Unpublished</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (29-AUG-2008) Broad Institute of MIT and Harvard, 7Cambridge Center, Cambridge, MA 02142, USA</journal>
+</REFERENCE>
+<COMMENT>Sequenced at Washington University School of Medicine GenomeSequencing Center, assembled at the Broad Institute.Assembly name: ChoHof1.0Coverage: 2.18X.</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..116682</location>
+     <qualifiers name="organism">Choloepus hoffmanni</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="db_xref">taxon:9358</qualifiers>
+     <qualifiers name="sex">female</qualifiers>
+</source>
+<gap>
+     <location>1914..2013</location>
+     <qualifiers name="estimated_length">unknown</qualifiers>
+</gap>
+</FEATURES>
+<BASE_COUNT/>
+<SEQUENCE>
+</SEQUENCE>
+</DDBJXML>

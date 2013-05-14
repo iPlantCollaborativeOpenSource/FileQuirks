@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB000050</LOCUS>
+<LENGTH>1755</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>VRL</DIVISION>
+<LAST_UPDATE>05-FEB-1999</LAST_UPDATE>
+
+<DEFINITION>Feline panleukopenia virus DNA for capsid protein 2, complete cds.</DEFINITION>
+<ACCESSION>AB000050</ACCESSION>
+<VERSION>AB000050.1</VERSION>
+<KEYWORDS>capsid protein 2.</KEYWORDS>
+
+<SOURCE>Feline panleukopenia virus</SOURCE>
+<ORGANISM>Feline parvovirus</ORGANISM>
+<TAXONOMY>Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Horiuchi,M.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (22-DEC-1996) to the DDBJ/EMBL/GenBank databases.Contact:Motohiro HoriuchiObihiro University of Agriculture and Veterinary Medicine,Veterinary Public Health; Inada cho, Obihiro, Hokkaido 080, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Horiuchi,M.</authors>
+     <title>Evolutionary pattern of feline panleukopenia virus differs fromthat of canine parvovirus</title>
+     <journal>Unpublished (1997)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..1755</location>
+     <qualifiers name="isolate">94-1</qualifiers>
+     <qualifiers name="lab_host">Felis domesticus</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Feline panleukopenia virus</qualifiers>
+</source>
+<cds>
+     <location>1..1755</location>
+     <qualifiers name="product">capsid protein 2</qualifiers>
+     <qualifiers name="protein_id">BAA19011.1</qualifiers>
+     <qualifiers name="translation">MSDGAVQPDGGQPAVRNERATGSGNGSGGGGGGGSGGVGISTGTFNNQTEFKFLENGWVEITANSSRLVHLNMPESENYKRVVVNNMDKTAVKGNMALDDTHVQIVTPWSLVDANAWGVWFNPGDWQLIVNTMSELHLVSFEQEIFNVVLKTVSESATQPPTKVYNNDLTASLMVALDSNNTMPFTPAAMRSETLGFYPWKPTIPTPWRYYFQWDRTLIPSHTGTSGTPTNVYHGTDPDDVQFYTIENSVPVHLLRTGDEFATGTFFFDCKPCRLTHTWQTNRALGLPPFLNSLPQSEGATNFGDIGVQQDKRRGVTQMGNTDYITEATIMRPAEVGYSAPYYSFEASTQGPFKTPIAAGRGGAQTDENQAADGDPRYAFGRQHGQKTTTTGETPERFTYIAHQDTGRYPEGDWIQNINFNLPVTNDNVLLPTDPIGGKTGINYTNIFNTYGPLTALNNVPPVYPNGQIWDKEFDTDLKPRLHVNAPFVCQNNCPGQLFVKVAPNLTNEYDPDASANMSRIVTYSDFWWKGKLVFKAKLRASHTWNPIQQMSINVDNQFNYVPNNIGAMKIVYEKSQLAPRKLY</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        618 " C="        271 " G="        346 " T="        520 "/>
+<SEQUENCE>atgagtgatggagcagttcaaccagacggtggtcaacctgctgtcagaaatgaaagagctacaggatctgggaacgggtctggaggcgggggtggtggtggttctgggggtgtggggatttctacgggtactttcaataatcagacggaatttaaatttttggaaaacgggtgggtggaaatcacagcaaactcaagcagacttgtacatttaaatatgccagaaagtgaaaattataaaagagtagttgtaaataatatggataaaactgcagttaaaggaaatatggctttagatgatactcatgtacaaattgtaacaccttggtcattggttgatgcaaatgcttggggagtttggtttaatccaggagattggcaactaattgttaatactatgagtgagttgcatttagttagttttgaacaagaaatttttaatgttgttttaaagactgtttcagaatctgctactcagccaccaactaaagtttataataatgatttaactgcatcattgatggttgcattagatagtaataatactatgccatttactccagcagctatgagatctgagacattgggtttttatccatggaaaccaaccataccaactccatggagatattattttcaatgggatagaacattaataccatctcatactggaactagtggcacaccaacaaatgtatatcatggtacagatccagatgatgttcaattttatactattgaaaattctgtgccagtacacttactaagaacaggtgatgaatttgctacaggaacatttttttttgattgtaaaccatgtagactaacacatacatggcaaacaaatagagcattgggcttaccaccatttttaaattctttgcctcaatctgaaggagctactaactttggtgatataggagttcaacaagataaaagacgtggtgtaactcaaatgggaaatacagactatattactgaagctactattatgagaccagctgaggttggttatagtgcaccatactattcttttgaagcgtctacacaagggccatttaaaacacctattgcagcaggacgggggggagcgcaaacagatgaaaatcaagcagcagatggtgatccaagatatgcatttggtagacaacatggtcaaaaaactactacaacaggagaaacacctgagagatttacatatatagcacatcaagatacaggaagatatccagaaggagattggattcaaaatattaactttaaccttcctgtaacaaatgataatgtattgctaccaacagatccaattggaggtaaaacaggaattaactatactaatatatttaatacttatggtcctttaactgcattaaataatgtaccaccagtttatccaaatggtcaaatttgggataaagaatttgatactgacttaaaaccaagacttcatgtaaatgcaccatttgtttgtcagaataattgtcctggtcaattatttgtaaaagttgcgcctaatttaacgaatgaatatgatcctgatgcatctgctaatatgtcaagaattgtaacttattcagatttttggtggaaaggtaaattagtatttaaagctaaactaagagcatctcatacttggaatccaattcaacaaatgagtattaatgtagataaccaatttaactatgtaccaaataatattggagctatgaaaattgtatatgaaaaatctcaactagcacctagaaaattatattaa</SEQUENCE>
+</DDBJXML>

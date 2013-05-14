@@ -1,0 +1,12 @@
+Bioseq-set ::= {
+seq-set {
+  seq {
+    id { local id 1 },
+    descr { title "sample" },
+    inst {
+      repr raw, mol dna, length 87, topology linear,
+      seq-data
+        iupacna "GGTGCTGAGAGACAACATCCAGGGCATCACCAAGCCCGCCATCAGAAGACTGGCCAGAAGA
+GGCGGCGTGAAGAGAATCAGCGGCCT"
+      } } ,
+} }

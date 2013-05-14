@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB023551</LOCUS>
+<LENGTH>1197</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>VRL</DIVISION>
+<LAST_UPDATE>11-DEC-1999</LAST_UPDATE>
+
+<DEFINITION>Human adenovirus type 22 hexon gene, partial cds.</DEFINITION>
+<ACCESSION>AB023551</ACCESSION>
+<VERSION>AB023551.1</VERSION>
+<KEYWORDS>hexon.</KEYWORDS>
+
+<SOURCE>Human adenovirus type 22</SOURCE>
+<ORGANISM>Human adenovirus type 22</ORGANISM>
+<TAXONOMY>Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Mastadenovirus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Takeuchi,S., Itoh,N., Uchio,E., Aoki,K. and Ohno,S.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (10-FEB-1999) to the DDBJ/EMBL/GenBank databases.Contact:Satoshi TakeuchiYokohama City University School of Medicine, Department ofOphthalmology; 3-9 Fuku-ura Kanazawa-ku, Yokohama, Kanagawa236-8567, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Takeuchi,S., Itoh,N., Uchio,E., Tanaka,K., Kitamura,K., Kanai,H.,Isobe,K., Aoki,K. and Ohno,S.</authors>
+     <title>Adenovirus strains of subgenus D associated with nosocomialinfection as new etiological agents of epidemickeratoconjunctivitis in Japan</title>
+     <journal>J. Clin. Microbiol. 37, 3392-3394 (1999)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..1197</location>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Human adenovirus type 22</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..&gt;1197</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">hexon</qualifiers>
+     <qualifiers name="protein_id">BAA84985.1</qualifiers>
+     <qualifiers name="transl_table">1</qualifiers>
+     <qualifiers name="translation">VDREDTTYSYKARFTLAVGDNRVLDMASTYFDIRGVLDRGPSFKPYSGTAYNSLAPKGAPNSSQWAQKKTGEDNQTETRTFGVAAMGGILIDKNGLQIGTDETKPNNKEVYADKTFQPEPQIGEENWQDGDVFYGGRTIKKETKMKPCYGSFARPTNEKGGQAKFKTNAEGQPTEELDIDLNFFDINGGAGDNEFNPDMVMYAENMNLETPDTHVVYKPGTSDDSSEANLAQQSMPNRPNYIGFRDNFVGLMYYNSTGNMGVLAGQASQLNAVVDLQDRNTELSYQLLLDSLGDRTRYFSMWNSAVDSYDPDVRIIENHGVEDELPNYCFPLDGTGTNSTYQGVKETAAQNGWEKDPNVAAQNQICKGNIYAMEINLQANLWKSFLYSNVALYLPDSFN</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        358 " C="        274 " G="        297 " T="        268 "/>
+<SEQUENCE>gtggatcgcgaggacaccacgtactcgtacaaggcgcgcttcactctggccgtgggcgacaaccgggtgctagacatggccagcacttactttgacatccgcggcgtcctggaccgcggtcccagcttcaaaccctactcgggcacggcttacaacagcctggcccccaagggcgcccctaactccagtcagtgggcgcagaaaaagactggtgaagacaatcaaactgaaacacgcacatttggtgtggccgctatgggtggaatacttattgataaaaatggtcttcagattggaacagatgaaactaaacccaataacaaggaagtttatgcagacaaaacattccagccagaacctcaaataggtgaagaaaactggcaagatggagatgttttctatggaggcaggactattaaaaaggaaaccaaaatgaagccatgctatggctcatttgccagacccactaatgaaaagggaggtcaggcaaaatttaaaactaatgccgaaggtcagcccacagaggagttagacattgacctgaacttctttgatattaatggaggggcaggtgataatgaatttaacccagacatggtcatgtatgctgagaatatgaatctggagacgccagatacacatgtggtgtacaaacctggaacttcagatgacagttctgaagctaacttagcgcagcagtccatgcccaacaggccaaactacattggcttcagagacaattttgtggggcttatgtactacaacagcactggcaacatgggtgtgctggctggtcaggcatctcagttgaatgctgtggtcgacttgcaagacagaaatactgagctgtcttaccagctcttgctagattctctgggtgacagaacaagatactttagcatgtggaactctgcggtggacagctatgatcccgatgtcaggatcattgagaatcacggtgtggaagatgaacttccaaactattgcttcccattggatggcactggcaccaattctacataccaaggggttaaagaaacagctgctcagaatggatgggaaaaagatccaaatgttgctgctcagaaccaaatttgcaagggcaacatctatgccatggagattaacctccaggccaacctgtggaagagttttctgtactcgaacgtggccctgtacctgcccgactctttcaat</SEQUENCE>
+</DDBJXML>

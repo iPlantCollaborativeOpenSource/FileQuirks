@@ -1,0 +1,91 @@
+ID   SEC65_YARLI             Reviewed;         310 AA.
+AC   P41922;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 1.
+DT   25-NOV-2008, entry version 44.
+DE   RecName: Full=Signal recognition particle SEC65 subunit;
+GN   Name=SEC65; Synonyms=SRP19; OrderedLocusNames=YALI0F21505g;
+OS   Yarrowia lipolytica (Candida lipolytica).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Dipodascaceae; Yarrowia.
+OX   NCBI_TaxID=4952;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 20460 / W29 / CBS 7504 / IFP29;
+RX   MEDLINE=98085978; PubMed=9426009; DOI=10.1016/S0378-1119(97)00496-4;
+RA   Sanchez M., Beckerich J.-M., Gaillardin C., Dominguez A.;
+RT   "Isolation and cloning of the Yarrowia lipolytica SEC65 gene, a
+RT   component of the yeast signal recognition particle displaying homology
+RT   with the human SRP19 gene.";
+RL   Gene 203:75-84(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 20460 / W29 / CBS 7504 / IFP29;
+RA   Sanchez M., Dominguez A.;
+RT   "Gene order in a 10275 bp fragment from Yarrowia lipolytica including
+RT   YlURA5 and YlSEC65 adyacent genes conserved in four yeast species.";
+RL   Submitted (JUN-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CLIB 122 / E 150;
+RX   PubMed=15229592; DOI=10.1038/nature02579;
+RA   Dujon B., Sherman D., Fischer G., Durrens P., Casaregola S.,
+RA   Lafontaine I., de Montigny J., Marck C., Neuveglise C., Talla E.,
+RA   Goffard N., Frangeul L., Aigle M., Anthouard V., Babour A., Barbe V.,
+RA   Barnay S., Blanchin S., Beckerich J.-M., Beyne E., Bleykasten C.,
+RA   Boisrame A., Boyer J., Cattolico L., Confanioleri F., de Daruvar A.,
+RA   Despons L., Fabre E., Fairhead C., Ferry-Dumazet H., Groppi A.,
+RA   Hantraye F., Hennequin C., Jauniaux N., Joyet P., Kachouri R.,
+RA   Kerrest A., Koszul R., Lemaire M., Lesur I., Ma L., Muller H.,
+RA   Nicaud J.-M., Nikolski M., Oztas S., Ozier-Kalogeropoulos O.,
+RA   Pellenz S., Potier S., Richard G.-F., Straub M.-L., Suleau A.,
+RA   Swennen D., Tekaia F., Wesolowski-Louvel M., Westhof E., Wirth B.,
+RA   Zeniou-Meyer M., Zivanovic Y., Bolotin-Fukuhara M., Thierry A.,
+RA   Bouchier C., Caudron B., Scarpelli C., Gaillardin C., Weissenbach J.,
+RA   Wincker P., Souciet J.-L.;
+RT   "Genome evolution in yeasts.";
+RL   Nature 430:35-44(2004).
+CC   -!- FUNCTION: Signal-recognition-particle assembly has a crucial role
+CC       in targeting secretory proteins to the rough endoplasmic reticulum
+CC       membrane. It must be involved intimately in the translocation of a
+CC       wide variety of protein substrates (By similarity).
+CC   -!- SUBUNIT: Fungal signal recognition particle consists of a 7S RNA
+CC       molecule (scR1) and at least six protein subunits: SRP72, SRP68,
+CC       SRP54, SEC65, SRP21 and SRP14 (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+CC   -!- SIMILARITY: Belongs to the SRP19 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z22570; CAA80293.1; -; Genomic_DNA.
+DR   EMBL; AJ006754; CAB55335.1; -; Genomic_DNA.
+DR   EMBL; CR382132; CAG78522.1; -; Genomic_DNA.
+DR   PIR; JC6516; JC6516.
+DR   RefSeq; XP_505711.1; -.
+DR   HSSP; Q58440; 1L9A.
+DR   GeneID; 2908961; -.
+DR   KEGG; yli:YALI0F21505g; -.
+DR   HOGENOM; P41922; -.
+DR   GO; GO:0005786; C:signal recognition particle, endoplasmic re...; IEA:UniProtKB-KW.
+DR   GO; GO:0008312; F:7S RNA binding; IEA:InterPro.
+DR   GO; GO:0006614; P:SRP-dependent cotranslational protein targe...; IEA:InterPro.
+DR   InterPro; IPR002778; Signal_recog_particle_SRP19.
+DR   Gene3D; G3DSA:3.30.56.30; SRP19; 1.
+DR   PANTHER; PTHR17453; SRP19; 1.
+DR   Pfam; PF01922; SRP19; 1.
+DR   ProDom; PD006609; SRP19; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Cytoplasm; Ribonucleoprotein; RNA-binding;
+KW   Signal recognition particle.
+FT   CHAIN         1    310       Signal recognition particle SEC65
+FT                                subunit.
+FT                                /FTId=PRO_0000135211.
+SQ   SEQUENCE   310 AA;  35487 MW;  D65EC9F0C80114C3 CRC64;
+     MAILEEIDDV DNMDFDPAEF DPRAVLTDAT AHQESDGRGP INLISKAEHE RREQAKKQQE
+     QQQEQQQQAN PMAQLQQMMD QMNQGGGMPP NMGQQGKPGT QVFDSEEFKN QEIQESDFKD
+     WQIVYPVYFD KNKTVGEGRR VPLELAVENP LGQTIAEACK MLTLPSIYEA HKTHPKDWAN
+     PGRVRVQLKD DPALGLPPHS VKNKRHLFRL IAQYMKEHPT KEVTPYQGPV FQKIIQTNPE
+     FPWNSKNLPP KPQYPRGWKM PEILPILSPA LSHGEANNDM MEQMANQFMP KIPEAPPQQK
+     VKKMKVRVGR
+//

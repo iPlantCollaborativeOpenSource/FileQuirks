@@ -1,0 +1,101 @@
+hits count	122374
+spid	chid	ftid	organism	product	start	stop	strand
+V5632	V5632:AY316157	2800001	Japanese encephalitis virus	polyprotein	96	10394	+
+V7439	V7439:U54798	1300002	Yellow fever virus	polyprotein	119	10354	+
+V1310	V1310:AY426531	3	Human enterovirus 68	VP2 protein	940	1683	+
+V1310	V1310:AY426531	4	Human enterovirus 68	VP3 protein	1684	2388	+
+V5718	V5718:EU790644	6	Langat virus	envelope protein	971	2467	+
+V688	V688:AY145121	1200005	Dengue virus 1	membrane protein	710	934	+
+V688	V688:AY145121	1200006	Dengue virus 1	envelope protein	935	2419	+
+V688	V688:AY145123	1400006	Dengue virus 1	envelope protein	935	2419	+
+V1108	V1108:AM282986	15	Hepatitis B virus subtype adw2	-	1275	1291	+
+V5785	V5785:AY624354	1000002	Machupo virus	Z protein	96	380	+
+V5954	V5954:AY508995	1100004	Mumps virus	fusion protein	4546	6162	+
+V5977	V5977:DQ366149	600012	Murine leukemia virus	protein p30	1279	2067	+
+V5977	V5977:DQ366149	600014	Murine leukemia virus	protein p10	2068	2235	+
+V6016	V6016:DQ366147	12	Mus musculus	protein p30	1281	2069	+
+V6016	V6016:DQ366147	14	Mus musculus	protein p10	2070	2237	+
+V6172	V6172:AF079456	7	O'nyong-nyong virus	capsid protein	7668	8447	+
+V688	V688:AY145122	1300003	Dengue virus 1	virion capsid protein	95	394	+
+V688	V688:AY145122	1300004	Dengue virus 1	membrane precursor protein	437	934	+
+V688	V688:AY145123	1400002	Dengue virus 1	anchored capsid protein	95	436	+
+V734	V734:EF568607	700007	Eastern equine encephalitis virus	capsid protein	7595	8377	+
+V7392	V7392:AM404308	5	West Nile virus strain PTRoxo	E protein	942	2444	+
+V7392	V7392:AM404308	8	West Nile virus strain PTRoxo	NS2B protein	4194	4586	+
+V7392	V7392:AM404308	10	West Nile virus strain PTRoxo	NS4A protein	6444	6890	+
+V7392	V7392:AM404308	11	West Nile virus strain PTRoxo	NS4B protein	6891	7655	+
+V7392	V7392:AM404308	12	West Nile virus strain PTRoxo	NS5 protein	7656	10370	+
+V1103	V1103:EU939537	157600004	Hepatitis B virus	precore/core protein	1847	2398	+
+V1103	V1103:EU939544	158300004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939572	161100004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939600	163900004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939609	164800004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939611	165000004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939633	167200004	Hepatitis B virus	precore/core protein	1814	2452	+
+V1103	V1103:EU939641	168000003	Hepatitis B virus	precore/core protein	1760	2398	+
+V1103	V1103:EU939643	168200003	Hepatitis B virus	precore/core protein	1814	2452	+
+V1246	V1246:AY391777	6	Human coronavirus OC43	NS3 protein	28133	28387	+
+V5852	V5852:U59461	100046	Mamestra configurata NPV-A	protein kinase interacting protein PKIP	41917	42423	+
+V6539	V6539:AF221830	1	Rice stripe virus	SP protein	55	591	+
+V6539	V6539:AF513505	100002	Rice stripe virus	VCP4 protein	1246	2106	-
+V1102	V1102:DQ991030	1300002	Hepatitis A virus	P1 structural protein	717	3089	+
+V1102	V1102:DQ991030	1300004	Hepatitis A virus	P3 nonstructural protein	4983	7400	+
+V1102	V1102:M20273	2000003	Hepatitis A virus	VP2 protein	796	1464	+
+V1103	V1103:AF043593	45100004	Hepatitis B virus	S protein	143	820	+
+V1103	V1103:AF043594	45200004	Hepatitis B virus	S protein	155	832	+
+V1103	V1103:AF151735	48500010	Hepatitis B virus	core protein	1901	2449	+
+V1103	V1103:AJ131567	56700003	Hepatitis B virus	core-protein	88	636	+
+V1103	V1103:AJ131568	56800003	Hepatitis B virus	core-protein	88	636	+
+V1103	V1103:AJ131572	57200003	Hepatitis B virus	core-protein	88	636	+
+V1103	V1103:EU155828	119900004	Hepatitis B virus	S protein	155	835	+
+V1103	V1103:U46935	201700008	Hepatitis B virus	core protein	1901	2449	+
+V1103	V1103:Y18855	203800004	Hepatitis B virus	core protein	1898	2446	+
+V1109	V1109:AB435162	300002	Hepatitis C virus	core protein	342	914	+
+V1109	V1109:AB435162	300005	Hepatitis C virus	p7 protein	2580	2768	+
+V1109	V1109:AB435162	300006	Hepatitis C virus	NS2 protein	2769	3419	+
+V1109	V1109:AB435162	300008	Hepatitis C virus	NS4A protein	5313	5474	+
+V1109	V1109:AB435162	300010	Hepatitis C virus	NS5A protein	6258	7598	+
+V1109	V1109:AJ000009	400003	Hepatitis C virus	core protein	325	897	+
+V1109	V1109:AJ000009	400004	Hepatitis C virus	E1 protein	898	1473	+
+V1109	V1109:AJ000009	400005	Hepatitis C virus	E2 protein	1474	2562	+
+V1109	V1109:AJ000009	400008	Hepatitis C virus	NS3 protein	3403	5295	+
+V1109	V1109:AJ000009	400009	Hepatitis C virus	NS4a protein	5296	5457	+
+V1109	V1109:AJ000009	400010	Hepatitis C virus	NS4b protein	5458	6240	+
+V1109	V1109:AJ000009	400011	Hepatitis C virus	NS5a protein	6241	7581	+
+V1109	V1109:AJ000009	400012	Hepatitis C virus	NS5b protein	7582	9354	+
+V1109	V1109:D50480	1400002	Hepatitis C virus	core protein	330	902	+
+V1109	V1109:D50482	1600002	Hepatitis C virus	core protein	330	902	+
+V1109	V1109:D50484	1800002	Hepatitis C virus	core protein	330	902	+
+V1109	V1109:D50485	1900002	Hepatitis C virus	core protein	330	902	+
+V1121	V1121:AB031663	2	Hepatitis C virus (isolate VAT96)	core protein	342	914	+
+V1121	V1121:AB031663	6	Hepatitis C virus (isolate VAT96)	NS3 protein	3372	5324	+
+V1121	V1121:AB031663	9	Hepatitis C virus (isolate VAT96)	NS5A protein	6393	7667	+
+V1121	V1121:AB031663	10	Hepatitis C virus (isolate VAT96)	NS5B protein	7668	9440	+
+V1125	V1125:EU155213	300003	Hepatitis C virus subtype 1a	E1 protein	844	1419	+
+V1125	V1125:EU155213	300008	Hepatitis C virus subtype 1a	NS4A protein	5242	5403	+
+V1125	V1125:EU155214	400003	Hepatitis C virus subtype 1a	E1 protein	841	1416	+
+V1125	V1125:EU155214	400005	Hepatitis C virus subtype 1a	p7 protein	2506	2694	+
+V1125	V1125:EU155214	400008	Hepatitis C virus subtype 1a	NS4A protein	5239	5400	+
+V1125	V1125:EU155214	400010	Hepatitis C virus subtype 1a	NS5A protein	6184	7527	+
+V1125	V1125:EU155215	500002	Hepatitis C virus subtype 1a	core protein	237	809	+
+V1125	V1125:EU155215	500005	Hepatitis C virus subtype 1a	p7 protein	2475	2663	+
+V1125	V1125:EU155215	500010	Hepatitis C virus subtype 1a	NS5A protein	6153	7496	+
+V1125	V1125:EU155216	600002	Hepatitis C virus subtype 1a	core protein	262	834	+
+V1125	V1125:EU155216	600005	Hepatitis C virus subtype 1a	p7 protein	2500	2688	+
+V1125	V1125:EU155216	600008	Hepatitis C virus subtype 1a	NS4A protein	5233	5394	+
+V1125	V1125:EU155216	600009	Hepatitis C virus subtype 1a	NS4B protein	5395	6177	+
+V1125	V1125:EU155233	700002	Hepatitis C virus subtype 1a	core protein	269	841	+
+V1125	V1125:EU155233	700005	Hepatitis C virus subtype 1a	p7 protein	2507	2695	+
+V1125	V1125:EU155233	700008	Hepatitis C virus subtype 1a	NS4A protein	5240	5401	+
+V1125	V1125:EU155233	700009	Hepatitis C virus subtype 1a	NS4B protein	5402	6184	+
+V1125	V1125:EU155233	700010	Hepatitis C virus subtype 1a	NS5A protein	6185	7528	+
+V1125	V1125:EU155236	800002	Hepatitis C virus subtype 1a	core protein	233	805	+
+V1125	V1125:EU155236	800005	Hepatitis C virus subtype 1a	p7 protein	2471	2659	+
+V1125	V1125:EU155236	800006	Hepatitis C virus subtype 1a	NS2 protein	2660	3310	+
+V1125	V1125:EU155236	800009	Hepatitis C virus subtype 1a	NS4B protein	5366	6148	+
+V1125	V1125:EU155237	900005	Hepatitis C virus subtype 1a	p7 protein	2521	2709	+
+V1125	V1125:EU155238	1000009	Hepatitis C virus subtype 1a	NS4B protein	5401	6183	+
+V1125	V1125:EU155239	1100003	Hepatitis C virus subtype 1a	E1 protein	833	1408	+
+V1125	V1125:EU155239	1100006	Hepatitis C virus subtype 1a	NS2 protein	2687	3337	+
+V1125	V1125:EU155239	1100009	Hepatitis C virus subtype 1a	NS4B protein	5393	6175	+
+V1125	V1125:EU155240	1200002	Hepatitis C virus subtype 1a	core protein	260	832	+

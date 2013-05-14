@@ -1,0 +1,8 @@
+BLASTN:temp_job2_embl_1_CU572401	EMBLNEW:GO256726	embl	>EM_EST:CU572401;	Theobroma cacao, mRNA sequence (KZ0AAP15YJ02FM1). 	82	7e-12	94	53	
+BLASTN:temp_job2_embl_6_AM942759	EMBLNEW:GO256726	embl	>EM_PRO:AM942759;	Proteus mirabilis strain HI4320, complete genome 	70	3e-08	89	59	
+BLASTN:temp_job2_embl_7_AR375219	EMBLNEW:GO256726	embl	>EM_PAT:AR375219;	Sequence 225 from patent US 6605709. 	70	3e-08	89	59	
+BLASTN:temp_job2_embl_10_AP008232	EMBLNEW:GO256726	embl	>EM_PRO:AP008232;	Sodalis glossinidius str. 'morsitans' DNA, complete genome. 	68	1e-07	89	58	
+BLASTN:temp_job2_embl_24_DU760361	EMBLNEW:GO256726	embl	>EM_GSS:DU760361;	ASNG3127.g2 HF200_10-06-02 uncultured marine microorganism HF200_10-06-02 genomic clone HF0200_091G07, genomic survey sequence. 	62	6e-06	90	51	
+BLASTN:temp_job2_embl_29_EA414768	EMBLNEW:GO256726	embl	>EM_PAT:EA414768;	Sequence 16876 from patent US 7319142. 	60	2e-05	92	42	
+BLASTN:temp_job2_embl_31_EX342054	EMBLNEW:GO256726	embl	>EM_EST:EX342054;	GQ03012.SP6_D15 GQ030 - Xylem planings - daytime and seasonal Picea glauca cDNA clone GQ03012_D15 3', mRNA sequence. 	60	2e-05	100	30	
+BLASTN:temp_job2_embl_50_BA000037	EMBLNEW:GO256726	embl	>EM_PRO:BA000037;	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence. 	56	4e-04	87	56	

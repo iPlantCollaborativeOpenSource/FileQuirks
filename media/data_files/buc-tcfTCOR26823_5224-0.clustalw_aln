@@ -1,0 +1,95 @@
+CLUSTAL FORMAT for T-COFFEE Version_7.71 [http://www.tcoffee.org] [MODE: regular ], CPU=3.65 sec, SCORE=17, Nseq=5, Len=747 
+
+embl|GO256726|GO256726  -a-------c-----ttgga---------taatgcgc---ctact--------ttggtcg
+embl|GO256731|GO256731  -g-------g--at---aaatgt------tatt---------------------------
+embl|GO256736|GO256736  gacacaaagcacat-acaaatctcctttctatcacttcatcaatctttttcaatcttttc
+embl|GO256744|GO256744  -at-----ggccatcttaaacctcatg-ttaaccctc---ccatg--cctgcagctgtta
+embl|GO256752|GO256752  -g----------at---ga-gct------taac---------------------------
+                                                     **                             
+
+embl|GO256726|GO256726  cttc--aa--ca---------------t----t-g----c------cat-t--ttt--aa
+embl|GO256731|GO256731  --------------------------------gagaata-tgaacggaaggaaagtgctt
+embl|GO256736|GO256736  tttttcaattcataatgggtgtcttcacatttgagaatg-agcacacaagcccagtgcct
+embl|GO256744|GO256744  cttcagaaaacatgttcaggaagcagatatcttggcctgctgaacacgtttccttta-aa
+embl|GO256752|GO256752  ------------------------------------------aac-----------ccat
+                                                                                    
+
+embl|GO256726|GO256726  acaa---catca------gtgtagg-----------aatgccacgg-----ata------
+embl|GO256731|GO256731  ttagaa-------gcaaa------gtctcct-----------------------aa-ttt
+embl|GO256736|GO256736  gcagctacactctacaaagctttggtcttcgatgcttct---actgttctcccaaaggta
+embl|GO256744|GO256744  gcagatacagcaataaaagaggaagaatcaaaaacttatgagagtg-----cta--g-tt
+embl|GO256752|GO256752  ct-gaa-------tccaa------ttcttc-----------------------------a
+                                                                                    
+
+embl|GO256726|GO256726  ccg--------------tatttaggtggtgtat---------------------------
+embl|GO256731|GO256731  gatgaa------atgggcgg-------------------agaggtttgctgctgattctg
+embl|GO256736|GO256736  aatgaagccattaagagcgttgaaatcctt---gaaggaagtgg--tgatgctggaacca
+embl|GO256744|GO256744  ctt--tatctctagcaacatttacatcccttctgattgaatttg--tg-----gcaaggc
+embl|GO256752|GO256752  gagca-----------------------------------------agctaatggcactg
+                                                                                    
+
+embl|GO256726|GO256726  -------tctggttgtcatcaatgtt-----------t--------------aactt-gg
+embl|GO256731|GO256731  ct---------------gtga--------aagggc-ttctgcctgagact----------
+embl|GO256736|GO256736  tcaagaagctgactttcgtcaaagatggcaaggaa-ctttgcctaaaacacaaagttgat
+embl|GO256744|GO256744  ttcagaaccttgttgactcctttgaa------gaa-ttaagt-gagaaagcaaactttaa
+embl|GO256752|GO256752  ------------------cca--------agtgactttctatt----------ag-----
+                                                             *                      
+
+embl|GO256726|GO256726  cg----------------------------------------------------------
+embl|GO256731|GO256731  ------gacaagctta---ttgagtt-t------------------------------gc
+embl|GO256736|GO256736  gcagtggataaggataatttcgtgta-taactacaccgtggtggaaagtgatgtatttcc
+embl|GO256744|GO256744  ggaccccctcaagatgc----aggcaccatctgatgggttttggacaagactgtgtaac-
+embl|GO256752|GO256752  -------------ttg---ttgttta-t--------------------------------
+                                                                                    
+
+embl|GO256726|GO256726  ------------------acct--tcagg--cggccagcat--attc---tttgctgatg
+embl|GO256731|GO256731  ta------------ag-gctct--tcagaaaaaattgaga---gctc---t---------
+embl|GO256736|GO256736  tgattattatgagaagatatcatacgagacaaaactagtagcagttcctcatg----gag
+embl|GO256744|GO256744  tgcatttaatttgaggat-tcaaat---atatacttgcttg--ttacctcga-----ttg
+embl|GO256752|GO256752  -----------ag----tatct--------aaaactagtag--attc---t---------
+                                            *                         *             
+
+embl|GO256726|GO256726  tcatccaggata----ggtgca--atcatttt-a-c-aag-----ga-ccgcacca----
+embl|GO256731|GO256731  ------aaaagccatg----taatgaaatttttgccatg----------t----------
+embl|GO256736|GO256736  ctattgcaaaggcctg----tgtgaaaattttcaccaaag-----gagatgctcccttga
+embl|GO256744|GO256744  tcatttatgactcctgaatgcaggaatattttaaaccaacatttgga-ttgctca-----
+embl|GO256752|GO256752  --------------tg------gtg---gtttca-cata----------tg---------
+                                                     ***   *                        
+
+embl|GO256726|GO256726  ---------------ttc-----------------------------ag-----ccc-ag
+embl|GO256731|GO256731  -ggaatttcatgttttagtta----t--aaaaatctaagtt---tctaatt---tcaaag
+embl|GO256736|GO256736  aggaagaggatgccttgcatggcaaagaaaagagcgaagctctcttcaaggccatcgaag
+embl|GO256744|GO256744  ---------ctccctttcctatggaagctgatagt-aggctgtt--g----acatcactg
+embl|GO256752|GO256752  ------ttgttgctgtcgtta----t--a---------------tttattg---tca-tg
+                                       *                                       *   *
+
+embl|GO256726|GO256726  ta------------------------------------------atc-aaccag--ga--
+embl|GO256731|GO256731  tg------------------------------------------ttcttatg-t--aa--
+embl|GO256736|GO256736  cttaccttctggcaaatcccaact-----actaagtttgaaaatttcttttc-cttcttg
+embl|GO256744|GO256744  ctcatgttgttggacac-ttagttatgtgaccccgtctgt-attttcgaatg-cttcaag
+embl|GO256752|GO256752  tt----t-------------------------------------tttcta----------
+                                                                     *              
+
+embl|GO256726|GO256726  ---ccggaa---------------tc-gtggattgcaa-tacttct-----tgtt-----
+embl|GO256731|GO256731  ---tta--a---------------ta-atagtttctta-taaacat--gtgagtt-----
+embl|GO256736|GO256736  ttgtga--aacactcactttcggttg-atggtttgatt-tgagtgtgcttttgtttggag
+embl|GO256744|GO256744  taatgg--tacttcca-t-tctattatctggttaaaatatcag-a------tgtgttgaa
+embl|GO256752|GO256752  ---ttg--a---------------t--gttgtttgtta-ttattat-----tgtt-----
+                                                *   * * *      *            **      
+
+embl|GO256726|GO256726  ---caatgctgg----c--atctct----------taaa--tgggtaatgt---------
+embl|GO256731|GO256731  ---gtcagtttaattatgaatgtat----------cata--tgattaataa---------
+embl|GO256736|GO256736  tctgtaatgttatgtatcacttcattgtatttcttcaaataaagttaataa---------
+embl|GO256744|GO256744  tccatcggaaactgtaactg-tgat------------aacaatatttataagaacgatgc
+embl|GO256752|GO256752  ---gtaagttta----taact-cat------------tc--cggttaatat---------
+                                                *                    * **           
+
+embl|GO256726|GO256726  ---tgtcac--t-----cat-tattgc
+embl|GO256731|GO256731  ---aagtat--a-----gaaacttgct
+embl|GO256736|GO256736  ---aaacatctaagtttcaaatttcac
+embl|GO256744|GO256744  tgttttc-tttaagtg---gttttctg
+embl|GO256752|GO256752  ---taatac---------atgttttgc
+                                               *   
+
+
+

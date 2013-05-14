@@ -1,0 +1,504 @@
+<entry accession="UPI000012DF1F">
+<dbReferenceList>
+    <dbReference db="EMBL" id="CAA24736" version="1" version_i="1" active="Y" created="12-Mar-2003" last="03-Mar-2009" NCBI_GI="494" NCBI_taxonomy_id="9913"/>
+    <dbReference db="UniProtKB/Swiss-Prot" id="P01045" version="1" version_i="1" active="Y" created="01-Nov-1988" last="14-Apr-2009" NCBI_GI="125506" NCBI_taxonomy_id="9913"/>
+    <dbReference db="PIRARC" id="A01282" version_i="1" active="N" created="31-Mar-2003" last="04-Apr-2003"/>
+    <dbReference db="IPI" id="IPI00714019" version="1" version_i="1" active="Y" created="24-Jan-2006" last="03-Mar-2009" NCBI_taxonomy_id="9913"/>
+    <dbReference db="UniProtKB/Swiss-Prot protein isoforms" id="P01045-1" version_i="1" active="Y" created="06-Aug-2004" last="14-Apr-2009" NCBI_taxonomy_id="9913"/>
+    <dbReference db="PIR" id="KGBOH2" version_i="1" active="N" created="11-Apr-2003" last="04-Jan-2005"/>
+    <dbReference db="REFSEQ" id="NP_001106748" version="1" version_i="1" active="Y" created="05-Jan-2008" last="08-Mar-2009" NCBI_GI="164450481" NCBI_taxonomy_id="9913"/>
+    <dbReference db="PRF" id="0911275B" version_i="1" active="Y" created="28-Nov-2005" last="01-Aug-2008" NCBI_taxonomy_id="9913"/>
+</dbReferenceList>
+<sequence length="619" crc64="F04320A8EB0EE0DA">
+MKLITILFLCSRLLPSLTQESSQEIDCNDQDVFKAVDAALTKYNSENKSGNQFVLYRITE
+VARMDNPDTFYSLKYQIKEGDCPFQSNKTWQDCDYKDSAQAATGQCTATVAKRGNMKFSV
+AIQTCLITPAEGPVVTAQYECLGCVHPISTKSPDLEPVLRYAIQYFNNNTSHSHLFDLKE
+VKRAQKQVVSGWNYEVNYSIAQTNCSKEEFSFLTPDCKSLSSGDTGECTDKAHVDVKLRI
+SSFSQKCDLYPGEDFLPPMVCVGCPKPIPVDSPDLEEALNHSIAKLNAEHDGTFYFKIDT
+VKKATVQVVGGLKYSIVFIARETTCSKGSNEELTKSCEINIHGQILHCDANVYVVPWEEK
+VYPTVNCQPLGQTSLMKRPPGFSPFRSVQVMKTEGSTTVSLPHSAMSPVQDEERDSGKEQ
+GPTHGHGWDHGKQIKLHGLGLGHKHKHDQGHGHHRSHGLGHGHQKQHGLGHGHKHGHGHG
+KHKNKGKNNGKHYDWRTPYLASSYEDSTTSSAQTQEKTEETTLSSLAQPGVAITFPDFQD
+SDLIATVMPNTLPPHTESDDDWIPDIQTEPNSLAFKLISDFPETTSPKCPSRPWKPVNGV
+NPTVEMKESHDFDLVDALL
+</sequence>
+</entry>
+<entry accession="UPI000012DF28">
+<dbReferenceList>
+    <dbReference db="EMBL" id="CAA23710" version="1" version_i="1" active="Y" created="12-Mar-2003" last="03-Mar-2009" NCBI_GI="490" NCBI_taxonomy_id="9913"/>
+    <dbReference db="UniProtKB/Swiss-Prot" id="P01047" version="1" version_i="1" active="N" created="01-Nov-1988" last="12-Apr-2005"/>
+    <dbReference db="PIRARC" id="A01284" version_i="1" active="N" created="31-Mar-2003" last="04-Apr-2003"/>
+    <dbReference db="IPI" id="IPI00718535" version="1" version_i="1" active="Y" created="24-Jan-2006" last="03-Mar-2009" NCBI_taxonomy_id="9913"/>
+    <dbReference db="UniProtKB/Swiss-Prot protein isoforms" id="P01047-1" version_i="1" active="N" created="06-Aug-2004" last="01-Apr-2005"/>
+    <dbReference db="UniProtKB/Swiss-Prot protein isoforms" id="P01045-2" version_i="1" active="Y" created="15-Apr-2005" last="14-Apr-2009" NCBI_taxonomy_id="9913"/>
+    <dbReference db="PIR" id="KGBOL2" version_i="1" active="N" created="11-Apr-2003" last="04-Jan-2005"/>
+</dbReferenceList>
+<sequence length="434" crc64="73A7079DE3E03430">
+MKLITILFLCSRLLPSLTQESSQEIDCNDQDVFKAVDAALTKYNSENKSGNQFVLYRITE
+VARMDNPDTFYSLKYQIKEGDCPFQSNKTWQDCDYKDSAQAATGQCTATVAKRGNMKFSV
+AIQTCLITPAEGPVVTAQYECLGCVHPISTKSPDLEPVLRYAIQYFNNNTSHSHLFDLKE
+VKRAQKQVVSGWNYEVNYSIAQTNCSKEEFSFLTPDCKSLSSGDTGECTDKAHVDVKLRI
+SSFSQKCDLYPGEDFLPPMVCVGCPKPIPVDSPDLEEALNHSIAKLNAEHDGTFYFKIDT
+VKKATVQVVGGLKYSIVFIARETTCSKGSNEELTKSCEINIHGQILHCDANVYVVPWEEK
+VYPTVNCQPLGQTSLMKRPPGFSPFRSVQVMKTEGSTTTHVKSCEYKGRPQEAGAEPAPQ
+GEVSLPAESPQLAR
+</sequence>
+</entry>
+ID   GLH3_CAEEL              Reviewed;         720 AA.
+AC   O01836;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1997, sequence version 1.
+DT   24-MAR-2009, entry version 72.
+DE   RecName: Full=ATP-dependent RNA helicase glh-3;
+DE            EC=3.6.1.-;
+DE   AltName: Full=Germline helicase 3;
+GN   Name=glh-3; ORFNames=B0414.6;
+OS   Caenorhabditis elegans.
+OC   Eukaryota; Metazoa; Nematoda; Chromadorea; Rhabditida; Rhabditoidea;
+OC   Rhabditidae; Peloderinae; Caenorhabditis.
+OX   NCBI_TaxID=6239;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Bristol N2;
+RX   MEDLINE=20311358; PubMed=10851135;
+RA   Kuznicki K.A., Smith P.A., Leung-Chiu W.M., Estevez A.O., Scott H.C.,
+RA   Bennett K.L.;
+RT   "Combinatorial RNA interference indicates GLH-4 can compensate for
+RT   GLH-1; these two P granule components are critical for fertility in C.
+RT   elegans.";
+RL   Development 127:2907-2916(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Bristol N2;
+RX   MEDLINE=99069613; PubMed=9851916; DOI=10.1126/science.282.5396.2012;
+RG   The C. elegans sequencing consortium;
+RT   "Genome sequence of the nematode C. elegans: a platform for
+RT   investigating biology.";
+RL   Science 282:2012-2018(1998).
+RN   [3]
+RP   INTERACTION WITH CSN-5.
+RX   MEDLINE=22322922; PubMed=12435362; DOI=10.1006/dbio.2002.0832;
+RA   Smith P., Leung-Chiu W.-M., Montgomery R., Orsborn A., Kuznicki K.,
+RA   Gressman-Coberly E., Mutapcic L., Bennett K.;
+RT   "The GLH proteins, Caenorhabditis elegans P granule components,
+RT   associate with CSN-5 and KGB-1, proteins necessary for fertility, and
+RT   with ZYX-1, a predicted cytoskeletal protein.";
+RL   Dev. Biol. 251:333-347(2002).
+CC   -!- FUNCTION: Probable ATP-binding RNA helicase.
+CC   -!- SUBUNIT: Interacts with csn-5.
+CC   -!- INTERACTION:
+CC       Self; NbExp=1; IntAct=EBI-1571750, EBI-1571750;
+CC       P91001:csn-5; NbExp=1; IntAct=EBI-1571750, EBI-313007;
+CC       P34689:glh-1; NbExp=1; IntAct=EBI-1571750, EBI-1571791;
+CC       O44408:kgb-1; NbExp=1; IntAct=EBI-1571750, EBI-319489;
+CC       Q9U3F4:zyx-1; NbExp=1; IntAct=EBI-1571750, EBI-322208;
+CC   -!- DEVELOPMENTAL STAGE: During germline proliferation.
+CC   -!- SIMILARITY: Belongs to the DEAD box helicase family. DDX4/VASA
+CC       subfamily.
+CC   -!- SIMILARITY: Contains 2 CCHC-type zinc fingers.
+CC   -!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+CC   -!- SIMILARITY: Contains 1 helicase C-terminal domain.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF079509; AAC28388.1; -; mRNA.
+DR   EMBL; AF003145; AAB57719.1; -; Genomic_DNA.
+DR   PIR; T15231; T15231.
+DR   RefSeq; NP_491681.1; -.
+DR   UniGene; Cel.19392; -.
+DR   HSSP; P10081; 1FUK.
+DR   IntAct; O01836; 5.
+DR   Ensembl; B0414.6; Caenorhabditis elegans.
+DR   GeneID; 172245; -.
+DR   KEGG; cel:B0414.6; -.
+DR   NMPDR; fig|6239.3.peg.1333; -.
+DR   WormBase; WBGene00001600; glh-3.
+DR   WormPep; B0414.6; CE07736.
+DR   NextBio; 874651; -.
+DR   ArrayExpress; O01836; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0008026; F:ATP-dependent helicase activity; IEA:InterPro.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   InterPro; IPR014001; DEAD-like_N.
+DR   InterPro; IPR001650; DNA/RNA_helicase_C.
+DR   InterPro; IPR011545; DNA/RNA_helicase_DEAD/DEAH_N.
+DR   InterPro; IPR014021; Helicase_SF1/SF2_ATP-bd.
+DR   InterPro; IPR000629; RNA-helicase_DEAD-box_CS.
+DR   InterPro; IPR014014; RNA_helicase_DEAD_Q_motif.
+DR   InterPro; IPR013084; Znf_CCH_retrovir.
+DR   InterPro; IPR001878; Znf_CCHC.
+DR   Gene3D; G3DSA:4.10.60.10; Znf_CCH_retrovir; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF00098; zf-CCHC; 2.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SMART; SM00343; ZnF_C2HC; 2.
+DR   PROSITE; PS00039; DEAD_ATP_HELICASE; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+DR   PROSITE; PS51195; Q_MOTIF; 1.
+DR   PROSITE; PS50158; ZF_CCHC; 2.
+PE   1: Evidence at protein level;
+KW   ATP-binding; Complete proteome; Helicase; Hydrolase; Metal-binding;
+KW   Nucleotide-binding; Repeat; RNA-binding; Zinc; Zinc-finger.
+FT   CHAIN         1    720       ATP-dependent RNA helicase glh-3.
+FT                                /FTId=PRO_0000055091.
+FT   DOMAIN      329    513       Helicase ATP-binding.
+FT   DOMAIN      549    698       Helicase C-terminal.
+FT   ZN_FING     202    219       CCHC-type 1.
+FT   ZN_FING     222    239       CCHC-type 2.
+FT   NP_BIND     342    349       ATP (By similarity).
+FT   MOTIF       298    326       Q motif.
+FT   MOTIF       456    459       DEAD box.
+SQ   SEQUENCE   720 AA;  79728 MW;  A91F49FE2B79DEAA CRC64;
+     MDKSPTKTSI RTKFARHQPI SDVDTTEQSS SCIKKDDRGL SSFGVQSSVF SRRSCRMSEL
+     EAKPTIISED QRIAVRSEIG GSFSGFDDKV DNVFHSNNNL HGSPSTTELE CPGIMNPRFL
+     VGRSLNSRSR AVTRGSKRTS NVKENEGSIH RSDDQVSTEN CSAKDEERDR DSGGVSSYGN
+     KRSDEFCGTS PILEAKGFGI SNTCFNCKKY GHRATECSAP QRECANCGDP NHRANECASW
+     SKNGVQEPTK VTYVPVVDKM EEVFSMLKIN AGDFFDKFFD ASVQLVSRGQ PVTIQPCKSF
+     SDSDIPQSMR RNVERAGYTR TTPIQQYTLP LVADGKDILA CAQTGSGKTA AFLLPIMSRL
+     ILEKDLNYGA EGGCYPRCII LTPTRELADQ IYNEGRKFSY QSVMEIKPVY GGINVGYNKS
+     QIMKGCTIIV GTIGRVKHFC EDGAIKLDKC RYLVLDEADR MIDSMGFGPE IEQIINYKNM
+     PKNDKRQTMM FSATFPSSVQ EAARKLLRED YTMITIDKIG AANKCVIQEF ELCDRTSKVD
+     KLLKLLGIDI DTYTTEKNSD VFVKKTIVFV AQQKMADTLA SIMSAAQVPA ITIHGAREQK
+     ERSAALKLFR SGAKPVLIAT AVVERGLDIK GVDHVINYDM PNNIDDYIHR IGRTGRVGNS
+     GRATSFISLA DDVQILPQLV RTLADAEQVV PSWMKEAAGG TSNPNKFEKS IDTEEPEEAW
+//
+ID   IRK3_RAT                Reviewed;         501 AA.
+AC   P63251; P35562;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   11-OCT-2004, sequence version 1.
+DT   10-FEB-2009, entry version 43.
+DE   RecName: Full=G protein-activated inward rectifier potassium channel 1;
+DE   AltName: Full=GIRK1;
+DE   AltName: Full=Potassium channel, inwardly rectifying subfamily J member 3;
+DE   AltName: Full=Inward rectifier K(+) channel Kir3.1;
+DE   AltName: Full=KGA;
+DE   AltName: Full=KGB1;
+GN   Name=Kcnj3; Synonyms=Girk1, Kga;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain, and Heart atrium;
+RX   MEDLINE=94052138; PubMed=8234283;
+RA   Dascal N., Schreibmayer W., Lim N.F., Wang W., Chavkin C., Dimagno L.,
+RA   Labarca C., Kieffer B.L., Gaveriaux-Ruff C., Trollinger D.,
+RA   Lester H.A., Davidson N.;
+RT   "Atrial G protein-activated K+ channel: expression cloning and
+RT   molecular properties.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90:10235-10239(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=93361145; PubMed=8355805; DOI=10.1038/364802a0;
+RA   Kubo Y., Reuveny E., Slesinger P.A., Jan Y.N., Jan L.Y.;
+RT   "Primary structure and functional expression of a rat G-protein-
+RT   coupled muscarinic potassium channel.";
+RL   Nature 364:802-806(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=95219274; PubMed=7704424; DOI=10.1006/mcne.1994.1063;
+RA   Depaoli A.M., Bell G.I., Stoffel M.;
+RT   "G protein-activated inwardly rectifying potassium channel (GIRK1/KGA)
+RT   mRNA in adult rat heart and brain by in situ hybridization
+RT   histochemistry.";
+RL   Mol. Cell. Neurosci. 5:515-522(1994).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain;
+RX   MEDLINE=96221419; PubMed=8642402;
+RA   Karschin C., Dissman E., Stuehmer W., Karschin A.;
+RT   "IRK(1-3) and GIRK(1-4) inwardly rectifying K+ channel mRNAs are
+RT   differentially expressed in the adult rat brain.";
+RL   J. Neurosci. 16:3559-3570(1996).
+CC   -!- FUNCTION: This potassium channel is controlled by G proteins.
+CC       Inward rectifier potassium channels are characterized by a greater
+CC       tendency to allow potassium to flow into the cell rather than out
+CC       of it. Their voltage dependence is regulated by the concentration
+CC       of extracellular potassium; as external potassium is raised, the
+CC       voltage range of the channel opening shifts to more positive
+CC       voltages. The inward rectification is mainly due to the blockage
+CC       of outward current by internal magnesium. This receptor plays a
+CC       crucial role in regulating the heartbeat.
+CC   -!- SUBUNIT: Associates with GIRK2, GIRK3 or GIRK4 to form a G-protein
+CC       activated heteromultimer pore-forming unit. The resulting inward
+CC       current is much larger (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Membrane; Multi-pass membrane protein.
+CC   -!- SIMILARITY: Belongs to the inward rectifier-type potassium channel
+CC       family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L25264; AAA41226.1; -; mRNA.
+DR   EMBL; U01071; AAC52127.1; -; mRNA.
+DR   EMBL; U01141; AAC52125.1; -; mRNA.
+DR   EMBL; Y12259; CAA72936.1; -; mRNA.
+DR   EMBL; U09243; AAA18031.1; -; mRNA.
+DR   IPI; IPI00199633; -.
+DR   PIR; I61084; I61084.
+DR   RefSeq; NP_113798.1; -.
+DR   UniGene; Rn.9809; -.
+DR   Ensembl; ENSRNOG00000005369; Rattus norvegicus.
+DR   GeneID; 50599; -.
+DR   KEGG; rno:50599; -.
+DR   RGD; 2958; Kcnj3.
+DR   HOVERGEN; P63251; -.
+DR   NextBio; 610442; -.
+DR   ArrayExpress; P63251; -.
+DR   GermOnline; ENSRNOG00000005369; Rattus norvegicus.
+DR   GO; GO:0016021; C:integral to membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0015467; F:G-protein activated inward rectifier potass...; IEA:InterPro.
+DR   GO; GO:0030955; F:potassium ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006813; P:potassium ion transport; IEA:InterPro.
+DR   InterPro; IPR016449; K_chnl_inward-rec_Kir.
+DR   InterPro; IPR001838; K_chnl_inward-rec_Kir-like.
+DR   InterPro; IPR003274; K_chnl_inward-rec_Kir3.1.
+DR   InterPro; IPR013521; K_chnl_inward-rec_Kir_Cr2.
+DR   InterPro; IPR013518; K_chnl_inward-rec_Kir_cyto.
+DR   Gene3D; G3DSA:2.60.40.1400; IR_K+channel_cytopl; 1.
+DR   PANTHER; PTHR11767; K+channel_IR; 1.
+DR   Pfam; PF01007; IRK; 1.
+DR   PIRSF; PIRSF005465; GIRK_kir; 1.
+DR   PRINTS; PR01327; KIR31CHANNEL.
+DR   PRINTS; PR01320; KIRCHANNEL.
+DR   ProDom; PD001103; K+channel_IR; 1.
+PE   2: Evidence at transcript level;
+KW   Ion transport; Ionic channel; Membrane; Phosphoprotein; Potassium;
+KW   Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+FT   CHAIN         1    501       G protein-activated inward rectifier
+FT                                potassium channel 1.
+FT                                /FTId=PRO_0000154940.
+FT   TOPO_DOM      1     80       Cytoplasmic.
+FT   TRANSMEM     81    105       M1 (By similarity).
+FT   TOPO_DOM    106    129       Extracellular (By similarity).
+FT   TOPO_DOM    149    157       Extracellular (By similarity).
+FT   TRANSMEM    158    179       M2 (By similarity).
+FT   TOPO_DOM    180    501       Cytoplasmic.
+FT   REGION      130    141       H5 (pore-forming helix) (By similarity).
+FT   MOTIF       143    148       Selectivity filter (By similarity).
+FT   SITE        173    173       Role in the control of polyamine-mediated
+FT                                channel gating and in the blocking by
+FT                                intracellular magnesium (By similarity).
+FT   MOD_RES      69     69       Phosphoserine (By similarity).
+FT   MOD_RES      73     73       Phosphothreonine (By similarity).
+SQ   SEQUENCE   501 AA;  56573 MW;  AB8910E9CC08FFEC CRC64;
+     MSALRRKFGD DYQVVTTSSS GSGLQPQGPG QGPQQQLVPK KKRQRFVDKN GRCNVQHGNL
+     GSETSRYLSD LFTTLVDLKW RWNLFIFILT YTVAWLFMAS MWWVIAYTRG DLNKAHVGNY
+     TPCVANVYNF PSAFLFFIET EATIGYGYRY ITDKCPEGII LFLFQSILGS IVDAFLIGCM
+     FIKMSQPKKR AETLMFSEHA VISMRDGKLT LMFRVGNLRN SHMVSAQIRC KLLKSRQTPE
+     GEFLPLDQLE LDVGFSTGAD QLFLVSPLTI CHVIDAKSPF YDLSQRSMQT EQFEVVVILE
+     GIVETTGMTC QARTSYTEDE VLWGHRFFPV ISLEEGFFKV DYSQFHATFE VPTPPYSVKE
+     QEEMLLMSSP LIAPAITNSK ERHNSVECLD GLDDISTKLP SKLQKITGRE DFPKKLLRMS
+     STTSEKAYSL GDLPMKLQRI SSVPGNSEEK LVSKTTKMLS DPMSQSVADL PPKLQKMAGG
+     PTRMEGNLPA KLRKMNSDRF T
+//
+ID   KNG1_BOVIN              Reviewed;         621 AA.
+AC   P01044; P01046; Q2KJ62;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUL-1986, sequence version 1.
+DT   24-MAR-2009, entry version 90.
+DE   RecName: Full=Kininogen-1;
+DE   AltName: Full=Kininogen I;
+DE   AltName: Full=Thiol proteinase inhibitor;
+DE   Contains:
+DE     RecName: Full=Kininogen-1 heavy chain;
+DE   Contains:
+DE     RecName: Full=Bradykinin;
+DE     AltName: Full=Kallidin I;
+DE   Contains:
+DE     RecName: Full=Lysyl-bradykinin;
+DE     AltName: Full=Kallidin II;
+DE   Contains:
+DE     RecName: Full=Kininogen-1 light chain;
+DE   Flags: Precursor;
+GN   Name=KNG1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM HMW).
+RX   MEDLINE=84014106; PubMed=6571699; DOI=10.1038/305545a0;
+RA   Kitamura N., Takagaki Y., Furuto S., Tanaka T., Nawa H., Nakanishi S.;
+RT   "A single gene for bovine high molecular weight and low molecular
+RT   weight kininogens.";
+RL   Nature 305:545-549(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LMW).
+RX   MEDLINE=83117859; PubMed=6572010;
+RA   Nawa H., Kitamura N., Hirose T., Asai M., Inayama S., Nakanishi S.;
+RT   "Primary structures of bovine liver low molecular weight kininogen
+RT   precursors and their two mRNAs.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 80:90-94(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM HMW).
+RC   STRAIN=Hereford; TISSUE=Fetal liver;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   PROTEIN SEQUENCE OF 19-378, AND GLYCOSYLATION AT ASN-87; THR-136;
+RP   ASN-168; ASN-169; ASN-197 AND ASN-204.
+RX   MEDLINE=87137530; PubMed=3546295;
+RA   Sueyoshi T., Miyata T., Hashimoto N., Kato H., Hayashida H.,
+RA   Miyata T., Iwanaga S.;
+RT   "Bovine high molecular weight kininogen. The amino acid sequence,
+RT   positions of carbohydrate chains and disulfide bridges in the heavy
+RT   chain portion.";
+RL   J. Biol. Chem. 262:2768-2779(1987).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 378-393.
+RX   MEDLINE=70180420; PubMed=4986212;
+RA   Kato H., Nagasawa S., Suzuki T.;
+RT   "Studies on the structure of bovine kininogen: cleavages of disulfide
+RT   bonds and of methionyl bonds in kininogen-II.";
+RL   J. Biochem. 67:313-323(1970).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 458-498.
+RX   MEDLINE=75170265; PubMed=1169237;
+RA   Han Y.N., Komiya M., Iwanaga S., Suzuki T.;
+RT   "Studies on the primary structure of bovine high-molecular-weight
+RT   kininogen. Amino acid sequence of a fragment ('histidine-rich
+RT   peptide') released by plasma kallikrein.";
+RL   J. Biochem. 77:55-68(1975).
+CC   -!- FUNCTION: (1) Kininogens are inhibitors of thiol proteases; (2)
+CC       HMW-kininogen plays an important role in blood coagulation by
+CC       helping to position optimally prekallikrein and factor XI next to
+CC       factor XII; (3) HMW-kininogen inhibits the thrombin- and plasmin-
+CC       induced aggregation of thrombocytes; (4) the active peptide
+CC       bradykinin that is released from HMW-kininogen shows a variety of
+CC       physiological effects: (4A) influence in smooth muscle
+CC       contraction, (4B) induction of hypotension, (4C) natriuresis and
+CC       diuresis, (4D) decrease in blood glucose level, (4E) it is a
+CC       mediator of inflammation and causes (4E1) increase in vascular
+CC       permeability, (4E2) stimulation of nociceptors (4E3) release of
+CC       other mediators of inflammation (e.g. prostaglandins), (4F) it has
+CC       a cardioprotective effect (directly via bradykinin action,
+CC       indirectly via endothelium-derived relaxing factor action); (5)
+CC       LMW-kininogen inhibits the aggregation of thrombocytes; (6) LMW-
+CC       kininogen is in contrast to HMW-kininogen not involved in blood
+CC       clotting.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=HMW;
+CC         IsoId=P01044-1; Sequence=Displayed;
+CC       Name=LMW;
+CC         IsoId=P01044-2; Sequence=VSP_013562, VSP_013563;
+CC   -!- TISSUE SPECIFICITY: Plasma.
+CC   -!- PTM: Bradykinin is released from kininogen by plasma kallikrein.
+CC   -!- SIMILARITY: Contains 3 cystatin domains.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V01491; CAA24735.1; -; mRNA.
+DR   EMBL; V00426; CAA23709.1; -; mRNA.
+DR   EMBL; BC105499; AAI05500.1; -; mRNA.
+DR   IPI; IPI00697310; -.
+DR   IPI; IPI00701166; -.
+DR   PIR; A01281; KGBOH1.
+DR   PIR; A01283; KGBOL1.
+DR   RefSeq; NP_786968.2; -.
+DR   UniGene; Bt.4210; -.
+DR   MEROPS; I25.016; -.
+DR   MEROPS; I25.017; -.
+DR   MEROPS; I25.950; -.
+DR   PRIDE; P01044; -.
+DR   Ensembl; ENSBTAG00000005122; Bos taurus.
+DR   GeneID; 280833; -.
+DR   HOVERGEN; P01044; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-KW.
+DR   GO; GO:0004869; F:cysteine-type endopeptidase inhibitor activity; IEA:InterPro.
+DR   GO; GO:0006954; P:inflammatory response; IEA:UniProtKB-KW.
+DR   GO; GO:0042311; P:vasodilation; IEA:UniProtKB-KW.
+DR   InterPro; IPR002395; Kininogen.
+DR   InterPro; IPR000010; Prot_inh_cystat.
+DR   InterPro; IPR018073; Prot_inh_cystat_CS.
+DR   Pfam; PF00031; Cystatin; 3.
+DR   PRINTS; PR00334; KININOGEN.
+DR   ProDom; PD001231; Prot_inh_I25A_B; 1.
+DR   SMART; SM00043; CY; 3.
+DR   PROSITE; PS00287; CYSTATIN; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Blood coagulation; Direct protein sequencing;
+KW   Disulfide bond; Glycoprotein; Inflammatory response;
+KW   Protease inhibitor; Pyrrolidone carboxylic acid; Repeat; Secreted;
+KW   Signal; Thiol protease inhibitor; Vasoactive; Vasodilator.
+FT   SIGNAL        1     18       Probable.
+FT   CHAIN        19    621       Kininogen-1.
+FT                                /FTId=PRO_0000006675.
+FT   CHAIN        19    378       Kininogen-1 heavy chain.
+FT                                /FTId=PRO_0000006676.
+FT   PEPTIDE     379    388       Lysyl-bradykinin.
+FT                                /FTId=PRO_0000006677.
+FT   PEPTIDE     380    388       Bradykinin.
+FT                                /FTId=PRO_0000006678.
+FT   CHAIN       389    621       Kininogen-1 light chain.
+FT                                /FTId=PRO_0000006679.
+FT   DOMAIN       19    135       Cystatin 1.
+FT   DOMAIN      136    257       Cystatin 2.
+FT   DOMAIN      258    378       Cystatin 3.
+FT   SITE        378    379       Cleavage; by kallikrein.
+FT   SITE        388    389       Cleavage; by kallikrein.
+FT   SITE        498    499       Cleavage; by kallikrein.
+FT   MOD_RES      19     19       Pyrrolidone carboxylic acid.
+FT   CARBOHYD     47     47       N-linked (GlcNAc...) (Potential).
+FT   CARBOHYD     87     87       N-linked (GlcNAc...).
+FT   CARBOHYD    136    136       O-linked (GalNAc...); partial.
+FT   CARBOHYD    168    168       N-linked (GlcNAc...).
+FT   CARBOHYD    169    169       N-linked (GlcNAc...).
+FT   CARBOHYD    197    197       N-linked (GlcNAc...); partial.
+FT   CARBOHYD    204    204       N-linked (GlcNAc...).
+FT   CARBOHYD    398    398       O-linked (GalNAc...).
+FT   CARBOHYD    399    399       O-linked (GalNAc...).
+FT   CARBOHYD    400    400       O-linked (GalNAc...).
+FT   CARBOHYD    406    406       O-linked (GalNAc...).
+FT   CARBOHYD    512    512       O-linked (GalNAc...).
+FT   CARBOHYD    520    520       O-linked (GalNAc...).
+FT   CARBOHYD    524    524       O-linked (GalNAc...).
+FT   CARBOHYD    536    536       O-linked (GalNAc...).
+FT   CARBOHYD    548    548       O-linked (GalNAc...).
+FT   CARBOHYD    553    553       O-linked (GalNAc...).
+FT   CARBOHYD    570    570       O-linked (GalNAc...).
+FT   DISULFID     27    591       Interchain (between heavy and light
+FT                                chains).
+FT   DISULFID     82     93
+FT   DISULFID    106    125
+FT   DISULFID    141    144
+FT   DISULFID    205    217
+FT   DISULFID    228    247
+FT   DISULFID    263    266
+FT   DISULFID    327    339
+FT   DISULFID    350    369
+FT   VAR_SEQ     401    436       VSLPHSAMSPVQDEERDSGKEQGPTHGHGWDHGKQI -> T
+FT                                HVKSCEYKGRPQEAGAEPAPQGEVSLPAESPQLAR (in
+FT                                isoform LMW).
+FT                                /FTId=VSP_013562.
+FT   VAR_SEQ     437    621       Missing (in isoform LMW).
+FT                                /FTId=VSP_013563.
+FT   CONFLICT    295    295       A -> T (in Ref. 2; CAA23709).
+FT   CONFLICT    371    371       P -> S (in Ref. 3; AAI05500).
+FT   CONFLICT    403    403       L -> V (in Ref. 3; AAI05500).
+FT   CONFLICT    457    457       G -> R (in Ref. 3; AAI05500).
+SQ   SEQUENCE   621 AA;  68890 MW;  D16850BEFE3C55CD CRC64;
+     MKLITILFLC SRLLPSLTQE SSQEIDCNDQ DVFKAVDAAL TKYNSENKSG NQFVLYRITE
+     VARMDNPDTF YSLKYQIKEG DCPFQSNKTW QDCDYKDSAQ AATGECTATV AKRGNMKFSV
+     AIQTCLITPA EGPVVTAQYE CLGCVHPIST KSPDLEPVLR YAIQYFNNNT SHSHLFDLKE
+     VKRAQRQVVS GWNYEVNYSI AQTNCSKEEF SFLTPDCKSL SSGDTGECTD KAHVDVKLRI
+     SSFSQKCDLY PVKDFVQPPT RLCAGCPKPI PVDSPDLEEP LSHSIAKLNA EHDGAFYFKI
+     DTVKKATVQV VAGLKYSIVF IARETTCSKG SNEELTKSCE INIHGQILHC DANVYVVPWE
+     EKVYPTVNCQ PLGQTSLMKR PPGFSPFRSV QVMKTEGSTT VSLPHSAMSP VQDEERDSGK
+     EQGPTHGHGW DHGKQIKLHG LGLGHKHKHD QGHGHHGSHG LGHGHQKQHG LGHGHKHGHG
+     HGKHKNKGKN NGKHYDWRTP YLASSYEDST TSSAQTQEKT EETTLSSLAQ PGVAITFPDF
+     QDSDLIATVM PNTLPPHTES DDDWIPDIQT EPNSLAFKLI SDFPETTSPK CPSRPWKPVN
+     GVNPTVEMKE SHDFDLVDAL L
+//

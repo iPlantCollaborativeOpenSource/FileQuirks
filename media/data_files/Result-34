@@ -1,0 +1,163 @@
+gc; ACHEFISH
+gx; PR00879
+gn; COMPOUND(4)
+ga; 06-JUL-1998; UPDATE 06-JUN-1999
+gt; Fish acetylcholinesterase signature
+gp; PRINTS; PR00878 CHOLNESTRASE; PR00880 ACHEINSECT
+gp; INTERPRO; IPR000908
+gp; PDB; 2ACE
+gp; SCOP; 2ACE
+gp; CATH; 2ACE
+bb;
+gr; 1. VOET, D. AND VOET, J.G.
+gr; Biochemical communications: Hormones and neurotransmission.
+gr; BIOCHEMISTRY 34(4) 1298-1299 (1995).
+gr; 
+gr; 2. COUSIN, X., HOTELIER, T., GILES, K., TOUTANT, J.P. AND CHATONNET, A.
+gr; aCHEdb: the database system for ESTHER, the a/b fold family of proteins and
+gr; the cholinesterase gene server.
+gr; NUCLEIC ACIDS RES. 26 226-228 (1998).
+gr; 
+gr; 3. THE ESTHER DATABASE
+gr; http://meleze.ensam.inra.fr/cholinesterase/definitions.html
+gr; 
+gr; 4. CHOLINESTERASES
+gr; http://bnlstb.bio.bnl.gov:8000/disk$3/giles/che.html
+bb;
+bb;
+gd; Acetylcholine is involved in the transfer of messages across a variety of
+gd; synapses in vertebrates and invertebrates. The diverse physiological effects
+gd; attributable to this molecule arise from the presence of specific receptors
+gd; in the postsynaptic cell membranes. Several classes of receptor are known, 
+gd; most of which translate the binding of acetylcholine into the opening of 
+gd; channels for the passage of ions, such as sodium and potassium.
+gd;
+gd; Acetylcholinesterase is an enzyme that catalyses the hydrolysis of 
+gd; acetylcholine to choline and acetate:
+gd; 
+gd;	     Acetylcholine + H(2)O -> Choline + Acetate 	     
+gd; 
+gd; The enzyme also acts on a variety of acetic esters and catalyses trans-
+gd; acetylations. It is found in, or attached to, cellular or basement membranes
+gd; of presynaptic cholinergic neurons and postsynaptic cholinoceptive cells.
+gd; To prevent continuous firing of nerve impulses, acetylcholinesterase has a
+gd; high K(cat) (~14000/s), to ensure that acetylcholine is broken down quickly.
+gd;
+gd; Cholinesterases constitute a family of enzymes that fall into two main
+gd; types, depending on their substrate preference: enzymes that preferentially
+gd; hydrolyse acetyl esters are termed acetylcholinesterase (AChE) (EC 3.1.1.7); 
+gd; and those that prefer other types of ester, such as butyrylcholine are 
+gd; termed butyrylcholinesterase (BChE) (EC 3.1.1.8). 
+gd; 
+gd; The 3D structure of acetylcholinesterase from the electric ray has been
+gd; determined. The fold belongs to the alpha/beta class, with a 3-layer
+gd; alpha-beta-alpha sandwich architecture.
+gd;
+gd; ACHEFISH is a 4-element fingerprint that provides a signature for fish
+gd; acetylcholinesterases. The fingerprint was derived from an initial alignment
+gd; of 4 sequences: the motifs were drawn from short conserved regions within
+gd; the central portion of the alignment - motif 1 spans the N-terminus of 
+gd; helix 12 and part of the preceding loop; motif 2 includes the N-terminal
+gd; end of helix 14 and part of its preceding loop; motif 3 encompasses the 
+gd; N-terminus of helix 18 and part of the preceding loop; and motif 4 encodes
+gd; most of helix 19. Two iterations on OWL30.2 were required to reach
+gd; convergence, at which point a true set comprising 6 sequences was identified.
+gd;
+gd; An update on SPTR37_9f identified a true set of 3 sequences.
+bb;
+bb;
+si; SUMMARY INFORMATION
+si; -------------------
+sd;    3 codes involving  4 elements
+sd;    0 codes involving  3 elements
+sd;    0 codes involving  2 elements
+bb;
+bb;
+ci; COMPOSITE FINGERPRINT INDEX
+ci; ---------------------------
+cr;
+cd;  4|   3    3    3    3  
+cd;  3|   0    0    0    0  
+cd;  2|   0    0    0    0  
+cd; --+---------------------
+cd;   |   1    2    3    4  
+bb;
+bb;
+tp; ACES_TORCA     ACES_TORMA     ACES_BUNFA     
+bb;
+bb;
+tt; ACES_TORCA       ACETYLCHOLINESTERASE PRECURSOR (EC 3.1.1.7) (ACHE) - TORPEDO CALIFORNICA (PACIFI
+tt; ACES_TORMA       ACETYLCHOLINESTERASE PRECURSOR (EC 3.1.1.7) (ACHE) - TORPEDO MARMORATA (MARBLED 
+tt; ACES_BUNFA       ACETYLCHOLINESTERASE PRECURSOR (EC 3.1.1.7) - BUNGARUS FASCIATUS (BANDED KRAIT).
+bb;
+bb;
+sh; SCAN HISTORY
+sh; ------------
+dn; OWL30_2     2   150 NSINGLE
+dn; SPTR37_9f   2     7 NSINGLE
+bb;
+bb;
+im; INITIAL MOTIF-SETS
+im; ------------------
+ic; ACHEFISH1
+il; 6
+it; Fish acetylcholinesterase motif I - 1
+id; SKNPQE                           ACES_BUNFA    299   299
+id; EKKPQE                           ACES_TORCA    289   289
+id; EKKPQE                           ACES_TORMA    292   292
+id; ARPPQE                           ACES_MYXGL    167   167
+bb;
+ic; ACHEFISH2
+il; 9
+it; Fish acetylcholinesterase motif II - 1
+id; DFFPDTPEA                        ACES_BUNFA    330    25
+id; EFFPTSLES                        ACES_TORCA    320    25
+id; EFFPTSLES                        ACES_TORMA    323    25
+id; HFIIDSPIV                        ACES_MYXGL    198    25
+bb;
+ic; ACHEFISH3
+il; 9
+it; Fish acetylcholinesterase motif III - 1
+id; DQDNREKNR                        ACES_BUNFA    411    72
+id; DDNNGIKNR                        ACES_TORCA    401    72
+id; DDNNGIKNR                        ACES_TORMA    404    72
+id; AQNDALKNR                        ACES_MYXGL    279    72
+bb;
+ic; ACHEFISH4
+il; 9
+it; Fish acetylcholinesterase motif IV - 1
+id; QFANDYAKR                        ACES_BUNFA    437    17
+id; HFVNKYTKF                        ACES_TORCA    427    17
+id; HFVNKYTKF                        ACES_TORMA    430    17
+id; EMATRYAEF                        ACES_MYXGL    305    17
+bb;
+fm; FINAL MOTIF-SETS
+fm; ----------------
+fc; ACHEFISH1
+fl; 6
+ft; Fish acetylcholinesterase motif I - 2
+fd; EKKPQE                           ACES_TORCA    289   289
+fd; EKKPQE                           ACES_TORMA    292   292
+fd; SKNPQE                           ACES_BUNFA    299   299
+bb;
+fc; ACHEFISH2
+fl; 9
+ft; Fish acetylcholinesterase motif II - 2
+fd; EFFPTSLES                        ACES_TORCA    320    25
+fd; EFFPTSLES                        ACES_TORMA    323    25
+fd; DFFPDTPEA                        ACES_BUNFA    330    25
+bb;
+fc; ACHEFISH3
+fl; 9
+ft; Fish acetylcholinesterase motif III - 2
+fd; DDNNGIKNR                        ACES_TORCA    401    72
+fd; DDNNGIKNR                        ACES_TORMA    404    72
+fd; DQDNREKNR                        ACES_BUNFA    411    72
+bb;
+fc; ACHEFISH4
+fl; 9
+ft; Fish acetylcholinesterase motif IV - 2
+fd; HFVNKYTKF                        ACES_TORCA    427    17
+fd; HFVNKYTKF                        ACES_TORMA    430    17
+fd; QFANDYAKR                        ACES_BUNFA    437    17
+bb;

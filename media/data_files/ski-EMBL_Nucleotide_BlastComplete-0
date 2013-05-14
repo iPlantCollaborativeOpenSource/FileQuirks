@@ -1,0 +1,197 @@
+>EM_HUM:AK125617; AK125617 Homo sapiens cDNA FLJ43629 fis, clone SPLEN2029727.
+          Length = 3373
+
+ Score =  456 bits (230), Expect = e-125
+ Identities = 230/230 (100%)
+ Strand = Plus / Plus
+
+                                                                        
+Query: 25   gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 84
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2903 gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 2962
+
+                                                                        
+Query: 85   catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 144
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2963 catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 3022
+
+                                                                        
+Query: 145  aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 204
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3023 aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 3082
+
+                                                              
+Query: 205  aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 254
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3083 aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 3132
+
+
+
+ Score = 50.1 bits (25), Expect = 0.020
+ Identities = 25/25 (100%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1   atgcggaccctcagtcctcaggcag 25
+           |||||||||||||||||||||||||
+Sbjct: 293 atgcggaccctcagtcctcaggcag 317
+
+
+>EM_PAT:DL208852; DL208852 Full length cDNA.
+          Length = 3373
+
+ Score =  456 bits (230), Expect = e-125
+ Identities = 230/230 (100%)
+ Strand = Plus / Plus
+
+                                                                        
+Query: 25   gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 84
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2903 gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 2962
+
+                                                                        
+Query: 85   catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 144
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2963 catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 3022
+
+                                                                        
+Query: 145  aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 204
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3023 aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 3082
+
+                                                              
+Query: 205  aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 254
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3083 aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 3132
+
+
+
+ Score = 50.1 bits (25), Expect = 0.020
+ Identities = 25/25 (100%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1   atgcggaccctcagtcctcaggcag 25
+           |||||||||||||||||||||||||
+Sbjct: 293 atgcggaccctcagtcctcaggcag 317
+
+
+>EM_PAT:CQ842643; CQ842643 Sequence 1290 from Patent EP1440981.
+          Length = 3373
+
+ Score =  456 bits (230), Expect = e-125
+ Identities = 230/230 (100%)
+ Strand = Plus / Plus
+
+                                                                        
+Query: 25   gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 84
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2903 gtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccag 2962
+
+                                                                        
+Query: 85   catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 144
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 2963 catcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaa 3022
+
+                                                                        
+Query: 145  aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 204
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3023 aactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagca 3082
+
+                                                              
+Query: 205  aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 254
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 3083 aagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 3132
+
+
+
+ Score = 50.1 bits (25), Expect = 0.020
+ Identities = 25/25 (100%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1   atgcggaccctcagtcctcaggcag 25
+           |||||||||||||||||||||||||
+Sbjct: 293 atgcggaccctcagtcctcaggcag 317
+
+
+>EM_HTG:AC193803; AC193803 Pan troglodytes chromosome 17 clone CH251-366M22, WORKING
+             DRAFT SEQUENCE, 2 unordered pieces.
+          Length = 153937
+
+ Score =  454 bits (229), Expect = e-124
+ Identities = 232/233 (99%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 22    gcagtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcc 81
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 29690 gcagtccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcc 29749
+
+                                                                         
+Query: 82    cagcatcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcag 141
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 29750 cagcatcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcag 29809
+
+                                                                         
+Query: 142   gaaaactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttcca 201
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 29810 gaaaactttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttcca 29869
+
+                                                                  
+Query: 202   gcaaagggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 254
+             ||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct: 29870 gcaaagggaatagacttaccatgtctggtacagatgaatcaagatttgcccct 29922
+
+
+
+ Score = 50.1 bits (25), Expect = 0.020
+ Identities = 25/25 (100%)
+ Strand = Plus / Plus
+
+                                      
+Query: 1     atgcggaccctcagtcctcaggcag 25
+             |||||||||||||||||||||||||
+Sbjct: 17037 atgcggaccctcagtcctcaggcag 17061
+
+
+>EM_EST:CB384315; CB384315 FM8AS4 RT-PCR products from various human tissue Homo
+           sapiens cDNA, mRNA sequence.
+          Length = 477
+
+ Score =  454 bits (229), Expect = e-124
+ Identities = 229/229 (100%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 26  tccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccagc 85
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 249 tccttcagctcctacttaatggaagcctcgcagatgcaagatggctccagcaggcccagc 308
+
+                                                                       
+Query: 86  atcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaaa 145
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 309 atcacttcttctcagtgtcccaaagccagaagagaggctgttgtttttaaaagcaggaaa 368
+
+                                                                       
+Query: 146 actttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagcaa 205
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 369 actttcctaaacttggccagaattgcatcacagaccctttcctaaaacaatttccagcaa 428
+
+                                                            
+Query: 206 agggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 254
+           |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 429 agggaatagacttaccatgtctggtacagatgaatcaaggtttgcccct 477
+
+
+
+ Score = 50.1 bits (25), Expect = 0.020
+ Identities = 25/25 (100%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1  atgcggaccctcagtcctcaggcag 25
+          |||||||||||||||||||||||||
+Sbjct: 1  atgcggaccctcagtcctcaggcag 25
+
+

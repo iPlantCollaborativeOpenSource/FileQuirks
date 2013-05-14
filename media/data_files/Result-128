@@ -1,0 +1,36 @@
+LOCUS       BAA21795.1               289 aa    PRT              BCT 15-MAY-2009
+DEFINITION  Synechococcus elongatus PCC 7942 malK-like protein protein.
+ACCESSION   AB000100-2
+PROTEIN_ID  BAA21795.1
+SOURCE      Synechococcus elongatus PCC 7942
+  ORGANISM  Synechococcus elongatus PCC 7942
+            Bacteria; Cyanobacteria; Chroococcales; Synechococcus.
+REFERENCE   1  (bases 1 to 2992)
+  AUTHORS   Omata,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Tatsuo Omata
+            School of Agricultural Sciences, Nagoya University, Department of
+            Applied Biological Sciences; Chikusa, Nagoya, Aichi 464-01, Japan
+REFERENCE   2  
+  AUTHORS   Harano,Y., Suzuki,I., Maeda,S., Kaneko,T., Tabata,S. and Omata,T.
+  TITLE     Identification and nitrogen regulation of the cyanase gene from
+            the cyanobacteria Synechocystis sp. strain PPC 6803 and
+            Synechococcus sp. strain PPC 7942
+  JOURNAL   J. Bacteriol. 179, 5744-5750 (1997)
+COMMENT     
+FEATURES             Qualifiers
+     source          /clone_lib="constructed in pBluescript II KS-"
+                     /db_xref="taxon:1140"
+                     /mol_type="genomic DNA"
+                     /organism="Synechococcus elongatus PCC 7942"
+                     /strain="PCC 7942"
+     protein         /gene="cynD"
+                     /transl_table=11
+BEGIN
+        1 MISEAVPAKE ETGQAQLLIE QVGKVFTVNS PSLLDRLRQR SPKRYVALED VNLTIASNTF
+       61 VSIIGPSGCG KSTLLNLIAG LDLPTSGQIL LDGQRIRSPG PDRGIVFQNY ALMPWMTALE
+      121 NVIFAVETAR PNLSKSQARE VAREHLELVG LTKAADRYPG QISGGMKQRV AIARALSIRP
+      181 KLLLMDEPFG ALDALTRGYL QEEVLRIWEA NKLSVVLITH SIDEALLLSD RIVVMSRGPR
+      241 ATIREVIDLP AVRPRQRSVI EEDERFVKIK LRLEEHLFNE TRAVEEASV
+//

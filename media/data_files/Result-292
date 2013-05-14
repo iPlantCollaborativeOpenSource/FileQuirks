@@ -1,0 +1,41 @@
+OMIM NO
+602963
+TITLE
+*602963 UBIQUITIN-CONJUGATING ENZYME E2D 3; UBE2D3
+;;UBC4/5, S. CEREVISIAE, HOMOLOG OF;;
+UBIQUITIN-CONJUGATING ENZYME UBCH5C; UBCH5C
+TEXT
+See UBE2D1 (602961) for general information about ubiquitination and the
+UBC4/5 subfamily of E2 enzymes.
+
+By PCR using oligonucleotides based on UBCH5B (UBE2D2; 602962), Jensen
+et al. (1995) identified a human peripheral blood lymphocyte cDNA
+encoding UBCH5C, or UBE2D3. The predicted 147-amino acid UBCH5C and
+UBCH5B proteins differ by only 4 amino acids, with 3 of the differences
+conservative changes; the nucleotide sequences of their cDNAs are 87%
+identical within the coding region and 23% conserved within the 3-prime
+untranslated region. The UBCH5C protein has 94% sequence identity with
+the Drosophila UbcD1 protein, 92% identity with C. elegans ubc2, 88%
+identity with human UBCH5A (UBE2D1), and 79% identity with S. cerevisiae
+UBC4 and UBC5, and Arabidopsis thaliana UBC8 and UBC9. Recombinant
+UBCH5C expressed in E. coli had a molecular mass of 16 kD by SDS-PAGE.
+The authors demonstrated that UBCH5C can conjugate ubiquitin to target
+proteins in an E6AP (UBE3A; 601623)-dependent manner. Quantitative PCR
+showed that UBCH5C was expressed in all human tissues examined and at
+higher levels than UBCH5A and UBCH5B.
+
+REFERENCES
+1. Jensen, J. P.; Bates, P. W.; Yang, M.; Vierstra, R. A.; Weissman,
+A. M.: Identification of a family of closely related human ubiquitin
+conjugating enzymes. J. Biol. Chem. 270: 30408-30414, 1995.
+
+CREATION DATE
+Patti M. Sherman: 8/12/1998
+
+EDIT HISTORY
+psherman: 09/04/1998
+alopez: 9/3/1998
+psherman: 8/13/1998
+
+
+

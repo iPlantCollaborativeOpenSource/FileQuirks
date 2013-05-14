@@ -1,0 +1,71 @@
+ID   COBM_PSEDE              Reviewed;         253 AA.
+AC   P21922;
+DT   01-MAY-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1991, sequence version 1.
+DT   20-JAN-2009, entry version 50.
+DE   RecName: Full=Precorrin-4 C(11)-methyltransferase;
+DE            EC=2.1.1.133;
+DE   AltName: Full=Precorrin-3 methylase;
+GN   Name=cobM;
+OS   Pseudomonas denitrificans.
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+OX   NCBI_TaxID=43306;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=SC510;
+RX   MEDLINE=91008976; PubMed=2211521;
+RA   Crouzet J., Cameron B., Cauchois L., Rigault S., Rouyez M.-C.,
+RA   Blanche F., Thibaut D., Debussche L.;
+RT   "Genetic and sequence analysis of an 8.7-kilobase Pseudomonas
+RT   denitrificans fragment carrying eight genes involved in transformation
+RT   of precorrin-2 to cobyrinic acid.";
+RL   J. Bacteriol. 172:5980-5990(1990).
+RN   [2]
+RP   CHARACTERIZATION.
+RX   MEDLINE=94042919; PubMed=8226690;
+RA   Debussche L., Thibaut D., Cameron B., Crouzet J., Blanche F.J.;
+RT   "Biosynthesis of the corrin macrocycle of coenzyme B12 in Pseudomonas
+RT   denitrificans.";
+RL   J. Bacteriol. 175:7430-7440(1993).
+CC   -!- FUNCTION: Catalyzes the methylation of C-11 in precorrin-4 to form
+CC       precorrin-5.
+CC   -!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + precorrin-4 = S-
+CC       adenosyl-L-homocysteine + precorrin-5.
+CC   -!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+CC       cob(II)yrinic acid a,c-diamide from precorrin-2 (aerobic route):
+CC       step 4/10.
+CC   -!- SIMILARITY: Belongs to the precorrin methyltransferase family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M59301; AAA25801.1; -; Genomic_DNA.
+DR   HSSP; O87696; 1CBF.
+DR   BioCyc; MetaCyc:MON-86; -.
+DR   BRENDA; 2.1.1.133; 1952.
+DR   GO; GO:0046026; F:precorrin-4 C11-methyltransferase activity; IEA:InterPro.
+DR   GO; GO:0009236; P:cobalamin biosynthetic process; IEA:InterPro.
+DR   InterPro; IPR000878; 4pyrrol_Mease.
+DR   InterPro; IPR014777; 4pyrrole_Mease_sub1.
+DR   InterPro; IPR014776; 4pyrrole_Mease_sub2.
+DR   InterPro; IPR006362; Cbl_synth_CobM/CibF_core.
+DR   InterPro; IPR003043; Uropor_MeTrfase_CS.
+DR   Gene3D; G3DSA:3.40.1010.10; 4pyrrole_Mease_sub1; 1.
+DR   Gene3D; G3DSA:3.30.950.10; 4pyrrole_Mease_sub2; 1.
+DR   Pfam; PF00590; TP_methylase; 1.
+DR   TIGRFAMs; TIGR01465; cobM_cbiF; 1.
+DR   PROSITE; PS00839; SUMT_1; 1.
+DR   PROSITE; PS00840; SUMT_2; 1.
+PE   1: Evidence at protein level;
+KW   Cobalamin biosynthesis; Methyltransferase; S-adenosyl-L-methionine;
+KW   Transferase.
+FT   CHAIN         1    253       Precorrin-4 C(11)-methyltransferase.
+FT                                /FTId=PRO_0000150395.
+SQ   SEQUENCE   253 AA;  26863 MW;  50F5E6F5F67FF733 CRC64;
+     MTVHFIGAGP GAADLITVRG RDLIGRCPVC LYAGSIVSPE LLRYCPPGAR IVDTAPMSLD
+     EIEAEYVKAE AEGLDVARLH SGDLSVWSAV AEQIRRLEKH GIAYTMTPGV PSFAAAASAL
+     GRELTIPAVA QSLVLTRVSG RASPMPNSET LSAFGATGST LAIHLAIHAL QQVVEELTPL
+     YGADCPVAIV VKASWPDERV VRGTLGDIAA KVAEEPIERT ALIFVGPGLE ASDFRESSLY
+     DPAYQRRFRG RGE
+//

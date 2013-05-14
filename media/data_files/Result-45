@@ -1,0 +1,497 @@
+FASTA searches a protein or DNA sequence data bank
+ version 3.4t26 July 7, 2006
+Please cite:
+ W.R. Pearson & D.J. Lipman PNAS (1988) 85:2444-2448
+
+Query library /result/fasta/query/20090526011600_17540 vs /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+searching /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+
+  1>>> query 60 aa - 60 aa
+ vs  /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+
+       opt      E()
+< 20   751     0:==
+  22     1     0:=          one = represents 662 library sequences
+  24     6     0:=
+  26    12     9:*
+  28    52    97:*
+  30   312   590:*
+  32  1371  2282:===*
+  34  5178  6189:======== *
+  36 12169 12711:===================*
+  38 23296 21007:===============================*====
+  40 33586 29303:============================================*======
+  42 38706 35819:======================================================*====
+  44 39713 39512:===========================================================*
+  46 38638 40244:===========================================================*
+  48 36909 38529:========================================================  *
+  50 33144 35158:===================================================  *
+  52 28390 30910:===========================================   *
+  54 25770 26402:=======================================*
+  56 21372 22054:=================================*
+  58 17070 18106:========================== *
+  60 15099 14667:======================*
+  62 11289 11758:=================*
+  64  9148  9351:==============*
+  66  7495  7391:===========*
+  68  6053  5814:========*=
+  70  4810  4556:======*=
+  72  3600  3560:=====*
+  74  2893  2776:====*
+  76  2177  2160:===*
+  78  1895  1679:==*
+  80  1445  1304:=*=
+  82  1190   997:=*
+  84  1221   790:=*
+  86   745   611:*=
+  88   665   473:*=         inset = represents 8 library sequences
+  90   424   366:*
+  92   359   283:*         :===================================*====
+  94   278   219:*         :===========================*=======
+  96   264   170:*         :=====================*===========
+  98   196   131:*         :================*========
+ 100   139   102:*         :============*=====
+ 102   107    79:*         :=========*====
+ 104   101    61:*         :=======*=====
+ 106    76    47:*         :=====*====
+ 108    90    36:*         :====*=======
+ 110    66    28:*         :===*=====
+ 112    32    22:*         :==*=
+ 114    44    17:*         :==*===
+ 116    48    13:*         :=*====
+ 118    24    10:*         :=*=
+>120   231     8:*         :*============================
+154417117 residues in 428650 sequences
+ statistics sampled from 60000 to 428430 sequences
+  Expectation_n fit: rho(ln(x))= 4.0739+/-0.000208; mu= 6.6540+/- 0.012
+ mean_var=55.3362+/-10.759, 0's: 97 Z-trim: 108  B-trim: 797 in 2/63
+ Lambda= 0.172413
+ Kolmogorov-Smirnov  statistic: 0.0161 (N=29) at  44
+
+FASTA (3.49 May 2006) function [optimized, BL50 matrix (15:-5)] ktup: 2
+ join: 36, opt: 24, open/ext: -10/-2, width:  16
+ Scan time:  8.850
+The best scores are:                                      opt bits E(428650)
+sp|O00622|CYR61_HUMAN RecName: Full=Protein CYR61; ( 381)  425 113.4 7.4e-25
+sp|A5A6L1|CYR61_PANTR RecName: Full=Protein CYR61; ( 381)  425 113.4 7.4e-25
+sp|P18406|CYR61_MOUSE RecName: Full=Protein CYR61; ( 379)  389 104.4 3.7e-22
+sp|Q9ES72|CYR61_RAT RecName: Full=Protein CYR61; A ( 379)  387 103.9 5.2e-22
+sp|P19336|CEF10_CHICK RecName: Full=Protein CEF-10 ( 375)  286 78.8 1.9e-14
+sp|Q9Z0G4|WISP2_MOUSE RecName: Full=WNT1-inducible ( 251)  215 60.9 2.9e-09
+sp|Q9R1E9|CTGF_RAT RecName: Full=Connective tissue ( 347)  211 60.1 7.3e-09
+sp|O95389|WISP3_HUMAN RecName: Full=WNT1-inducible ( 354)  211 60.1 7.4e-09
+sp|P29279|CTGF_HUMAN RecName: Full=Connective tiss ( 349)  206 58.8 1.7e-08
+sp|P29268|CTGF_MOUSE RecName: Full=Connective tiss ( 348)  205 58.6 2.1e-08
+sp|P51609|NOV_XENLA RecName: Full=Protein NOV homo ( 343)  204 58.3 2.4e-08
+sp|O18739|CTGF_BOVIN RecName: Full=Connective tiss ( 349)  202 57.8 3.5e-08
+sp|O76076|WISP2_HUMAN RecName: Full=WNT1-inducible ( 250)  197 56.5 6.5e-08
+sp|P28686|NOV_CHICK RecName: Full=Protein NOV; Alt ( 351)  191 55.1 2.3e-07
+sp|P42642|NOV_COTJA RecName: Full=Protein NOV; Alt ( 353)  190 54.9 2.8e-07
+sp|Q9JHC6|WISP2_RAT RecName: Full=WNT1-inducible-s ( 250)  187 54.0 3.6e-07
+sp|P48745|NOV_HUMAN RecName: Full=Protein NOV homo ( 357)  187 54.1 4.7e-07
+sp|Q9QZQ5|NOV_RAT RecName: Full=Protein NOV homolo ( 351)  185 53.6 6.5e-07
+sp|Q64299|NOV_MOUSE RecName: Full=Protein NOV homo ( 354)  184 53.4 7.8e-07
+sp|Q99PP0|WISP1_RAT RecName: Full=WNT1-inducible-s ( 367)  176 51.4 3.2e-06
+sp|O54775|WISP1_MOUSE RecName: Full=WNT1-inducible ( 367)  176 51.4 3.2e-06
+sp|O95388|WISP1_HUMAN RecName: Full=WNT1-inducible ( 367)  171 50.2 7.5e-06
+sp|O19113|CTGF_PIG RecName: Full=Connective tissue ( 349)  156 46.4 9.7e-05
+sp|P83110|HTRA3_HUMAN RecName: Full=Probable serin ( 453)  134 41.0  0.0051
+sp|Q9D236|HTRA3_MOUSE RecName: Full=Probable serin ( 459)  133 40.8  0.0062
+
+>>sp|O00622|CYR61_HUMAN RecName: Full=Protein CYR61; Alt  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.8  bits: 113.4 E(): 7.4e-25
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|O00 MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|O00 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|A5A6L1|CYR61_PANTR RecName: Full=Protein CYR61; Alt  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.8  bits: 113.4 E(): 7.4e-25
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|A5A MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|A5A NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|P18406|CYR61_MOUSE RecName: Full=Protein CYR61; Alt  (379 aa)
+ initn: 389 init1: 389 opt: 389  Z-score: 531.5  bits: 104.4 E(): 3.7e-22
+Smith-Waterman score: 389;  90.000% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   :.::..::::::::::::::::::::::::::::::::::::::::::::::::
+sp|P18 MSSSTFRTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|P18 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|Q9ES72|CYR61_RAT RecName: Full=Protein CYR61; AltNa  (379 aa)
+ initn: 387 init1: 387 opt: 387  Z-score: 528.8  bits: 103.9 E(): 5.2e-22
+Smith-Waterman score: 387;  88.333% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   ..::..::::::::::::::::::::::::::::::::::::::::::::::::
+sp|Q9E MSSSTIKTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|Q9E NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|P19336|CEF10_CHICK RecName: Full=Protein CEF-10; Fl  (375 aa)
+ initn: 249 init1: 249 opt: 286  Z-score: 393.1  bits: 78.8 E(): 1.9e-14
+Smith-Waterman score: 286;  70.492% identity (83.607% similar) in 61 aa overlap (1-60:1-60)
+
+               10        20         30        40        50         
+       MSSRIARALALVVTLLHLTRLAL-STCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+       :.:  ::  ::...:: :.:::: : :::.:.::  ::.:::::::: ::::::::::::
+sp|P19 MGSAGARP-ALAAALLCLARLALGSPCPAVCQCPAAAPQCAPGVGLVPDGCGCCKVCAKQ
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|P19 LNEDCSRTQPCDHTKGLECNFGASPAATNGICRAQSEGRPCEYNSKIYQNGESFQPNCKH
+      60        70        80        90       100       110         
+
+>>sp|Q9Z0G4|WISP2_MOUSE RecName: Full=WNT1-inducible-sig  (251 aa)
+ initn: 207 init1: 207 opt: 215  Z-score: 299.8  bits: 60.9 E(): 2.9e-09
+Smith-Waterman score: 215;  50.980% identity (72.549% similar) in 51 aa overlap (11-60:10-60)
+
+               10        20         30        40        50         
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :....: .  .. :  ::: : ::   :.: ::: :: ::::::.:::..
+sp|Q9Z  MRGNPLIHLLAISFLCILSMVYSQLCPAPCACPWTPPQCPPGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|Q9Z LGESCDHLHVCDPSQGLVCQPGAGPSGRGAVCLFEEDDGSCEVNGRRYLDGETFKPNCRV
+      60        70        80        90       100       110         
+
+>>sp|Q9R1E9|CTGF_RAT RecName: Full=Connective tissue gro  (347 aa)
+ initn: 156 init1: 156 opt: 211  Z-score: 292.7  bits: 60.1 E(): 7.3e-09
+Smith-Waterman score: 211;  51.613% identity (70.968% similar) in 62 aa overlap (1-60:1-62)
+
+               10        20         30         40        50        
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEA-PKCAPGVGLVRDGCGCCKVCAK
+       : . .:  ..:...::  :: : .  : : :.:  :: :.:  ::.:: ::::::.::::
+sp|Q9R MLASVAGPVSLALVLLLCTRPATGQDCSAQCQCAAEAAPRCPAGVSLVLDGCGCCRVCAK
+               10        20        30        40        50        60
+
+       60                                                          
+       QL                                                          
+       ::                                                          
+sp|Q9R QLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGSVYRSGESFQSSCKY
+               70        80        90       100       110       120
+
+>>sp|O95389|WISP3_HUMAN RecName: Full=WNT1-inducible-sig  (354 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 292.6  bits: 60.1 E(): 7.4e-09
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:48-81)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+sp|O95 CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKI
+        20        30        40        50        60        70       
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+sp|O95 CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+        80        90       100       110       120       130       
+
+>>sp|P29279|CTGF_HUMAN RecName: Full=Connective tissue g  (349 aa)
+ initn: 156 init1: 156 opt: 206  Z-score: 285.9  bits: 58.8 E(): 1.7e-08
+Smith-Waterman score: 206;  55.556% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:: :   .: :.. .: . :.:: : ::.:  ::.:: ::::::.::
+sp|P29 MTAASMGPVRVAFVVLLALCSRPAVGQNCSGPCRCPDEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|P29 AKQLGELCTERDPCDPHKGLFCHFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|P29268|CTGF_MOUSE RecName: Full=Connective tissue g  (348 aa)
+ initn: 153 init1: 153 opt: 205  Z-score: 284.6  bits: 58.6 E(): 2.1e-08
+Smith-Waterman score: 205;  52.381% identity (71.429% similar) in 63 aa overlap (1-60:1-63)
+
+               10         20         30         40        50       
+       MSSRIARALALVVTLLHL-TRLALST-CPAACHCPLEA-PKCAPGVGLVRDGCGCCKVCA
+       : . .:  ..:...:: : :: : .  : : :.:  :: :.:  ::.:: ::::::.:::
+sp|P29 MLASVAGPISLALVLLALCTRPATGQDCSAQCQCAAEAAPHCPAGVSLVLDGCGCCRVCA
+               10        20        30        40        50        60
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+sp|P29 KQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGSVYRSGESFQSSCK
+               70        80        90       100       110       120
+
+>>sp|P51609|NOV_XENLA RecName: Full=Protein NOV homolog;  (343 aa)
+ initn: 188 init1: 166 opt: 204  Z-score: 283.3  bits: 58.3 E(): 2.4e-08
+Smith-Waterman score: 204;  53.846% identity (73.077% similar) in 52 aa overlap (9-59:5-55)
+
+               10        20        30         40        50         
+       MSSRIARALALVVTLLHLTRLALSTCPAAC-HCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+               :::   :: . ..: . ::. : .:: : :.:::.: :. :::::: :::.:
+sp|P51     MTPHLALCFILL-IQQVASQKCPSQCDQCPEEPPSCAPSVLLILDGCGCCPVCARQ
+                   10         20        30        40        50     
+
+      60                                                           
+       L                                                           
+                                                                   
+sp|P51 EGESCSHLNPCQEDKGLYCEFNADPRMETGTCMALEGNSCVFDGVVYRNRESFQPSCKYH
+          60        70        80        90       100       110     
+
+>>sp|O18739|CTGF_BOVIN RecName: Full=Connective tissue g  (349 aa)
+ initn: 156 init1: 156 opt: 202  Z-score: 280.5  bits: 57.8 E(): 3.5e-08
+Smith-Waterman score: 202;  56.604% identity (69.811% similar) in 53 aa overlap (10-60:12-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALST-CPAACHCPL-EAPKCAPGVGLVRDGCGCCKVC
+                  :.:. :   .: : :  : : :.::   ::.:  ::.:: ::::::.::
+sp|O18 MSATGLGPVRCAFVLLLALCSRPASSQDCSAPCQCPAGPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|O18 AKQLSELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGTVYQSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|O76076|WISP2_HUMAN RecName: Full=WNT1-inducible-sig  (250 aa)
+ initn: 222 init1: 189 opt: 197  Z-score: 275.6  bits: 56.5 E(): 6.5e-08
+Smith-Waterman score: 197;  49.020% identity (70.588% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLHL-TRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :. .:: : ...  . ::. : ::   :.:  :: :: ::::::.:::..
+sp|O76  MRGTPKTHLLAFSLLCLLSKVRTQLCPTPCTCPWPPPRCPLGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|O76 LGEPCDQLHVCDASQGLVCQPGAGPGGRGALCLLAEDDSSCEVNGRLYREGETFQPHCSI
+      60        70        80        90       100       110         
+
+>>sp|P28686|NOV_CHICK RecName: Full=Protein NOV; AltName  (351 aa)
+ initn: 171 init1: 171 opt: 191  Z-score: 265.7  bits: 55.1 E(): 2.3e-07
+Smith-Waterman score: 191;  60.526% identity (73.684% similar) in 38 aa overlap (24-59:29-66)
+
+                    10        20        30          40        50   
+            MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCC
+                                   ..::  :  .:: : :.:::::  : ::::::
+sp|P28 METGGGQGLPVLLLLLLLLRPCEVSGREAACPRPCGGRCPAEPPRCAPGVPAVLDGCGCC
+               10        20        30        40        50        60
+
+            60                                                     
+       KVCAKQL                                                     
+        :::.:                                                      
+sp|P28 LVCARQRGESCSPLLPCDESGGLYCDRGPEDGGGAGICMVLEGDNCVFDGMIYRNGETFQ
+               70        80        90       100       110       120
+
+>>sp|P42642|NOV_COTJA RecName: Full=Protein NOV; AltName  (353 aa)
+ initn: 171 init1: 171 opt: 190  Z-score: 264.3  bits: 54.9 E(): 2.8e-07
+Smith-Waterman score: 190;  63.889% identity (72.222% similar) in 36 aa overlap (26-59:33-68)
+
+                    10        20        30          40        50   
+            MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCC
+                                     ::  :  .:: : :.:::::  : ::::::
+sp|P42 PGGGHSLPVLLLLLLLLLLRPSEVNGREAPCPRPCGGRCPAEPPRCAPGVPAVLDGCGCC
+             10        20        30        40        50        60  
+
+            60                                                     
+       KVCAKQL                                                     
+        :::.:                                                      
+sp|P42 LVCARQRGESCSPLLPCDESGGLYCDRGPEDGGGTGICMVLEGDNCVFDGMIYRNGETFQ
+             70        80        90       100       110       120  
+
+>>sp|Q9JHC6|WISP2_RAT RecName: Full=WNT1-inducible-signa  (250 aa)
+ initn: 161 init1: 161 opt: 187  Z-score: 262.2  bits: 54.0 E(): 3.6e-07
+Smith-Waterman score: 187;  46.552% identity (60.345% similar) in 58 aa overlap (3-60:4-60)
+
+                10        20        30        40        50         
+        MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+          : . : ::     : :. .  . : . : ::   :.:  :: :: ::::::::::..
+sp|Q9J MRGSPLIRLLATSFLCL-LSMVCAQLCRTPCTCPWTPPQCPQGVPLVLDGCGCCKVCARR
+               10         20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|Q9J LTESCEHLHVCEPSQGLVCQPGAGPGGHGAVCLLDEDDGDCEVNGRRYLDGETFKPNCRV
+      60        70        80        90       100       110         
+
+>>sp|P48745|NOV_HUMAN RecName: Full=Protein NOV homolog;  (357 aa)
+ initn: 179 init1: 151 opt: 187  Z-score: 260.2  bits: 54.1 E(): 4.7e-07
+Smith-Waterman score: 187;  50.909% identity (61.818% similar) in 55 aa overlap (9-59:16-70)
+
+                      10        20          30          40         
+              MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDG
+                      : :.  ::::   . .:  ::  :  .::   : :::::  : ::
+sp|P48 MQSVQSTSFCLRKQCLCLTFLLLHLLGQVAATQRCPPQCPGRCPATPPTCAPGVRAVLDG
+               10        20        30        40        50        60
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::.:                                                  
+sp|P48 CSCCLVCARQRGESCSDLEPCDESSGLYCDRSADPSNQTGICTAVEGDNCVFDGVIYRSG
+               70        80        90       100       110       120
+
+>>sp|Q9QZQ5|NOV_RAT RecName: Full=Protein NOV homolog;    (351 aa)
+ initn: 192 init1: 150 opt: 185  Z-score: 257.7  bits: 53.6 E(): 6.5e-07
+Smith-Waterman score: 185;  50.909% identity (63.636% similar) in 55 aa overlap (9-59:10-64)
+
+                10        20          30          40        50     
+        MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDGCGCCKV
+                : :   ::::   . .:  ::. :  .::  .: :::::  : :::.:: :
+sp|Q9Q MSVFLRKQCLCLGFLLLHLLNQVSATLRCPSRCPSQCPSISPTCAPGVRSVLDGCSCCPV
+               10        20        30        40        50        60
+
+          60                                                       
+       CAKQL                                                       
+       ::.:                                                        
+sp|Q9Q CARQRGESCSEMRPCDQSSGLYCDRSADPNNETGICMVPEGDNCVFDGVIYRNGEKFEPN
+               70        80        90       100       110       120
+
+>>sp|Q64299|NOV_MOUSE RecName: Full=Protein NOV homolog;  (354 aa)
+ initn: 203 init1: 150 opt: 184  Z-score: 256.3  bits: 53.4 E(): 7.8e-07
+Smith-Waterman score: 184;  49.123% identity (66.667% similar) in 57 aa overlap (7-59:8-64)
+
+                10         20         30          40        50     
+        MSSRIARALALVVTLLHL-TRLALST-CPAAC--HCPLEAPKCAPGVGLVRDGCGCCKV
+              : : :   :.:: .... :  ::. :  .::  .: :::::  : :::.:: :
+sp|Q64 MSLFLRKRCLCLGFLLFHLLSQVSASLRCPSRCPPKCPSISPTCAPGVRSVLDGCSCCPV
+               10        20        30        40        50        60
+
+          60                                                       
+       CAKQL                                                       
+       ::.:                                                        
+sp|Q64 CARQRGESCSEMRPCDQSSGLYCDRSADPNNQTGICMVPEGDNCVFDGVIYRNGEKFEPN
+               70        80        90       100       110       120
+
+>>sp|Q99PP0|WISP1_RAT RecName: Full=WNT1-inducible-signa  (367 aa)
+ initn: 168 init1: 168 opt: 176  Z-score: 245.3  bits: 51.4 E(): 3.2e-06
+Smith-Waterman score: 176;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|Q99 NILATALSPTPTTMTFTPAPLEETITRPEFCKWPCECPQAPPRCPLGVSLITDGCECCKI
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|Q99 CAQQLGDNCTEAAVCDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYTNGESFQP
+       80        90       100       110       120       130        
+
+>>sp|O54775|WISP1_MOUSE RecName: Full=WNT1-inducible-sig  (367 aa)
+ initn: 168 init1: 168 opt: 176  Z-score: 245.3  bits: 51.4 E(): 3.2e-06
+Smith-Waterman score: 176;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|O54 NILATALSPTPTTMTFTPAPLEETTTRPEFCKWPCECPQSPPRCPLGVSLITDGCECCKI
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|O54 CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYTNGESFQP
+       80        90       100       110       120       130        
+
+>>sp|O95388|WISP1_HUMAN RecName: Full=WNT1-inducible-sig  (367 aa)
+ initn: 163 init1: 163 opt: 171  Z-score: 238.6  bits: 50.2 E(): 7.5e-06
+Smith-Waterman score: 171;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|O95 TVLATALSPAPTTMDFTPAPLEDTSSRPQFCKWPCECPPSPPRCPLGVSLITDGCECCKM
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|O95 CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYNNGQSFQP
+       80        90       100       110       120       130        
+
+>>sp|O19113|CTGF_PIG RecName: Full=Connective tissue gro  (349 aa)
+ initn: 134 init1: 134 opt: 156  Z-score: 218.7  bits: 46.4 E(): 9.7e-05
+Smith-Waterman score: 156;  45.283% identity (64.151% similar) in 53 aa overlap (10-60:12-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEAPK-CAPGVGLVRDGCGCCKVC
+                  :.:. :   .: : .  : . :.:     . :  ::.:: ::::::..:
+sp|O19 MSATGLSPVRCAFVLLLALCSRPASGQDCSGQCQCAAGKRRACPAGVSLVLDGCGCCRLC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|O19 AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|P83110|HTRA3_HUMAN RecName: Full=Probable serine pr  (453 aa)
+ initn: 110 init1:  72 opt: 134  Z-score: 187.7  bits: 41.0 E(): 0.0051
+Smith-Waterman score: 134;  47.368% identity (63.158% similar) in 57 aa overlap (6-57:3-55)
+
+               10         20         30           40        50     
+       MSSRIARALALV-VTLLHLTRLA-LSTCPAAC---HCPLEAPKCAPGVGLVRDGCGCCKV
+            :::: :. .. : :.:    . ::: :   .::  .:.: :: : : : :.:: :
+sp|P83    MQARALLLAALAALALAREPPAAPCPARCDVSRCP--SPRC-PG-GYVPDLCNCCLV
+                  10        20        30           40         50   
+
+          60                                                       
+       CAKQL                                                       
+       ::                                                          
+sp|P83 CAASEGEPCGGPLDSPCGESLECVRGLCRCRWSHAVCGTDGHTYANVCALQAASRRALQL
+            60        70        80        90       100       110   
+
+>>sp|Q9D236|HTRA3_MOUSE RecName: Full=Probable serine pr  (459 aa)
+ initn: 111 init1:  72 opt: 133  Z-score: 186.3  bits: 40.8 E(): 0.0062
+Smith-Waterman score: 133;  46.032% identity (58.730% similar) in 63 aa overlap (6-57:3-61)
+
+                 10        20              30           40         
+       MSSRIARAL--ALVVTLLHLTRLALST------CPAAC---HCPLEAPKCAPGVGLVRDG
+            ::::  : .. :  :. :::.       ::: :   .::  .:.: :: : : : 
+sp|Q9D    MQARALLPATLAILATLAVLALAREPPAAPCPARCDVSRCP--SPRC-PG-GYVPDL
+                  10        20        30        40            50   
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::                                                    
+sp|Q9D CNCCLVCAASEGEPCGRPLDSPCGDSLECVRGVCRCRWTHTVCGTDGHTYADVCALQAAS
+            60        70        80        90       100       110   
+
+
+
+60 residues in 1 query   sequences
+154417117 residues in 428650 library sequences
+ Tcomplib [34t26] (4 proc)
+ start: Tue May 26 01:16:01 2009 done: Tue May 26 01:16:06 2009
+ Total Scan time:  8.850 Total Display time:  0.010
+
+Function used was FASTA [version 3.4t26 July 7, 2006]

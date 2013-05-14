@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AR000009</LOCUS>
+<LENGTH>30</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PAT</DIVISION>
+<LAST_UPDATE>04-DEC-1998</LAST_UPDATE>
+
+<DEFINITION>Sequence 5 from patent US 5736137.</DEFINITION>
+<ACCESSION>AR000009</ACCESSION>
+<VERSION>AR000009.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>unknown</SOURCE>
+<ORGANISM>Unknown.</ORGANISM>
+<TAXONOMY>Unclassified.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Anderson,D.R., Hanna,N., Leonard,J.E., Newman,R.A., Reff,M.E. andRastetter,W.H.</authors>
+     <title>Therapeutic application of chimeric and radiolabeled antibodies tohuman B lymphocyte restricted differentiation antigen for treatmentof B cell lymphoma</title>
+     <journal>Patent: US 5736137-A 5 07-APR-1998;</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..30</location>
+     <qualifiers name="organism">unknown</qualifiers>
+     <qualifiers name="mol_type">unassigned DNA</qualifiers>
+</source>
+</FEATURES>
+
+<BASE_COUNT A="          5 " C="          8 " G="          6 " T="         11 "/>
+<SEQUENCE>tgcagcatccgtacgtttgatttccagctt</SEQUENCE>
+</DDBJXML>

@@ -1,0 +1,65 @@
+LOCUS       AB027551                 644 bp    DNA     linear   INV 14-MAR-2001
+DEFINITION  Echinococcus multilocularis mitochondrial gene for cytochrome
+            oxidase subunit 2, tRNA-Glu, NADH dehydrogenase subunit 6,
+            tRNA-Tyr, isolate:Austria.
+ACCESSION   AB027551
+VERSION     AB027551.1
+KEYWORDS    tRNA-Tyr; ND6; NADH dehydrogenase subunit 6; tRNA-Glu; cytochrome
+            oxidase subunit 2.
+SOURCE      Echinococcus multilocularis mitochondrion
+  ORGANISM  Echinococcus multilocularis
+            Eukaryota; Metazoa; Platyhelminthes; Rhabditophora; Neodermata;
+            Cestoda; Eucestoda; Cyclophyllidea; Taeniidae; Echinococcus.
+REFERENCE   1  (bases 1 to 644)
+  AUTHORS   Fukunaga,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-1999) to the DDBJ/EMBL/GenBank databases.
+            Contact:Masahito Fukunaga
+            Faculty of Pharmacy and Pharmaceutical Sciences, Fukuyama
+            University, Laboratory of Molecular Microbiology; Sanzo 985,
+            Gakuencho 1, Fukuyama, Hiroshima 729-0292, Japan
+REFERENCE   2
+  AUTHORS   Fukunaga,M., Yokoyama,N., Ito,A. and Nakao,M.
+  TITLE     Distribution of Echinococcus multilocularis in Hokkaido, Japan and
+            its geographical migration
+  JOURNAL   Unpublished (1999)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /isolate="Austria"
+                     /mol_type="genomic DNA"
+                     /organelle="mitochondrion"
+                     /organism="Echinococcus multilocularis"
+     CDS             <1..15
+                     /codon_start=1
+                     /product="cytochrome oxidase subunit 2"
+                     /protein_id="BAA95327.1"
+                     /transl_table=9
+                     /translation="GDCC"
+     tRNA            33..100
+                     /product="tRNA-Glu"
+     CDS             103..558
+                     /codon_start=1
+                     /gene="ND6"
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="BAA95328.2"
+                     /transl_table=9
+                     /translation="MLLEVLVVMYFCVLVLFCFTSHCIYYCVLLVVNALLAGCICYVV
+                     YGFSWYSLLLCLVYIGGVYILFIFVSVFSPNSSFVLYSGAYGVSLWVLFGFGLFVCSL
+                     VCYVLVNVEFSSVLCSASEGWLYLCLCLTLVFGFLVLSIILSSKVNFYR"
+     tRNA            572..635
+                     /product="tRNA-Tyr"
+BASE COUNT          126 a           32 c          166 g          320 t
+ORIGIN      
+        1 ggtgattgtt gttagttttg ggtttgtgta tgtctgtttt agtataattg atattatgtt
+       61 agcttttcgt gctttagatg gttgttttaa ctgaacagat ttatgttgtt ggaggtttta
+      121 gtagttatgt atttttgtgt gttggtgctt ttttgtttta ctagtcattg tatatattat
+      181 tgtgtattgt tggtggttaa tgcgttgttg gctggttgta tatgttatgt agtttatggg
+      241 tttagttggt attccttgct tttgtgttta gtttatatag gtggtgttta tatattgttt
+      301 atttttgtgt cggtgtttag tccaaatagt agttttgttt tatatagtgg tgcttatggg
+      361 gttagtttat gggtgttatt cggttttggg ttatttgtat gttcgttagt ttgttatgtg
+      421 ttggttaaag tggagtttag aagtgtatta tgtagtgcta gagagggttg gttatatttg
+      481 tgtttgtgtt tgactttagt gtttggtttt ttggtgttaa gtattatact aaggagtaag
+      541 gtaaaatttt atcgttaatg gttatattag actgatttag catatattta atgtggtggg
+      601 ttgtaaaccc tttgaaatct ctgtagttaa tcaggaaatt attt
+//

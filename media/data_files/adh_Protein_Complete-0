@@ -1,0 +1,977 @@
+ID   25KD_SARPE              Reviewed;         258 AA.
+AC   P23170;
+DT   01-NOV-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1991, sequence version 1.
+DT   25-NOV-2008, entry version 45.
+DE   RecName: Full=Development-specific 25 kDa protein;
+OS   Sarcophaga peregrina (Flesh fly) (Boettcherisca peregrina).
+OC   Eukaryota; Metazoa; Arthropoda; Hexapoda; Insecta; Pterygota;
+OC   Neoptera; Endopterygota; Diptera; Brachycera; Muscomorpha; Oestroidea;
+OC   Sarcophagidae; Sarcophaga; Boettcherisca.
+OX   NCBI_TaxID=7386;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=85289142; PubMed=2993269;
+RA   Matsumoto N., Sekimizu K., Soma G., Ohmura Y., Andoh T., Nakanishi Y.,
+RA   Obinata M., Natori S.;
+RT   "Structural analysis of a developmentally regulated 25-kDa protein
+RT   gene of Sarcophaga peregrina.";
+RL   J. Biochem. 97:1501-1508(1985).
+RN   [2]
+RP   SEQUENCE REVISION.
+RX   MEDLINE=96235235; PubMed=8647115;
+RX   DOI=10.1111/j.1432-1033.1996.0698p.x;
+RA   Horio T., Kubo T., Natori S.;
+RT   "Purification and cDNA cloning of the alcohol dehydrogenase of the
+RT   flesh fly Sarcophaga peregrina. A structural relationship between
+RT   alcohol dehydrogenase and a 25-kDa protein.";
+RL   Eur. J. Biochem. 237:698-703(1996).
+CC   -!- DEVELOPMENTAL STAGE: Expressed in the fat body of middle third-
+CC       instar larvae.
+CC   -!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+CC       (SDR) family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X02570; CAA26412.1; -; Genomic_DNA.
+DR   PIR; A24181; A24181.
+DR   PIR; T11741; T11741.
+DR   HSSP; P10807; 1B16.
+DR   GO; GO:0004022; F:alcohol dehydrogenase activity; IEA:InterPro.
+DR   GO; GO:0005488; F:binding; IEA:InterPro.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   InterPro; IPR002426; Ceratitis_AlcDHase.
+DR   InterPro; IPR002198; DHase_sc/Rdtase_SDR.
+DR   InterPro; IPR002424; Insect_AlcDHase_fam.
+DR   InterPro; IPR016040; NAD(P)-bd.
+DR   Gene3D; G3DSA:3.40.50.720; NAD(P)-bd; 1.
+DR   PANTHER; PTHR19410; ADH_short_C2; 1.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR01169; CERATITISADH.
+DR   PRINTS; PR01167; INSADHFAMILY.
+DR   PRINTS; PR00080; SDRFAMILY.
+DR   PROSITE; PS00061; ADH_SHORT; 1.
+PE   2: Evidence at transcript level;
+KW   Oxidoreductase.
+FT   CHAIN         1    258       Development-specific 25 kDa protein.
+FT                                /FTId=PRO_0000054445.
+FT   NP_BIND      10     34       NAD or NADP (By similarity).
+FT   ACT_SITE    151    151       Proton acceptor (By similarity).
+FT   BINDING     138    138       Substrate (By similarity).
+SQ   SEQUENCE   258 AA;  28633 MW;  651CB188A5D1547A CRC64;
+     MMDWNNKNVV YVGGFSGFGY QVCQMMMKKP MKHLIVCSRM ENVEMLKKLQ AINTSVKVMF
+     VQMNIADYAS IVKGVKQVIG HVGHVDVLIN GVGGLADKDV ETTVAVNLTG LINTTLMFMP
+     YMDKTQSGHG GMVVSISSVY GLEPGPAFSV YSAAKHGGIG FTRSMADEHL YHKTGVAFMC
+     ICPAMTSTEL MMNKRDMNWM KWVPHSEEMW KMVMDAKMQT PEECAVNMMT AMEQAKNGAI
+     YICSTSGMKE ITPTVYMH
+//
+ID   3BHD_COMTE              Reviewed;         254 AA.
+AC   P19871; Q52587;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 5.
+DT   20-JAN-2009, entry version 69.
+DE   RecName: Full=3-beta-hydroxysteroid dehydrogenase;
+DE            EC=1.1.1.51;
+OS   Comamonas testosteroni (Pseudomonas testosteroni).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   Comamonadaceae; Comamonas.
+OX   NCBI_TaxID=285;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 11996 / DSM 50244 / JCM 5832 / NCIB 8955 / NCTC 10698;
+RX   MEDLINE=93176721; PubMed=8382516; DOI=10.1016/0960-0760(93)90020-W;
+RA   Abalain J.H., di Stefano S., Amet Y., Quemener E.,
+RA   Abalain-Colloc M.L., Floch H.H.;
+RT   "Cloning, DNA sequencing and expression of (3-17)beta hydroxysteroid
+RT   dehydrogenase from Pseudomonas testosteroni.";
+RL   J. Steroid Biochem. Mol. Biol. 44:133-139(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 11996 / DSM 50244 / JCM 5832 / NCIB 8955 / NCTC 10698;
+RX   PubMed=15026087; DOI=10.1016/j.jsbmb.2003.10.010;
+RA   Pruneda-Paz J.L., Linares M., Cabrera J.E., Genti-Raimondi S.;
+RT   "Identification of a novel steroid inducible gene associated with the
+RT   beta hsd locus of Comamonas testosteroni.";
+RL   J. Steroid Biochem. Mol. Biol. 88:91-100(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-254.
+RX   MEDLINE=91224127; PubMed=2026158;
+RX   DOI=10.1111/j.1432-1033.1991.tb15919.x;
+RA   Yin S.-J., Vagelopoulos N., Lundquist G., Joernvall H.;
+RT   "Pseudomonas 3 beta-hydroxysteroid dehydrogenase. Primary structure
+RT   and relationships to other steroid dehydrogenases.";
+RL   Eur. J. Biochem. 197:359-365(1991).
+RN   [4]
+RP   CRYSTALLIZATION, AND SUBUNIT.
+RC   STRAIN=ATCC 11996 / DSM 50244 / JCM 5832 / NCIB 8955 / NCTC 10698;
+RX   MEDLINE=96184891; PubMed=8617258;
+RX   DOI=10.1111/j.1432-1033.1996.t01-1-00144.x;
+RA   Benach J., Knapp S., Oppermann U.C.T., Haegllund O., Joernvall H.,
+RA   Ladenstein R.;
+RT   "Crystallization and crystal packing of recombinant 3 (or 17) beta-
+RT   hydroxysteroid dehydrogenase from Comamonas testosteroni ATTC 11996.";
+RL   Eur. J. Biochem. 236:144-148(1996).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.22 ANGSTROMS).
+RX   PubMed=12475215; DOI=10.1021/bi0203684;
+RA   Benach J., Filling C., Oppermann U.C.T., Roversi P., Bricogne G.,
+RA   Berndt K.D., Joernvall H., Ladenstein R.;
+RT   "Structure of bacterial 3beta/17beta-hydroxysteroid dehydrogenase at
+RT   1.2 A resolution: a model for multiple steroid recognition.";
+RL   Biochemistry 41:14659-14668(2002).
+CC   -!- CATALYTIC ACTIVITY: Testosterone + NAD(P)(+) = androst-4-ene-3,17-
+CC       dione + NAD(P)H.
+CC   -!- SUBUNIT: Homotetramer.
+CC   -!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+CC       (SDR) family.
+CC   -!- WEB RESOURCE: Name=Worthington enzyme manual;
+CC       URL="http://www.worthington-biochem.com/STDH/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X63379; CAA44977.1; -; Genomic_DNA.
+DR   EMBL; U41265; AAA25742.1; -; Genomic_DNA.
+DR   PIR; S48129; S48129.
+DR   PDB; 1HXH; X-ray; 1.22 A; A/B/C/D=1-254.
+DR   PDBsum; 1HXH; -.
+DR   BRENDA; 1.1.1.51; 4566.
+DR   GO; GO:0030283; F:3(or 17)beta-hydroxysteroid dehydrogenase a...; IEA:EC.
+DR   GO; GO:0005488; F:binding; IEA:InterPro.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   GO; GO:0008202; P:steroid metabolic process; IEA:UniProtKB-KW.
+DR   InterPro; IPR002198; DHase_sc/Rdtase_SDR.
+DR   InterPro; IPR002347; Glc/ribitol_DHase.
+DR   InterPro; IPR016040; NAD(P)-bd.
+DR   Gene3D; G3DSA:3.40.50.720; NAD(P)-bd; 1.
+DR   PANTHER; PTHR19410; ADH_short_C2; 1.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR00081; GDHRDH.
+DR   PRINTS; PR00080; SDRFAMILY.
+DR   PROSITE; PS00061; ADH_SHORT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Lipid metabolism; NAD;
+KW   Oxidoreductase; Steroid metabolism.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    254       3-beta-hydroxysteroid dehydrogenase.
+FT                                /FTId=PRO_0000054446.
+FT   NP_BIND      12     40       NAD (By similarity).
+FT   ACT_SITE    152    152       Proton acceptor (By similarity).
+FT   BINDING      61     61       NAD (By similarity).
+FT   BINDING     139    139       Substrate (By similarity).
+FT   BINDING     156    156       NAD (By similarity).
+FT   CONFLICT     14     15       GG -> VV (in Ref. 1; CAA44977).
+FT   CONFLICT     41     41       Missing (in Ref. 1; CAA44977).
+FT   CONFLICT    178    178       R -> RR (in Ref. 1; CAA44977).
+FT   CONFLICT    241    241       S -> G (in Ref. 3; AA sequence).
+FT   TURN          4      7
+FT   STRAND        9     12
+FT   TURN         13     16
+FT   HELIX        18     29
+FT   STRAND       33     37
+FT   HELIX        41     51
+FT   STRAND       55     58
+FT   HELIX        65     79
+FT   STRAND       84     87
+FT   TURN         97     99
+FT   HELIX       102    112
+FT   HELIX       114    127
+FT   TURN        128    130
+FT   STRAND      132    137
+FT   HELIX       140    142
+FT   HELIX       150    173
+FT   STRAND      177    187
+FT   HELIX       190    195
+FT   HELIX       202    205
+FT   TURN        209    211
+FT   HELIX       220    231
+FT   HELIX       233    235
+FT   STRAND      242    248
+FT   TURN        250    253
+SQ   SEQUENCE   254 AA;  26952 MW;  FB6EC90B151975DB CRC64;
+     MTNRLQGKVA LVTGGASGVG LEVVKLLLGE GAKVAFSDIN EAAGQQLAAE LGERSMFVRH
+     DVSSEADWTL VMAAVQRRLG TLNVLVNNAG ILLPGDMETG RLEDFSRLLK INTESVFIGC
+     QQGIAAMKET GGSIINMASV SSWLPIEQYA GYSASKAAVS ALTRAAALSC RKQGYAIRVN
+     SIHPDGIYTP MMQASLPKGV SKEMVLHDPK LNRAGRAYMP ERIAQLVLFL ASDESSVMSG
+     SELHADNSIL GMGL
+//
+ID   4F2_RABIT               Reviewed;         529 AA.
+AC   Q7YQK3;
+DT   03-OCT-2006, integrated into UniProtKB/Swiss-Prot.
+DT   03-OCT-2006, sequence version 2.
+DT   14-APR-2009, entry version 39.
+DE   RecName: Full=4F2 cell-surface antigen heavy chain;
+DE            Short=4F2hc;
+DE   AltName: CD_antigen=CD98;
+GN   Name=SLC3A2;
+OS   Oryctolagus cuniculus (Rabbit).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha; Leporidae;
+OC   Oryctolagus.
+OX   NCBI_TaxID=9986;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND SUBUNIT.
+RC   TISSUE=Brain capillary;
+RX   MEDLINE=22503151; PubMed=12614332;
+RX   DOI=10.1046/j.1471-4159.2003.01622.x;
+RA   Boado R.J., Li J.Y., Pardridge W.M.;
+RT   "Site-directed mutagenesis of rabbit LAT1 at amino acids 219 and
+RT   234.";
+RL   J. Neurochem. 84:1322-1331(2003).
+RN   [2]
+RP   MUTAGENESIS OF CYS-110 AND CYS-332.
+RX   PubMed=16125134; DOI=10.1016/j.bbamem.2005.07.007;
+RA   Boado R.J., Li J.Y., Chu C., Ogoshi F., Wise P., Pardridge W.M.;
+RT   "Site-directed mutagenesis of cysteine residues of large neutral amino
+RT   acid transporter LAT1.";
+RL   Biochim. Biophys. Acta 1715:104-110(2005).
+CC   -!- FUNCTION: Required for the function of light chain amino-acid
+CC       transporters. Involved in sodium-independent, high-affinity
+CC       transport of large neutral amino acids such as phenylalanine,
+CC       tyrosine, leucine, arginine and tryptophan. Involved in guiding
+CC       and targeting of LAT1 and LAT2 to the plasma membrane. When
+CC       associated with SLC7A6 or SLC7A7 acts as an arginine/glutamine
+CC       exchanger, following an antiport mechanism for amino acid
+CC       transport, influencing arginine release in exchange for
+CC       extracellular amino acids. Plays a role in nitric oxide synthesis
+CC       in human umbilical vein endothelial cells (HUVECs) via transport
+CC       of L-arginine. Required for normal and neoplastic cell growth.
+CC       When associated with SLC7A5/LAT1, is also involved in the
+CC       transport of L-DOPA across the blood-brain barrier, and that of
+CC       thyroid hormones triiodothyronine (T3) and thyroxine (T4) across
+CC       the cell membrane in tissues such as placenta. Involved in the
+CC       uptake of methylmercury (MeHg) when administered as the L-cysteine
+CC       or D,L-homocysteine complexes, and hence plays a role in metal ion
+CC       homeostasis and toxicity. When associated with SLC7A5 or SLC7A8,
+CC       involved in the cellular activity of small molecular weight
+CC       nitrosothiols, via the stereoselective transport of L-
+CC       nitrosocysteine (L-CNSO) across the transmembrane. Together with
+CC       ICAM1, regulates the transport activity LAT2 in polarized
+CC       intestinal cells, by generating and delivering intracellular
+CC       signals. When associated with SLC7A5, plays an important role in
+CC       transporting L-leucine from the circulating blood to the retina
+CC       across the inner blood-retinal barrier.
+CC   -!- SUBUNIT: Disulfide-linked heterodimer of a glycosylated heavy
+CC       chain and a non-glycosylated light chain (SLC7A5, SLC7A6, SLCA7A7,
+CC       SLC7A8, SLC7A10 or SLCA7A11). Colocalizes with cadherins (By
+CC       similarity). Interacts with FAM57A/CT120. Interacts with ICAM1 (By
+CC       similarity). Constitutively and specifically associates with beta-
+CC       1 integrins (alpha-2/beta-1, alpha-3/beta-1, alpha-5/beta-1 and
+CC       alpha-6/beta-1), but minimally with alpha-4/beta-1 (By
+CC       similarity).
+CC   -!- SUBCELLULAR LOCATION: Apical cell membrane; Single-pass type II
+CC       membrane protein (By similarity). Melanosome (By similarity).
+CC       Note=Identified by mass spectrometry in melanosome fractions from
+CC       stage I to stage IV (By similarity). Localized to the plasma
+CC       membrane when associated with SLC7A5 or SLC7A8 (By similarity).
+CC       Localized to the placental apical membrane (By similarity).
+CC       Located selectively at cell-cell adhesion sites (By similarity).
+CC       Colocalized with SLC7A8/LAT2 at the basolateral membrane of kidney
+CC       proximal tubules and small intestine epithelia (By similarity).
+CC       Expressed in both luminal and abluminal membranes of brain
+CC       capillary endothelial cells (By similarity).
+CC   -!- SIMILARITY: Belongs to the SLC3A transporter family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF515773; AAP47190.1; ALT_INIT; mRNA.
+DR   RefSeq; NP_001076125.1; -.
+DR   UniGene; Ocu.3085; -.
+DR   SMR; Q7YQK3; 112-529.
+DR   CAZy; GH13; Glycoside Hydrolase Family 13.
+DR   GeneID; 100009363; -.
+DR   HOVERGEN; Q7YQK3; -.
+DR   GO; GO:0016324; C:apical plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016021; C:integral to membrane; IC:UniProtKB.
+DR   GO; GO:0042470; C:melanosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0043169; F:cation binding; IEA:InterPro.
+DR   GO; GO:0005515; F:protein binding; IPI:UniProtKB.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0015827; P:tryptophan transport; IDA:UniProtKB.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat.
+DR   InterPro; IPR013781; Glyco_hydro_sub_cat.
+DR   Gene3D; G3DSA:3.20.20.80; Glyco_hydro_cat; 1.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+PE   1: Evidence at protein level;
+KW   Amino-acid transport; Cell membrane; Disulfide bond; Glycoprotein;
+KW   Isopeptide bond; Membrane; Phosphoprotein; Signal-anchor;
+KW   Transmembrane; Transport; Ubl conjugation.
+FT   CHAIN         1    529       4F2 cell-surface antigen heavy chain.
+FT                                /FTId=PRO_0000252235.
+FT   TOPO_DOM      1     84       Cytoplasmic (Potential).
+FT   TRANSMEM     85    105       Signal-anchor for type II membrane
+FT                                protein (Potential).
+FT   TOPO_DOM    106    529       Extracellular (Potential).
+FT   MOD_RES       2      2       Phosphoserine (By similarity).
+FT   MOD_RES       5      5       Phosphothreonine (By similarity).
+FT   CARBOHYD    325    325       N-linked (GlcNAc...) (Potential).
+FT   DISULFID    110    110       Interchain (with light chain) (By
+FT                                similarity).
+FT   CROSSLNK     49     49       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin) (By
+FT                                similarity).
+FT   MUTAGEN     110    110       C->S: No effect on phenylalanine
+FT                                transport.
+FT   MUTAGEN     332    332       C->S: No effect on phenylalanine
+FT                                transport.
+SQ   SEQUENCE   529 AA;  57795 MW;  9ACBEA22D818BF6E CRC64;
+     MSQDTEVDMK EVELNELEPE KQPMNAASEA AVAMAVAGGA EKNGLVKIKV AEDEAEAAAK
+     FTGLSKEELL KVAGSPGWVR TRWALLLLFW LGWIGMLAGA VVIIVRAPRC RELPVQRWWH
+     KGALYRVGDL QAFQARDSGD LAGLKGHLDY LSTLKVKGLV LGPIHKNQED DVAGTNLQEI
+     NPAVGSKEEF DSFLQSAKKK SIRVILDLTP NYLGQNSWFL PTQVDLVATK VKDALNFWLQ
+     AGVDGFQVRD VGNLTNAALH LAEWRNITKS FSEDRLLIAG TESSDLHQIL SLLESTKDLL
+     LTSSYLSASG VSGENMKFLV TQYLNATDSH WCSWSLSQAG LLTSFVPAQL LRLYQLLLFT
+     LPGTPVFSYG DEIGLQAAAL PGEPAKAPVM LWDESSLPSA SVSANMTVKG QDEDSGSLLS
+     LFRRLSDQRG KERSLLHGDF HALSTGSNLF SYVRHWDQNE RFLVVLNFGD ESLSARLGAS
+     SLPAGASLPA RADLLLSTHP GREEGTSLAL EHLNLEPHEG LLLHFPYVA
+//
+ID   4HDB_CLOK5              Reviewed;         371 AA.
+AC   P38945; A5N1M6;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   03-MAR-2009, entry version 40.
+DE   RecName: Full=NAD-dependent 4-hydroxybutyrate dehydrogenase;
+DE            Short=4HBD;
+DE            EC=1.1.1.61;
+GN   Name=4hbD; OrderedLocusNames=CKL_3014;
+OS   Clostridium kluyveri (strain ATCC 8527 / DSM 555 / NCIMB 10680).
+OC   Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   Clostridium.
+OX   NCBI_TaxID=431943;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=96146540; PubMed=8550525;
+RA   Soehling B., Gottschalk G.;
+RT   "Molecular analysis of the anaerobic succinate degradation pathway in
+RT   Clostridium kluyveri.";
+RL   J. Bacteriol. 178:871-880(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18218779; DOI=10.1073/pnas.0711093105;
+RA   Seedorf H., Fricke W.F., Veith B., Brueggemann H., Liesegang H.,
+RA   Strittmatter A., Miethke M., Buckel W., Hinderberger J., Li F.,
+RA   Hagemeier C., Thauer R.K., Gottschalk G.;
+RT   "The genome of Clostridium kluyveri, a strict anaerobe with unique
+RT   metabolic features.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:2128-2133(2008).
+CC   -!- CATALYTIC ACTIVITY: 4-hydroxybutanoate + NAD(+) = succinate
+CC       semialdehyde + NADH.
+CC   -!- COFACTOR: Divalent cations.
+CC   -!- SIMILARITY: Belongs to the iron-containing alcohol dehydrogenase
+CC       family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L21902; AAA92348.1; -; Genomic_DNA.
+DR   EMBL; CP000673; EDK35022.1; -; Genomic_DNA.
+DR   RefSeq; YP_001396393.1; -.
+DR   GeneID; 5394465; -.
+DR   GenomeReviews; CP000673_GR; CKL_3014.
+DR   KEGG; ckl:CKL_3014; -.
+DR   BioCyc; MetaCyc:MON-13466; -.
+DR   GO; GO:0047577; F:4-hydroxybutyrate dehydrogenase activity; IEA:EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:InterPro.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:InterPro.
+DR   InterPro; IPR001670; ADH_Fe.
+DR   InterPro; IPR018211; ADH_Fe_CS.
+DR   Pfam; PF00465; Fe-ADH; 1.
+DR   PROSITE; PS00913; ADH_IRON_1; FALSE_NEG.
+DR   PROSITE; PS00060; ADH_IRON_2; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; NAD; Oxidoreductase.
+FT   CHAIN         1    371       NAD-dependent 4-hydroxybutyrate
+FT                                dehydrogenase.
+FT                                /FTId=PRO_0000087840.
+SQ   SEQUENCE   371 AA;  41756 MW;  8D4A8DCD94E252C4 CRC64;
+     MKLLKLAPDV YKFDTAEEFM KYFKVGKGDF ILTNEFLYKP FLEKFNDGAD AVFQEKYGLG
+     EPSDEMINNI IKDIGDKQYN RIIAVGGGSV IDIAKILSLK YTDDSLDLFE GKVPLVKNKE
+     LIIVPTTCGT GSEVTNVSVA ELKRRHTKKG IASDELYATY AVLVPEFIKG LPYKFFVTSS
+     VDALIHATEA YVSPNANPYT DMFSVKAMEL ILNGYMQMVE KGNDYRVEII EDFVIGSNYA
+     GIAFGNAGVG AVHALSYPIG GNYHVPHGEA NYLFFTEIFK TYYEKNPNGK IKDVNKLLAG
+     ILKCDESEAY DSLSQLLDKL LSRKPLREYG MKEEEIETFA DSVIEGQQRL LVNNYEPFSR
+     EDIVNTYKKL Y
+//
+ID   A16A1_BOVIN             Reviewed;         800 AA.
+AC   A6QR56;
+DT   15-JAN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   21-AUG-2007, sequence version 1.
+DT   10-FEB-2009, entry version 12.
+DE   RecName: Full=Aldehyde dehydrogenase family 16 member A1;
+GN   Name=ALDH16A1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Hereford; TISSUE=Ascending colon;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (JUL-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+CC   -!- CAUTION: The active site cysteine and glutamate residues are not
+CC       conserved in this protein. Its activity is therefore unsure.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BC150121; AAI50122.1; -; mRNA.
+DR   IPI; IPI00839810; -.
+DR   RefSeq; NP_001095339.1; -.
+DR   UniGene; Bt.20967; -.
+DR   Ensembl; ENSBTAG00000000330; Bos taurus.
+DR   GeneID; 506329; -.
+DR   KEGG; bta:506329; -.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   GO; GO:0008152; P:metabolic process; IEA:InterPro.
+DR   InterPro; IPR011408; ADH_dupl.
+DR   InterPro; IPR016163; Ald_DHase_C.
+DR   InterPro; IPR016160; Ald_DHase_CS.
+DR   InterPro; IPR016162; Ald_DHase_N.
+DR   InterPro; IPR015590; Aldehyde_DHase.
+DR   Gene3D; G3DSA:3.40.309.10; Aldehyde_dehydrogenase_C; 1.
+DR   Gene3D; G3DSA:3.40.605.10; Aldehyde_dehydrogenase_N; 2.
+DR   PANTHER; PTHR11699; Aldehyde_dehyd; 1.
+DR   Pfam; PF00171; Aldedh; 3.
+DR   PIRSF; PIRSF036490; Aldedh_dupl; 1.
+DR   PROSITE; PS00070; ALDEHYDE_DEHYDR_CYS; FALSE_NEG.
+DR   PROSITE; PS00687; ALDEHYDE_DEHYDR_GLU; FALSE_NEG.
+PE   2: Evidence at transcript level;
+FT   CHAIN         1    800       Aldehyde dehydrogenase family 16 member
+FT                                A1.
+FT                                /FTId=PRO_0000312985.
+SQ   SEQUENCE   800 AA;  85168 MW;  0FC45E8431D2CDA1 CRC64;
+     MAATRTASRA CEIFTTLEYG PAPESHACAL AWLDTQDRHL GHYVNGQWLK PEHRSSVPCQ
+     DPITGENLAS CLQAQSEDVA AAVEAARASL ENWSTQPGAI RAQHLTRLAK VIQKHQRLLW
+     TLESLVTGRA VREVRDRDVP LAQQLLQYHA VQAHTQEEAL AGWEPMGVIG LILSPTFPFL
+     DMMWRICPAL AVGCTVVVLV PPASPTPLLL AQLAGELGPF PGILNVISGP ASLGPVLAAQ
+     PGVQKVAFCG AIEEGRALRR TLAGWVPELG LALGAESLLL LTEVADVDSA VEGIVDAAWS
+     DRSPGGLRLL IQEAVWDETM RRLQERMGRL RCGHGLDGAV DMGARGAAAR DLAQRYVSEA
+     QSQGAQVFQA GSEPSDSPFF PPTLVSDLPP ASPCTQAEVP WPLVVASPFR TAKEALAVAN
+     GTPRGGSASV WSERLGQALE LAYGLQVGTV WINAHGLRDP AVPTGGCKES GSSWHGGQDG
+     LYEYLRPSGT PAWIPYLSKT LNYDAFGLAL PSTLPAGPET GPAPPYGLFV GGRFQAPGAR
+     SSRPIQDSQG SLQGYVAEGG AKDIRGAVEA AHQAAPGWMS QSPAARAALL WALAAALQRR
+     EPNLVSRLER HGVELKVAKA EVELSVKRLR AWGARVQAQG CALQVAELRG PVLRLREPLG
+     VLAIVCPDEW PLLAFVSLLA PALAHGNTVV LVPSGACPIP ALEVCQEMAT LLPAGLVNVV
+     TGDRDHLTRC LALHQDIQAL WYFGSAQGSQ FVEWASAGNL KPVWVNRGCP RAWDQEAEGA
+     GPELGRRAAR TKALWLPMGD
+//
+ID   A4_MACFA                Reviewed;         770 AA.
+AC   P53601; Q60HH7; Q95KN7;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   22-FEB-2003, sequence version 3.
+DT   24-MAR-2009, entry version 80.
+DE   RecName: Full=Amyloid beta A4 protein;
+DE   AltName: Full=Alzheimer disease amyloid A4 protein homolog;
+DE   AltName: Full=ABPP;
+DE            Short=APP;
+DE   Contains:
+DE     RecName: Full=Soluble APP-alpha;
+DE              Short=S-APP-alpha;
+DE   Contains:
+DE     RecName: Full=Soluble APP-beta;
+DE              Short=S-APP-beta;
+DE   Contains:
+DE     RecName: Full=C99;
+DE   Contains:
+DE     RecName: Full=Beta-amyloid protein 42;
+DE     AltName: Full=Beta-APP42;
+DE   Contains:
+DE     RecName: Full=Beta-amyloid protein 40;
+DE     AltName: Full=Beta-APP40;
+DE   Contains:
+DE     RecName: Full=C83;
+DE   Contains:
+DE     RecName: Full=P3(42);
+DE   Contains:
+DE     RecName: Full=P3(40);
+DE   Contains:
+DE     RecName: Full=Gamma-secretase C-terminal fragment 59;
+DE     AltName: Full=Gamma-CTF(59);
+DE   Contains:
+DE     RecName: Full=Gamma-secretase C-terminal fragment 57;
+DE     AltName: Full=Gamma-CTF(57);
+DE   Contains:
+DE     RecName: Full=Gamma-secretase C-terminal fragment 50;
+DE     AltName: Full=Gamma-CTF(50);
+DE   Contains:
+DE     RecName: Full=C31;
+DE   Flags: Precursor;
+GN   Name=APP; ORFNames=QccE-15949;
+OS   Macaca fascicularis (Crab eating macaque) (Cynomolgus monkey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+OX   NCBI_TaxID=9541;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS APP695 AND APP770).
+RC   TISSUE=Cerebellum;
+RX   MEDLINE=91273117; PubMed=1905108;
+RA   Podlisny M.B., Tolan D.R., Selkoe D.J.;
+RT   "Homology of the amyloid beta protein precursor in monkey and human
+RT   supports a primate model for beta amyloidosis in Alzheimer's
+RT   disease.";
+RL   Am. J. Pathol. 138:1423-1435(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Brain cortex;
+RA   Kusuda J., Osada N., Tanuma R., Hirata M., Sugano S., Hashimoto K.;
+RT   "Isolation and characterization of cDNA for macaque neurological
+RT   disease genes.";
+RL   Submitted (OCT-2003) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Functions as a cell surface receptor and performs
+CC       physiological functions on the surface of neurons relevant to
+CC       neurite growth, neuronal adhesion and axonogenesis. Involved in
+CC       cell mobility and transcription regulation through protein-protein
+CC       interactions (By similarity). Can promote transcription activation
+CC       through binding to APBB1/Tip60 and inhibit Notch signaling through
+CC       interaction with Numb (By similarity). Couples to apoptosis-
+CC       inducing pathways such as those mediated by G(O) and JIP (By
+CC       similarity). Inhibits G(o) alpha ATPase activity (By similarity).
+CC       Acts as a kinesin I membrane receptor, mediating the axonal
+CC       transport of beta-secretase and presenilin 1 (By similarity). May
+CC       be involved in copper homeostasis/oxidative stress through copper
+CC       ion reduction. In vitro, copper-metallated APP induces neuronal
+CC       death directly or is potentiated through Cu(2+)-mediated low-
+CC       density lipoprotein oxidation (By similarity). Can regulate
+CC       neurite outgrowth through binding to components of the
+CC       extracellular matrix such as heparin and collagen I and IV (By
+CC       similarity). The splice isoforms that contain the BPTI domain
+CC       possess protease inhibitor activity (By similarity).
+CC   -!- FUNCTION: Beta-amyloid peptides are lipophilic metal chelators
+CC       with metal-reducing activity. Bind transient metals such as
+CC       copper, zinc and iron (By similarity).
+CC   -!- FUNCTION: The gamma-CTF peptides as well as the caspase-cleaved
+CC       peptides, including C31, are potent enhancers of neuronal
+CC       apoptosis (By similarity).
+CC   -!- SUBUNIT: Binds, via its C-terminus, to the PID domain of several
+CC       cytoplasmic proteins, including APBB family members, the APBA
+CC       family, MAPK8IP1, and SHC1, Numb and Dab1 (By similarity). Binding
+CC       to Dab1 inhibits its serine phosphorylation (By similarity). Also
+CC       interacts with GPCR-like protein BPP, FPRL1, APPBP1, IB1, KNS2
+CC       (via its TPR domains) (By similarity), APPBP2 (via BaSS) and DDB1.
+CC       In vitro, it binds MAPT via the MT-binding domains (By
+CC       similarity). Associates with microtubules in the presence of ATP
+CC       and in a kinesin-dependent manner (By similarity). Interacts with
+CC       CPEB1 and ANKS1B (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Membrane; Single-pass type I membrane
+CC       protein (By similarity). Membrane, clathrin-coated pit (By
+CC       similarity). Note=Cell surface protein that rapidly becomes
+CC       internalized via clathrin-coated pits. During maturation, the
+CC       immature APP (N-glycosylated in the endoplasmic reticulum) moves
+CC       to the Golgi complex where complete maturation occurs (O-
+CC       glycosylated and sulfated). After alpha-secretase cleavage,
+CC       soluble APP is released into the extracellular space and the C-
+CC       terminal is internalized to endosomes and lysosomes. Some APP
+CC       accumulates in secretory transport vesicles leaving the late Golgi
+CC       compartment and returns to the cell surface. Gamma-CTF(59) peptide
+CC       is located to both the cytoplasm and nuclei of neurons (By
+CC       similarity).
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC         Comment=Additional isoforms seem to exist;
+CC       Name=APP770;
+CC         IsoId=P53601-1; Sequence=Displayed;
+CC       Name=APP695;
+CC         IsoId=P53601-2; Sequence=VSP_000010, VSP_000011;
+CC       Name=3;
+CC         IsoId=P53601-3; Sequence=VSP_013360, VSP_013361;
+CC   -!- DOMAIN: The basolateral sorting signal (BaSS) is required for
+CC       sorting of membrane proteins to the basolateral surface of
+CC       epithelial cells (By similarity).
+CC   -!- DOMAIN: The NPXY sequence motif found in many tyrosine-
+CC       phosphorylated proteins is required for the specific binding of
+CC       the PID domain. However, additional amino acids either N- or C-
+CC       terminal to the NPXY motif are often required for complete
+CC       interaction. The PID domain-containing proteins which bind APP
+CC       require the YENPTY motif for full interaction. These interactions
+CC       are independent of phosphorylation on the terminal tyrosine
+CC       residue. The NPXY site is also involved in clathrin-mediated
+CC       endocytosis (By similarity).
+CC   -!- PTM: Proteolytically processed under normal cellular conditions.
+CC       Cleavage by alpha-secretase or alternatively by beta-secretase
+CC       leads to generation and extracellular release of soluble APP
+CC       peptides, S-APP-alpha and S-APP-beta, respectively, and the
+CC       retention of corresponding membrane-anchored C-terminal fragments,
+CC       C83 and C99. Subsequent processing of C83 by gamma-secretase
+CC       yields P3 peptides. This is the major secretory pathway and is
+CC       non-amyloidogenic. Alternatively, presenilin/nicastrin-mediated
+CC       gamma-secretase processing of C99 releases the amyloid beta
+CC       proteins, amyloid-beta 40 (Abeta40) and amyloid-beta 42 (Abeta42),
+CC       major components of amyloid plaques, and the cytotoxic C-terminal
+CC       fragments, gamma-CTF(50), gamma-CTF(57) and gamma-CTF(59) (By
+CC       similarity).
+CC   -!- PTM: Proteolytically cleaved by caspases during neuronal apoptosis
+CC       (By similarity). Cleavage at Asp-739 by either caspase-3, -8 or -9
+CC       results in the production of the neurotoxic C31 peptide and the
+CC       increased production of beta-amyloid peptides (By similarity).
+CC   -!- PTM: N- and O-glycosylated (By similarity).
+CC   -!- PTM: Phosphorylation in the C-terminal on tyrosine, threonine and
+CC       serine residues is neuron-specific. Phosphorylation can affect APP
+CC       processing, neuronal differentiation and interaction with other
+CC       proteins (By similarity).
+CC   -!- MISCELLANEOUS: Chelation of metal ions, notably copper, iron and
+CC       zinc, can induce histidine-bridging between beta-amyloid molecules
+CC       resulting in beta-amyloid-metal aggregates (By similarity).
+CC       Extracellular zinc-binding increases binding of heparin to APP and
+CC       inhibits collagen-binding (By similarity).
+CC   -!- SIMILARITY: Belongs to the APP family.
+CC   -!- SIMILARITY: Contains 1 BPTI/Kunitz inhibitor domain.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M58726; AAA36828.1; -; mRNA.
+DR   EMBL; M58727; AAA36829.1; -; mRNA.
+DR   EMBL; AB125150; BAD51938.1; -; mRNA.
+DR   PIR; A49795; A49795.
+DR   HSSP; P08592; 1NMJ.
+DR   SMR; P53601; 28-123, 126-189, 287-342, 460-569.
+DR   MEROPS; I02.015; -.
+DR   HOVERGEN; P53601; -.
+DR   GO; GO:0005905; C:coated pit; IEA:UniProtKB-KW.
+DR   GO; GO:0016021; C:integral to membrane; IEA:InterPro.
+DR   GO; GO:0005507; F:copper ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008201; F:heparin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005506; F:iron ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005515; F:protein binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004867; F:serine-type endopeptidase inhibitor activity; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006915; P:apoptosis; IEA:UniProtKB-KW.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0006897; P:endocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0007219; P:Notch signaling pathway; IEA:UniProtKB-KW.
+DR   InterPro; IPR013803; Amyloid_glyco_Abeta.
+DR   InterPro; IPR008155; Amyloid_glyco_core.
+DR   InterPro; IPR011178; Amyloid_glyco_Cu-bd.
+DR   InterPro; IPR008154; Amyloid_glyco_extra.
+DR   InterPro; IPR015849; Amyloid_glyco_heparin-bd.
+DR   InterPro; IPR002223; Prot_inh_Kunz-m.
+DR   Gene3D; G3DSA:4.10.230.10; Amyloid_glyco_Abeta; 1.
+DR   Gene3D; G3DSA:3.30.1490.140; Amyloid_glyco_Cu-bd; 1.
+DR   Gene3D; G3DSA:3.90.570.10; Amyloid_glyco_heparin-bd; 1.
+DR   Gene3D; G3DSA:4.10.410.10; Prot_inh_Kunz-m; 1.
+DR   Pfam; PF02177; A4_EXTRA; 1.
+DR   Pfam; PF03494; Beta-APP; 1.
+DR   Pfam; PF00014; Kunitz_BPTI; 1.
+DR   PRINTS; PR00203; AMYLOIDA4.
+DR   PRINTS; PR00204; BETAAMYLOID.
+DR   ProDom; PD000222; Prot_Inh_Kunz-m; 1.
+DR   SMART; SM00006; A4_EXTRA; 1.
+DR   SMART; SM00131; KU; 1.
+DR   PROSITE; PS00319; A4_EXTRA; 1.
+DR   PROSITE; PS00320; A4_INTRA; 1.
+DR   PROSITE; PS00280; BPTI_KUNITZ_1; 1.
+DR   PROSITE; PS50279; BPTI_KUNITZ_2; 1.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Amyloid; Apoptosis; Cell adhesion; Coated pit;
+KW   Copper; Disulfide bond; Endocytosis; Glycoprotein; Heparin-binding;
+KW   Iron; Membrane; Metal-binding; Notch signaling pathway;
+KW   Phosphoprotein; Protease inhibitor; Proteoglycan;
+KW   Serine protease inhibitor; Signal; Transmembrane; Zinc.
+FT   SIGNAL        1     17       By similarity.
+FT   CHAIN        18    770       Amyloid beta A4 protein.
+FT                                /FTId=PRO_0000000101.
+FT   CHAIN        18    687       Soluble APP-alpha (Potential).
+FT                                /FTId=PRO_0000000102.
+FT   CHAIN        18    671       Soluble APP-beta (Potential).
+FT                                /FTId=PRO_0000000103.
+FT   CHAIN       672    770       C99 (Potential).
+FT                                /FTId=PRO_0000000104.
+FT   CHAIN       672    713       Beta-amyloid protein 42 (Potential).
+FT                                /FTId=PRO_0000000105.
+FT   CHAIN       672    711       Beta-amyloid protein 40 (Potential).
+FT                                /FTId=PRO_0000000106.
+FT   CHAIN       688    770       C83 (Potential).
+FT                                /FTId=PRO_0000000107.
+FT   PEPTIDE     688    713       P3(42) (Potential).
+FT                                /FTId=PRO_0000000108.
+FT   PEPTIDE     688    711       P3(40) (Potential).
+FT                                /FTId=PRO_0000000109.
+FT   CHAIN       712    770       Gamma-secretase C-terminal fragment 59
+FT                                (Potential).
+FT                                /FTId=PRO_0000000110.
+FT   CHAIN       714    770       Gamma-secretase C-terminal fragment 57
+FT                                (Potential).
+FT                                /FTId=PRO_0000000111.
+FT   CHAIN       721    770       Gamma-secretase C-terminal fragment 50
+FT                                (Potential).
+FT                                /FTId=PRO_0000000112.
+FT   CHAIN       740    770       C31 (Potential).
+FT                                /FTId=PRO_0000000113.
+FT   TOPO_DOM     18    699       Extracellular (Potential).
+FT   TRANSMEM    700    723       Potential.
+FT   TOPO_DOM    724    770       Cytoplasmic (Potential).
+FT   DOMAIN      291    341       BPTI/Kunitz inhibitor.
+FT   REGION       96    110       Heparin-binding (By similarity).
+FT   REGION      181    188       Zinc-binding (By similarity).
+FT   REGION      391    423       Heparin-binding (By similarity).
+FT   REGION      491    522       Heparin-binding (By similarity).
+FT   REGION      523    540       Collagen-binding (By similarity).
+FT   REGION      732    751       Interaction with G(o)-alpha (By
+FT                                similarity).
+FT   MOTIF       724    734       Basolateral sorting signal (By
+FT                                similarity).
+FT   MOTIF       759    762       NPXY motif; contains endocytosis signal.
+FT   COMPBIAS    230    260       Asp/Glu-rich (acidic).
+FT   COMPBIAS    274    280       Poly-Thr.
+FT   METAL       137    137       Copper (By similarity).
+FT   METAL       147    147       Copper (By similarity).
+FT   METAL       149    149       Copper (By similarity).
+FT   METAL       151    151       Copper (By similarity).
+FT   METAL       677    677       Copper or zinc (By similarity).
+FT   METAL       681    681       Copper or zinc (By similarity).
+FT   METAL       684    684       Copper or zinc (By similarity).
+FT   METAL       685    685       Copper or zinc (By similarity).
+FT   SITE        144    144       Required for Cu(2+) reduction (By
+FT                                similarity).
+FT   SITE        301    302       Reactive bond (By similarity).
+FT   SITE        671    672       Cleavage; by beta-secretase (By
+FT                                similarity).
+FT   SITE        672    673       Cleavage; by caspase-6 (By similarity).
+FT   SITE        687    688       Cleavage; by alpha-secretase (By
+FT                                similarity).
+FT   SITE        704    704       Implicated in free radical propagation
+FT                                (By similarity).
+FT   SITE        706    706       Susceptible to oxidation (By similarity).
+FT   SITE        711    712       Cleavage; by gamma-secretase; site 1 (By
+FT                                similarity).
+FT   SITE        713    714       Cleavage; by gamma-secretase; site 2 (By
+FT                                similarity).
+FT   SITE        720    721       Cleavage; by gamma-secretase; site 3 (By
+FT                                similarity).
+FT   SITE        739    740       Cleavage; by caspase-3, caspase-6,
+FT                                caspase-8 or caspase-9 (By similarity).
+FT   MOD_RES     198    198       Phosphoserine; by CK2 (By similarity).
+FT   MOD_RES     206    206       Phosphoserine; by CK1 (By similarity).
+FT   MOD_RES     729    729       Phosphothreonine (By similarity).
+FT   MOD_RES     730    730       Phosphoserine; by APP-kinase I (By
+FT                                similarity).
+FT   MOD_RES     743    743       Phosphothreonine; by CDK5 and MAPK10 (By
+FT                                similarity).
+FT   MOD_RES     757    757       Phosphotyrosine (By similarity).
+FT   MOD_RES     762    762       Phosphotyrosine (By similarity).
+FT   CARBOHYD    542    542       N-linked (GlcNAc...) (Probable).
+FT   CARBOHYD    571    571       N-linked (GlcNAc...) (Probable).
+FT   DISULFID    291    341       By similarity.
+FT   DISULFID    300    324       By similarity.
+FT   DISULFID    316    337       By similarity.
+FT   VAR_SEQ     289    289       E -> V (in isoform APP695).
+FT                                /FTId=VSP_000010.
+FT   VAR_SEQ     290    345       Missing (in isoform APP695).
+FT                                /FTId=VSP_000011.
+FT   VAR_SEQ     345    345       M -> I (in isoform 3).
+FT                                /FTId=VSP_013360.
+FT   VAR_SEQ     346    364       Missing (in isoform 3).
+FT                                /FTId=VSP_013361.
+FT   CONFLICT    464    464       M -> T (in Ref. 2; BAD51938).
+SQ   SEQUENCE   770 AA;  87072 MW;  55712A39152690F6 CRC64;
+     MLPGLALLLL AAWTARALEV PTDGNAGLLA EPQIAMFCGR LNMHMNVQNG KWDSDPSGTK
+     TCIDTKEGIL QYCQEVYPEL QITNVVEANQ PVTIQNWCKR GRKQCKTHPH FVIPYRCLVG
+     EFVSDALLVP DKCKFLHQER MDVCETHLHW HTVAKETCSE KSTNLHDYGM LLPCGIDKFR
+     GVEFVCCPLA EESDNVDSAD AEEDDSDVWW GGADTDYADG SEDKVVEVAE EEEVAEVEEE
+     EADDDEDDED GDEVEEEAEE PYEEATERTT SIATTTTTTT ESVEEVVREV CSEQAETGPC
+     RAMISRWYFD VTEGKCAPFF YGGCGGNRNN FDTEEYCMAV CGSVMSQSLR KTTREPLTRD
+     PVKLPTTAAS TPDAVDKYLE TPGDENEHAH FQKAKERLEA KHRERMSQVM REWEEAERQA
+     KNLPKADKKA VIQHFQEKVE SLEQEAANER QQLVETHMAR VEAMLNDRRR LALENYITAL
+     QAVPPRPRHV FNMLKKYVRA EQKDRQHTLK HFEHVRMVDP KKAAQIRSQV MTHLRVIYER
+     MNQSLSLLYN VPAVAEEIQD EVDELLQKEQ NYSDDVLANM ISEPRISYGN DALMPSLTET
+     KTTVELLPVN GEFSLDDLQP WHSFGADSVP ANTENEVEPV DARPAADRGL TTRPGSGLTN
+     IKTEEISEVK MDAEFRHDSG YEVHHQKLVF FAEDVGSNKG AIIGLMVGGV VIATVIVITL
+     VMLKKKQYTS IHHGVVEVDA AVTPEERHLS KMQQNGYENP TYKFFEQMQN
+//
+ID   ABA2_ARATH              Reviewed;         285 AA.
+AC   Q9C826;
+DT   03-APR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   10-FEB-2009, entry version 49.
+DE   RecName: Full=Xanthoxin dehydrogenase;
+DE            EC=1.1.1.288;
+DE   AltName: Full=Xanthoxin oxidase;
+DE   AltName: Full=Short-chain alcohol dehydrogenase ABA2;
+DE   AltName: Full=Protein GLUCOSE INSENSITIVE 1;
+DE   AltName: Full=Protein IMPAIRED SUCROSE INDUCTION 4;
+DE   AltName: Full=Protein SALOBRENO 3;
+DE   AltName: Full=Protein SUGAR INSENSITIVE 4;
+DE   AltName: Full=Protein SALT RESISTANT 1;
+GN   Name=ABA2; Synonyms=GIN1, ISI4, SAN3, SDR1, SIS4, SRE1;
+GN   OrderedLocusNames=At1g52340; ORFNames=F19K6.3;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+OC   rosids; eurosids II; Brassicales; Brassicaceae; Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   MEDLINE=21016719; PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   MEDLINE=22954850; PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA], MUTAGENESIS OF ALA-45;
+RP   ARG-145; GLY-162 AND SER-264, TISSUE SPECIFICITY, SUBCELLULAR
+RP   LOCATION, INDUCTION, AND FUNCTION.
+RC   STRAIN=cv. Columbia;
+RX   MEDLINE=22305397; PubMed=12417697; DOI=10.1105/tpc.006494;
+RA   Cheng W.-H., Endo A., Zhou L., Penney J., Chen H.-C., Arroyo A.,
+RA   Leon P., Nambara E., Asami T., Seo M., Koshiba T., Sheen J.;
+RT   "A unique short-chain dehydrogenase/reductase in Arabidopsis glucose
+RT   signaling and abscisic acid biosynthesis and functions.";
+RL   Plant Cell 14:2723-2743(2002).
+RN   [4]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=9159947; DOI=10.1104/pp.114.1.161;
+RA   Schwartz S.H., Leon-Kloosterziel K.M., Koornneef M., Zeevaart J.A.;
+RT   "Biochemical characterization of the aba2 and aba3 mutants in
+RT   Arabidopsis thaliana.";
+RL   Plant Physiol. 114:161-166(1997).
+RN   [5]
+RP   IDENTIFICATION.
+RX   PubMed=9707641; DOI=10.1073/pnas.95.17.10294;
+RA   Zhou L., Jang J.-C., Jones T.L., Sheen J.;
+RT   "Glucose and ethylene signal transduction crosstalk revealed by an
+RT   Arabidopsis glucose-insensitive mutant.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:10294-10299(1998).
+RN   [6]
+RP   IDENTIFICATION, AND MUTAGENESIS OF ALA-236.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11439129; DOI=10.1046/j.1365-313X.2001.2641043.x;
+RA   Rook F., Corke F., Card R., Munz G., Smith C., Bevan M.W.;
+RT   "Impaired sucrose-induction mutants reveal the modulation of sugar-
+RT   induced starch biosynthetic gene expression by abscisic acid
+RT   signalling.";
+RL   Plant J. 26:421-433(2001).
+RN   [7]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, INDUCTION, TISSUE
+RP   SPECIFICITY, AND MUTAGENESIS OF GLY-28; SER-176 AND SER-264.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=12172025; DOI=10.1105/tpc.002477;
+RA   Gonzalez-Guzman M., Apostolova N., Belles J.M., Barrero J.M.,
+RA   Piqueras P., Ponce M.R., Micol J.L., Serrano R., Rodriguez P.L.;
+RT   "The short-chain alcohol dehydrogenase ABA2 catalyzes the conversion
+RT   of xanthoxin to abscisic aldehyde.";
+RL   Plant Cell 14:1833-1846(2002).
+CC   -!- FUNCTION: Involved in the biosynthesis of abscisic acid.
+CC   -!- CATALYTIC ACTIVITY: Xanthoxin + NAD(+) = abscisic aldehyde + NADH.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=19 uM for xanthoxin;
+CC         KM=10 mM for 3,5,5'-trimethylcyclohexanol;
+CC         Note=no activity with xanthoxic acid, ethanol, isopropanol,
+CC         butanol, cyclohexanol and 2,6-dimethylcyclohexanol;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- TISSUE SPECIFICITY: Predominantly in roots and stems, and at lower
+CC       levels in leaves and seeds.
+CC   -!- INDUCTION: Constitutively expressed and not up regulated by
+CC       osmotic stress.
+CC   -!- MISCELLANEOUS: The biological substrate is probably 2-cis,4-trans-
+CC       xanthoxin.
+CC   -!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+CC       (SDR) family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC037424; AAG51536.1; -; Genomic_DNA.
+DR   EMBL; BT003412; AAO30075.1; -; mRNA.
+DR   EMBL; AY099603; AAM20454.1; -; mRNA.
+DR   EMBL; AY082344; AAL99237.1; -; mRNA.
+DR   EMBL; AY082345; AAL99238.1; -; Genomic_DNA.
+DR   IPI; IPI00534478; -.
+DR   PIR; F96563; F96563.
+DR   RefSeq; NP_175644.1; -.
+DR   UniGene; At.37618; -.
+DR   HSSP; P29132; 1DFI.
+DR   PRIDE; Q9C826; -.
+DR   GeneID; 841665; -.
+DR   GenomeReviews; CT485782_GR; AT1G52340.
+DR   KEGG; ath:AT1G52340; -.
+DR   NMPDR; fig|3702.1.peg.4716; -.
+DR   TAIR; At1g52340; -.
+DR   BioCyc; MetaCyc:AT1G52340-MON; -.
+DR   BRENDA; 1.1.1.288; 302.
+DR   ArrayExpress; Q9C826; -.
+DR   GO; GO:0005829; C:cytosol; IDA:TAIR.
+DR   GO; GO:0005488; F:binding; IEA:InterPro.
+DR   GO; GO:0010301; F:xanthoxin dehydrogenase activity; IEA:EC.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   GO; GO:0006561; P:proline biosynthetic process; IMP:TAIR.
+DR   GO; GO:0010115; P:regulation of abscisic acid biosynthetic pr...; IMP:TAIR.
+DR   GO; GO:0009408; P:response to heat; IMP:TAIR.
+DR   GO; GO:0009414; P:response to water deprivation; IMP:TAIR.
+DR   GO; GO:0010182; P:sugar mediated signaling; TAS:TAIR.
+DR   InterPro; IPR002198; DHase_sc/Rdtase_SDR.
+DR   InterPro; IPR002347; Glc/ribitol_DHase.
+DR   InterPro; IPR016040; NAD(P)-bd.
+DR   Gene3D; G3DSA:3.40.50.720; NAD(P)-bd; 1.
+DR   PANTHER; PTHR19410; ADH_short_C2; 1.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR00081; GDHRDH.
+DR   PRINTS; PR00080; SDRFAMILY.
+DR   PROSITE; PS00061; ADH_SHORT; FALSE_NEG.
+PE   1: Evidence at protein level;
+KW   Abscisic acid biosynthesis; Complete proteome; Cytoplasm; NAD;
+KW   Oxidoreductase.
+FT   CHAIN         1    285       Xanthoxin dehydrogenase.
+FT                                /FTId=PRO_0000282347.
+FT   MUTAGEN      28     28       G->R: In aba2-12/sre1-2; reduced absicic
+FT                                acid synthesis.
+FT   MUTAGEN      45     45       A->V: In aba2-4/sis4-2; reduced absicic
+FT                                acid synthesis.
+FT   MUTAGEN     145    145       R->C: In gin1-2; reduced absicic acid
+FT                                synthesis.
+FT   MUTAGEN     162    162       G->R: In aba2-3/sis4-1; reduced absicic
+FT                                acid synthesis.
+FT   MUTAGEN     176    176       S->F: In aba2-13/san3-1; reduced absicic
+FT                                acid synthesis.
+FT   MUTAGEN     236    236       A->V: In isi4; reduced absicic acid
+FT                                synthesis.
+FT   MUTAGEN     264    264       S->N: In aba2-1; reduced absicic acid
+FT                                synthesis.
+SQ   SEQUENCE   285 AA;  30272 MW;  8B555DAED7386DF4 CRC64;
+     MSTNTESSSY SSLPSQRLLG KVALITGGAT GIGESIVRLF HKHGAKVCIV DLQDDLGGEV
+     CKSLLRGESK ETAFFIHGDV RVEDDISNAV DFAVKNFGTL DILINNAGLC GAPCPDIRNY
+     SLSEFEMTFD VNVKGAFLSM KHAARVMIPE KKGSIVSLCS VGGVVGGVGP HSYVGSKHAV
+     LGLTRSVAAE LGQHGIRVNC VSPYAVATKL ALAHLPEEER TEDAFVGFRN FAAANANLKG
+     VELTVDDVAN AVLFLASDDS RYISGDNLMI DGGFTCTNHS FKVFR
+//

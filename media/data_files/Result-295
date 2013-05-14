@@ -1,0 +1,117 @@
+OMIM NO
+600063
+TITLE
+*600063 TROVE DOMAIN FAMILY, MEMBER 2; TROVE2
+;;AUTOANTIGEN Ro/SSA, 60-KD; RO60;;
+SJOGREN SYNDROME ANTIGEN A2; SSA2
+TEXT
+
+CLONING
+
+The cDNA that encodes the 60-kD Ro/SSA autoantigen recognized by
+autoantibodies in certain lupus erythematosus (152700) and Sjogren
+syndrome (270150) sera was cloned and sequenced by Deutscher et al.
+(1988) and confirmed with minor differences by Ben-Chetrit et al.
+(1989).
+
+GENE FUNCTION
+
+Ro autoantigens are of clinical significance because antibodies directed
+against them are found in most patients with primary Sjogren syndrome,
+subacute cutaneous lupus erythematosus, neonatal lupus erythematosus,
+ANA-negative lupus erythematosus, and systemic lupus erythematosus-like
+disease secondary to homozygous C2 or C4 complement deficiency (217000).
+Ro antibody is a frequent cause of congenital heart block (234700).
+Alspaugh and Tan (1975) described 3 types of precipitating antibodies in
+the serum of Sjogren patients; they designated the 3 types as SS-A,
+SS-B, and SS-C. SS-A antibodies were later shown to be immunologically
+equivalent to the Ro antibodies. Hartung et al. (1992) found that the
+presence of Ro antibody was strongly associated with HLA type DR3. La
+antibodies (109090) showed the same association.
+
+MAPPING
+
+Frank and Mattei (1994) used in situ hybridization to demonstrate that
+the RO60 gene maps to 1q31-q32.1 in the same region as the genes for
+regulators of complement activation, e.g., CR1 (120620). By fluorescence
+in situ hybridization, Chan et al. (1994) mapped the SSA2 gene to 1q31.
+The gene encoding the 52-kD Ro/SSA autoantigen (SSA1; 109092) maps to
+11p15.5.
+
+ANIMAL MODEL
+
+Antibodies against a conserved RNA-binding protein, the Ro60-kD
+autoantigen, occur in 24 to 60% of all patients with systemic lupus
+erythematosus (152700). Anti-Ro antibodies are correlated with
+photosensitivity and cutaneous lesions in these patients and with
+neonatal lupus, a syndrome in which mothers with anti-Ro antibodies give
+birth to children with complete congenital heart block (see 234700) and
+photosensitive skin lesions. In higher eukaryotes, the Ro protein binds
+small RNAs of unknown function known as Y RNAs. Because the Ro protein
+also binds misfolded 5S rRNA precursors, it may function in a
+quality-control pathway for ribosome biogenesis. Consistent with a role
+in the recognition or repair of intracellular damage, an ortholog of Ro
+in the radiation-resistant eubacterium Deinococcus radiodurans
+contributes to survival of this bacterium after UV irradiation. Xue et
+al. (2003) showed that mice lacking the Ro protein develop an autoimmune
+syndrome characterized by anti-ribosome antibodies, antichromatin
+antibodies, and glomerulonephritis. Moreover, in one strain background,
+Ro -/- mice displayed increased sensitivity to irradiation with UV
+light. Thus, one function of this major human autoantigen may be to
+protect against autoantibody development, possibly by sequestering
+defective ribonucleoproteins from immune surveillance. Furthermore, the
+finding that mice lacking the Ro protein are photosensitive suggests
+that loss of Ro function could contribute to the photosensitivity
+associated with anti-Ro antibodies in humans.
+
+REFERENCES
+1. Alspaugh, M. A.; Tan, E. M.: Antibodies to cellular antigens in
+Sjogren's syndrome. J. Clin. Invest. 55: 1067-1073, 1975.
+
+2. Ben-Chetrit, E.; Gandy, B. J.; Tan, E. M.; Sullivan, K. F.: Isolation
+and characterization of a cDNA clone encoding the 60-kD component
+of the human SS-A/Ro ribonucleoprotein autoantigen. J. Clin. Invest. 83:
+1284-1292, 1989.
+
+3. Chan, E. K. L.; Tan, E. M.; Ward, D. C.; Matera, A. G.: Human
+60-kDa SS-A/Ro ribonucleoprotein autoantigen gene (SSA2) localized
+to 1q31 by fluorescence in situ hybridization. Genomics 23: 298-300,
+1994.
+
+4. Deutscher, S. L.; Harley, J. B.; Keene, J. D.: Molecular analysis
+of the 60-kDa human Ro ribonucleoprotein. Proc. Nat. Acad. Sci. 85:
+9479-9483, 1988.
+
+5. Frank, M. B.; Mattei, M.-G.: Mapping of the human 60000 M(r) Ro/SSA
+locus: the genes for three Ro/SSA autoantigens are located on separate
+chromosomes. Immunogenetics 39: 428-431, 1994.
+
+6. Hartung, K.; Ehrfeld, H.; Lakomek, H. J.; Coldewey, R.; Lang, B.;
+Krapf, F.; Muller, R.; Schendel, D.; Deicher, H.; Seelig, H. P.; the
+members of the SLE Study Group: The genetic basis of Ro and La antibody
+formation in systemic lupus erythematosus: results of a multicenter
+study. Rheum. Int. 11: 243-249, 1992.
+
+7. Xue, D.; Shi, H.; Smith, J. D.; Chen, X.; Noe, D. A.; Cedervall,
+T.; Yang, D. D.; Eynon, E.; Brash, D. E.; Kashgarian, M.; Flavell,
+R. A.; Wolin, S. L.: A lupus-like syndrome develops in mice lacking
+the Ro 60-kDa protein, a major lupus autoantigen. Proc. Nat. Acad.
+Sci. 100: 7503-7508, 2003.
+
+CONTRIBUTORS
+Victor A. McKusick - updated: 7/1/2003
+
+CREATION DATE
+Victor A. McKusick: 7/28/1994
+
+EDIT HISTORY
+wwang: 02/26/2007
+alopez: 7/3/2003
+terry: 7/1/2003
+mimadm: 9/23/1995
+carol: 11/30/1994
+terry: 11/7/1994
+mimadm: 7/30/1994
+
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB001402</LOCUS>
+<LENGTH>81</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>VRL</DIVISION>
+<LAST_UPDATE>21-JUL-2007</LAST_UPDATE>
+
+<DEFINITION>Hepatitis C virus gene for E2 protein, partial cds, clone: F2.</DEFINITION>
+<ACCESSION>AB001402</ACCESSION>
+<VERSION>AB001402.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Hepatitis C virus</SOURCE>
+<ORGANISM>Hepatitis C virus</ORGANISM>
+<TAXONOMY>Viruses; ssRNA positive-strand viruses, no DNA stage;Flaviviridae; Hepacivirus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Esumi,M.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (22-FEB-1997) to the DDBJ/EMBL/GenBank databases.Contact:Mariko EsumiNihon University School of Medicine, Department of  Pathology;Oyaguchikami-machi 30-1, Itabashi-ku, Tokyo 173-8610, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Mizuno,M., Higuchi,T., Kanmatsuse,K. and Esumi,M.</authors>
+     <title>Genetic and serological evidence for multiple instances ofunrecognized transmission of hepatitis C virus in hemodialysisunits</title>
+     <journal>J. Clin. Microbiol. 36, 2926-2931 (1998)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..81</location>
+     <qualifiers name="clone">F2</qualifiers>
+     <qualifiers name="db_xref">taxon:11103</qualifiers>
+     <qualifiers name="mol_type">genomic RNA</qualifiers>
+     <qualifiers name="organism">Hepatitis C virus</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..&gt;81</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="note">hypervariable region</qualifiers>
+     <qualifiers name="product">E2 region</qualifiers>
+     <qualifiers name="protein_id">BAA35041.1</qualifiers>
+     <qualifiers name="translation">ETKTFGGAAATTTSGFTSLFTLGSRQN</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="         19 " C="         25 " G="         22 " T="         15 "/>
+<SEQUENCE>gagaccaaaacattcgggggggcggctgccactaccaccagcgggttcacgtccctctttacacttgggtcacgacagaat</SEQUENCE>
+</DDBJXML>

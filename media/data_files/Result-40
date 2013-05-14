@@ -1,0 +1,45 @@
+ID   A0B5S3_METTP            Unreviewed;       132 AA.
+AC   A0B5S3;
+DT   28-NOV-2006, integrated into UniProtKB/TrEMBL.
+DT   28-NOV-2006, sequence version 1.
+DT   05-MAY-2009, entry version 16.
+DE   SubName: Full=Protein tyrosine phosphatase;
+GN   OrderedLocusNames=Mthe_0250;
+OS   Methanosaeta thermophila (strain DSM 6194 / PT) (Methanothrix
+OS   thermophila (strain DSM 6194 / PT)).
+OC   Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales;
+OC   Methanosaetaceae; Methanosaeta.
+OX   NCBI_TaxID=349307;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C.,
+RA   Glavina del Rio T., Hammon N., Israni S., Pitluck S., Chain P.,
+RA   Malfatti S., Shin M., Vergez L., Schmutz J., Larimer F., Land M.,
+RA   Hauser L., Kyrpides N., Kim E., Smith K.S., Ingram-Smith C.,
+RA   Richardson P.;
+RT   "Complete sequence of Methanosaeta thermophila PT.";
+RL   Submitted (OCT-2006) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000477; ABK14047.1; -; Genomic_DNA.
+DR   RefSeq; YP_842687.1; -.
+DR   GeneID; 4462073; -.
+DR   GenomeReviews; CP000477_GR; Mthe_0250.
+DR   KEGG; mtp:Mthe_0250; -.
+DR   NMPDR; fig|349307.7.peg.257; -.
+DR   OMA; A0B5S3; DVHSAGT.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; IEA:InterPro.
+DR   GO; GO:0006470; P:protein amino acid dephosphorylation; IEA:InterPro.
+DR   InterPro; IPR017867; Tyr_phospatase_low_mol_wt.
+DR   PANTHER; PTHR11717; Low_mwt_PTPase; 1.
+DR   Pfam; PF01451; LMWPc; 1.
+DR   SMART; SM00226; LMWPc; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   132 AA;  14678 MW;  5D79F4FB4A8168B1 CRC64;
+     MFSTQSLMKK RVLFVCVHNS ARSQMAEALL RALKGDNYEA YSAGIEPTEV DPNAVSAMAE
+     IGIDISEQRS KGLDSMRDIH FDTIVTLCDA ADSCPYIPGV HMHRAFPDPA GGGINAFRRV
+     RDDIKRWIED TF
+//

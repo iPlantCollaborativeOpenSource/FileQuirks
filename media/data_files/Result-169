@@ -1,0 +1,60 @@
+ID   AB002431 IMGT/LIGM annotation : keyword level; RNA; ROD; 45 BP.
+XX
+AC   AB002431;
+XX
+DT   23-FEB-1998 (Rel. 8, arrived in LIGM-DB )
+DT   05-APR-2002 (Rel. 200214-5, Last updated, Version 3)
+XX
+DE   Mus musculus mRNA for TCR beta chain, partial cds.  ;
+DE   RNA; rearranged configuration; TcR-Beta; regular; group TRBV. 
+XX
+KW   antigen receptor; Immunoglobulin superfamily (IgSF); 
+KW   T cell receptor (TR); TR-Alpha_Beta; TR-Beta; variable; diversity; 
+KW   joining; cDNA; rearranged. 
+XX
+OS   Mus musculus (house mouse)
+OC   cellular organisms; Eukaryota; Fungi/Metazoa group; Metazoa; Eumetazoa; 
+OC   Bilateria; Coelomata; Deuterostomia; Chordata; Craniata; Vertebrata; 
+OC   Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Tetrapoda; 
+OC   Amniota; Mammalia; Theria; Eutheria; Euarchontoglires; Glires; 
+OC   Rodentia; Sciurognathi; Muroidea; Muridae; Murinae; Mus. 
+XX
+RN   [1]
+RP   1-45
+RA   Kimoto M.;
+RT   ;
+RL   Submitted (29-MAR-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Masao Kimoto, Saga Medical School, Department of Immunology; Nabeshima
+RL   5-1-1, Saga, Saga 849-8501, Japan (E-mail:kimoto@post.saga-med.ac.jp,
+RL   Tel:0952-34-2255, Fax:0952-34-2049)
+XX
+RN   [2]
+RA   Fukuoka M., Tokushima M., Koarada S., Sai T., Miyake K., Kimoto M.;
+RT   "Analysis of Vbeta4 T cell receptor CDR3 repertoire in BALB/c and (NZB x
+RT   NZW)F1 mice";
+RL   Immunol. Lett. 59:63-69(1997).
+XX
+DR   REMTREMBL; BAA23976; BAA23976
+DR   EMBL; AB002431.
+XX
+FH   Key             Location/Qualifiers (from EMBL) 
+FH   
+FT   source          1..45
+FT                   /db_xref="taxon:10090"
+FT                   /sequenced_mol="cDNA to mRNA"
+FT                   /sex="female"
+FT                   /organism="Mus musculus"
+FT                   /dev_stage="6 month old"
+FT                   /strain="NZB x NZWF1"
+FT                   /tissue_type="spleen"
+FT   CDS             <1..>45
+FT                   /codon_start=1
+FT                   /db_xref="REMTREMBL:BAA23976"
+FT                   /transl_table=1
+FT                   /product="TCR beta chain"
+FT                   /protein_id="BAA23976.1"
+FT                   /translation="CASSHGLGTETLYFG"
+XX
+SQ   Sequence 45 BP; 10 A; 10 C; 15 G; 10 T; 0 other;
+     tgtgccagca gccatggact ggggacagaa acgctgtatt ttggc                        45
+//

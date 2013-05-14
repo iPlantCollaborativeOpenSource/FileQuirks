@@ -1,0 +1,37 @@
+LOCUS       BAA19011.1               584 aa    PRT              VRL 05-FEB-1999
+DEFINITION  Feline parvovirus capsid protein 2 protein.
+ACCESSION   AB000050-1
+PROTEIN_ID  BAA19011.1
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline parvovirus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1  (bases 1 to 1755)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Motohiro Horiuchi
+            Obihiro University of Agriculture and Veterinary Medicine,
+            Veterinary Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+REFERENCE   2  (bases 1 to 1755)
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopenia virus differs from
+            that of canine parvovirus
+  JOURNAL   Unpublished (1997)
+COMMENT     
+FEATURES             Qualifiers
+     source          /isolate="94-1"
+                     /lab_host="Felis domesticus"
+                     /mol_type="genomic DNA"
+                     /organism="Feline panleukopenia virus"
+BEGIN
+        1 MSDGAVQPDG GQPAVRNERA TGSGNGSGGG GGGGSGGVGI STGTFNNQTE FKFLENGWVE
+       61 ITANSSRLVH LNMPESENYK RVVVNNMDKT AVKGNMALDD THVQIVTPWS LVDANAWGVW
+      121 FNPGDWQLIV NTMSELHLVS FEQEIFNVVL KTVSESATQP PTKVYNNDLT ASLMVALDSN
+      181 NTMPFTPAAM RSETLGFYPW KPTIPTPWRY YFQWDRTLIP SHTGTSGTPT NVYHGTDPDD
+      241 VQFYTIENSV PVHLLRTGDE FATGTFFFDC KPCRLTHTWQ TNRALGLPPF LNSLPQSEGA
+      301 TNFGDIGVQQ DKRRGVTQMG NTDYITEATI MRPAEVGYSA PYYSFEASTQ GPFKTPIAAG
+      361 RGGAQTDENQ AADGDPRYAF GRQHGQKTTT TGETPERFTY IAHQDTGRYP EGDWIQNINF
+      421 NLPVTNDNVL LPTDPIGGKT GINYTNIFNT YGPLTALNNV PPVYPNGQIW DKEFDTDLKP
+      481 RLHVNAPFVC QNNCPGQLFV KVAPNLTNEY DPDASANMSR IVTYSDFWWK GKLVFKAKLR
+      541 ASHTWNPIQQ MSINVDNQFN YVPNNIGAMK IVYEKSQLAP RKLY
+//

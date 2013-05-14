@@ -1,0 +1,39 @@
+LOCUS       BAA19012.1               668 aa    PRT              VRL 05-FEB-1999
+DEFINITION  Feline parvovirus nonstructural protein 1 protein.
+ACCESSION   AB000051-1
+PROTEIN_ID  BAA19012.1
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline parvovirus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1  (bases 1 to 2007)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Motohiro Horiuchi
+            Obihiro University of Agriculture and Veterinary Medicine,
+            Veterinary Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+REFERENCE   2  (bases 1 to 2007)
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopeina virus differs from
+            that of canine parvovirus
+  JOURNAL   Unpublished (1997)
+COMMENT     
+FEATURES             Qualifiers
+     source          /isolate="AO1"
+                     /lab_host="Felis domesticus"
+                     /mol_type="genomic DNA"
+                     /organism="Feline panleukopenia virus"
+BEGIN
+        1 MSGNQYTEEV MEGVNWLKKH AENEAFSFVF KCDNVQLNGK DVRWNNYTKP IQNEELTSLI
+       61 RGAQTAMDQT EEEEMDWESE VDSLAKKQVQ TFDALIKKCL FEVFVSKNIE PNECVWFIQH
+      121 EWGKDQGWHC HVLLHSKNLQ QATGKWLRRQ MNMYWSRWLV TLCSVNLTPT EKIKLREIAE
+      181 DSEWVTILTY RHKQTKKDYV KMVHFGNMIA YYFLTKKKIV HMTKESGYFL STDSGWKFNF
+      241 MKYQDRHTVS TLYTEQMKPE TVETTVTTAQ ETKRGRIQTK KEVSIKCTLR DLVSKRVTSP
+      301 EDWMMLQPDS YIEMMAQPGG ENLLKNTLEI CTLTLARTKT AFELILEKAD NTKLTNFDLA
+      361 NSRTCQIFRM HGWNWIKVCH AIACVLNRQG GKRNTVLFHG PASTGKSIIA QAIAQAVGNV
+      421 GCYNAANVNF PFNDCTNKNL IWIEEAGNFG QQVNQFKAIC SGQTIRIDQK GKGSKQIEPT
+      481 PVIMTTNENI TIVRIGCEER PEHTQPIRDR MLNIKLVCKL PGDFGLVDKE EWPLICAWLV
+      541 KHGYQSTMAN YTHHWGKVPE WDENWAEPKI QEGINSPGCK DLETEAASNP QSQDHVLTPL
+      601 TPDVVDLALE PWSTPDTPIA ETANQQSNQL GVTHKDVQAS PTWSEIEADL RAIFTSEQLE
+      661 EDFRDDLD
+//

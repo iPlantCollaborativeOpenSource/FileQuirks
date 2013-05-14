@@ -1,0 +1,67 @@
+LOCUS       MMU89992     1285 bp    mRNA            ROD       03-JUN-1997
+DEFINITION  Mus musculus lymphocyte-specific adaptor protein Lnk (Lnk) mRNA,
+            complete cds.
+ACCESSION   U89992
+NID         g2149597
+VERSION     U89992.1
+KEYWORDS    .
+SOURCE      house mouse.
+  ORGANISM  Mus musculus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae;
+            Mus.
+REFERENCE   1  (bases 1 to 1285)
+  AUTHORS   Takaki,S. and Perlmutter,R.M.
+  TITLE     Characterization of Lnk: a lymphocyte-specific adaptor protein
+            implicated in antigen receptor signaling
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1285)
+  AUTHORS   Takaki,S. and Perlmutter,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1997) Immunology, University of Washington, Box
+            357370, Seattle, WA 98195-7370, USA
+FEATURES             Location/Qualifiers
+     source          1..1285
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+                     /cell_type="thymocytes"
+     gene            306..1235
+                     /gene="Lnk"
+     CDS             306..1235
+                     /gene="Lnk"
+                     /codon_start=1
+                     /product="lymphocyte-specific adaptor protein Lnk"
+                     /protein_id="AAB58580.1"
+                     /db_xref="PID:g2149598"
+                     /db_xref="GI:2149598"
+                     /translation="MPDNLYTFVLKVQDQTDIIFEVGDEQQLNSWLAELRASTGLGLE
+                     HPDTELPLSLAAEPGPARSPRGSTDSLDQGASPGVLLDPACQKTDHFLSCYPWFHGPI
+                     SRVRAAQLVQLQGPDAHGVFLVRQSESRRGEYVLTFNLQGRAKHLRLVLTERGQCRVQ
+                     HLHFPSVVDMLRHFQRSPIPLECGAACDVRLSGYVVVLSQAPGSSNTVLFPFSLPHWD
+                     SELGHPHLSSVGCPPSHGAEALPGQVTPPEQIFHLVPSPEELANSLRQLELESVSSAR
+                     DSDYDMDSSSRGHLRAIDNQYTPLSQLCREADV"
+BASE COUNT      250 a    420 c    358 g    257 t
+ORIGIN      
+        1 gaattcggca cgagatcgac accaccgcag ccagcaggcc gggccccccg ggcaagttgc
+       61 taccctgggg cctgcgagag ccgcccactg agggcctcaa ggaggtcgta ttgcgctata
+      121 gcctggcgga cgaggcagca atggacagcg gcgcactctg gcagcggggt cgcctggtgc
+      181 ttcggtctcc aggtccgggc cacagccact ttctgcagct cttcgatccg cccaagagct
+      241 caaagcccaa gctccaagag gcctgttcca gcatccggga ggtccgacca tgtacacgcc
+      301 tggagatgcc tgacaacctc tacacctttg tgttgaaggt gcaggaccag acagacatca
+      361 tctttgaggt gggagatgaa cagcagctga actcatggct ggcagagctc agggcaagca
+      421 caggccttgg gctggagcac ccggacaccg agttacctct ttccttagcg gcagagcctg
+      481 gcccagctag atccccaagg ggaagcactg actccctgga ccaaggtgct tcacctgggg
+      541 tgttgctgga cccagcctgc cagaaaacag atcacttcct atcctgctac ccctggttcc
+      601 acggccccat ctccagggtg agggctgcac agctggtcca gctccagggc cctgatgccc
+      661 acggcgtgtt cctggtgcgg cagagtgagt cccggagagg agagtatgta ctcacattca
+      721 acttacaggg cagagccaag cacttacgcc tggtgctcac agagcgtgga cagtgccggg
+      781 tgcaacacct gcacttcccc tcggtggtag atatgctccg ccacttccag cgttctccta
+      841 tcccactgga atgtggagca gcttgtgacg tccgactctc tggctatgtg gtagtcctct
+      901 ctcaggcacc aggttcctcc aacaccgtcc tcttcccttt ttcccttcct cactgggatt
+      961 cggagctggg tcatccccac ctcagctctg ttggctgtcc ccccagccat ggtgcagagg
+     1021 ctctccctgg ccaagtgaca ccacctgagc agatcttcca cctggtgcct tctcctgagg
+     1081 aactggccaa cagtctgcgg cagctggagc tcgagtctgt gagcagtgcc cgggactcgg
+     1141 actatgacat ggactcctct tcacggggcc accttcgggc cattgacaac cagtacaccc
+     1201 ctctctcaca gctgtgcaga gaggcagacg tgtgaatgga accattttcc tcccctccag
+     1261 agaactatag gctgctgtca gcctc
+//

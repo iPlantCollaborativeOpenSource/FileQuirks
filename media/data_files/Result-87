@@ -1,0 +1,57 @@
+LOCUS       AB127951                 618 bp    DNA     linear   PLN 30-JAN-2009
+DEFINITION  Typhula ishikariensis genes for ITS1, 5.8S ribosomal RNA, ITS2,
+            28S large subunit ribosomal RNA, partial and complete sequence,
+            isolate: YS3-3.
+ACCESSION   AB127951
+VERSION     AB127951.1
+KEYWORDS    .
+SOURCE      Typhula ishikariensis
+  ORGANISM  Typhula ishikariensis
+            Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+            Agaricomycetes; Thelephorales; Typhulaceae; Typhula.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Hoshino,T., Fujiwara,M. and Yumoto,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-DEC-2003) to the DDBJ/EMBL/GenBank databases.
+            Contact:Tamotsu Hoshino
+            National Institute of Advanced Industrial Science and Technology
+            (AIST), Institute for Biological Resources and Functions;
+            2-17-2-1, Tsukisamu-higashi, Toyohira-ku, Sapporo, Hokkaido
+            062-8517, Japan
+            URL    :http://www.aist.go.jp/index_j.html
+REFERENCE   2  
+  AUTHORS   Hoshino,T., Tkachenko,O.B., Fujiwara,M., Yumoto,I. and Matsumoto,N.
+  TITLE     ITS sequences of super VCG of Typhula ishikariensis
+  JOURNAL   Published Only in Database(2004)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /country="Russia: Sakhalin, Yuzhno-Sakhalinsk"
+                     /db_xref="taxon:69361"
+                     /host="Poa annua L."
+                     /isolate="YS3-3"
+                     /mol_type="genomic DNA"
+                     /note="Biological species I: dikaryon"
+                     /organism="Typhula ishikariensis"
+     misc_RNA        <1..156
+                     /product="internal transcribed spacer 1"
+     rRNA            157..432
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        433..561
+                     /product="internal transcribed spacer 2"
+     rRNA            562..>618
+                     /product="28S large subunit ribosomal RNA"
+BASE COUNT          171 a          120 c          128 g          199 t
+ORIGIN      
+        1 ttggtttctc tttttatagc tttccaaaga gagggtaaga cgttaaaaga acgatctttg
+       61 ccttataaca tacccttctt ttaaaaatgt ttatgaacgt caaaaaaaat gtaggctcgc
+      121 cttaaaaacg tgtagctgaa attataaaat tatacaactt ttaacaacgg atctcttggc
+      181 tctcgcatcg atgaagaacg cagcgaaatg cgataagtaa tgtgaattgc agaattcagt
+      241 gaatcatcga atctttgaac gcaccttgcg ctccctggta ttccggggag catgcctgtt
+      301 tgagtgtcat taaattctca acttcgaatc gtttgtttac agactttacg aggcttggac
+      361 tttggagtgt gccggtctct aacgagatcg actcctcttt aaatgcatta gctggaacct
+      421 cttgtggacc agactacggt gtgataatta tctacgctgt tggtcttgtg aagcacttta
+      481 ttgttacgag gttctgcttc taatcgtcct ttactgcgac aatgagggtt ttattcttaa
+      541 ttgaattggc ctttgacatt ttgacctcaa atcaggtagg actacccgct gaacttaagc
+      601 atatcaataa gcggagga
+//

@@ -1,0 +1,12 @@
+3963 feature(s) are registered.
+Feature ID	Feature type	Accession	location	COG ID	COG category	product	isolation	organism
+AACY01017518_1	CDS	AACY01017518	289..1329	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01017631_4	CDS	AACY01017631	3691..4278	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01017663_1	CDS	AACY01017663	19..1299	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01017679_2	CDS	AACY01017679	complement(3633..4220)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01017679_3	CDS	AACY01017679	complement(2282..3643)	-	-	mannitol transporter	Sargasso Sea	environmental sequence
+AACY01018240_3	CDS	AACY01018240	2427..3674	-	-	ammonium transporter	Sargasso Sea	environmental sequence
+AACY01018957_3	CDS	AACY01018957	complement(249..1415)	-	-	magnesium transporter	Sargasso Sea	environmental sequence
+AACY01019114_2	CDS	AACY01019114	1866..>2465	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01019397_1	CDS	AACY01019397	32..1072	-	-	ABC transporter	Sargasso Sea	environmental sequence
+AACY01020269_2	CDS	AACY01020269	1017..2342	-	-	transporter	Sargasso Sea	environmental sequence

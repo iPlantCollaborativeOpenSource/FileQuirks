@@ -1,0 +1,114 @@
+molstruct88_Apr_30_1993_11:02:29 <molecule> 0x1d00
+Written by Molecular Editor on <date>
+Using data dictionary         9/9/93  4:47 AM
+Version 6
+local_transform
+0.100000 0.000000 0.000000 0.000000
+0.000000 0.100000 0.000000 0.000000
+0.000000 0.000000 0.100000 0.000000
+0.000000 0.000000 0.000000 1.000000
+object_class atom
+property xyz_coordinates MoleculeEditor angstrom 6 3 FLOAT
+property anum MoleculeEditor unit 0 1 INTEGER
+property sym MoleculeEditor noUnit 0 2 STRING
+property chrg MoleculeEditor charge_au 0 1 INTEGER
+property rflag MoleculeEditor noUnit 0 1 HEX
+ID xyz_coordinates             anum sym	chrg rflag
+  1   0.000000   0.000000   0.000000  6  C  0 0x7052
+  2   0.000000   0.000000   0.000000  8  O  0 0x7052
+  3   0.000000   0.000000   0.000000  6  C  0 0x7052
+  4   0.000000   0.000000   0.000000  6  C  0 0x7052
+  5   0.000000   0.000000   0.000000  8  O  0 0x7052
+  6   0.000000   0.000000   0.000000  6  C  0 0x7052
+  7   0.000000   0.000000   0.000000  8  O  0 0x7052
+  8   0.000000   0.000000   0.000000  6  C  0 0x7052
+  9   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 10   0.000000   0.000000   0.000000  1  H  0 0x7052
+ 11   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 12   0.000000   0.000000   0.000000  8  O  0 0x7052
+ 13   0.000000   0.000000   0.000000  7  N  0 0x7052
+ 14   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 15   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 16   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 17   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 18   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 19   0.000000   0.000000   0.000000  6  C  0 0x7052
+ 20   0.000000   0.000000   0.000000  8  O  0 0x7052
+property_flags:
+object_class bond
+property rflag MoleculeEditor noUnit 0 1 HEX
+property type MoleculeEditor noUnit 0 1 NAME
+property bond_order MoleculeEditor noUnit 4 1 FLOAT
+ID rflag type bond_order
+  1 0x7005 single
+  2 0x7005 single
+  3 0x7005 single
+  4 0x7005 single
+  5 0x7005 single
+  6 0x7005 double
+  7 0x7005 single
+  8 0x7005 single
+  9 0x7005 single
+ 10 0x7005 single
+ 11 0x7005 double
+ 12 0x7005 single
+ 13 0x7005 single
+ 14 0x7005 single
+ 15 0x7005 double
+ 16 0x7005 single
+ 17 0x7005 double
+ 18 0x7005 single
+ 19 0x7005 double
+ 20 0x7005 single
+ 21 0x7005 single
+property_flags:
+object_class connector
+property dflag MoleculeEditor noUnit 0 1 HEX
+property objCls1 MoleculeEditor noUnit 0 1 NAME
+property objCls2 MoleculeEditor noUnit 0 1 NAME
+property objID1 MoleculeEditor noUnit 0 1 INTEGER
+property objID2 MoleculeEditor noUnit 0 1 INTEGER
+ID dflag objCls1 objCls2 objID1 objID2
+  1 0xa1 atom bond 1 1
+  2 0xa1 atom bond 2 1
+  3 0xa1 atom bond 2 2
+  4 0xa1 atom bond 3 2
+  5 0xa1 atom bond 3 3
+  6 0xa1 atom bond 4 3
+  7 0xa1 atom bond 4 4
+  8 0xa1 atom bond 5 4
+  9 0xa1 atom bond 5 5
+ 10 0xa1 atom bond 6 5
+ 11 0xa1 atom bond 6 6
+ 12 0xa1 atom bond 7 6
+ 13 0xa1 atom bond 6 7
+ 14 0xa1 atom bond 8 7
+ 15 0xa1 atom bond 8 8
+ 16 0xa1 atom bond 9 8
+ 17 0xa1 atom bond 9 9
+ 18 0xa1 atom bond 10 9
+ 19 0xa1 atom bond 9 10
+ 20 0xa1 atom bond 11 10
+ 21 0xa1 atom bond 11 11
+ 22 0xa1 atom bond 12 11
+ 23 0xa1 atom bond 11 12
+ 24 0xa1 atom bond 13 12
+ 25 0xa1 atom bond 13 13
+ 26 0xa1 atom bond 14 13
+ 27 0xa1 atom bond 14 14
+ 28 0xa1 atom bond 15 14
+ 29 0xa1 atom bond 15 15
+ 30 0xa1 atom bond 16 15
+ 31 0xa1 atom bond 16 16
+ 32 0xa1 atom bond 17 16
+ 33 0xa1 atom bond 17 17
+ 34 0xa1 atom bond 18 17
+ 35 0xa1 atom bond 18 18
+ 36 0xa1 atom bond 19 18
+ 37 0xa1 atom bond 14 19
+ 38 0xa1 atom bond 19 19
+ 39 0xa1 atom bond 19 20
+ 40 0xa1 atom bond 20 20
+ 41 0xa1 atom bond 9 21
+ 42 0xa1 atom bond 20 21
+property_flags:

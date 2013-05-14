@@ -1,0 +1,62 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= query
+         (70 letters)
+
+Database: SWISS: SWISS sequence taken from the header [Last update
+May/16/2009] 
+           428,650 sequences; 154,417,242 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+  Database: SWISS: SWISS sequence taken from the header [Last update
+  May/16/2009]
+    Posted date:  May 16, 2009  5:30 AM
+  Number of letters in database: 154,417,242
+  Number of sequences in database:  428,650
+  
+Lambda     K      H
+   0.312    0.134    0.410 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 428650
+Number of Hits to DB: 7,073,828
+Number of extensions: 34153
+Number of successful extensions: 10
+Number of sequences better than 10.0: 1
+Number of HSP's gapped: 10
+Number of HSP's successfully gapped: 1
+Length of query: 70
+Length of database: 154,417,242
+Length adjustment: 42
+Effective length of query: 28
+Effective length of database: 136,413,942
+Effective search space: 3819590376
+Effective search space used: 3819590376
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 42 (21.8 bits)
+S2: 63 (28.9 bits)

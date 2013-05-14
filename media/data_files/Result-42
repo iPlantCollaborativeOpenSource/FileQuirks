@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB000100</LOCUS>
+<LENGTH>2992</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>BCT</DIVISION>
+<LAST_UPDATE>15-MAY-2009</LAST_UPDATE>
+
+<DEFINITION>Synechococcus elongatus PCC 7942 genes for intrinsic membraneprotein, malK-like protein, cyanase, complete cds.</DEFINITION>
+<ACCESSION>AB000100</ACCESSION>
+<VERSION>AB000100.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Synechococcus elongatus PCC 7942</SOURCE>
+<ORGANISM>Synechococcus elongatus PCC 7942</ORGANISM>
+<TAXONOMY>Bacteria; Cyanobacteria; Chroococcales; Synechococcus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Omata,T.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (26-DEC-1996) to the DDBJ/EMBL/GenBank databases.Contact:Tatsuo OmataSchool of Agricultural Sciences, Nagoya University, Department ofApplied Biological Sciences; Chikusa, Nagoya, Aichi 464-01, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Harano,Y., Suzuki,I., Maeda,S., Kaneko,T., Tabata,S. and Omata,T.</authors>
+     <title>Identification and nitrogen regulation of the cyanase gene fromthe cyanobacteria Synechocystis sp. strain PPC 6803 andSynechococcus sp. strain PPC 7942</title>
+     <journal>J. Bacteriol. 179, 5744-5750 (1997)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..2992</location>
+     <qualifiers name="clone_lib">constructed in pBluescript II KS-</qualifiers>
+     <qualifiers name="db_xref">taxon:1140</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Synechococcus elongatus PCC 7942</qualifiers>
+     <qualifiers name="strain">PCC 7942</qualifiers>
+</source>
+<cds>
+     <location>121..912</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">cynB</qualifiers>
+     <qualifiers name="product">intrinsic membrane protein</qualifiers>
+     <qualifiers name="protein_id">BAA21794.1</qualifiers>
+     <qualifiers name="transl_table">11</qualifiers>
+     <qualifiers name="translation">MVRTPVPLYLRWAVSILSVLAFLAIWQIAAASGFLGKTFPGSLRTLQDLFGWLSDPFFDNGPNDLGIGWNLLISLRRVAIGYLLATVVAIPLGIAIGMSALASSIFSPFVQLLKPVSPLAWLPIGLFLFRDSELTGVFVILISSLWPTLINTAFGVANVNPDFLKVSQSLGASRWRTILKVILPAALPSIIAGMRISMGIAWLVIVAAEMLLGTGIGYFIWNEWNNLSLPNIFSAIIIIGIVGILLDQGFRFLENQFSYAGNR</qualifiers>
+</cds>
+<cds>
+     <location>916..1785</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">cynD</qualifiers>
+     <qualifiers name="product">malK-like protein</qualifiers>
+     <qualifiers name="protein_id">BAA21795.1</qualifiers>
+     <qualifiers name="transl_table">11</qualifiers>
+     <qualifiers name="translation">MISEAVPAKEETGQAQLLIEQVGKVFTVNSPSLLDRLRQRSPKRYVALEDVNLTIASNTFVSIIGPSGCGKSTLLNLIAGLDLPTSGQILLDGQRIRSPGPDRGIVFQNYALMPWMTALENVIFAVETARPNLSKSQAREVAREHLELVGLTKAADRYPGQISGGMKQRVAIARALSIRPKLLLMDEPFGALDALTRGYLQEEVLRIWEANKLSVVLITHSIDEALLLSDRIVVMSRGPRATIREVIDLPAVRPRQRSVIEEDERFVKIKLRLEEHLFNETRAVEEASV</qualifiers>
+</cds>
+<cds>
+     <location>1796..2236</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="EC_number">4.2.1.104</qualifiers>
+     <qualifiers name="gene">cynS</qualifiers>
+     <qualifiers name="product">cyanase</qualifiers>
+     <qualifiers name="protein_id">BAA19515.1</qualifiers>
+     <qualifiers name="transl_table">11</qualifiers>
+     <qualifiers name="translation">MTSAITEQLLKAKKAKGITFTELEQLLGRDEVWIASVFYRQSTASPEEAEKLLTALGLDLALADELTTPPVKGCLEPVIPTDPLIYRFYEIMQVYGLPLKDVIQEKFGDGIMSAIDFTLDVDKVEDPKGDRVKVTMCGKFLAYKKW</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        654 " C="        759 " G="        785 " T="        794 "/>
+<SEQUENCE>ctgcagccgccgactgaaatctatcgggaagaaaagctcgcttacgacacctttaacccgcaggatccagtcgcttacctcgcatctcaaaagcagaaatacgggagataaacacaacttatggtgagaactcctgtaccgctttacctacgttgggcggtctccatcctcagcgtgcttgcgttcctagccatttggcaaattgcggcagcttcaggatttttaggcaaaacttttcctggctccctgcgcactttgcaggatttgtttggatggctttcagatcccttctttgataacggccccaatgacttagggattggctggaacttactgattagtttgcgtcgcgttgcgatcggctacctgctggcaacagttgttgcaattcctttggggattgcaatcggtatgtcggcgctagcttccagtattttttcgccctttgtgcaactcctgaagccagtttcacctttggcctggttgccgattggtctcttcttattccgagattcggaattgacgggtgtttttgtcatcctgatttcgagtctgtggccaacgttgatcaacacagcgtttggggtggcgaatgtcaatcctgactttttgaaggtttcgcaatctttgggagctagtcgttggcgcacgattctgaaggtgattctgcccgcagcattgcccagcatcatcgcgggaatgcggatcagcatgggcattgcttggctggtcattgtggcagcagagatgctgttgggaacaggaattggctatttcatttggaatgagtggaataacctatcacttcctaatattttctcggccatcatcatcattgggattgttggcattcttctcgaccaaggcttccgttttcttgagaaccagttttcttacgcaggcaaccgataacccatgatttctgaagctgtgccagccaaggaggagacagggcaggctcaattgctgattgagcaagttggcaaagtttttactgtcaattcaccttctctcctcgatcgccttcgacagcgatcgcccaaacgctacgttgcattagaagatgtcaacctcacgatcgcgtcgaacacatttgtctcgattattggcccttcgggttgtggtaaatcaacccttctcaacttgattgctggccttgatttaccaacgtctggccagattctgctggatggtcaacgcattcgatcgccggggcccgatcgtggcatcgtcttccagaactatgccctgatgccctggatgaccgcgcttgagaatgtcatctttgcagttgaaacggcgcgcccaaacctgagcaaatcccaagctcgcgaagtggcacgagagcatctagagctggtgggtttaaccaaagctgccgatcgctatccgggccaaatttcaggggggatgaaacagcgcgtagcgatcgcccgtgccctctccatccgtcctaagctcctgctgatggatgaaccctttggtgccttggatgccctcacccgtggctacctccaagaagaagtgctgcggatttgggaagccaacaaactgagtgtggtgctcatcactcacagtattgatgaagcactgctgctttccgatcgcattgtggtgatgtctcgtgggccacgagccactattcgagaagtgattgatttaccagccgttcgccctcggcaacggtctgtgatcgaagaagatgagcgcttcgtcaaaatcaaattgcgccttgaagaacatttgttcaacgagacgcgtgcagttgaagaagccagtgtttaggagaattccaatgacctcagcgattactgaacaacttctgaaagcgaaaaaagcaaagggaattacctttactgagcttgagcaattacttggacgggatgaagtctggattgcgagtgtgttctaccgtcaatctacggcttcgcctgaagaggcagaaaagctactgactgctctgggcttagatctggccttggctgatgagttgacgactccgccggtcaaaggttgtttggaaccggtgattccaactgatccgttgatctatcgcttctacgaaatcatgcaggtctatggcttgcccctcaaggatgttatccaagaaaaatttggcgatggcatcatgagtgcgattgatttcaccttagatgtcgataaggttgaagatcccaaaggcgatcgcgttaaggtcacgatgtgtggcaagttcttggcgtacaagaagtggtaaatactgctagctaatcaagcttcaattcttgatcactggaggagagaggtttccgcttctctccttttttgattggaattctctcattaactacgataccgctctgcactgaatgacctcgagctgagtggaaggtagctcgccgccgatgataatggcgcctctggaagagtttggctaagctgtggacggcgatcgcggttgtctgtctgtgctatgcccttgatttcggtgacccgactcaagcttagaaatgttctttatttgccccgcttgcttcccttctcgttgcgatcgacgtggcaggctaaacgagcgcctggcaatctgggcgttaagctgttgcaggatcgtaacttggctttttggacctgcaccgcttggacggatgaaggagccatgcgtcggttcatgagagcggatgcccacgggcaggccatgacgaaattgatggattggtgcagcgaagcctcagtcgtccattggcagcaggatcagccagacttgcccgactggcaggaagctcaccgccgcatgatcgcggaggggcgcccctccaaagtgaaccatccttcggctgcccaccaagcatttcaggtcgatccgccgcgccgcgcctagctcagtgactgcggtcgcgctgtcttgcatcattgcttcgctctaccagcccggatcgctggcacagtccacggtgatctcacccgaggcggcatcgggaatcgcagtgatacagccgcagactggctcgccatc</SEQUENCE>
+</DDBJXML>

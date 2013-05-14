@@ -1,0 +1,86 @@
+LOCUS       GG000105               77874 bp    DNA     linear   CON 06-NOV-2008
+DEFINITION  Choloepus hoffmanni scaffold_109 genomic scaffold, whole genome
+            shotgun sequence.
+ACCESSION   GG000105 ABVD01000000
+VERSION     GG000105.1
+PROJECT     GenomeProject:30809
+KEYWORDS    WGS.
+SOURCE      Choloepus hoffmanni
+  ORGANISM  Choloepus hoffmanni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Xenarthra; Megalonychidae; Choloepus.
+REFERENCE   1  (bases 1 to 77874)
+  AUTHORS   Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,
+            Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.
+  TITLE     The Genome Sequence of Choloepus hoffmanni (sloth)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 77874)
+  AUTHORS   Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,
+            Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2008) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Sequenced at Washington University School of Medicine Genome
+            Sequencing Center, assembled at the Broad Institute.
+            Assembly name: ChoHof1.0
+            Coverage: 2.18X.
+FEATURES             Location/Qualifiers
+     source          1..77874
+                     /organism="Choloepus hoffmanni"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9358"
+                     /sex="female"
+     gap             2273..3283
+                     /estimated_length=1011
+     gap             4884..4983
+                     /estimated_length=unknown
+     gap             8812..9623
+                     /estimated_length=812
+     gap             12032..12668
+                     /estimated_length=637
+     gap             23281..23528
+                     /estimated_length=248
+     gap             28915..29014
+                     /estimated_length=unknown
+     gap             30549..31172
+                     /estimated_length=624
+     gap             33874..34810
+                     /estimated_length=937
+     gap             37791..37890
+                     /estimated_length=unknown
+     gap             39981..40238
+                     /estimated_length=258
+     gap             42611..42989
+                     /estimated_length=379
+     gap             44975..45520
+                     /estimated_length=546
+     gap             50384..51064
+                     /estimated_length=681
+     gap             52469..52568
+                     /estimated_length=unknown
+     gap             55879..56179
+                     /estimated_length=301
+     gap             57582..57846
+                     /estimated_length=265
+     gap             58596..58695
+                     /estimated_length=unknown
+     gap             59758..60175
+                     /estimated_length=418
+     gap             61270..63408
+                     /estimated_length=2139
+     gap             67323..67639
+                     /estimated_length=317
+     gap             69161..69387
+                     /estimated_length=227
+CONTIG      join(ABVD01002308.1:1..2272,gap(1011),ABVD01002309.1:1..1600,
+            gap(unk100),ABVD01002310.1:1..3828,gap(812),ABVD01002311.1:1..2408,
+            gap(637),ABVD01002312.1:1..10612,gap(248),ABVD01002313.1:1..5386,
+            gap(unk100),ABVD01002314.1:1..1534,gap(624),ABVD01002315.1:1..2701,
+            gap(937),ABVD01002316.1:1..2980,gap(unk100),ABVD01002317.1:1..2090,
+            gap(258),ABVD01002318.1:1..2372,gap(379),ABVD01002319.1:1..1985,
+            gap(546),ABVD01002320.1:1..4863,gap(681),ABVD01002321.1:1..1404,
+            gap(unk100),ABVD01002322.1:1..3310,gap(301),ABVD01002323.1:1..1402,
+            gap(265),ABVD01002324.1:1..749,gap(unk100),ABVD01002325.1:1..1062,
+            gap(418),ABVD01002326.1:1..1094,gap(2139),ABVD01002327.1:1..3914,
+            gap(317),ABVD01002328.1:1..1521,gap(227),ABVD01002329.1:1..8487)
+//

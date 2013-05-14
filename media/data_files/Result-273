@@ -1,0 +1,12 @@
+3963 feature(s) are registered.
+Feature ID	Feature type	Accession	location	COG ID	COG category	product	isolation	organism
+AC150250.1_6	CDS	AC150250.1	<3412..>4356	COG0614	P	probable abc-type transporter, periplasmic component abc transporter protein	-	uncultured bacterium zdt-25h12
+AJ698325.1_55	CDS	AJ698325.1	complement(<36431..>37636)	-	-	ABC transporter permease protein	activated sludge	uncultured bacterium
+AJ698325.1_56	CDS	AJ698325.1	complement(<35719..>36429)	-	-	ABC transporter ATPase	activated sludge	uncultured bacterium
+AJ851089.1_67	CDS	AJ851089.1	<73409..>74104	COG1136	V	ABC transporter, ATP-binding protein	-	uncultured bacterium
+AY458642.1_32	CDS	AY458642.1	<53701..>54693	-	-	probable ABC-transporter inner membrane protein SbmA	marine waters	uncultured bacterium 560
+AY458649.1_132	CDS	AY458649.1	complement(<70366..>72165)	-	-	ABC transporter, ATP-binding/permease protein	marine waters	uncultured bacterium 582
+AY458650.2_12	CDS	AY458650.2	<35487..>36479	-	-	probable ABC-transporter inner membrane protein SbmA	marine waters	uncultured bacterium 583
+AY687442.1_6	CDS	AY687442.1	complement(<7936..>8703)	-	-	branched-chain amino acid ABC transporter, ATP-binding protein	soil	uncultured bacterium
+AY687442.1_7	CDS	AY687442.1	complement(<7066..>7770)	-	-	branched-chain amino acid ABC transporter, ATP-binding protein	soil	uncultured bacterium
+DQ366712.1_19	CDS	DQ366712.1	complement(<28965..>29759)	-	-	ABC transporter family-like	sea water	uncultured Prochlorococcus marinus clone ASNC1363

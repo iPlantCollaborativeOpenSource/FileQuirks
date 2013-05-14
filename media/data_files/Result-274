@@ -1,0 +1,12 @@
+242 feature(s) are registered.
+Feature ID	Feature type	Accession	location	COG ID	COG category	product	isolation	organism
+AY687446.1_3	CDS	AY687446.1	<2484..>3275	COG2226	H	Methylase involved in ubiquinone/menaquinone biosynthesis	soil	uncultured bacterium
+AACY01011810_2	CDS	AACY01011810	complement(530..1024)	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01013555_1	CDS	AACY01013555	571..1044	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01018697_3	CDS	AACY01018697	complement(2207..2680)	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01022162_1	CDS	AACY01022162	612..1094	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01023775_1	CDS	AACY01023775	1021..>1423	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01029159_3	CDS	AACY01029159	complement(284..757)	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01038987_2	CDS	AACY01038987	complement(761..1243)	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01041455_4	CDS	AACY01041455	complement(59..535)	-	-	rRNA Methylase	Sargasso Sea	environmental sequence
+AACY01044933_1	CDS	AACY01044933	572..1060	-	-	rRNA Methylase	Sargasso Sea	environmental sequence

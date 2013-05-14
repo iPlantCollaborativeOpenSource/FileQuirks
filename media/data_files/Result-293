@@ -1,0 +1,326 @@
+OMIM NO
+600963
+TITLE
+*600963 SINE OCULIS HOMEOBOX, DROSOPHILA, HOMOLOG OF, 5; SIX5
+;;DM LOCUS-ASSOCIATED HOMEODOMAIN PROTEIN; DMAHP
+TEXT
+
+CLONING
+
+Boucher et al. (1995) identified SIX5 as a homeodomain protein gene
+downstream (centromeric) of the (CTG)n repeat in the DMPK gene (160900).
+RT-PCR analysis showed that the SIX5 gene, which they called DMAHP, is
+expressed in a number of human tissues, including skeletal muscle,
+heart, and brain.
+
+GENE FUNCTION
+
+Heath et al. (1997) used 2 different strategies to examine expression of
+the murine homolog of the DMAHP gene. The first approach, RT-PCR,
+detected spliced transcripts in a wide range of embryonic and adult
+tissues, in a pattern overlapping substantially with the expression of
+mouse DMPK. A second approach, the generation of transgenic mice
+expressing a lacZ reporter gene from a 4.3-kb DMAHP promoter fragment,
+also demonstrated expression in a range of tissues with potential links
+to the phenotype in myotonic dystrophy. They concluded that murine DMAHP
+has a similar pattern of expression to human DMAHP and that the mouse
+can serve as a useful model for functional studies of this gene,
+although species differences, such as the reduced CpG island (1.8 kb
+compared with 3.5 kb), must be kept in mind.
+
+Myotonic dystrophy (160900) is a highly variable multisystem disease in
+which the classic adult-onset form displays progressive muscle wasting
+with myotonia, cataracts, heart block, gonadal atrophy, insulin
+resistance, and neuropsychiatric impairment. Its genetic basis is an
+expansion of CTG trinucleotide repeats in the DMPK protein kinase gene,
+though the pathophysiologic mechanism for multisystem degeneration in DM
+had yet to be defined. Among the triplet repeat expansion disorders,
+myotonic dystrophy is distinguished by the extended length of the repeat
+tract (5 to 13 kb in postmortem tissue) and its location in the 3-prime
+untranslated region of the DMPK gene. Thornton et al. (1997) noted that,
+in contrast to the profound muscle wasting that characterizes advanced
+myotonic dystrophy, only minor histopathologic abnormalities were found
+in DMPK knockout mice or in mice that overexpress a human DMPK
+transgene, making it unlikely that changes in DMPK activity provide a
+unitary explanation for the disease. Otten and Tapscott (1995)
+demonstrated that a DNase I (300081)-hypersensitive site located
+adjacent to the repeats on the wildtype allele is eliminated by repeat
+expansion, suggesting that large CTG-repeat arrays may be associated
+with a local chromatin environment that represses gene expression.
+Klesert et al. (1997) reported that the hypersensitive site contains an
+enhancer element that regulates transcription of the adjacent DMAHP
+homeobox gene. Analysis of DMAHP expression in cells of myotonic
+dystrophy patients with loss of the hypersensitive site revealed a 2- to
+4-fold reduction in the steady-state DMAHP transcript levels relative to
+wildtype controls. Allele-specific analysis of DMAHP expression showed
+that steady-state transcript levels from the expanded allele were
+greatly reduced in comparison to those from the wildtype allele. Along
+the same line, Thornton et al. (1997) showed that DMAHP expression in
+myoblasts, muscle, and myocardium was reduced by the DM mutation in cis,
+and the magnitude of this effect depended on the extent of the CTG
+repeat expansion. These observations supported the hypothesis that DMAHP
+participates in the pathophysiology of DM.
+
+Since the DM-associated (CTG)n repeat is located in the promoter region
+of SIX5, immediately downstream of DMPK, Winchester et al. (1999)
+hypothesized that dysfunction of this gene, which is homologous to the
+Drosophila eye development gene 'sine oculis,' is primarily responsible
+for the ophthalmic features of DM. The multicolored iridescent cataract
+is the most prominent feature of the eye pathology in DM. It is often
+the first and in some cases the only sign of the disease, occurring at a
+younger age than is expected for senile cataracts, and occurring in
+persons who show no muscle symptoms or who carry a premutation (CTG)n
+repeat allele. In an analysis of the expression of DMPK and SIX5 in
+normal human fetal and adult eyes, Winchester et al. (1999) found SIX5
+transcripts in the adult corneal epithelium and endothelium, lens
+epithelium, ciliary body epithelia, cellular layers of the retina, and
+the sclera. SIX5 expression was not detected in fetal eyes. They also
+reported a restricted but partially overlapping expression pattern for
+DMPK transcripts and DMPK protein in normal fetal and adult eyes.
+Winchester et al. (1999) concluded that the expression of SIX5 and not
+DMPK in the adult lens indicated a role for SIX5 dysfunction in the
+development of adult-onset cataracts, the most frequently occurring eye
+phenotype in DM.
+
+MAPPING
+
+Boucher et al. (1995) identified the SIX5 gene in chromosome 19q13.3,
+centromeric to the DMPK gene (605377).
+
+MOLECULAR GENETICS
+
+Branchiootorenal syndrome (BOR2; 610896) is an autosomal dominant
+developmental disorder characterized by the association of branchial
+arch defects, hearing loss, and renal anomalies. Mutations in the EYA1
+gene (601653) were identified as a cause of the BOR syndrome. A member
+of the SIX family of proteins, unc-39 (SIX5), was found to interact
+directly with eya-1 in Caenorhabditis elegans as identified by
+high-throughput, yeast 2-hybrid analysis (Li et al., 2004). Hoskins et
+al. (2007) hypothesized that this interaction would be conserved in
+humans and that interactors of EYA1 represent good candidate genes for
+BOR. They therefore screened a cohort of 95 patients with BOR for
+mutations in SIX5. Four different heterozygous missense mutations were
+identified in 5 individuals with BOR2. Functional analyses of these
+mutations demonstrated that 2 mutations (600963.0001, 600963.0004)
+affected EYA1-SIX5 binding and the ability of SIX5 or the EYA1-SIX5
+complex to activate gene transcription.
+
+ANIMAL MODEL
+
+Klesert et al. (2000) replaced the first exon of Six5 with a
+beta-galactosidase reporter gene. Histochemical detection of
+beta-galactosidase activity demonstrated expression as early as 8.5 days
+postcoitum in the anterior neural folds. Between 10.5 and 15.5 days
+postcoitum, there was low expression in smooth muscle of stomach,
+esophagus, and urogenital sinus, and in skeletal muscle of the tongue,
+as well as scattered expression in the myotome and developing limb
+muscle. A higher level of expression was seen in the sclerotome,
+meninges, adrenal gland, and cartilagenous areas of developing bones and
+trachea. In the eye, expression was evident in the retina, the cornea,
+the vasculature on the posterior surface of the lens, and faintly in the
+lens-fiber layer. There was no reliable expression detected in the adult
+mouse. Disruption of Six5 function did not affect viability or
+fertility. Homozygous mutant mice had no apparent abnormalities of
+skeletal muscle function, but developed lenticular opacities at a higher
+rate than controls. Klesert et al. (2000) concluded that Six5 deficiency
+contributes to the cataract phenotype in myotonic dystrophy, and that
+myotonic dystrophy represents a multigenic disorder.
+
+Sarkar et al. (2000) also studied Six5 expression in mouse. By in situ
+hybridization, they detected Six5 expression in the adult corneal
+epithelium and endothelium, inner and outer epithelium of the ciliary
+body, anterior lens epithelium, ganglion cells, cells of the inner
+nuclear layer, and photoreceptor cells of the retina. Sarkar et al.
+(2000) deleted the entire Six5 gene and replaced it with a neo cassette.
+They found that the rate and severity of cataract formation was
+inversely related to Six5 dosage and was temporally progressive. Six5
++/- and Six5 -/- mice showed increased steady-state levels of the
+sodium-potassium-ATPase alpha-1 subunit (182310) and decreased Dm15 mRNA
+levels. Sarkar et al. (2000) suggested that altered ion homeostasis
+within the lens may contribute to cataract formation. As ocular
+cataracts are a characteristic feature of DM, these results demonstrated
+that decreased Six5 transcription is important in the etiology of DM.
+The authors concluded that their data supported the hypothesis that DM
+is a contiguous gene syndrome associated with the partial loss of both
+DMPK and SIX5.
+
+Sato et al. (2002) overexpressed a constitutively active form of Six5 in
+murine P19 embryonal carcinoma cells. Using expression profiling in cDNA
+arrays, they identified 21 potential target genes whose expression level
+increased by the treatment. Genes expressed in the somites, skeletal
+muscles, brain, and meninges comprised the majority, suggesting a role
+for Six5 in the development and function of mesodermal tissues and
+brain. One of these genes, Igfbp5 (146734), was also decreased in
+Six5-deficient mouse fibroblasts, and the response of human IGFBP5 to
+MyoD (159970)-induced muscle conversion was altered in cells of DM
+patients. The authors concluded that Six5 is an activator that directs
+Igfbp5 expression, and hypothesized that reduced SIX5 expression in DM
+contributes to the DM phenotype.
+
+The CTG expansion causing DM results in transcriptional silencing of the
+flanking SIX5 allele. Sarkar et al. (2004) generated Six5 knockout and
+heterozygous mice by targeted disruption and demonstrated a strict
+requirement of Six5 for both spermatogenic cell survival and
+spermiogenesis. Leydig cell hyperproliferation and increased
+intratesticular testosterone levels were observed in the Six5 -/- mice.
+Although increased FSH (see 136530) levels were observed in the Six5 +/-
+and Six5 -/- mice, serum testosterone levels and intratesticular inhibin
+alpha (INHA; 147380) and inhibin beta-B (INHBB; 147390) levels were not
+altered in the Six5 mutant animals when compared with controls.
+Steady-state c-Kit (164920) levels were reduced in the Six5 -/- testis.
+The authors concluded that decreased c-Kit levels could contribute to
+the elevated spermatogenic cell apoptosis and Leydig cell
+hyperproliferation in the Six5 -/- mice. They hypothesized that the
+reduced SIX5 levels may contribute to the male reproductive defects in
+DM1.
+
+ALLELIC VARIANTS
+.0001
+BRANCHIOOTORENAL SYNDROME 2
+SIX5, ALA158THR
+
+In a patient with branchiootorenal syndrome (610896) manifesting
+bilateral dysplastic kidneys and preauricular tag on the right but no
+hearing loss, Hoskins et al. (2007) identified a heterozygous 472G-A
+transition in the SIX5 gene that resulted in an ala158-to-thr (A158T)
+amino acid substitution. Using yeast 2-hybrid analysis and luciferase
+assays, Hoskins et al. (2007) showed that this mutation reduced
+EYA1-SIX5 binding and the ability of the EYA1-SIX5 complex to activate
+gene transcription.
+
+.0002
+BRANCHIOOTORENAL SYNDROME 2
+SIX5, ALA296THR 
+
+In a patient with a clinical diagnosis of branchiootorenal syndrome
+(610896) who had bilateral dysplastic kidneys and reduced renal
+function, bilateral hearing loss and cervical fistulae, and right-sided
+hemifacial microsomia, preauricular sinus, and pinna malformation,
+Hoskins et al. (2007) identified a heterozygous 886G-A transition in the
+SIX5 gene that resulted in an ala296-to-thr (A296T) amino acid
+substitution.
+
+.0003
+BRANCHIOOTORENAL SYNDROME 2
+SIX5, GLY365ARG 
+
+In a patient with a clinical diagnosis of branchiootorenal syndrome
+(610896), Hoskins et al. (2007) found a heterozygous 1093G-A transition
+in the SIX5 gene that resulted in a gly365-to-arg (G365R) amino acid
+substitution.
+
+.0004
+BRANCHIOOTORENAL SYNDROME 2
+SIX5, THR552MET
+
+In 2 unrelated patients with the BOR syndrome (610896), Hoskins et al.
+(2007) found heterozygosity for the same missense mutation in the SIX5
+gene, a 1655C-T transition that resulted in a thr552-to-met (T552M)
+substitution. One patient had no hearing loss but had bilateral
+hypoplastic kidneys and cervical fistulae; the second patient had
+agenesis of the left kidney and hypoplasia of the right kidney,
+bilateral cervical fistulae, and bilateral hearing loss. Using yeast
+2-hybrid analysis and luciferase assays, Hoskins et al. (2007) showed
+that this mutation reduced EYA1-SIX5 binding and the ability of the
+EYA1-SIX5 complex to activate gene transcription.
+
+REFERENCES
+1. Boucher, C. A.; King, S. K.; Carey, N.; Krahe, R.; Winchester,
+C. L.; Rahman, S.; Creavin, T.; Meghji, P.; Bailey, M. E. S.; Chartier,
+F. L.; Brown, S. D.; Siciliano, M. J.; Johnson, K. J.: A novel homeodomain-encoding
+gene is associated with a large CpG island interrupted by the myotonic
+dystrophy unstable (CTG)n repeat. Hum. Molec. Genet. 4: 1919-1925,
+1995.
+
+2. Heath, S. K.; Carne, S.; Hoyle, C.; Johnson, K. J.; Wells, D. J.
+: Characterisation of expression of mDMAHP, a homeodomain-encoding
+gene at the murine DM locus. Hum. Molec. Genet. 6: 651-657, 1997.
+
+3. Hoskins, B. E.; Cramer, C. H., II; Silvius, D.; Zou, D.; Raymond,
+R. M., Jr.; Orten, D. J.; Kimberling, W. J.; Smith, R. J. H.; Weil,
+D.; Petit, C.; Otto, E. A.; Xu, P.-X.; Hildebrandt, F.: Transcription
+factor SIX5 is mutated in patients with branchio-oto-renal syndrome. Am.
+J. Hum. Genet. 80: 800-804, 2007.
+
+4. Klesert, T. R.; Cho, D. H.; Clark, J. I.; Maylie, J.; Adelman,
+J.; Snider, L.; Yuen, E. C.; Soriano, P.; Tapscott, S. J.: Mice deficient
+in Six5 develop cataracts: implications for myotonic dystrophy. Nature
+Genet. 25: 105-109, 2000.
+
+5. Klesert, T. R.; Otten, A. D.; Bird, T. D.; Tapscott, S. J.: Trinucleotide
+repeat expansion at the myotonic dystrophy locus reduces expression
+of DMAHP. Nature Genet. 16: 402-406, 1997.
+
+6. Li, S.; Armstrong, C. M.; Bertin, N.; Ge, H.; Milstein, S.; Boxem,
+M.; Vadalain, P.-O.; Han, J.-D. J.; Chesneau, A.; Hao, T.; Goldberg,
+D. S.; Li, N.; and 36 others: A map of the interactome network
+of the metazoan C. elegans. Science 303: 540-543, 2004.
+
+7. Otten, A. D.; Tapscott, S. J.: Triple-repeat expansion in myotonic
+dystrophy alters the adjacent chromatin structure. Proc. Nat. Acad.
+Sci. 92: 5465-5469, 1995.
+
+8. Sarkar, P. S.; Appukuttan, B.; Han, J.; Ito, Y.; Ai, C.; Tsai,
+W.; Chai, Y.; Stout, J. T.; Reddy, S.: Heterozygous loss of Six5
+in mice is sufficient to cause ocular cataracts. Nature Genet. 25:
+110-114, 2000.
+
+9. Sarkar, P. S.; Paul, S.; Han, J.; Reddy, S.: Six5 is required
+for spermatogenic cell survival and spermiogenesis. Hum. Molec. Genet. 13:
+1421-1431, 2004.
+
+10. Sato, S.; Nakamura, M.; Cho, D. H.; Tapscott, S. J.; Ozaki, H.;
+Kawakami, K.: Identification of transcriptional targets for Six5:
+implication for the pathogenesis of myotonic dystrophy type 1. Hum.
+Molec. Genet. 11: 1045-1058, 2002.
+
+11. Thornton, C. A.; Wymer, J. P.; Simmons, Z.; McClain, C.; Moxley,
+R. T., III: Expansion of the myotonic dystrophy CTG repeat reduces
+expression of the flanking DMAHP gene. Nature Genet. 16: 407-409,
+1997.
+
+12. Winchester, C. L.; Ferrier, R. K.; Sermoni, A.; Clark, B. J.;
+Johnson, K. J.: Characterization of the expression of DMPK and SIX5
+in the human eye and implications for pathogenesis in myotonic dystrophy. Hum.
+Molec. Genet. 8: 481-492, 1999.
+
+CONTRIBUTORS
+Victor A. McKusick - updated: 3/27/2007
+George E. Tiller - updated: 9/21/2006
+George E. Tiller - updated: 12/13/2002
+Ada Hamosh - updated: 4/27/2000
+Victor A. McKusick - updated: 3/19/1999
+Victor A. McKusick - updated: 8/1/1997
+Victor A. McKusick - updated: 6/23/1997
+
+CREATION DATE
+Victor A. McKusick: 1/4/1996
+
+EDIT HISTORY
+terry: 09/20/2007
+ckniffin: 6/8/2007
+alopez: 3/29/2007
+terry: 3/27/2007
+alopez: 9/21/2006
+terry: 3/18/2004
+cwells: 12/13/2002
+alopez: 4/29/2000
+terry: 4/27/2000
+mgross: 4/8/1999
+mgross: 3/29/1999
+mgross: 3/26/1999
+terry: 3/19/1999
+carol: 1/13/1999
+dkim: 12/16/1998
+terry: 8/5/1997
+alopez: 8/4/1997
+terry: 8/1/1997
+terry: 6/23/1997
+terry: 6/18/1997
+mark: 2/28/1996
+terry: 2/21/1996
+mark: 1/5/1996
+mark: 1/4/1996
+
+
+

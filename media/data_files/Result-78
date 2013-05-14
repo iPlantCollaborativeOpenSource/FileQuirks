@@ -1,0 +1,74 @@
+LOCUS       AB000050                1755 bp    DNA     linear   VRL 05-FEB-1999
+DEFINITION  Feline panleukopenia virus DNA for capsid protein 2, complete cds.
+ACCESSION   AB000050
+VERSION     AB000050.1
+KEYWORDS    capsid protein 2.
+SOURCE      Feline panleukopenia virus
+  ORGANISM  Feline parvovirus
+            Viruses; ssDNA viruses; Parvoviridae; Parvovirinae; Parvovirus.
+REFERENCE   1  (bases 1 to 1755)
+  AUTHORS   Horiuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Motohiro Horiuchi
+            Obihiro University of Agriculture and Veterinary Medicine,
+            Veterinary Public Health; Inada cho, Obihiro, Hokkaido 080, Japan
+REFERENCE   2  (bases 1 to 1755)
+  AUTHORS   Horiuchi,M.
+  TITLE     Evolutionary pattern of feline panleukopenia virus differs from
+            that of canine parvovirus
+  JOURNAL   Unpublished (1997)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..1755
+                     /isolate="94-1"
+                     /lab_host="Felis domesticus"
+                     /mol_type="genomic DNA"
+                     /organism="Feline panleukopenia virus"
+     CDS             1..1755
+                     /product="capsid protein 2"
+                     /protein_id="BAA19011.1"
+                     /translation="MSDGAVQPDGGQPAVRNERATGSGNGSGGGGGGGSGGVGISTGT
+                     FNNQTEFKFLENGWVEITANSSRLVHLNMPESENYKRVVVNNMDKTAVKGNMALDDTH
+                     VQIVTPWSLVDANAWGVWFNPGDWQLIVNTMSELHLVSFEQEIFNVVLKTVSESATQP
+                     PTKVYNNDLTASLMVALDSNNTMPFTPAAMRSETLGFYPWKPTIPTPWRYYFQWDRTL
+                     IPSHTGTSGTPTNVYHGTDPDDVQFYTIENSVPVHLLRTGDEFATGTFFFDCKPCRLT
+                     HTWQTNRALGLPPFLNSLPQSEGATNFGDIGVQQDKRRGVTQMGNTDYITEATIMRPA
+                     EVGYSAPYYSFEASTQGPFKTPIAAGRGGAQTDENQAADGDPRYAFGRQHGQKTTTTG
+                     ETPERFTYIAHQDTGRYPEGDWIQNINFNLPVTNDNVLLPTDPIGGKTGINYTNIFNT
+                     YGPLTALNNVPPVYPNGQIWDKEFDTDLKPRLHVNAPFVCQNNCPGQLFVKVAPNLTN
+                     EYDPDASANMSRIVTYSDFWWKGKLVFKAKLRASHTWNPIQQMSINVDNQFNYVPNNI
+                     GAMKIVYEKSQLAPRKLY"
+BASE COUNT          618 a          271 c          346 g          520 t
+ORIGIN      
+        1 atgagtgatg gagcagttca accagacggt ggtcaacctg ctgtcagaaa tgaaagagct
+       61 acaggatctg ggaacgggtc tggaggcggg ggtggtggtg gttctggggg tgtggggatt
+      121 tctacgggta ctttcaataa tcagacggaa tttaaatttt tggaaaacgg gtgggtggaa
+      181 atcacagcaa actcaagcag acttgtacat ttaaatatgc cagaaagtga aaattataaa
+      241 agagtagttg taaataatat ggataaaact gcagttaaag gaaatatggc tttagatgat
+      301 actcatgtac aaattgtaac accttggtca ttggttgatg caaatgcttg gggagtttgg
+      361 tttaatccag gagattggca actaattgtt aatactatga gtgagttgca tttagttagt
+      421 tttgaacaag aaatttttaa tgttgtttta aagactgttt cagaatctgc tactcagcca
+      481 ccaactaaag tttataataa tgatttaact gcatcattga tggttgcatt agatagtaat
+      541 aatactatgc catttactcc agcagctatg agatctgaga cattgggttt ttatccatgg
+      601 aaaccaacca taccaactcc atggagatat tattttcaat gggatagaac attaatacca
+      661 tctcatactg gaactagtgg cacaccaaca aatgtatatc atggtacaga tccagatgat
+      721 gttcaatttt atactattga aaattctgtg ccagtacact tactaagaac aggtgatgaa
+      781 tttgctacag gaacattttt ttttgattgt aaaccatgta gactaacaca tacatggcaa
+      841 acaaatagag cattgggctt accaccattt ttaaattctt tgcctcaatc tgaaggagct
+      901 actaactttg gtgatatagg agttcaacaa gataaaagac gtggtgtaac tcaaatggga
+      961 aatacagact atattactga agctactatt atgagaccag ctgaggttgg ttatagtgca
+     1021 ccatactatt cttttgaagc gtctacacaa gggccattta aaacacctat tgcagcagga
+     1081 cgggggggag cgcaaacaga tgaaaatcaa gcagcagatg gtgatccaag atatgcattt
+     1141 ggtagacaac atggtcaaaa aactactaca acaggagaaa cacctgagag atttacatat
+     1201 atagcacatc aagatacagg aagatatcca gaaggagatt ggattcaaaa tattaacttt
+     1261 aaccttcctg taacaaatga taatgtattg ctaccaacag atccaattgg aggtaaaaca
+     1321 ggaattaact atactaatat atttaatact tatggtcctt taactgcatt aaataatgta
+     1381 ccaccagttt atccaaatgg tcaaatttgg gataaagaat ttgatactga cttaaaacca
+     1441 agacttcatg taaatgcacc atttgtttgt cagaataatt gtcctggtca attatttgta
+     1501 aaagttgcgc ctaatttaac gaatgaatat gatcctgatg catctgctaa tatgtcaaga
+     1561 attgtaactt attcagattt ttggtggaaa ggtaaattag tatttaaagc taaactaaga
+     1621 gcatctcata cttggaatcc aattcaacaa atgagtatta atgtagataa ccaatttaac
+     1681 tatgtaccaa ataatattgg agctatgaaa attgtatatg aaaaatctca actagcacct
+     1741 agaaaattat attaa
+//

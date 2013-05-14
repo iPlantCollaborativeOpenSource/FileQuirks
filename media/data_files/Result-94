@@ -1,0 +1,69 @@
+LOCUS       DA000009                 815 bp    mRNA    linear   EST 08-JAN-2008
+DEFINITION  Homo sapiens cDNA clone 3NB691000011, 5' end, mRNA sequence.
+ACCESSION   DA000009
+VERSION     DA000009.1
+KEYWORDS    EST (expressed sequence tag); oligo capping; 5'-end sequence
+            (5'-EST).
+SOURCE      Homo sapiens
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 815)
+  AUTHORS   Isogai,T. and Yamamoto,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2005) to the DDBJ/EMBL/GenBank databases.
+            Contact:Takao Isogai
+            FLJ Project (HRI Team); 2-6-7 Kazusa-Kamatari, Kisarazu, Chiba
+            292-0818, Japan
+            E-mail :flj-cdna@nifty.com
+REFERENCE   2  
+  AUTHORS   Wakamatsu,A., Ota,T., Sugiyama,T., Ishii,S., Yamamoto,J.,
+            Suzuki,Y., Isono,Y., Saito,K., Nagai,K., Sugano,S. and Isogai,T.
+  TITLE     NEDO human cDNA sequencing project
+  JOURNAL   Unpublished (2005)
+REFERENCE   3  
+  AUTHORS   Kimura,K., Wakamatsu,A., Suzuki,Y., Ota,T., Nishikawa,T.,
+            Yamashita,R., Yamamoto,J., Sekine,M., Tsuritani,K., Wakaguri,H.,
+            Ishii,S., Sugiyama,T., Saito,K., Isono,Y., Irie,R., Kushida,N.,
+            Yoneyama,T., Otsuka,R., Kanda,K., Yokoi,T., Kondo,H.,
+            Wagatsuma,M., Murakawa,K., Ishida,S., Ishibashi,T.,
+            Takahashi-Fujii,A., Tanase,T., Nagai,K., Kikuchi,H., Nakai,K.,
+            Isogai,T. and Sugano,S.
+  TITLE     Diversification of Transcriptional Modulation: Large-scale
+            Identification and Characterization of Putative Alternative
+            Promoters of Human Genes
+  JOURNAL   Genome Res. 16, 55-65 (2006)
+COMMENT     NEDO human cDNA project (New Energy and Industrial Technology
+            Developmental Organization, Japan); cDNA library construction:
+            Helix Research Institute (HRI); 5'-end  one pass sequencing: HRI,
+            Research Association for Biotechnology (RAB) and Biotechnology
+            Center, National Institute of Technology and Evaluation; 3'-end
+            one pass sequencing: RAB.
+FEATURES             Location/Qualifiers
+     source          1..815
+                     /cell_line="NB69"
+                     /cell_type="neuroblastoma"
+                     /clone="3NB691000011"
+                     /clone_lib="3NB691"
+                     /db_xref="taxon:9606"
+                     /mol_type="mRNA"
+                     /note="cloning vector: pME18SFL3"
+                     /organism="Homo sapiens"
+BASE COUNT          245 a          168 c          204 g          196 t
+ORIGIN      
+        1 gggctcattg cggtgtgcgc cctgcactct gtccctcact cgccgccgac gacctgtctc
+       61 gccgagcgca cgccttgccg ccgccccgca gaaatgcttc ggttacccac agtctttcgc
+      121 cagatgagac cggtgtccag ggtactggct cctcatctca ctcgggctta tgccaaagat
+      181 gtaaaatttg gtgcagatgc ccgagcctta atgcttcaag gtgtagacct tttagccgat
+      241 gctgtggccg ttacaatggg gccaaaggga agaacagtgg ttattgagca gagttgggga
+      301 agtcccaaag taacaaaaga tggtgtgact gttgcaaagt caattgactt aaaagataaa
+      361 tacgagaaca ttggagctaa acttgttcaa gatgttgcca ataacacaaa tgaagaagct
+      421 ggggatggca ctaccactgc tactgtactg gcacgctcta tagccaagga aggcttcgag
+      481 aagattagca aaggtgctaa tccagtggaa atcaggagag gtgtgatgtt agctgttgat
+      541 gctgtaattg ctgaacttaa aaagcagtct aaacctgtga ccacccctga agaaattgca
+      601 caggttgcta cgatttctgc aaacggagac aaagaaattg gcaatatcat ctctgatgca
+      661 atgaaaaaag ttggaagaaa gggtgtcatc acagtaaagg atggaaaaac actgaatgat
+      721 gaattagaaa ttattgaagg catgaagttt gatcgangct atatttctnc atactttatt
+      781 aatacatcaa aaggtcagaa atgtgaattt caagg
+//

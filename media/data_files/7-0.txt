@@ -1,0 +1,9 @@
+\\\
+ENTRY           sample 
+TITLE           sample, 87 bases, 19E6 checksum.
+SEQUENCE        
+                5        10        15        20        25        30
+      1  G G T G C T G A G A G A C A A C A T C C A G G G C A T C A C
+     31  C A A G C C C G C C A T C A G A A G A C T G G C C A G A A G
+     61  A G G C G G C G T G A A G A G A A T C A G C G G C C T
+///

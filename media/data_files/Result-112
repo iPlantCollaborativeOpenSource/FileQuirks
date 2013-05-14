@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AQ000009</LOCUS>
+<LENGTH>448</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>GSS</DIVISION>
+<LAST_UPDATE>26-JUN-1998</LAST_UPDATE>
+
+<DEFINITION>CIT-HSP-2172L14.TR CIT-HSP Homo sapiens genomic clone 2172L14,genomic survey sequence.</DEFINITION>
+<ACCESSION>AQ000009</ACCESSION>
+<VERSION>AQ000009.1</VERSION>
+<KEYWORDS>GSS.</KEYWORDS>
+
+<SOURCE>Homo sapiens</SOURCE>
+<ORGANISM>Homo sapiens</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;Catarrhini; Hominidae; Homo.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Adams,M.D., Rounsley,S.D., Zhao,S., Field,C.E., Bass,S., Linher,K.,Golden,K., Berry,K., Granger,D., Suh,E., Wible,C., Shizuya,H.,Simon,M. and Venter,J.C.</authors>
+     <title>Use of a random BAC End Sequence Database for Sequence-Ready MapBuilding (1998)</title>
+     <journal>Unpublished (1998)</journal>
+</REFERENCE>
+<COMMENT>Other_GSSs: CIT-HSP-2172L14.TFContact: Mark AdamsDepartment of Eukaryotic GenomicsThe Institute for Genomic Research9712 Medical Center Dr., Rockville, MD 20850, USATel: 301 838 0200Fax: 301 838 0208Email: mdadams@tigr.orgClones are available from Research Genetics (info@resgen.com). BACend search page:http://www.tigr.org/tdb/humgen/bac_end_search/bac_end_search.htmlSeq primer: M13 ReverseClass: BAC ends.</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..448</location>
+     <qualifiers name="organism">Homo sapiens</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="db_xref">GDB:7103952</qualifiers>
+     <qualifiers name="db_xref">taxon:9606</qualifiers>
+     <qualifiers name="clone">2172L14</qualifiers>
+     <qualifiers name="sex">Male</qualifiers>
+     <qualifiers name="cell_type">Sperm</qualifiers>
+     <qualifiers name="clone_lib">CIT-HSP</qualifiers>
+     <qualifiers name="note">Vector: pBeloBAC11; Site_1: HindIII; Site_2:HindIII</qualifiers>
+</source>
+</FEATURES>
+
+<BASE_COUNT A="        129 " C="         64 " G="        122 " T="        133 "/>
+<SEQUENCE>atactcaagctttaaggatgagaagagtttggtatggtctagaagctaacagtaggctagggtcatggaatgaattgggtgagatggatggtagtcaaacatgaggttgcagggccttgattatgtagagtgttgcaggcagaagctaagtgtttgccatgctaggtacaataaaaagccattgatatgttttcagcagacagaggagtgaaggtggactgttacatttcaaacaggccaaatttacatttgaaaagatttatttggctgctctattgagtataaattggagcgagacatgttagaagcctgcaggaagaatacagatagcgtggttgaaggtgagagaatagattttaggaatacttgtttgtgttggtggctgtgccatcagatccacccctcactgttaacttttctattctgcgtttcaggctgcattccttga</SEQUENCE>
+</DDBJXML>

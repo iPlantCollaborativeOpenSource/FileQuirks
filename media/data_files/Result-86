@@ -1,0 +1,67 @@
+LOCUS       AB027951                 604 bp    DNA     linear   PLN 21-JUN-2001
+DEFINITION  Schizosaccharomyces pombe gene for Hypothetical protein, partial
+            cds, clone:TB56.
+ACCESSION   AB027951
+VERSION     AB027951.1
+KEYWORDS    .
+SOURCE      Schizosaccharomyces pombe
+  ORGANISM  Schizosaccharomyces pombe
+            Eukaryota; Fungi; Ascomycota; Schizosaccharomycetes;
+            Schizosaccharomycetales; Schizosaccharomycetaceae;
+            Schizosaccharomyces.
+REFERENCE   1  (bases 1 to 604)
+  AUTHORS   Ding,D., Tomita,Y. and Hiraoka,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-1999) to the DDBJ/EMBL/GenBank databases.
+            Contact:Da-Qiao Ding
+            Communications Research Laboratory, Kansai Advanced Research
+            Center; 588-2, Iwaoka, Iwaoka-cho, Nishiku, Kobe, Hyogo 651-2401,
+            Japan
+REFERENCE   2
+  AUTHORS   Ding,D.Q., Tomita,Y., Yamamoto,A., Chikashige,Y., Haraguchi,T. and
+            Hiraoka,Y.
+  TITLE     Large-scale screening of intracellular protein localization in
+            living fission yeast cells by the use of a GFP-fusion genomic DNA
+            library
+  JOURNAL   Genes Cells 5, 169-190 (2000)
+COMMENT     An S. pombe gene library in which genomic DNA fragments are fused
+            to the 5'-end of the GFP-S65T gene was constructed. S. pombe
+            strain was transformed with the library DNA amplified in E.coli.
+            Plasmids of those transformants that showed interesting GFP
+            localization were isolated, and their nucleotide sequences were
+            determined. Detailed information and images can be seen in our web
+            site (http://www-karc.crl.go.jp/bio/CellMagic/). Note: Only major
+            localization is described for each clone in most cases. Because it
+            is a random fusion of DNA fragment with the GFP gene, the
+            subcellular localization of the fusion protein may differ from
+            that of the full-length gene product.
+FEATURES             Location/Qualifiers
+     source          1..604
+                     /clone="TB56"
+                     /mol_type="genomic DNA"
+                     /note="subcellular localization of GFP fusion; Membrane"
+                     /organism="Schizosaccharomyces pombe"
+                     /strain="968 h90"
+     CDS             <1..>604
+                     /codon_start=1
+                     /gene="SPBC3E7.06C"
+                     /product="Hypothetical protein"
+                     /protein_id="BAA87255.1"
+                     /translation="NDSIKDSSKNNKDVAEVNEYPRRPESSVSVVSNSPHRQDAATTN
+                     TVSTVSVSKVLPALLLGVVLAALDNTIVASTYTKIGAEFGKFSQVSWTATAYMISCTA
+                     FQPLFGKFCDIYGRKKTLLAAYCVFGIGCFLCGTSRSLWQLVAARAIAGIGGGGMNST
+                     VSILMSDIVPLKQRGTYQGIINVFFAIGSSLGGPVGGYFAD"
+BASE COUNT          152 a          119 c          143 g          190 t
+ORIGIN      
+        1 aatgactcta tcaaagattc ttccaaaaac aacaaggatg ttgctgaagt gaacgagtac
+       61 cctcgtaggc cagaatcttc agtgtctgta gttagcaatt cgcctcatcg ccaggatgca
+      121 gcgacgacta atactgtgtc tacagtttct gtttccaaag ttcttccggc gttattgttg
+      181 ggtgttgttt tggctgcttt agacaatacc attgtcgcct ctacgtatac gaaaattggt
+      241 gccgaatttg gaaagtttag tcaagtttca tggaccgcta cagcatacat gatatcttgc
+      301 actgcgttcc aaccattgtt cggaaaattt tgcgatatct atgggaggaa aaagactctt
+      361 ctggcggctt actgtgtatt tggaataggc tgcttccttt gtggtacttc tcgctcttta
+      421 tggcagctag tagcagctcg agctattgct ggaattggtg gaggaggcat gaattcgact
+      481 gtaagcattt taatgagcga tatcgtgcct ttaaaacaaa gaggaactta ccaaggaatt
+      541 ataaatgtat tttttgctat cggttcaagc cttggcggac cagtgggtgg ttactttgcc
+      601 gatc
+//

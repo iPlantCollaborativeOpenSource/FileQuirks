@@ -1,0 +1,1536 @@
+FASTA searches a protein or DNA sequence data bank
+ version 3.4t26 July 7, 2006
+Please cite:
+ W.R. Pearson & D.J. Lipman PNAS (1988) 85:2444-2448
+
+Query library /result/fasta/query/20090529222910_32730 vs /db/pub/db/b/UNIPROT.DATA/uniprot.seq library
+searching /db/pub/db/b/UNIPROT.DATA/uniprot.seq library
+
+  1>>> query 60 aa - 60 aa
+ vs  /db/pub/db/b/UNIPROT.DATA/uniprot.seq library
+
+       opt      E()
+< 20  6411     0:=
+  22    27     0:=          one = represents 10195 library sequences
+  24   144     6:*
+  26   304   135:*
+  28  1242  1460:*
+  30  5648  8870:*
+  32 21820 34298:===*
+  34 74509 93013:======== *
+  36 175208 191026:==================*
+  38 326028 315695:==============================*=
+  40 479739 440367:===========================================*====
+  42 556602 538295:====================================================*==
+  44 611688 593789:==========================================================*=
+  46 587986 604789:========================================================== *
+  48 548812 579016:======================================================  *
+  50 500377 528354:================================================== *
+  52 444025 464512:============================================ *
+  54 385584 396774:======================================*
+  56 332974 331428:================================*
+  58 272757 272096:==========================*
+  60 222077 220414:=====================*
+  62 182312 176707:=================*
+  64 146608 140534:=============*=
+  66 112698 111074:==========*=
+  68 95077 87368:========*=
+  70 71928 68467:======*=
+  72 59128 53500:=====*
+  74 43115 41712:====*
+  76 33431 32466:===*
+  78 27157 25235:==*
+  80 22886 19595:=*=
+  82 19116 14990:=*
+  84 16075 11874:=*
+  86 11456  9187:*=
+  88 10203  7109:*=         inset = represents 122 library sequences
+  90  7435  5500:*
+  92  6098  4256:*         :==================================*=====
+  94  5372  3293:*         :==========================*=============
+  96  4027  2548:*         :====================*=============
+  98  2717  1971:*         :================*======
+ 100  2084  1525:*         :============*=====
+ 102  1391  1180:*         :=========*==
+ 104  1072   913:*         :=======*=
+ 106   756   707:*         :=====*=
+ 108   630   547:*         :====*=
+ 110   495   423:*         :===*=
+ 112   371   327:*         :==*=
+ 114   336   253:*         :==*
+ 116   231   196:*         :=*
+ 118   213   152:*         :=*
+>120  1019   117:*         :*========
+2093259796 residues in 6439399 sequences
+ statistics sampled from 60000 to 6438465 sequences
+  Expectation_n fit: rho(ln(x))= 3.9262+/-0.000185; mu= 7.6790+/- 0.010
+ mean_var=55.4668+/-10.691, 0's: 48 Z-trim: 51  B-trim: 0 in 0/64
+ Lambda= 0.172210
+ Kolmogorov-Smirnov  statistic: 0.0110 (N=29) at  54
+
+FASTA (3.49 May 2006) function [optimized, BL50 matrix (15:-5)] ktup: 2
+ join: 36, opt: 24, open/ext: -10/-2, width:  16
+ Scan time: 129.970
+The best scores are:                                      opt bits E(6439399)
+sp|O00622|CYR61_HUMAN RecName: Full=Protein CYR61; ( 381)  425 113.2 1.2e-23
+sp|A5A6L1|CYR61_PANTR RecName: Full=Protein CYR61; ( 381)  425 113.2 1.2e-23
+tr|Q6FI18|Q6FI18_HUMAN CYR61 protein (Cysteine-ric ( 381)  425 113.2 1.2e-23
+tr|Q53FA4|Q53FA4_HUMAN Cysteine-rich, angiogenic i ( 381)  425 113.2 1.2e-23
+tr|Q3ZC35|Q3ZC35_BOVIN Cysteine-rich, angiogenic i ( 382)  391 104.8 4.3e-21
+tr|Q3TX21|Q3TX21_MOUSE Osteoclast-like cell cDNA,  ( 379)  389 104.3 6.1e-21
+sp|P18406|CYR61_MOUSE RecName: Full=Protein CYR61; ( 379)  389 104.3 6.1e-21
+sp|Q9ES72|CYR61_RAT RecName: Full=Protein CYR61; A ( 379)  387 103.8 8.6e-21
+tr|Q66HT5|Q66HT5_RAT Cysteine rich protein 61.     ( 379)  387 103.8 8.6e-21
+tr|Q9WTM9|Q9WTM9_RAT CYR61 precursor.              ( 379)  383 102.8 1.7e-20
+sp|P19336|CEF10_CHICK RecName: Full=Protein CEF-10 ( 375)  286 78.7   3e-13
+tr|Q5BL74|Q5BL74_XENTR Cyr61 protein.              ( 375)  276 76.2 1.7e-12
+tr|Q98TX5|Q98TX5_XENLA Secreted cysteine-rich prot ( 375)  276 76.2 1.7e-12
+tr|Q4RJ69|Q4RJ69_TETNG Chromosome 1 SCAF15039, who ( 361)  242 67.7 5.8e-10
+tr|Q4RAL4|Q4RAL4_TETNG Chromosome undetermined SCA ( 127)  228 63.7 3.2e-09
+tr|Q6NWA0|Q6NWA0_DANRE Zgc:85866.                  ( 369)  226 63.7 9.2e-09
+tr|Q3B7E1|Q3B7E1_DANRE Ctgf protein (Fragment).    ( 249)  216 61.1   4e-08
+tr|Q567D8|Q567D8_DANRE Ctgf protein (Fragment).    ( 249)  216 61.1   4e-08
+sp|Q9Z0G4|WISP2_MOUSE RecName: Full=WNT1-inducible ( 251)  215 60.8 4.7e-08
+tr|Q5RI33|Q5RI33_DANRE Connective tissue growth fa ( 345)  216 61.2 4.9e-08
+tr|Q8WYK7|Q8WYK7_HUMAN WNT1 inducible signaling pa ( 230)  211 59.8 8.9e-08
+tr|A2AHD1|A2AHD1_MOUSE WNT1 inducible signaling pa ( 251)  211 59.8 9.4e-08
+tr|Q05DJ5|Q05DJ5_HUMAN WISP3 protein.              ( 219)  210 59.5   1e-07
+tr|Q6IN11|Q6IN11_RAT Ctgf protein.                 ( 287)  211 59.9   1e-07
+tr|Q3KR30|Q3KR30_HUMAN WISP3 protein.              ( 237)  210 59.6 1.1e-07
+tr|O95958|O95958_HUMAN Lost in inflammatory breast ( 331)  211 60.0 1.1e-07
+sp|Q9R1E9|CTGF_RAT RecName: Full=Connective tissue ( 347)  211 60.0 1.2e-07
+tr|Q5H8W4|Q5H8W4_HUMAN WNT1 inducible signaling pa ( 354)  211 60.0 1.2e-07
+sp|O95389|WISP3_HUMAN RecName: Full=WNT1-inducible ( 354)  211 60.0 1.2e-07
+tr|Q3KR29|Q3KR29_HUMAN WNT1 inducible signaling pa ( 372)  211 60.0 1.2e-07
+tr|Q5BKN7|Q5BKN7_XENTR Connective tissue growth fa ( 343)  207 59.0 2.3e-07
+tr|A9UMN6|A9UMN6_XENLA Putative uncharacterized pr ( 385)  207 59.0 2.5e-07
+sp|P29279|CTGF_HUMAN RecName: Full=Connective tiss ( 349)  206 58.7 2.8e-07
+tr|B0KWA1|B0KWA1_CALJA Connective tissue growth fa ( 349)  206 58.7 2.8e-07
+tr|Q5M8T4|Q5M8T4_HUMAN Connective tissue growth fa ( 349)  206 58.7 2.8e-07
+tr|B2RCP7|B2RCP7_HUMAN cDNA, FLJ96197, highly simi ( 349)  206 58.7 2.8e-07
+sp|P29268|CTGF_MOUSE RecName: Full=Connective tiss ( 348)  205 58.5 3.3e-07
+tr|A9X180|A9X180_PAPAN Connective tissue growth fa ( 349)  205 58.5 3.3e-07
+sp|P51609|NOV_XENLA RecName: Full=Protein NOV homo ( 343)  204 58.2 3.9e-07
+tr|Q505L5|Q505L5_XENLA Ctgf protein.               ( 343)  202 57.7 5.5e-07
+sp|O18739|CTGF_BOVIN RecName: Full=Connective tiss ( 349)  202 57.8 5.5e-07
+tr|Q9PT80|Q9PT80_NOTVI Connective tissue growth fa ( 347)  200 57.3 7.8e-07
+tr|Q4SC24|Q4SC24_TETNG Chromosome 14 SCAF14660, wh ( 357)  200 57.3   8e-07
+tr|Q6PEG3|Q6PEG3_HUMAN WISP2 protein (WNT1 inducib ( 218)  197 56.3 9.5e-07
+tr|B2R9N4|B2R9N4_HUMAN cDNA, FLJ94482, Homo sapien ( 250)  197 56.4   1e-06
+sp|O76076|WISP2_HUMAN RecName: Full=WNT1-inducible ( 250)  197 56.4   1e-06
+tr|Q6INN3|Q6INN3_XENLA Putative uncharacterized pr ( 343)  198 56.8 1.1e-06
+tr|O42607|O42607_XENLA Connective tissue growth fa ( 343)  197 56.5 1.3e-06
+tr|Q6IR79|Q6IR79_XENLA MGC82209 protein.           ( 385)  196 56.3 1.7e-06
+tr|Q9PSS6|Q9PSS6_CHICK Potential IGF binding prote ( 176)  191 54.7 2.3e-06
+sp|P28686|NOV_CHICK RecName: Full=Protein NOV; Alt ( 351)  191 55.0 3.7e-06
+tr|B2KI47|B2KI47_RHIFE Connective tissue growth fa ( 348)  190 54.8 4.4e-06
+tr|Q6FHL8|Q6FHL8_HUMAN CTGF protein.               ( 349)  190 54.8 4.4e-06
+sp|P42642|NOV_COTJA RecName: Full=Protein NOV; Alt ( 353)  190 54.8 4.4e-06
+tr|A7E3X4|A7E3X4_BOVIN WNT1 inducible signaling pa ( 250)  188 54.1 4.9e-06
+sp|Q9JHC6|WISP2_RAT RecName: Full=WNT1-inducible-s ( 250)  187 53.9 5.9e-06
+tr|B2R5X7|B2R5X7_HUMAN cDNA, FLJ92674, highly simi ( 357)  187 54.0 7.5e-06
+tr|Q6I9S3|Q6I9S3_HUMAN NOV protein.                ( 357)  187 54.0 7.5e-06
+sp|P48745|NOV_HUMAN RecName: Full=Protein NOV homo ( 357)  187 54.0 7.5e-06
+sp|Q9QZQ5|NOV_RAT RecName: Full=Protein NOV homolo ( 351)  185 53.5   1e-05
+tr|Q4S690|Q4S690_TETNG Chromosome 9 SCAF14729, who ( 684)  187 54.3 1.2e-05
+tr|Q3U2X7|Q3U2X7_MOUSE NOD-derived CD11c +ve dendr ( 354)  184 53.3 1.2e-05
+sp|Q64299|NOV_MOUSE RecName: Full=Protein NOV homo ( 354)  184 53.3 1.2e-05
+tr|B0S5F5|B0S5F5_DANRE Novel protein similar to ve ( 371)  184 53.3 1.3e-05
+tr|Q567G9|Q567G9_DANRE Zgc:112060.                 ( 383)  183 53.1 1.6e-05
+tr|A2CF35|A2CF35_DANRE Novel protein (Zgc:112060). ( 383)  183 53.1 1.6e-05
+tr|Q5M8V9|Q5M8V9_XENTR WNT1 inducible signaling pa ( 312)  180 52.2 2.3e-05
+tr|Q9UDE4|Q9UDE4_HUMAN Potential IGF binding prote (  77)  174 50.1 2.5e-05
+tr|Q5U3J9|Q5U3J9_DANRE Cyr61 protein (Fragment).   ( 249)  176 51.1 3.9e-05
+tr|Q2HJ34|Q2HJ34_BOVIN Nephroblastoma overexpresse ( 346)  177 51.5 4.1e-05
+tr|Q4ZJF1|Q4ZJF1_CHICK WNT1 inducible signaling pa ( 359)  177 51.6 4.2e-05
+tr|Q6GLV2|Q6GLV2_XENLA MGC84196 protein.           ( 221)  175 50.8 4.3e-05
+tr|A2RRU7|A2RRU7_DANRE Cysteine-rich, angiogenic i ( 346)  176 51.3 4.9e-05
+tr|A6XA79|A6XA79_DANRE Connective tissue growth fa ( 347)  176 51.3 4.9e-05
+tr|A5PN60|A5PN60_DANRE Novel protein similar to ve ( 351)  176 51.3 4.9e-05
+tr|Q3UFJ5|Q3UFJ5_MOUSE Adult pancreas islet cells  ( 367)  176 51.3 5.1e-05
+sp|O54775|WISP1_MOUSE RecName: Full=WNT1-inducible ( 367)  176 51.3 5.1e-05
+sp|Q99PP0|WISP1_RAT RecName: Full=WNT1-inducible-s ( 367)  176 51.3 5.1e-05
+tr|A5WW17|A5WW17_DANRE Novel protein similar to ve ( 308)  175 51.0 5.3e-05
+tr|Q98TQ8|Q98TQ8_CHICK Connective tissue growth fa ( 344)  175 51.0 5.7e-05
+tr|Q5JBS6|Q5JBS6_HUMAN WISP1i.                     ( 163)  171 49.7 6.9e-05
+tr|Q4SH80|Q4SH80_TETNG Chromosome 8 SCAF14587, who ( 318)  173 50.5 7.7e-05
+sp|O95388|WISP1_HUMAN RecName: Full=WNT1-inducible ( 367)  171 50.1 0.00012
+tr|A8KAG6|A8KAG6_HUMAN cDNA FLJ75838, highly simil ( 367)  171 50.1 0.00012
+tr|Q4SUZ2|Q4SUZ2_TETNG Chromosome 21 SCAF13835, wh ( 359)  170 49.8 0.00014
+tr|Q5SNS2|Q5SNS2_DANRE Novel protein similar to hu ( 351)  165 48.6 0.00033
+tr|Q6PFL2|Q6PFL2_DANRE Zgc:85866 protein (Fragment ( 400)  157 46.6  0.0014
+sp|O19113|CTGF_PIG RecName: Full=Connective tissue ( 349)  156 46.3  0.0015
+tr|A8WG98|A8WG98_DANRE Putative uncharacterized pr ( 356)  156 46.3  0.0016
+tr|B0AZN1|B0AZN1_HUMAN cDNA, FLJ79471, highly simi ( 367)  154 45.9  0.0022
+
+>>sp|O00622|CYR61_HUMAN RecName: Full=Protein CYR61; Alt  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.0  bits: 113.2 E(): 1.2e-23
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|O00 MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|O00 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|A5A6L1|CYR61_PANTR RecName: Full=Protein CYR61; Alt  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.0  bits: 113.2 E(): 1.2e-23
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|A5A MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|A5A NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q6FI18|Q6FI18_HUMAN CYR61 protein (Cysteine-rich, a  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.0  bits: 113.2 E(): 1.2e-23
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+tr|Q6F MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q6F NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q53FA4|Q53FA4_HUMAN Cysteine-rich, angiogenic induc  (381 aa)
+ initn: 425 init1: 425 opt: 425  Z-score: 579.0  bits: 113.2 E(): 1.2e-23
+Smith-Waterman score: 425;  100.000% identity (100.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+tr|Q53 MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q53 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPSCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q3ZC35|Q3ZC35_BOVIN Cysteine-rich, angiogenic induc  (382 aa)
+ initn: 391 init1: 391 opt: 391  Z-score: 533.3  bits: 104.8 E(): 4.3e-21
+Smith-Waterman score: 391;  90.000% identity (98.333% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::: ::.:::.::::::.::::::::.::::::::::::::::::::.:::::::::::
+tr|Q3Z MSSRTARTLALAVTLLHLARLALSTCPTACHCPLEAPKCAPGVGLVRDACGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q3Z NEDCSKTQPCDHTKGLECNFGANSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q3TX21|Q3TX21_MOUSE Osteoclast-like cell cDNA, RIKE  (379 aa)
+ initn: 389 init1: 389 opt: 389  Z-score: 530.7  bits: 104.3 E(): 6.1e-21
+Smith-Waterman score: 389;  90.000% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   :.::..::::::::::::::::::::::::::::::::::::::::::::::::
+tr|Q3T MSSSTFRTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q3T NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|P18406|CYR61_MOUSE RecName: Full=Protein CYR61; Alt  (379 aa)
+ initn: 389 init1: 389 opt: 389  Z-score: 530.7  bits: 104.3 E(): 6.1e-21
+Smith-Waterman score: 389;  90.000% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   :.::..::::::::::::::::::::::::::::::::::::::::::::::::
+sp|P18 MSSSTFRTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|P18 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|Q9ES72|CYR61_RAT RecName: Full=Protein CYR61; AltNa  (379 aa)
+ initn: 387 init1: 387 opt: 387  Z-score: 528.0  bits: 103.8 E(): 8.6e-21
+Smith-Waterman score: 387;  88.333% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   ..::..::::::::::::::::::::::::::::::::::::::::::::::::
+sp|Q9E MSSSTIKTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+sp|Q9E NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q66HT5|Q66HT5_RAT Cysteine rich protein 61.          (379 aa)
+ initn: 387 init1: 387 opt: 387  Z-score: 528.0  bits: 103.8 E(): 8.6e-21
+Smith-Waterman score: 387;  88.333% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   ..::..::::::::::::::::::::::::::::::::::::::::::::::::
+tr|Q66 MSSSTIKTLAVAVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q66 NEDCSKTQPCDHTKGLECNFGASSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>tr|Q9WTM9|Q9WTM9_RAT CYR61 precursor.                   (379 aa)
+ initn: 383 init1: 383 opt: 383  Z-score: 522.6  bits: 102.8 E(): 1.7e-20
+Smith-Waterman score: 383;  86.667% identity (95.000% similar) in 60 aa overlap (1-60:1-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+       :::   ..::..::::::::::::::::.:::::::::::::::::::::::::::::::
+tr|Q9W MSSSTIKTLAVAVTLLHLTRLALSTCPASCHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+               10        20        30        40        50        60
+
+tr|Q9W NEDCSKTQPCDHTKGLECNFGANSTALKGICRAQSEGRPCEYNSRIYQNGESFQPNCKHQ
+               70        80        90       100       110       120
+
+>>sp|P19336|CEF10_CHICK RecName: Full=Protein CEF-10; Fl  (375 aa)
+ initn: 249 init1: 249 opt: 286  Z-score: 392.5  bits: 78.7 E(): 3e-13
+Smith-Waterman score: 286;  70.492% identity (83.607% similar) in 61 aa overlap (1-60:1-60)
+
+               10        20         30        40        50         
+       MSSRIARALALVVTLLHLTRLAL-STCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+       :.:  ::  ::...:: :.:::: : :::.:.::  ::.:::::::: ::::::::::::
+sp|P19 MGSAGARP-ALAAALLCLARLALGSPCPAVCQCPAAAPQCAPGVGLVPDGCGCCKVCAKQ
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|P19 LNEDCSRTQPCDHTKGLECNFGASPAATNGICRAQSEGRPCEYNSKIYQNGESFQPNCKH
+      60        70        80        90       100       110         
+
+>>tr|Q5BL74|Q5BL74_XENTR Cyr61 protein.                   (375 aa)
+ initn: 273 init1: 273 opt: 276  Z-score: 379.0  bits: 76.2 E(): 1.7e-12
+Smith-Waterman score: 276;  70.588% identity (90.196% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLH-LTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :.:.::  .  ::.:.:::.:.::.:.::::::::.: ::::::::::::
+tr|Q5B  MSFLALNPILAVALLSGIIDLAVSSCPAVCQCPVEVPKCAPGVGMVLDGCGCCKVCAKQ
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|Q5B LNEDCSKTHPCDHTKGLECNFGASSRAIKGICRAKSEGRPCEYNSKIYQNGESFQPNCKH
+      60        70        80        90       100       110         
+
+>>tr|Q98TX5|Q98TX5_XENLA Secreted cysteine-rich protein   (375 aa)
+ initn: 272 init1: 272 opt: 276  Z-score: 379.0  bits: 76.2 E(): 1.7e-12
+Smith-Waterman score: 276;  62.712% identity (84.746% similar) in 59 aa overlap (3-60:2-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLH-LTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+         : .:   .:...::  .  ::.:.:::.:.::.:.:::::::::: :::::::.::::
+tr|Q98  MSFLALNPVLAIALLSGFIDLAVSSCPAVCQCPVEVPKCAPGVGLVLDGCGCCKICAKQ
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|Q98 LNEDCSKTHPCDHTKGLECNFGASSRAIKGICRAKSEGRPCEYNSKIYQNGESFQPNCKH
+      60        70        80        90       100       110         
+
+>>tr|Q4RJ69|Q4RJ69_TETNG Chromosome 1 SCAF15039, whole g  (361 aa)
+ initn: 241 init1: 241 opt: 242  Z-score: 333.6  bits: 67.7 E(): 5.8e-10
+Smith-Waterman score: 242;  67.442% identity (86.047% similar) in 43 aa overlap (18-60:1-43)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                        :.  . :.::: :.:::: :.:::::..: ::::::::::.::
+tr|Q4R                  LSSSSSSSCPAMCECPLEMPHCAPGVSVVLDGCGCCKVCARQL
+                                10        20        30        40   
+
+tr|Q4R NEDCSLTEPCDHTKGLECNFGASFAGATTRGICRAKSEGRPCEYSSRIYQNGESFQPNCK
+            50        60        70        80        90       100   
+
+>>tr|Q4RAL4|Q4RAL4_TETNG Chromosome undetermined SCAF233  (127 aa)
+ initn: 228 init1: 228 opt: 228  Z-score: 320.3  bits: 63.7 E(): 3.2e-09
+Smith-Waterman score: 228;  71.053% identity (84.211% similar) in 38 aa overlap (23-60:1-38)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                             ...::::: :: :.: : :::.:: :::::::::: ::
+tr|Q4R                       VASCPAACDCPAETPVCPPGVSLVPDGCGCCKVCAAQL
+                                     10        20        30        
+
+tr|Q4R NQDCSSARPCDHHKGLECNYGNDVTVAWGICRARSDGRTCEYNGRIYQNGEAFRAGCKHQ
+       40        50        60        70        80        90        
+
+>>tr|Q6NWA0|Q6NWA0_DANRE Zgc:85866.                       (369 aa)
+ initn: 214 init1: 214 opt: 226  Z-score: 312.0  bits: 63.7 E(): 9.2e-09
+Smith-Waterman score: 226;  52.830% identity (73.585% similar) in 53 aa overlap (8-60:3-55)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+              : :..: ..    .. :.:::.: :  .::.: ::::: :: :::: :::.::
+tr|Q6N      MFAWAVIVIFIAHLDMVSSSCPAVCSCAPDAPQCPPGVGLQRDTCGCCLVCARQL
+                    10        20        30        40        50     
+
+tr|Q6N NEDCSRSEPCDHSKGLECNYGASHGATRGICRAKSEGRPCEYSSRIYQNGESFQPNCKHQ
+          60        70        80        90       100       110     
+
+>>tr|Q3B7E1|Q3B7E1_DANRE Ctgf protein (Fragment).         (249 aa)
+ initn: 203 init1: 203 opt: 216  Z-score: 300.6  bits: 61.1 E(): 4e-08
+Smith-Waterman score: 216;  57.692% identity (75.000% similar) in 52 aa overlap (12-60:9-60)
+
+               10          20         30        40        50       
+       MSSRIARALALVVTLLHLT--RLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCA
+                  :..:: ::  : :..  : . ::::   :.:.:::.:: : ::::.:::
+tr|Q3B    MFSGMTQSVIALLFLTFLRWAVAQECSGQCHCPEVPPQCSPGVSLVLDTCGCCRVCA
+                  10        20        30        40        50       
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+tr|Q3B KQLGELCTERDVCDPHKGLYCDYGSPSNRRIGVCTARDGATCVFGGMVYRSGESFQSSCK
+        60        70        80        90       100       110       
+
+>>tr|Q567D8|Q567D8_DANRE Ctgf protein (Fragment).         (249 aa)
+ initn: 203 init1: 203 opt: 216  Z-score: 300.6  bits: 61.1 E(): 4e-08
+Smith-Waterman score: 216;  57.692% identity (75.000% similar) in 52 aa overlap (12-60:9-60)
+
+               10          20         30        40        50       
+       MSSRIARALALVVTLLHLT--RLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCA
+                  :..:: ::  : :..  : . ::::   :.:.:::.:: : ::::.:::
+tr|Q56    MFSGMTQSVIALLFLTFLRWAVAQECSGQCHCPEVPPQCSPGVSLVLDTCGCCRVCA
+                  10        20        30        40        50       
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+tr|Q56 KQLGELCTERDVCDPHKGLYCDYGSPSNRRIGVCTARDGATCVFGGMVYRSGESFQSSCK
+        60        70        80        90       100       110       
+
+>>sp|Q9Z0G4|WISP2_MOUSE RecName: Full=WNT1-inducible-sig  (251 aa)
+ initn: 207 init1: 207 opt: 215  Z-score: 299.2  bits: 60.8 E(): 4.7e-08
+Smith-Waterman score: 215;  50.980% identity (72.549% similar) in 51 aa overlap (11-60:10-60)
+
+               10        20         30        40        50         
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :....: .  .. :  ::: : ::   :.: ::: :: ::::::.:::..
+sp|Q9Z  MRGNPLIHLLAISFLCILSMVYSQLCPAPCACPWTPPQCPPGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|Q9Z LGESCDHLHVCDPSQGLVCQPGAGPSGRGAVCLFEEDDGSCEVNGRRYLDGETFKPNCRV
+      60        70        80        90       100       110         
+
+>>tr|Q5RI33|Q5RI33_DANRE Connective tissue growth factor  (345 aa)
+ initn: 203 init1: 203 opt: 216  Z-score: 298.9  bits: 61.2 E(): 4.9e-08
+Smith-Waterman score: 216;  57.692% identity (75.000% similar) in 52 aa overlap (12-60:9-60)
+
+               10          20         30        40        50       
+       MSSRIARALALVVTLLHLT--RLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCA
+                  :..:: ::  : :..  : . ::::   :.:.:::.:: : ::::.:::
+tr|Q5R    MFSGMTQSVIALLFLTFLRWAVAQECSGQCHCPEVPPQCSPGVSLVLDTCGCCRVCA
+                  10        20        30        40        50       
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+tr|Q5R KQLGELCTERDVCDPHKGLYCDYGSPSNRRIGVCTARDGATCVFGGMVYRSGESFQSSCK
+        60        70        80        90       100       110       
+
+>>tr|Q8WYK7|Q8WYK7_HUMAN WNT1 inducible signaling pathwa  (230 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 294.3  bits: 59.8 E(): 8.9e-08
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:48-81)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+tr|Q8W CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKI
+        20        30        40        50        60        70       
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q8W CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+        80        90       100       110       120       130       
+
+>>tr|A2AHD1|A2AHD1_MOUSE WNT1 inducible signaling pathwa  (251 aa)
+ initn: 207 init1: 207 opt: 211  Z-score: 293.9  bits: 59.8 E(): 9.4e-08
+Smith-Waterman score: 211;  49.020% identity (72.549% similar) in 51 aa overlap (11-60:10-60)
+
+               10        20         30        40        50         
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :....: .  .. .  ::: : ::   :.: ::: :: ::::::.:::..
+tr|A2A  MRGNPLIHLLAISFLCILSMVYAQLCPAPCACPWTPPQCPPGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|A2A LGESCDHLHVCDPSQGLVCQPGAGPSGRGAVCLFEEDDGSCEVNGRRYLDGETFKPNCRV
+      60        70        80        90       100       110         
+
+>>tr|Q05DJ5|Q05DJ5_HUMAN WISP3 protein.                   (219 aa)
+ initn: 203 init1: 203 opt: 210  Z-score: 293.2  bits: 59.5 E(): 1e-07
+Smith-Waterman score: 210;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:48-81)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+tr|Q05 CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPHQKPRCPPGVSLVRDGCGCCKI
+        20        30        40        50        60        70       
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q05 CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+        80        90       100       110       120       130       
+
+>>tr|Q6IN11|Q6IN11_RAT Ctgf protein.                      (287 aa)
+ initn: 156 init1: 156 opt: 211  Z-score: 293.2  bits: 59.9 E(): 1e-07
+Smith-Waterman score: 211;  51.613% identity (70.968% similar) in 62 aa overlap (1-60:1-62)
+
+               10        20         30         40        50        
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEA-PKCAPGVGLVRDGCGCCKVCAK
+       : . .:  ..:...::  :: : .  : : :.:  :: :.:  ::.:: ::::::.::::
+tr|Q6I MLASVAGPVSLALVLLLCTRPATGQDCSAQCQCAAEAAPRCPAGVSLVLDGCGCCRVCAK
+               10        20        30        40        50        60
+
+       60                                                          
+       QL                                                          
+       ::                                                          
+tr|Q6I QLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGSVYRSGESFQSSCKY
+               70        80        90       100       110       120
+
+>>tr|Q3KR30|Q3KR30_HUMAN WISP3 protein.                   (237 aa)
+ initn: 203 init1: 203 opt: 210  Z-score: 292.8  bits: 59.6 E(): 1.1e-07
+Smith-Waterman score: 210;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:66-99)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+tr|Q3K CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPHQKPRCPPGVSLVRDGCGCCKI
+          40        50        60        70        80        90     
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q3K CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+         100       110       120       130       140       150     
+
+>>tr|O95958|O95958_HUMAN Lost in inflammatory breast can  (331 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 292.4  bits: 60.0 E(): 1.1e-07
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:26-59)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                :   :.:: . :.: :::.::::::::::.:::: 
+tr|O95 MKISRGRVCLESENKDAGVAGRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKICAKQP
+               10        20        30        40        50        60
+
+tr|O95 GEICNEADLCDPHKGLYCDYSVDRPRYETGVCACKSVGCEFNQVHYHNGQVFQPNPLFSC
+               70        80        90       100       110       120
+
+>>sp|Q9R1E9|CTGF_RAT RecName: Full=Connective tissue gro  (347 aa)
+ initn: 156 init1: 156 opt: 211  Z-score: 292.2  bits: 60.0 E(): 1.2e-07
+Smith-Waterman score: 211;  51.613% identity (70.968% similar) in 62 aa overlap (1-60:1-62)
+
+               10        20         30         40        50        
+       MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEA-PKCAPGVGLVRDGCGCCKVCAK
+       : . .:  ..:...::  :: : .  : : :.:  :: :.:  ::.:: ::::::.::::
+sp|Q9R MLASVAGPVSLALVLLLCTRPATGQDCSAQCQCAAEAAPRCPAGVSLVLDGCGCCRVCAK
+               10        20        30        40        50        60
+
+       60                                                          
+       QL                                                          
+       ::                                                          
+sp|Q9R QLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGSVYRSGESFQSSCKY
+               70        80        90       100       110       120
+
+>>tr|Q5H8W4|Q5H8W4_HUMAN WNT1 inducible signaling pathwa  (354 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 292.1  bits: 60.0 E(): 1.2e-07
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:48-81)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+tr|Q5H CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKI
+        20        30        40        50        60        70       
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q5H CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+        80        90       100       110       120       130       
+
+>>sp|O95389|WISP3_HUMAN RecName: Full=WNT1-inducible-sig  (354 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 292.1  bits: 60.0 E(): 1.2e-07
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:48-81)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+sp|O95 CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKI
+        20        30        40        50        60        70       
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+sp|O95 CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+        80        90       100       110       120       130       
+
+>>tr|Q3KR29|Q3KR29_HUMAN WNT1 inducible signaling pathwa  (372 aa)
+ initn: 204 init1: 204 opt: 211  Z-score: 291.8  bits: 60.0 E(): 1.2e-07
+Smith-Waterman score: 211;  67.647% identity (82.353% similar) in 34 aa overlap (26-59:66-99)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.:: . :.: :::.::::::::::.
+tr|Q3K CCRVQGTGPLDTTPEGRPGEVSDAPQRKQFCHWPCKCPQQKPRCPPGVSLVRDGCGCCKI
+          40        50        60        70        80        90     
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q3K CAKQPGEICNEADLCDPHKGLYCDYSVDRPRYETGVCAYLVAVGCEFNQVHYHNGQVFQP
+         100       110       120       130       140       150     
+
+>>tr|Q5BKN7|Q5BKN7_XENTR Connective tissue growth factor  (343 aa)
+ initn: 207 init1: 207 opt: 207  Z-score: 286.9  bits: 59.0 E(): 2.3e-07
+Smith-Waterman score: 207;  68.571% identity (85.714% similar) in 35 aa overlap (26-60:24-58)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                : . :.:: ..: : :::.::.:::::::::::::
+tr|Q5B   MSAGKVTAVLLFALFCWVSDAQECNGECQCPHKVPVCDPGVSLVQDGCGCCKVCAKQL
+                 10        20        30        40        50        
+
+tr|Q5B GELCTERDVCDPHKGLFCDFGSRVNRKIGVCTAREGAPCVFGGTVYRSGESFQSSCKYQC
+       60        70        80        90       100       110        
+
+>>tr|A9UMN6|A9UMN6_XENLA Putative uncharacterized protei  (385 aa)
+ initn: 207 init1: 207 opt: 207  Z-score: 286.2  bits: 59.0 E(): 2.5e-07
+Smith-Waterman score: 210;  45.161% identity (70.968% similar) in 62 aa overlap (7-59:2-63)
+
+               10                 20        30        40        50 
+       MSSRIARALALVVTLLHLT---------RLALSTCPAACHCPLEAPKCAPGVGLVRDGCG
+             :..:... ::.:.         .:  ..::. : :: :: .: ::..:: :.::
+tr|A9U      MRSMAVLLPLLQLAALISTGTSGKLMEASCPTQCVCPKEAQSCPPGISLVMDSCG
+                    10        20        30        40        50     
+
+              60                                                   
+       CCKVCAKQL                                                   
+       ::::::.:                                                    
+tr|A9U CCKVCARQYNQDCGLNHPCDHIKGLHCDFGADPSSPMGICRAKSEGRSCEFFGQIYQNGE
+          60        70        80        90       100       110     
+
+>>sp|P29279|CTGF_HUMAN RecName: Full=Connective tissue g  (349 aa)
+ initn: 156 init1: 156 opt: 206  Z-score: 285.4  bits: 58.7 E(): 2.8e-07
+Smith-Waterman score: 206;  55.556% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:: :   .: :.. .: . :.:: : ::.:  ::.:: ::::::.::
+sp|P29 MTAASMGPVRVAFVVLLALCSRPAVGQNCSGPCRCPDEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|P29 AKQLGELCTERDPCDPHKGLFCHFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>tr|B0KWA1|B0KWA1_CALJA Connective tissue growth factor  (349 aa)
+ initn: 156 init1: 156 opt: 206  Z-score: 285.4  bits: 58.7 E(): 2.8e-07
+Smith-Waterman score: 206;  53.704% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:. .   .: :.: .: . :.:: : ::.:  ::.:: ::::::.::
+tr|B0K MTAAGVGTVRVAFVLLIALCSRPAVSQNCSGPCRCPAEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+tr|B0K AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>tr|Q5M8T4|Q5M8T4_HUMAN Connective tissue growth factor  (349 aa)
+ initn: 156 init1: 156 opt: 206  Z-score: 285.4  bits: 58.7 E(): 2.8e-07
+Smith-Waterman score: 206;  55.556% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:: :   .: :.. .: . :.:: : ::.:  ::.:: ::::::.::
+tr|Q5M MTAASMGPVRVAFVVLLALCSRPAVGQNCSGPCRCPDEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+tr|Q5M AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>tr|B2RCP7|B2RCP7_HUMAN cDNA, FLJ96197, highly similar   (349 aa)
+ initn: 156 init1: 156 opt: 206  Z-score: 285.4  bits: 58.7 E(): 2.8e-07
+Smith-Waterman score: 206;  55.556% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:: :   .: :.. .: . :.:: : ::.:  ::.:: ::::::.::
+tr|B2R MTAASMGPVRVAFVVLLALCSRPAVGQNCSGPCRCPDEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+tr|B2R AKQLGELCTERGPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|P29268|CTGF_MOUSE RecName: Full=Connective tissue g  (348 aa)
+ initn: 153 init1: 153 opt: 205  Z-score: 284.1  bits: 58.5 E(): 3.3e-07
+Smith-Waterman score: 205;  52.381% identity (71.429% similar) in 63 aa overlap (1-60:1-63)
+
+               10         20         30         40        50       
+       MSSRIARALALVVTLLHL-TRLALST-CPAACHCPLEA-PKCAPGVGLVRDGCGCCKVCA
+       : . .:  ..:...:: : :: : .  : : :.:  :: :.:  ::.:: ::::::.:::
+sp|P29 MLASVAGPISLALVLLALCTRPATGQDCSAQCQCAAEAAPHCPAGVSLVLDGCGCCRVCA
+               10        20        30        40        50        60
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+sp|P29 KQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGSVYRSGESFQSSCK
+               70        80        90       100       110       120
+
+>>tr|A9X180|A9X180_PAPAN Connective tissue growth factor  (349 aa)
+ initn: 158 init1: 158 opt: 205  Z-score: 284.1  bits: 58.5 E(): 3.3e-07
+Smith-Waterman score: 205;  53.704% identity (75.926% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:. :   .: :.. .: . :.:: : ::.:  ::.:: ::::::.::
+tr|A9X MTAAGVGPVRVAFVLFLAFCSRPAVGQNCSGPCRCPAEQAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+tr|A9X AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|P51609|NOV_XENLA RecName: Full=Protein NOV homolog;  (343 aa)
+ initn: 188 init1: 166 opt: 204  Z-score: 282.8  bits: 58.2 E(): 3.9e-07
+Smith-Waterman score: 204;  53.846% identity (73.077% similar) in 52 aa overlap (9-59:5-55)
+
+               10        20        30         40        50         
+       MSSRIARALALVVTLLHLTRLALSTCPAAC-HCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+               :::   :: . ..: . ::. : .:: : :.:::.: :. :::::: :::.:
+sp|P51     MTPHLALCFILL-IQQVASQKCPSQCDQCPEEPPSCAPSVLLILDGCGCCPVCARQ
+                   10         20        30        40        50     
+
+      60                                                           
+       L                                                           
+                                                                   
+sp|P51 EGESCSHLNPCQEDKGLYCEFNADPRMETGTCMALEGNSCVFDGVVYRNRESFQPSCKYH
+          60        70        80        90       100       110     
+
+>>tr|Q505L5|Q505L5_XENLA Ctgf protein.                    (343 aa)
+ initn: 202 init1: 202 opt: 202  Z-score: 280.1  bits: 57.7 E(): 5.5e-07
+Smith-Waterman score: 202;  65.714% identity (85.714% similar) in 35 aa overlap (26-60:24-58)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                : . :.:: ..: : :::.::.:::::::::.:::
+tr|Q50   MSAGKVTAVLLFALFCWVSDAQECNGECQCPNKVPVCDPGVSLVQDGCGCCKVCSKQL
+                 10        20        30        40        50        
+
+tr|Q50 GELCTERDVCDPHKGLFCDFGSRVNRKIGVCTAREGAPCVFGGTVYRSGESFQSSCKYQC
+       60        70        80        90       100       110        
+
+>>sp|O18739|CTGF_BOVIN RecName: Full=Connective tissue g  (349 aa)
+ initn: 156 init1: 156 opt: 202  Z-score: 280.1  bits: 57.8 E(): 5.5e-07
+Smith-Waterman score: 202;  56.604% identity (69.811% similar) in 53 aa overlap (10-60:12-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALST-CPAACHCPL-EAPKCAPGVGLVRDGCGCCKVC
+                  :.:. :   .: : :  : : :.::   ::.:  ::.:: ::::::.::
+sp|O18 MSATGLGPVRCAFVLLLALCSRPASSQDCSAPCQCPAGPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|O18 AKQLSELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGTVYQSGESFQSSC
+               70        80        90       100       110       120
+
+>>tr|Q9PT80|Q9PT80_NOTVI Connective tissue growth factor  (347 aa)
+ initn: 191 init1: 191 opt: 200  Z-score: 277.4  bits: 57.3 E(): 7.8e-07
+Smith-Waterman score: 200;  53.846% identity (73.077% similar) in 52 aa overlap (9-60:12-62)
+
+                  10        20        30        40        50       
+          MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCA
+                  : :.:.::  .  : . : . :.:: . :.:  :..:: ::::::::::
+tr|Q9P MSAGMGALRLPLLLAVALLSWVSCA-QDCSGECRCPNKPPECPAGTSLVMDGCGCCKVCA
+               10        20         30        40        50         
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+tr|Q9P KQLGELCTEKDVCDPHRGLFCDFGSRVNKKIGVCTAKDGAPCVFGGMVYRSGESFQSSCK
+      60        70        80        90       100       110         
+
+>>tr|Q4SC24|Q4SC24_TETNG Chromosome 14 SCAF14660, whole   (357 aa)
+ initn: 177 init1: 177 opt: 200  Z-score: 277.2  bits: 57.3 E(): 8e-07
+Smith-Waterman score: 200;  58.974% identity (71.795% similar) in 39 aa overlap (22-60:21-59)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                            : . :   : ::   :.: :::.:: ::::::.:::::.
+tr|Q4S  SGGCVNLTTGVCVCVCRAQAAAQECGKPCSCPSAPPQCPPGVSLVLDGCGCCRVCAKQM
+                10        20        30        40        50         
+
+tr|Q4S GELCTERDVCDPHKGLYCDFGARINRRIGVCTARDGATCVFGGAVYKSGETFQSSCKYQC
+      60        70        80        90       100       110         
+
+>>tr|Q6PEG3|Q6PEG3_HUMAN WISP2 protein (WNT1 inducible s  (218 aa)
+ initn: 222 init1: 189 opt: 197  Z-score: 275.8  bits: 56.3 E(): 9.5e-07
+Smith-Waterman score: 197;  49.020% identity (70.588% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLHL-TRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :. .:: : ...  . ::. : ::   :.:  :: :: ::::::.:::..
+tr|Q6P  MRGTPKTHLLAFSLLCLLSKVRTQLCPTPCTCPWPPPRCPLGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|Q6P LGEPCDQLHVCDASQGLVCQPGAGPGGRGALCLCKQDPSFLALSLPCPLVSPAQNGARPG
+      60        70        80        90       100       110         
+
+>>tr|B2R9N4|B2R9N4_HUMAN cDNA, FLJ94482, Homo sapiens WN  (250 aa)
+ initn: 222 init1: 189 opt: 197  Z-score: 275.1  bits: 56.4 E(): 1e-06
+Smith-Waterman score: 197;  49.020% identity (70.588% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLHL-TRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :. .:: : ...  . ::. : ::   :.:  :: :: ::::::.:::..
+tr|B2R  MRGTPKTHLLAFSLLCLLSKVRTQLCPTPCTCPWPPPRCPLGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|B2R LGEPCDQLHVCDASQGLVCQPGAGPGGRGALCLLAEDDSSCEVNGRLYREGETFQPHCSI
+      60        70        80        90       100       110         
+
+>>sp|O76076|WISP2_HUMAN RecName: Full=WNT1-inducible-sig  (250 aa)
+ initn: 222 init1: 189 opt: 197  Z-score: 275.1  bits: 56.4 E(): 1e-06
+Smith-Waterman score: 197;  49.020% identity (70.588% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLHL-TRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :. .:: : ...  . ::. : ::   :.:  :: :: ::::::.:::..
+sp|O76  MRGTPKTHLLAFSLLCLLSKVRTQLCPTPCTCPWPPPRCPLGVPLVLDGCGCCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|O76 LGEPCDQLHVCDASQGLVCQPGAGPGGRGALCLLAEDDSSCEVNGRLYREGETFQPHCSI
+      60        70        80        90       100       110         
+
+>>tr|Q6INN3|Q6INN3_XENLA Putative uncharacterized protei  (343 aa)
+ initn: 182 init1: 160 opt: 198  Z-score: 274.8  bits: 56.8 E(): 1.1e-06
+Smith-Waterman score: 198;  51.923% identity (73.077% similar) in 52 aa overlap (9-59:5-55)
+
+               10        20        30         40        50         
+       MSSRIARALALVVTLLHLTRLALSTCPAAC-HCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+               :::   :: . ..: . ::. : .:: : :.:::.: :. :::.:: :::.:
+tr|Q6I     MTPNLALCFILL-IQQVASQRCPSQCDQCPEEPPSCAPSVPLILDGCACCPVCARQ
+                   10         20        30        40        50     
+
+      60                                                           
+       L                                                           
+                                                                   
+tr|Q6I EGESCSELHPCQEDKGLYCEFNADPRTEAGTCMALEGNSCVFDGVVYRNRESFQPSCKYH
+          60        70        80        90       100       110     
+
+>>tr|O42607|O42607_XENLA Connective tissue growth factor  (343 aa)
+ initn: 197 init1: 197 opt: 197  Z-score: 273.4  bits: 56.5 E(): 1.3e-06
+Smith-Waterman score: 197;  62.857% identity (82.857% similar) in 35 aa overlap (26-60:24-58)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                : . :.:: ..: : ::: .:.:::::::::.:::
+tr|O42   MSAGKVTAVLLFALFCWVSDAQECNGECQCPNKVPVCDPGVRMVQDGCGCCKVCSKQL
+                 10        20        30        40        50        
+
+tr|O42 GELCTERDVCDPHKGLFCDFGSRVNRKIGVCTAREGAPCVFGGTVYRSGESFQSSCKYQC
+       60        70        80        90       100       110        
+
+>>tr|Q6IR79|Q6IR79_XENLA MGC82209 protein.                (385 aa)
+ initn: 196 init1: 196 opt: 196  Z-score: 271.5  bits: 56.3 E(): 1.7e-06
+Smith-Waterman score: 201;  43.548% identity (69.355% similar) in 62 aa overlap (7-59:2-63)
+
+               10                 20        30        40        50 
+       MSSRIARALALVVTLLHLT---------RLALSTCPAACHCPLEAPKCAPGVGLVRDGCG
+             :.:: .. ::.:.         .:  ..::. : :: :. .: ::..:. :.::
+tr|Q6I      MRSLAALLPLLQLAALICTGTSGKLMEASCPTQCVCPKEVQSCPPGISLLTDSCG
+                    10        20        30        40        50     
+
+              60                                                   
+       CCKVCAKQL                                                   
+       ::::::.:                                                    
+tr|Q6I CCKVCARQYNQDCGLNHPCDHIKGLHCDYGADPFSPRGICRAKSEGRPCEFFGQIYQNGE
+          60        70        80        90       100       110     
+
+>>tr|Q9PSS6|Q9PSS6_CHICK Potential IGF binding protein (  (176 aa)
+ initn: 171 init1: 171 opt: 191  Z-score: 268.9  bits: 54.7 E(): 2.3e-06
+Smith-Waterman score: 191;  60.526% identity (73.684% similar) in 38 aa overlap (24-59:8-45)
+
+               10        20        30          40        50        
+       MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCCKVCAK
+                              ..::  :  .:: : :.:::::  : :::::: :::.
+tr|Q9P                 CEVSGREAACPRPCGGRCPAEPPRCAPGVPAVLDGCGCCLVCAR
+                               10        20        30        40    
+
+       60                                                          
+       QL                                                          
+       :                                                           
+tr|Q9P QRGESCSPLLPCDESGGLYCDRGPEDGGGAGICEGDNCVFDGMIYRNGETFQPSCKYQCT
+           50        60        70        80        90       100    
+
+>>sp|P28686|NOV_CHICK RecName: Full=Protein NOV; AltName  (351 aa)
+ initn: 171 init1: 171 opt: 191  Z-score: 265.3  bits: 55.0 E(): 3.7e-06
+Smith-Waterman score: 191;  60.526% identity (73.684% similar) in 38 aa overlap (24-59:29-66)
+
+                    10        20        30          40        50   
+            MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCC
+                                   ..::  :  .:: : :.:::::  : ::::::
+sp|P28 METGGGQGLPVLLLLLLLLRPCEVSGREAACPRPCGGRCPAEPPRCAPGVPAVLDGCGCC
+               10        20        30        40        50        60
+
+            60                                                     
+       KVCAKQL                                                     
+        :::.:                                                      
+sp|P28 LVCARQRGESCSPLLPCDESGGLYCDRGPEDGGGAGICMVLEGDNCVFDGMIYRNGETFQ
+               70        80        90       100       110       120
+
+>>tr|B2KI47|B2KI47_RHIFE Connective tissue growth factor  (348 aa)
+ initn: 190 init1: 190 opt: 190  Z-score: 264.0  bits: 54.8 E(): 4.4e-06
+Smith-Waterman score: 190;  62.857% identity (77.143% similar) in 35 aa overlap (26-60:29-63)
+
+                  10        20        30        40        50       
+          MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCA
+                                   : . :.:   ::.:  ::.:: ::::::.:::
+tr|B2K MSAAGLGPVRFAFVLLFALCSRPTSGQDCSGQCQCTAPAPRCPAGVSLVLDGCGCCRVCA
+               10        20        30        40        50        60
+
+        60                                                         
+       KQL                                                         
+       :::                                                         
+tr|B2K KQLGELCTERDPCDPHKGLFCDFGSPANRKVGVCTAKDGAPCVFGGTVYRSGESFQSSCK
+               70        80        90       100       110       120
+
+>>tr|Q6FHL8|Q6FHL8_HUMAN CTGF protein.                    (349 aa)
+ initn: 156 init1: 156 opt: 190  Z-score: 263.9  bits: 54.8 E(): 4.4e-06
+Smith-Waterman score: 190;  53.704% identity (74.074% similar) in 54 aa overlap (9-60:11-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALS-TCPAACHCPLE-APKCAPGVGLVRDGCGCCKVC
+                 .:.:: :   .: :.. .: . :. : : ::.:  ::.:: ::::::.::
+tr|Q6F MTAASMGPVRVAFVVLLALCSRPAVGQNCSGPCRYPDEPAPRCPAGVSLVLDGCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+tr|Q6F AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCIFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>sp|P42642|NOV_COTJA RecName: Full=Protein NOV; AltName  (353 aa)
+ initn: 171 init1: 171 opt: 190  Z-score: 263.9  bits: 54.8 E(): 4.4e-06
+Smith-Waterman score: 190;  63.889% identity (72.222% similar) in 36 aa overlap (26-59:33-68)
+
+                    10        20        30          40        50   
+            MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCC
+                                     ::  :  .:: : :.:::::  : ::::::
+sp|P42 PGGGHSLPVLLLLLLLLLLRPSEVNGREAPCPRPCGGRCPAEPPRCAPGVPAVLDGCGCC
+             10        20        30        40        50        60  
+
+            60                                                     
+       KVCAKQL                                                     
+        :::.:                                                      
+sp|P42 LVCARQRGESCSPLLPCDESGGLYCDRGPEDGGGTGICMVLEGDNCVFDGMIYRNGETFQ
+             70        80        90       100       110       120  
+
+>>tr|A7E3X4|A7E3X4_BOVIN WNT1 inducible signaling pathwa  (250 aa)
+ initn: 180 init1: 180 opt: 188  Z-score: 263.0  bits: 54.1 E(): 4.9e-06
+Smith-Waterman score: 188;  47.059% identity (70.588% similar) in 51 aa overlap (11-60:10-60)
+
+               10         20        30        40        50         
+       MSSRIARALALVVTLLHL-TRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+                 :. .:: : ...  . ::. : ::   :.: ::: :: :::. :.:::..
+tr|A7E  MRGTFQTHLLAFSLLCLLSKVCAQLCPTPCACPWPPPRCPPGVPLVLDGCNFCRVCARR
+                10        20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|A7E LGEPCDHLHVCDPSQGLVCQPGAGPGGRGAVCLWGEDDGSCEVNGRLYRDGETFQPHCRL
+      60        70        80        90       100       110         
+
+>>sp|Q9JHC6|WISP2_RAT RecName: Full=WNT1-inducible-signa  (250 aa)
+ initn: 161 init1: 161 opt: 187  Z-score: 261.7  bits: 53.9 E(): 5.9e-06
+Smith-Waterman score: 187;  46.552% identity (60.345% similar) in 58 aa overlap (3-60:4-60)
+
+                10        20        30        40        50         
+        MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+          : . : ::     : :. .  . : . : ::   :.:  :: :: ::::::::::..
+sp|Q9J MRGSPLIRLLATSFLCL-LSMVCAQLCRTPCTCPWTPPQCPQGVPLVLDGCGCCKVCARR
+               10         20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+sp|Q9J LTESCEHLHVCEPSQGLVCQPGAGPGGHGAVCLLDEDDGDCEVNGRRYLDGETFKPNCRV
+      60        70        80        90       100       110         
+
+>>tr|B2R5X7|B2R5X7_HUMAN cDNA, FLJ92674, highly similar   (357 aa)
+ initn: 179 init1: 151 opt: 187  Z-score: 259.8  bits: 54.0 E(): 7.5e-06
+Smith-Waterman score: 187;  50.909% identity (61.818% similar) in 55 aa overlap (9-59:16-70)
+
+                      10        20          30          40         
+              MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDG
+                      : :.  ::::   . .:  ::  :  .::   : :::::  : ::
+tr|B2R MQSVQSTSFCLRKQCLCLTFLLLHLLGQVAATQRCPPQCPGRCPATPPTCAPGVRAVLDG
+               10        20        30        40        50        60
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::.:                                                  
+tr|B2R CSCCLVCARQRGESCSDLEPCDESSGLYCDRSADPSNQTGICTAVEGDNCVFDGVIYRSG
+               70        80        90       100       110       120
+
+>>tr|Q6I9S3|Q6I9S3_HUMAN NOV protein.                     (357 aa)
+ initn: 179 init1: 151 opt: 187  Z-score: 259.8  bits: 54.0 E(): 7.5e-06
+Smith-Waterman score: 187;  50.909% identity (61.818% similar) in 55 aa overlap (9-59:16-70)
+
+                      10        20          30          40         
+              MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDG
+                      : :.  ::::   . .:  ::  :  .::   : :::::  : ::
+tr|Q6I MQSVQSTSFCLRKQCLCLTFLLLHLLGQVAATQRCPPQCPGRCPATPPTCAPGVRAVLDG
+               10        20        30        40        50        60
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::.:                                                  
+tr|Q6I CSCCLVCARQRGESCSDLEPCDESSGLYCDRSADPSKQTGICTAVEGDNCVFDGVIYRSG
+               70        80        90       100       110       120
+
+>>sp|P48745|NOV_HUMAN RecName: Full=Protein NOV homolog;  (357 aa)
+ initn: 179 init1: 151 opt: 187  Z-score: 259.8  bits: 54.0 E(): 7.5e-06
+Smith-Waterman score: 187;  50.909% identity (61.818% similar) in 55 aa overlap (9-59:16-70)
+
+                      10        20          30          40         
+              MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDG
+                      : :.  ::::   . .:  ::  :  .::   : :::::  : ::
+sp|P48 MQSVQSTSFCLRKQCLCLTFLLLHLLGQVAATQRCPPQCPGRCPATPPTCAPGVRAVLDG
+               10        20        30        40        50        60
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::.:                                                  
+sp|P48 CSCCLVCARQRGESCSDLEPCDESSGLYCDRSADPSNQTGICTAVEGDNCVFDGVIYRSG
+               70        80        90       100       110       120
+
+>>sp|Q9QZQ5|NOV_RAT RecName: Full=Protein NOV homolog;    (351 aa)
+ initn: 192 init1: 150 opt: 185  Z-score: 257.2  bits: 53.5 E(): 1e-05
+Smith-Waterman score: 185;  50.909% identity (63.636% similar) in 55 aa overlap (9-59:10-64)
+
+                10        20          30          40        50     
+        MSSRIARALALVVTLLHLTRLALST--CPAAC--HCPLEAPKCAPGVGLVRDGCGCCKV
+                : :   ::::   . .:  ::. :  .::  .: :::::  : :::.:: :
+sp|Q9Q MSVFLRKQCLCLGFLLLHLLNQVSATLRCPSRCPSQCPSISPTCAPGVRSVLDGCSCCPV
+               10        20        30        40        50        60
+
+          60                                                       
+       CAKQL                                                       
+       ::.:                                                        
+sp|Q9Q CARQRGESCSEMRPCDQSSGLYCDRSADPNNETGICMVPEGDNCVFDGVIYRNGEKFEPN
+               70        80        90       100       110       120
+
+>>tr|Q4S690|Q4S690_TETNG Chromosome 9 SCAF14729, whole g  (684 aa)
+ initn: 164 init1: 164 opt: 187  Z-score: 256.4  bits: 54.3 E(): 1.2e-05
+Smith-Waterman score: 187;  61.765% identity (76.471% similar) in 34 aa overlap (26-59:3-36)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                : . : ::  ::.: :::.:: ::: ::.:::.: 
+tr|Q4S                        QLCDSPCACPSAAPRCPPGVALVPDGCRCCSVCARQR
+                                      10        20        30       
+
+tr|Q4S GEPCTDRFPCDPHRGLRCDYSASFPGEPGECVGEDELGCELNGVTYHEGQEFQPSCDTLC
+        40        50        60        70        80        90       
+
+>>tr|Q3U2X7|Q3U2X7_MOUSE NOD-derived CD11c +ve dendritic  (354 aa)
+ initn: 203 init1: 150 opt: 184  Z-score: 255.8  bits: 53.3 E(): 1.2e-05
+Smith-Waterman score: 184;  49.123% identity (66.667% similar) in 57 aa overlap (7-59:8-64)
+
+                10         20         30          40        50     
+        MSSRIARALALVVTLLHL-TRLALST-CPAAC--HCPLEAPKCAPGVGLVRDGCGCCKV
+              : : :   :.:: .... :  ::. :  .::  .: :::::  : :::.:: :
+tr|Q3U MSLFLRKRCLCLGFLLFHLLSQVSASLRCPSRCPPKCPSISPTCAPGVRSVLDGCSCCPV
+               10        20        30        40        50        60
+
+          60                                                       
+       CAKQL                                                       
+       ::.:                                                        
+tr|Q3U CARQRGESCSEMRPCDQSSGLYCDRSADPNNQTGICMVPEGDNCVFDGVIYRNGEKFEPN
+               70        80        90       100       110       120
+
+>>sp|Q64299|NOV_MOUSE RecName: Full=Protein NOV homolog;  (354 aa)
+ initn: 203 init1: 150 opt: 184  Z-score: 255.8  bits: 53.3 E(): 1.2e-05
+Smith-Waterman score: 184;  49.123% identity (66.667% similar) in 57 aa overlap (7-59:8-64)
+
+                10         20         30          40        50     
+        MSSRIARALALVVTLLHL-TRLALST-CPAAC--HCPLEAPKCAPGVGLVRDGCGCCKV
+              : : :   :.:: .... :  ::. :  .::  .: :::::  : :::.:: :
+sp|Q64 MSLFLRKRCLCLGFLLFHLLSQVSASLRCPSRCPPKCPSISPTCAPGVRSVLDGCSCCPV
+               10        20        30        40        50        60
+
+          60                                                       
+       CAKQL                                                       
+       ::.:                                                        
+sp|Q64 CARQRGESCSEMRPCDQSSGLYCDRSADPNNQTGICMVPEGDNCVFDGVIYRNGEKFEPN
+               70        80        90       100       110       120
+
+>>tr|B0S5F5|B0S5F5_DANRE Novel protein similar to verteb  (371 aa)
+ initn: 184 init1: 184 opt: 184  Z-score: 255.6  bits: 53.3 E(): 1.3e-05
+Smith-Waterman score: 184;  60.000% identity (77.143% similar) in 35 aa overlap (26-60:24-58)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                :: .:.::.. : :  ::. : :.:::::::: ::
+tr|B0S   MKMKDFMCLLVLVGIFCTSGGWGCPQVCRCPVKRPVCPAGVSAVPDACGCCKVCAAQL
+                 10        20        30        40        50        
+
+tr|B0S NDDCHEGKPCDHHKGLECNYGNDVSSLHGICRAKLEGRSCEYNGRMYQNGENFRAGCKHQ
+       60        70        80        90       100       110        
+
+>>tr|Q567G9|Q567G9_DANRE Zgc:112060.                      (383 aa)
+ initn: 183 init1: 183 opt: 183  Z-score: 254.0  bits: 53.1 E(): 1.6e-05
+Smith-Waterman score: 183;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:30-64)
+
+                   10        20        30        40        50      
+           MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVC
+                                    ::  : ::   :.: ::.. : : ::::.::
+tr|Q56 MSPLRIILRQGHFFTLVLLSWATAEVQGGCPLKCSCPSAPPSCPPGISSVLDHCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       :.:.                                                        
+tr|Q56 ARQFNQDCSPTEPCDHIKGLRCHLGAEGDPDRGLCRAEAQGRPCELDGRIYQHGEDFQPS
+               70        80        90       100       110       120
+
+>>tr|A2CF35|A2CF35_DANRE Novel protein (Zgc:112060).      (383 aa)
+ initn: 183 init1: 183 opt: 183  Z-score: 254.0  bits: 53.1 E(): 1.6e-05
+Smith-Waterman score: 183;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:30-64)
+
+                   10        20        30        40        50      
+           MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVC
+                                    ::  : ::   :.: ::.. : : ::::.::
+tr|A2C MSPLRIILRQGHFFTLVLLSWATAEVQGGCPLKCSCPSTPPSCPPGISSVLDHCGCCRVC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       :.:.                                                        
+tr|A2C ARQFNQDCSPTEPCDHIKGLRCHLGAEGDPDRGLCRAEAQGRPCELDGRIYQHGEDFQPS
+               70        80        90       100       110       120
+
+>>tr|Q5M8V9|Q5M8V9_XENTR WNT1 inducible signaling pathwa  (312 aa)
+ initn: 151 init1: 151 opt: 180  Z-score: 251.1  bits: 52.2 E(): 2.3e-05
+Smith-Waterman score: 180;  44.186% identity (67.442% similar) in 43 aa overlap (18-60:18-60)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                        : ..  . : . : :    :.: ::: .. ::::::..::.::
+tr|Q5M MDPGILNRYLLLLGYCILPQICAQLCRTPCFCSWIPPRCPPGVPVIVDGCGCCRICARQL
+               10        20        30        40        50        60
+
+tr|Q5M GESCDHLYLCDESKELLCDYPTGSNGRGTCNYNYDGSCEYDGKEYKDGEVFQPNCKFQCK
+               70        80        90       100       110       120
+
+>>tr|Q9UDE4|Q9UDE4_HUMAN Potential IGF binding protein (  (77 aa)
+ initn: 174 init1: 151 opt: 174  Z-score: 250.4  bits: 50.1 E(): 2.5e-05
+Smith-Waterman score: 174;  55.000% identity (65.000% similar) in 40 aa overlap (22-59:6-45)
+
+               10        20        30          40        50        
+       MSSRIARALALVVTLLHLTRLALSTCPAAC--HCPLEAPKCAPGVGLVRDGCGCCKVCAK
+                            : . ::  :  .::   : :::::  : :::.:: :::.
+tr|Q9U                 CLQVAATQRCPPQCPGRCPATPPTCAPGVRAVLDGCSCCLVCAR
+                               10        20        30        40    
+
+       60                               
+       QL                               
+       :                                
+tr|Q9U QRGESCSDLEPCDESSGLYCDRSADPSNQTGIC
+           50        60        70       
+
+>>tr|Q5U3J9|Q5U3J9_DANRE Cyr61 protein (Fragment).        (249 aa)
+ initn: 176 init1: 176 opt: 176  Z-score: 246.9  bits: 51.1 E(): 3.9e-05
+Smith-Waterman score: 176;  57.143% identity (74.286% similar) in 35 aa overlap (26-60:5-39)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                ::. : ::   :.:  ::. : :.::::::::.:.
+tr|Q5U                      MSRGCPGPCSCPPSPPSCPRGVSRVWDNCGCCKVCAQQF
+                                    10        20        30         
+
+tr|Q5U NQDCGSDLPCDHIKGLHCHLGAGGDPQRGLCRAEAHGRPCEFSGRVYQHGEDFQTGCEHQ
+      40        50        60        70        80        90         
+
+>>tr|Q2HJ34|Q2HJ34_BOVIN Nephroblastoma overexpressed.    (346 aa)
+ initn: 192 init1: 142 opt: 177  Z-score: 246.5  bits: 51.5 E(): 4.1e-05
+Smith-Waterman score: 177;  49.091% identity (60.000% similar) in 55 aa overlap (9-59:16-70)
+
+                      10        20          30          40         
+              MSSRIARALALVVTLLHLTRL--ALSTCPAACH--CPLEAPKCAPGVGLVRDG
+                      : :.  ::::     :   ::..:   :: . : :::::  : : 
+tr|Q2H MQGAQSSSLDLPKQCLCLAFLLLHLLGQVAAAERCPSSCPATCPPKPPTCAPGVRAVLDD
+               10        20        30        40        50        60
+
+      50        60                                                 
+       CGCCKVCAKQL                                                 
+       :.:: :::.:                                                  
+tr|Q2H CSCCLVCARQRGESCSVLLPCEESRGLFCDRRADPSAQTGICMAVEGDNCVFDGVIYQSG
+               70        80        90       100       110       120
+
+>>tr|Q4ZJF1|Q4ZJF1_CHICK WNT1 inducible signaling pathwa  (359 aa)
+ initn: 169 init1: 169 opt: 177  Z-score: 246.3  bits: 51.6 E(): 4.2e-05
+Smith-Waterman score: 177;  58.824% identity (73.529% similar) in 34 aa overlap (26-59:42-75)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:. ::.:: ::: :::.
+tr|Q4Z SSILQAIAQTSTTMTPTIPAATEAYTRTQYCKWPCECPKSPPRCSIGVSLVTDGCDCCKM
+              20        30        40        50        60        70 
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|Q4Z CAKQRGENCTEADTCDFHRGLYCDYSGDRPRYEIGVCSQIVGVGCVLNGVRYNNGDTFQP
+              80        90       100       110       120       130 
+
+>>tr|Q6GLV2|Q6GLV2_XENLA MGC84196 protein.                (221 aa)
+ initn: 141 init1: 141 opt: 175  Z-score: 246.2  bits: 50.8 E(): 4.3e-05
+Smith-Waterman score: 175;  39.286% identity (62.500% similar) in 56 aa overlap (5-60:6-60)
+
+                10        20        30        40        50         
+        MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+            . : :.:.:    : ..  . : . : :    :.: : : .. ::::::..::.:
+tr|Q6G MDLGILNRFLVLLV-YCSLPQICAQLCRTPCFCSWIPPRCPPEVPIIVDGCGCCRICARQ
+               10         20        30        40        50         
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|Q6G LGESCDRLYLCDESKELLCDYATGRNGRGTCNYNYDGGCEYNGKEYKDDEVFQPSCKFQC
+      60        70        80        90       100       110         
+
+>>tr|A2RRU7|A2RRU7_DANRE Cysteine-rich, angiogenic induc  (346 aa)
+ initn: 176 init1: 176 opt: 176  Z-score: 245.2  bits: 51.3 E(): 4.9e-05
+Smith-Waterman score: 176;  57.143% identity (74.286% similar) in 35 aa overlap (26-60:5-39)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                ::. : ::   :.:  ::. : :.::::::::.:.
+tr|A2R                      MSRGCPGPCSCPPSPPSCPRGVSRVWDNCGCCKVCAQQF
+                                    10        20        30         
+
+tr|A2R NQDCGSDLPCDHIKGLHCHLGAGGDPQRGLCRAEAHGRPCEFSGRVYQHGEDFQTGCEHQ
+      40        50        60        70        80        90         
+
+>>tr|A6XA79|A6XA79_DANRE Connective tissue growth factor  (347 aa)
+ initn: 151 init1: 151 opt: 176  Z-score: 245.2  bits: 51.3 E(): 4.9e-05
+Smith-Waterman score: 176;  45.283% identity (62.264% similar) in 53 aa overlap (7-59:8-58)
+
+                10        20        30        40        50         
+        MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+              ::   .  :.: .    . :   : :: :.: :  :..:: :::.::::::.:
+tr|A6X MTGTAFTRACIALSLLIHTA--ICQDCSQPCDCPDESPLCPVGTSLVLDGCSCCKVCARQ
+               10        20          30        40        50        
+
+      60                                                           
+       L                                                           
+                                                                   
+tr|A6X AGEPCSFLEPCDHHKGLYCDYSVLSDTETGICMAQEGQTCDLGGVIYRSGETFQPSCKHQ
+       60        70        80        90       100       110        
+
+>>tr|A5PN60|A5PN60_DANRE Novel protein similar to verteb  (351 aa)
+ initn: 151 init1: 151 opt: 176  Z-score: 245.1  bits: 51.3 E(): 4.9e-05
+Smith-Waterman score: 176;  45.283% identity (62.264% similar) in 53 aa overlap (7-59:8-58)
+
+                10        20        30        40        50         
+        MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQ
+              ::   .  :.: .    . :   : :: :.: :  :..:: :::.::::::.:
+tr|A5P MTGTAFTRACIALSLLIHTA--ICQDCSQPCDCPDESPLCPVGTSLVLDGCSCCKVCARQ
+               10        20          30        40        50        
+
+      60                                                           
+       L                                                           
+                                                                   
+tr|A5P AGEPCSFLEPCDHHKGLYCDYSVLSDTETGICMAQEGQTCDLGGVIYRSGETFQPSCKHQ
+       60        70        80        90       100       110        
+
+>>tr|Q3UFJ5|Q3UFJ5_MOUSE Adult pancreas islet cells cDNA  (367 aa)
+ initn: 168 init1: 168 opt: 176  Z-score: 244.9  bits: 51.3 E(): 5.1e-05
+Smith-Waterman score: 176;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+tr|Q3U NILATALSPTPTTMTFTPAPLEETTTRPEFCKWPCECPQSPPRCPLGVSLITDGCECCKI
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+tr|Q3U CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYTNGESFQP
+       80        90       100       110       120       130        
+
+>>sp|O54775|WISP1_MOUSE RecName: Full=WNT1-inducible-sig  (367 aa)
+ initn: 168 init1: 168 opt: 176  Z-score: 244.9  bits: 51.3 E(): 5.1e-05
+Smith-Waterman score: 176;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|O54 NILATALSPTPTTMTFTPAPLEETTTRPEFCKWPCECPQSPPRCPLGVSLITDGCECCKI
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|O54 CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYTNGESFQP
+       80        90       100       110       120       130        
+
+>>sp|Q99PP0|WISP1_RAT RecName: Full=WNT1-inducible-signa  (367 aa)
+ initn: 168 init1: 168 opt: 176  Z-score: 244.9  bits: 51.3 E(): 5.1e-05
+Smith-Waterman score: 176;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|Q99 NILATALSPTPTTMTFTPAPLEETITRPEFCKWPCECPQAPPRCPLGVSLITDGCECCKI
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|Q99 CAQQLGDNCTEAAVCDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYTNGESFQP
+       80        90       100       110       120       130        
+
+>>tr|A5WW17|A5WW17_DANRE Novel protein similar to verteb  (308 aa)
+ initn: 154 init1: 154 opt: 175  Z-score: 244.5  bits: 51.0 E(): 5.3e-05
+Smith-Waterman score: 175;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:16-50)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                :   :.::   : : :::.:. ::: ::..::::.
+tr|A5W           TEEPITPQPYNRSQYCQWPCKCPKTPPMCPPGVSLLMDGCDCCRACAKQV
+                         10        20        30        40        50
+
+tr|A5W REACNEKENCDHHRGLYCDYSADKPRYEKGVCAFLPGTGCEHNGVIYRNGQSFQPNCKYQ
+               60        70        80        90       100       110
+
+>>tr|Q98TQ8|Q98TQ8_CHICK Connective tissue growth factor  (344 aa)
+ initn: 148 init1: 148 opt: 175  Z-score: 243.9  bits: 51.0 E(): 5.7e-05
+Smith-Waterman score: 175;  48.148% identity (72.222% similar) in 54 aa overlap (8-60:7-59)
+
+               10        20        30         40        50         
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPL-EAPKCAPGVGLVRDGCGCCKVCAKQ
+              :.::...::   ..  . : . :.:    .:.:  ::.:: ::::::.:::::
+tr|Q98  MSPASLAVALLLALLG-PEVRGQECSGQCQCGSGPGPSCPAGVSLVLDGCGCCRVCAKQ
+                10         20        30        40        50        
+
+      60                                                           
+       L                                                           
+       :                                                           
+tr|Q98 LGELCTERDPCDHHKGLFCDFGSPANRRIGVCTARDGAPCVFSGMVYRSGESFQSSCKYQ
+       60        70        80        90       100       110        
+
+>>tr|Q5JBS6|Q5JBS6_HUMAN WISP1i.                          (163 aa)
+ initn: 163 init1: 163 opt: 171  Z-score: 242.4  bits: 49.7 E(): 6.9e-05
+Smith-Waterman score: 171;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+tr|Q5J TVLATALSPAPTTMDFTPAPLEDTSSRPQFCKWPCECPPSPPRCPLGVSLITDGCECCKM
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+tr|Q5J CAQQLGDNCTEAVICDPHRGLYCDYSGDRPRYAIGVCARREEVSGCVPARGIHELHTCGL
+       80        90       100       110       120       130        
+
+>>tr|Q4SH80|Q4SH80_TETNG Chromosome 8 SCAF14587, whole g  (318 aa)
+ initn: 173 init1: 173 opt: 173  Z-score: 241.6  bits: 50.5 E(): 7.7e-05
+Smith-Waterman score: 173;  55.882% identity (70.588% similar) in 34 aa overlap (26-59:7-40)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                ::  :.:: : : : :.: :. : :.:: :::.: 
+tr|Q4S                    LAWSQDCPRRCQCPDEPPTCPPAVPLILDDCACCLVCARQR
+                                  10        20        30        40 
+
+tr|Q4S GQACSDMSPCDTRKGLRCDYAKDVRKRTGLCVAHGGHVCVLDGSVYQNGQTFIPSCKYQC
+              50        60        70        80        90       100 
+
+>>sp|O95388|WISP1_HUMAN RecName: Full=WNT1-inducible-sig  (367 aa)
+ initn: 163 init1: 163 opt: 171  Z-score: 238.2  bits: 50.1 E(): 0.00012
+Smith-Waterman score: 171;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+sp|O95 TVLATALSPAPTTMDFTPAPLEDTSSRPQFCKWPCECPPSPPRCPLGVSLITDGCECCKM
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+sp|O95 CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYNNGQSFQP
+       80        90       100       110       120       130        
+
+>>tr|A8KAG6|A8KAG6_HUMAN cDNA FLJ75838, highly similar t  (367 aa)
+ initn: 163 init1: 163 opt: 171  Z-score: 238.2  bits: 50.1 E(): 0.00012
+Smith-Waterman score: 171;  54.286% identity (71.429% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. ::: :::.
+tr|A8K TVLATALSPAPTTMDFTPAPLEDTSSRPQFCKWPCECPPSPPRCPLGVSLITDGCECCKM
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+tr|A8K CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYNNGQSFQP
+       80        90       100       110       120       130        
+
+>>tr|Q4SUZ2|Q4SUZ2_TETNG Chromosome 21 SCAF13835, whole   (359 aa)
+ initn: 193 init1: 153 opt: 170  Z-score: 236.9  bits: 49.8 E(): 0.00014
+Smith-Waterman score: 170;  54.286% identity (68.571% similar) in 35 aa overlap (26-60:9-43)
+
+               10        20        30        40        50        60
+       MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKVCAKQL
+                                :   : ::   : : :::.:. ::: :::.::.:.
+tr|Q4S                  DAHSRTQYCKWPCVCPDAPPTCPPGVSLLVDGCDCCKTCARQV
+                                10        20        30        40   
+
+tr|Q4S GEGCDEAATCDHHRGLYCDYSADKPRYEKGVCAYMAGSGCEHDGVIYRNGQSFAPSCKYQ
+            50        60        70        80        90       100   
+
+>>tr|Q5SNS2|Q5SNS2_DANRE Novel protein similar to human   (351 aa)
+ initn: 137 init1: 137 opt: 165  Z-score: 230.3  bits: 48.6 E(): 0.00033
+Smith-Waterman score: 165;  54.286% identity (77.143% similar) in 35 aa overlap (26-60:54-87)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.: .. : :::::. . :::::::.
+tr|Q5S DLSESVLFLHALQGADSRREGTGPADKRQFCSWPCKCGVR-PLCAPGVSSILDGCGCCKT
+            30        40        50        60         70        80  
+
+          60                                                       
+       CAKQL                                                       
+       ::.:.                                                       
+tr|Q5S CAQQIGESCNERDICDPHKSMYCDFSKDQPRYEVGICAYLMGVGCDLNGAHYDNGQAFQP
+             90       100       110       120       130       140  
+
+>>tr|Q6PFL2|Q6PFL2_DANRE Zgc:85866 protein (Fragment).    (400 aa)
+ initn: 150 init1:  97 opt: 157  Z-score: 218.9  bits: 46.6 E(): 0.0014
+Smith-Waterman score: 157;  41.509% identity (64.151% similar) in 53 aa overlap (8-60:42-86)
+
+                                      10        20        30       
+                              MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAP
+                                     : :..: ..    .. :.:::.: :  .::
+tr|Q6P TDAPQTKTGLKNDGILLKISELTNTDAKMFAWAVIVIFIAHFNMVSSSCPAVCSCAPDAP
+              20        30        40        50        60        70 
+
+        40        50        60                                     
+       KCAPGVGLVRDGCGCCKVCAKQL                                     
+       .        ::.:::: :::.::                                     
+tr|Q6P Q--------RDACGCCLVCARQLNEDCSRSEPCDHSKGLECNYGASHGATRGICRAKSEG
+                      80        90       100       110       120   
+
+>>sp|O19113|CTGF_PIG RecName: Full=Connective tissue gro  (349 aa)
+ initn: 134 init1: 134 opt: 156  Z-score: 218.3  bits: 46.3 E(): 0.0015
+Smith-Waterman score: 156;  45.283% identity (64.151% similar) in 53 aa overlap (10-60:12-64)
+
+                 10        20         30         40        50      
+         MSSRIARALALVVTLLHLTRLALST-CPAACHCPLEAPK-CAPGVGLVRDGCGCCKVC
+                  :.:. :   .: : .  : . :.:     . :  ::.:: ::::::..:
+sp|O19 MSATGLSPVRCAFVLLLALCSRPASGQDCSGQCQCAAGKRRACPAGVSLVLDGCGCCRLC
+               10        20        30        40        50        60
+
+         60                                                        
+       AKQL                                                        
+       ::::                                                        
+sp|O19 AKQLGELCTERDPCDPHKGLFCDFGSPANRKIGVCTAKDGAPCVFGGTVYRSGESFQSSC
+               70        80        90       100       110       120
+
+>>tr|A8WG98|A8WG98_DANRE Putative uncharacterized protei  (356 aa)
+ initn: 156 init1: 156 opt: 156  Z-score: 218.2  bits: 46.3 E(): 0.0016
+Smith-Waterman score: 156;  55.882% identity (67.647% similar) in 34 aa overlap (26-59:41-74)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::  :  :  ::.:. ::: :::.
+tr|A8W TSSLHQASFHNSTDSPPVTTELDPYNRNRYCKWPCKCPKSALVCPHGVSLLMDGCDCCKA
+               20        30        40        50        60        70
+
+          60                                                       
+       CAKQL                                                       
+       ::::                                                        
+tr|A8W CAKQAGETCNERDICDYHKGLYCDYSADKPRYEKGVCAYVMGTGCEYNGVIYRNGQSFQP
+               80        90       100       110       120       130
+
+>>tr|B0AZN1|B0AZN1_HUMAN cDNA, FLJ79471, highly similar   (367 aa)
+ initn: 146 init1: 146 opt: 154  Z-score: 215.3  bits: 45.9 E(): 0.0022
+Smith-Waterman score: 154;  51.429% identity (68.571% similar) in 35 aa overlap (26-60:49-83)
+
+                    10        20        30        40        50     
+            MSSRIARALALVVTLLHLTRLALSTCPAACHCPLEAPKCAPGVGLVRDGCGCCKV
+                                     :   :.::   :.:  ::.:. :::  ::.
+tr|B0A TVLATALSPAPTTMDFTPAPLEDTSSRPQFCKWPCECPPSPPRCPLGVSLITDGCERCKM
+       20        30        40        50        60        70        
+
+          60                                                       
+       CAKQL                                                       
+       ::.::                                                       
+tr|B0A CAQQLGDNCTEAAICDPHRGLYCDYSGDRPRYAIGVCAQVVGVGCVLDGVRYNNGQSFQP
+       80        90       100       110       120       130        
+
+
+
+60 residues in 1 query   sequences
+2093259796 residues in 6439399 library sequences
+ Tcomplib [34t26] (4 proc)
+ start: Fri May 29 22:29:11 2009 done: Fri May 29 22:30:25 2009
+ Total Scan time: 129.970 Total Display time:  0.010
+
+Function used was FASTA [version 3.4t26 July 7, 2006]

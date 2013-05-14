@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB000001</LOCUS>
+<LENGTH>660</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PLN</DIVISION>
+<LAST_UPDATE>12-SEP-2002</LAST_UPDATE>
+
+<DEFINITION>Rhizoctonia solani genes for 18S rRNA, 5.8S rRNA, 28S rRNA,partial and complete sequence, isolate:#1.</DEFINITION>
+<ACCESSION>AB000001</ACCESSION>
+<VERSION>AB000001.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Rhizoctonia solani</SOURCE>
+<ORGANISM>Thanatephorus cucumeris</ORGANISM>
+<TAXONOMY>Eukaryota; Fungi; Basidiomycota; Hymenomycetes;Heterobasidiomycetes; Heterobasidiomycetidae; Ceratobasidiales;Ceratobasidiaceae; Thanatephorus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Kuninaga,S.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (19-DEC-1996) to the DDBJ/EMBL/GenBank databases.Contact:Shiro KuninagaHealth Sciences University of Hokkaido, General Education; 1757Kanazawa, Tohbetsu, Hokkaido 061-02, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Kuninaga,S., Natsuaki,T. and Takeuchi,T.</authors>
+     <title>Sequence variation of the rDNA ITS regions within and betweenanastomosis groups in Rhizoctonia solani</title>
+     <journal>Curr. Genet. 32, 237-243 (1997)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..660</location>
+     <qualifiers name="isolate">#1</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Rhizoctonia solani</qualifiers>
+     <qualifiers name="strain">AG-3</qualifiers>
+</source>
+<rrna>
+     <location>&lt;1..6</location>
+     <qualifiers name="product">18S rRNA</qualifiers>
+</rrna>
+<rrna>
+     <location>229..383</location>
+     <qualifiers name="product">5.8S rRNA</qualifiers>
+</rrna>
+<rrna>
+     <location>656..&gt;660</location>
+     <qualifiers name="product">28S rRNA</qualifiers>
+</rrna>
+</FEATURES>
+
+<BASE_COUNT A="        185 " C="        125 " G="        127 " T="        223 "/>
+<SEQUENCE>aattttaatgaagagtttggttgtagctggcccattaatttaggcatgtgcacacctttctctttcatcccatacacacctgtgaacttgtgagacagatggggaatttatttattgtttttttttgtaatataaagatgataagtcattgaacccttctgtctactcaactcatataaactcaatttattttaaaatgaatgtaatggatgtaacgcatctaatactaagtttcaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcaccttgcgctccttggtattccttggagcatgcctgtttgagtatcatgaaatcttcaaaatcaagtcttttgttaattcaattggctttgactttggtattggaggtctttgcagcttcacacctgctcctctttgtacattagctggatctcagtgttatgcttggttccactcagcgtgataagttatctatcgctgaggacactgtaaaaaggtggccaaggtaaatgcagatgaaccgcttctaatagtccattgacttggacaatatttttatgatctgatctcaaatcaggtaggactacccgctgaacttaagcata</SEQUENCE>
+</DDBJXML>

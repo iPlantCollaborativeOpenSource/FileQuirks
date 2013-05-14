@@ -1,0 +1,134 @@
+LOCUS       BA000005            33543332 bp    DNA     linear   CON 12-JUL-2008
+DEFINITION  Homo sapiens genomic DNA, chromosome 21q.
+ACCESSION   BA000005
+VERSION     BA000005.3
+KEYWORDS    .
+SOURCE      Homo sapiens
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 33543332)
+  AUTHORS   Hattori,M., Fujiyama,A., Taylor,T.D., Watanabe,H., Yada,T.,
+            Park,H.S., Toyoda,A., Ishii,K., Totoki,Y., Choi,D.K., Soeda,E.,
+            Ohki,M., Takagi,T., Sakaki,Y., Taudien,S., Blechschmidt,K.,
+            Polley,A., Menzel,U., Delabar,J., Kumpf,K., Lehmann,R.,
+            Patterson,D., Reichwald,K., Rump,A., Schillhabel,M., Schudy,A.,
+            Zimmermann,W., Rosenthal,A., Kudoh,J., Shibuya,K., Kawasaki,K.,
+            Asakawa,S., Shintani,A., Sasaki,T., Nagamine,K., Mitsuyama,S.,
+            Antonarakis,S.E., Minoshima,S., Shimizu,N., Nordsiek,G.,
+            Hornischer,K., Barandt,P., Scharfe,M., Schoen,O., Desario,A.,
+            Reichelt,J., Kauer,G., Bloecker,H., Ramser,J., Beck,A., Klages,S.,
+            Hennig,S., Riesselmann,L., Dagand,E., Wehrmaeyer,S., Borzym,K.,
+            Gardiner,K., Nizetic,D., Francis,F., Lehrach,H., Reinhardt,R. and
+            Yaspo,M.L.
+  CONSRTM   The Chromosome 21 Mapping and Sequencing Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2000) to the DDBJ/EMBL/GenBank databases.
+            * RIKEN Genomic Sciences Center Human Genome Research Group
+            * Institute of Molecular Biotechnology Genome Analysis
+            * Keio University School of Medicine, Dept. of Molecular Biology
+            * GBF, Dept. of Genome Analysis
+            * Max-Planck Institute for Molecular Genetics
+            (addresses see below)
+REFERENCE   2  
+  AUTHORS   Hattori,M., Fujiyama,A., Taylor,T.D., Watanabe,H., Yada,T.,
+            Park,H.S., Toyoda,A., Ishii,K., Totoki,Y., Choi,D.K., Soeda,E.,
+            Ohki,M., Takagi,T., Sakaki,Y., Taudien,S., Blechschmidt,K.,
+            Polley,A., Menzel,U., Delabar,J., Kumpf,K., Lehmann,R.,
+            Patterson,D., Reichwald,K., Rump,A., Schillhabel,M., Schudy,A.,
+            Zimmermann,W., Rosenthal,A., Kudoh,J., Shibuya,K., Kawasaki,K.,
+            Asakawa,S., Shintani,A., Sasaki,K., Nagamine,K., Mitsuyama,S.,
+            Antonarakis,S.E., Minoshima,S., Shimizu,N., Nordsiek,G.,
+            Hornischer,K., Barandt,P., Scharfe,M., Schoen,O., Desario,A.,
+            Reichelt,J., Kauer,G., Bloecker,H., Ramser,J., Beck,A., Klages,S.,
+            Hennig,S., Riesselmann,L., Dagand,E., Wehrmeyer,S., Borzym,K.,
+            Gardiner,K., Nizetic,D., Francis,F., Lehrach,H., Reinhardt,R. and
+            Yaspo,M.L.
+  TITLE     The DNA sequence of human chromosome 21
+  JOURNAL   Nature 405, 311-319 (2000)
+COMMENT     The chromosome 21 mapping and sequencing consortium 
+            consisting of
+            * RIKEN Genomic Sciences Center, Human Genome Research Group,
+            * Sagamihara 228-8555, Japan,
+            * e.mail: hattori@gsc.riken.go.jp
+            * URL: http://hgp.gsc.riken.go.jp/
+            and
+            * Institute of Molecular Biotechnology, Genome Analysis,
+            * Beutenbergstrasse 11, D-07745 Jena, Germany,
+            * e.mail: gscj-submit@genome.imb-jena.de
+            * URL: http://genome.imb-jena.de/
+            and
+            * Keio University School of Medicine, Molecular Biology,
+            * Tokyo 160-8582, Japan,
+            * e.mail: nshimizu@dmb-med.keio.ac.jp
+            * URL: http://www.dmb.med.keio.ac.jp/
+            and
+            * GBF, Dept. of Genome Analysis,
+            * Mascheroder Weg 1, D-38124 Braunschweig, Germany,
+            * e.mail: info.genome@gbf.de
+            * URL: http://genome.gbf.de/
+            and
+            * Max-Planck Institute for Molecular Genetics,
+            * Ihnestrasse 73, D-14195 Berlin, Germany,
+            * e.mail: info-chr21@molgen.mpg.de
+            * URL: http://chr21.rz-berlin.mpg.de/
+FEATURES             Location/Qualifiers
+     source          1..33543332
+                     /chromosome="21"
+                     /db_xref="taxon:9606"
+                     /map="21q"
+                     /mol_type="genomic DNA"
+                     /organism="Homo sapiens"
+CONTIG      join(AL163202.2:1..340000,AL163203.2:1001..340000,
+            AL163204.2:1001..340000,AP001660.1:1001..340000,
+            AL163206.2:1001..340000,AL163207.2:1001..340000,
+            AL163208.2:1001..340000,AL163209.2:1001..340000,
+            AL163210.2:1001..340000,AP001666.1:1001..340000,
+            AP001667.1:1001..340000,AL163213.2:1001..340000,
+            AP001669.1:1001..340000,AP001670.1:1001..340000,
+            AP001671.1:1001..340000,AL163217.2:1001..340000,
+            AL163218.2:1001..340000,AP001674.1:1001..340000,
+            AP001675.1:1001..340000,AP001676.1:1001..340000,
+            AP001677.1:1001..340000,AP001678.1:1001..340000,
+            AP001679.1:1001..340000,AP001680.1:1001..340000,
+            AP001681.1:1001..340000,AL163227.2:1001..340000,
+            AP001683.1:1001..340000,AP001684.1:1001..340000,
+            AP001685.1:1001..340000,AP001686.1:1001..340000,
+            AP001687.1:1001..340000,AP001688.1:1001..340000,
+            AP001689.1:1001..340000,AP001690.1:1001..340000,
+            AP001691.1:1001..340000,AP001692.1:1001..340000,
+            AP001693.1:1001..340000,AP001694.1:1001..340000,
+            AP001695.1:1001..340000,AP001696.1:1001..340000,
+            AP001697.1:1001..340000,AP001698.1:1001..340000,
+            AP001699.1:1001..340000,AP001700.1:1001..340000,
+            AL163246.2:1001..340000,AL163247.2:1001..340000,
+            AL163248.2:1001..340000,AL163249.2:1001..340000,
+            AP001705.1:1001..340000,AP001706.1:1001..340000,
+            AP001707.1:1001..340000,AP001708.1:1001..340000,
+            AP001709.1:1001..340000,AP001710.1:1001..340000,
+            AP001711.1:1001..340000,AP001712.1:1001..340000,
+            AP001713.1:1001..340000,AP001714.1:1001..340000,
+            AP001715.1:1001..340000,AP001716.1:1001..340000,
+            AP001717.1:1001..340000,AP001718.1:1001..340000,
+            AP001719.1:1001..340000,AP001720.1:1001..340000,
+            AP001721.1:1001..340000,AL163267.2:1001..340000,
+            AL163268.2:1001..340000,AP001724.1:1001..340000,
+            AP001725.1:1001..340000,AP001726.1:1001..340000,
+            AP001727.1:1001..340000,AP001728.1:1001..340000,
+            AP001729.1:1001..340000,AP001730.1:1001..340000,
+            AP001731.1:1001..340000,AP001732.1:1001..340000,
+            AL163278.2:1001..340000,AL163279.2:1001..340000,
+            AL163280.2:1001..340000,AL163281.2:1001..340000,
+            AL163282.2:1001..340000,AL163283.2:1001..340000,
+            AL163284.2:1001..340000,AL163285.2:1001..340000,
+            AP001741.1:1001..39322,gap(unk100),AP001743.1:1..219256,gap(unk100)
+            ,AP001745.1:1..336578,AP001746.1:1001..340000,
+            AP001747.1:1001..340000,AP001748.1:1001..340000,
+            AP001749.1:1001..26076,gap(unk100),AP001751.1:1..340000,
+            AP001752.1:1001..340000,AP001753.1:1001..340000,
+            AP001754.1:1001..340000,AL163300.2:1001..340000,
+            AL163301.2:1001..340000,AL163302.2:1001..340000,
+            AL163303.2:1001..340000,AP001759.1:1001..340000,
+            AP001760.1:1001..340000,AP001761.1:1001..39800)
+//

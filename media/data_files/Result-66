@@ -1,0 +1,6 @@
+all all
+   GO:0008150 biological_process
+      GO:0051704 multi-organism process
+         GO:0044419 interspecies interaction between organisms
+            GO:0044403 symbiosis, encompassing mutualism through parasitism
+               GO:0009405 pathogenesis

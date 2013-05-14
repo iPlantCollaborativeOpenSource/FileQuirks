@@ -1,0 +1,41 @@
+LOCUS       BD000029                  18 bp    DNA     linear   PAT 04-NOV-2005
+DEFINITION  Probe-coupling substrate, process for producing the same, 
+            probe-array,  method for detecting target substance, method for 
+            specifying base sequence  of single-stranded nucleic acid
+            in sample,
+            and method for quantitating the  target substance in the sample. 
+ACCESSION   BD000029
+VERSION     BD000029.1
+KEYWORDS    JP 2000270896-A/19.
+SOURCE      synthetic construct.
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 18)
+  AUTHORS   Okamoto,H., Yamamoto,N. and Suzuki,T. 
+  TITLE     Probe-coupling substrate, process for producing the same, 
+            probe-array,  method for detecting target substance, method for 
+            specifying base sequence  of single-stranded nucleic acid
+            in sample,
+            and method for quantitating the  target substance in the sample 
+  JOURNAL   Patent: JP 2000270896-A 19 03-OCT-2000;
+            CANON INC
+            ANTEN PHARMACEUT CO LTD
+COMMENT     OS   Artificial Sequence
+            PN   JP 2000270896-A/19
+            PD   03-OCT-2000
+            PF   28-JAN-1999 JP 1999019915
+            PR   
+            PI   HISASHI OKAMOTO,NOBUKO YAMAMOTO,TOMOHIRO SUZUKI
+            PC   C12Q1/68,C12M1/00,C12N15/09,G01N33/566,C12N15/00
+            CC   
+            FH   Key             Location/Qualifiers
+            FT   source          1..18
+            FT                   /organism="Artificial Sequence"
+FEATURES             Location/Qualifiers
+     source          1..18
+                     /mol_type="unassigned DNA"
+                     /organism="synthetic construct"
+BASE COUNT            3 a            3 c            7 g            5 t
+ORIGIN
+        1 gatggggctc aggttcat
+//

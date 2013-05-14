@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB000402</LOCUS>
+<LENGTH>2213</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>INV</DIVISION>
+<LAST_UPDATE>05-FEB-1999</LAST_UPDATE>
+
+<DEFINITION>Drosophila melanogaster mRNA for DMO25, complete cds.</DEFINITION>
+<ACCESSION>AB000402</ACCESSION>
+<VERSION>AB000402.1</VERSION>
+<KEYWORDS>DMO25.</KEYWORDS>
+
+<SOURCE>Drosophila melanogaster</SOURCE>
+<ORGANISM>Drosophila melanogaster</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;Drosophilidae; Drosophila.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Miyamoto,H.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (13-JAN-1997) to the DDBJ/EMBL/GenBank databases.Contact:Hiroshi MiyamotoKinki university, Faculty of Biology-oriented Science andTechnology; Nishimitani, Uchita, Naga, Wakayama 649-64, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Nozaki,M., Onishi,Y., Togashi,S. and Miyamoto,H.</authors>
+     <title>Molecular characterization of the drosophila MO25 gene, which isconser ved between drosophila, mouse, and yeast</title>
+     <journal>DNA Cell Biol. 15, 505-509 (1996)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..2213</location>
+     <qualifiers name="chromosome">3</qualifiers>
+     <qualifiers name="map">73A-B</qualifiers>
+     <qualifiers name="mol_type">mRNA</qualifiers>
+     <qualifiers name="organism">Drosophila melanogaster</qualifiers>
+</source>
+<cds>
+     <location>257..1276</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">dMo25</qualifiers>
+     <qualifiers name="product">DMO25</qualifiers>
+     <qualifiers name="protein_id">BAA19098.1</qualifiers>
+     <qualifiers name="translation">MPLFGKSQKSPVELVKSLKEAINALEAGDRKVEKAQEDVSKNLVSIKNMLHGSSDAEPPADYVVAQLSQELYNSNLLLLLIQNLHRIDFEGKKHVALIFNNLLRRQIGTRSPTVEYICTKPEILFTLMAGYEDAHPEIALNSGTMLRECARYEALAKIMLHSDEFFKFFRYVEVSTFDIASDAFSTFKELLTRHKLLCAEFLDANYDKFFSQHYQRLLNSENYVTRRQSLKLLGELLLDRHNFTVMTRYISEPENLKLMMNMLKEKSRNIQFEAFHVFKVFVANPNKPKPILDILLRNQTKLVDFLTNFHTDRSEDEQFNDEKAYLIKQIKELKPLPEA</qualifiers>
+     <qualifiers name="transl_table">1</qualifiers>
+</cds>
+<polya_site>
+     <location>2213</location>
+     <qualifiers name="note">9 A nucleotides</qualifiers>
+</polya_site>
+</FEATURES>
+
+<BASE_COUNT A="        686 " C="        547 " G="        495 " T="        484 "/>
+<SEQUENCE>taatatataataatagaatatccaccgtgataatattgccaagcattgttttcccgcgtctttgccgtcggtaattgggcaacagtcagaacgaccaaaaagccgaaggccccgaacagcaggataatcggcagaaagtacgagacatcatcgacaggccaactaaaccacaacgacaaccacatccgcagtcaaatcccaatccaaatccacgtccaaatcccatttcgagtgaaacagcgagtgagacagcgaaatgccactgttcgggaagtcacagaagtcgccagtggagctggtcaagtcgctgaaggaggcgatcaacgccctggaggcgggcgaccgcaaggtggagaaggcgcaggaggacgtcagcaagaacctggtctcgatcaagaacatgctgcacggtagcagcgatgccgagccgccggcggactacgtggtggcccagctgtcccaggagctgtacaacagcaacctgctgctgctgctcatccagaacctgcaccgcatcgatttcgagggcaagaagcatgtggcgctcattttcaataatctgctgcgccgccagattggcacccgttcgcccaccgtcgagtatatatgcacgaagccggagatcctgttcaccctgatggccggctacgaagatgcgcatccggagatcgcactgaactccggtaccatgctgagggagtgcgcccggtacgaggcgctggccaagatcatgctgcactcggatgagttcttcaagttcttccgctacgtggaggtttccacctttgacattgccagcgatgccttttctacgttcaaggagctgctcacgcgccataagctgctgtgcgcggagtttctggacgccaactacgacaagttcttctcgcagcactaccagcgcctgctcaactcggagaactatgtgacgcggcgtcagagcttgaagctgcttggggaactgctgctggaccggcacaatttcaccgtgatgacgcgctacatatccgagccggagaacctcaagctaatgatgaacatgctcaaggaaaagtcgcgcaacattcagttcgaggcgtttcacgtcttcaaggtgttcgtggccaatcccaacaagccgaagcccattctggacatcctgctgcgcaaccagacgaagctggtcgactttctgaccaacttccatacggatcgctccgaggacgagcagttcaacgacgagaaggcctatctgatcaagcagataaaggagctgaagccgctgcccgaggcttagttggacctccacctcggctccaacttcagctccaactccagctccagcgtcccgggggcaaaaggaccgtagccagaagccagaagcgatcgatacggaagcagagagagcgatggtgggttagcaggatgtgaacatgttttgtgtgtgggttaaagcaaatatatattatatactatattttgtgacgatgatgactctacacttgtgagtaactaaacaataatttagacaacaacaaaaacaacactgatgatgataatgataaaaataacgataaagcgaattagaaaacaagaaaaagttcgagtaaatagcgtaacgccgaaaaataaaactgttccgagagtttcgaatttaacatagccacatttagacattctgggcctagagatccgctatcctattatacagatatgtttaaccattcgtcgatcctccgcgaagtaatcccccttcctttccagaccctttttttcgatatccatttaactagttgttgtatttaaaatttgatcgtttttgaaacgagatatcccttcaccgccttgacctgccacgccccttttgcgccccaaaaaaaaaaaaaaaaaactgaagattcacaatgagttttgacttaaaaatgtaattccacgcaaaattcatgaaaagaacgaaaactaaatactgcataaaaataataataattcatagtgataattgtctgtgcatgcttcggcatggactctactatatatacactgatatatatatatagaaagagcaagagaaagaaaaagagagagaagcattcaacacacacacacactacacacatgcatacgtacatagttaaaagggaagtaaaacaagaaacaacaacattgcaagcaacataataactatacgnttattataatttatattattcccaaattaaagataacagccaaac</SEQUENCE>
+</DDBJXML>

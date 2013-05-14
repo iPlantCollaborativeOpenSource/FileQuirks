@@ -1,0 +1,83 @@
+LOCUS       BA000006              962365 bp    DNA     linear   CON 26-AUG-2004
+DEFINITION  Homo sapiens genomic DNA, chromosome 22q11.2, Cat Eye Syndrome
+            region.
+ACCESSION   BA000006
+VERSION     BA000006.2
+KEYWORDS    .
+SOURCE      Homo sapiens
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 962365)
+  AUTHORS   Shimizu,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2000) to the DDBJ/EMBL/GenBank databases.
+            Contact:Nobuyoshi Shimizu
+            Keio University, School of Medicine, Molecular Biology; 35
+            Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan
+REFERENCE   2  
+  AUTHORS   Dunham,I., Hunt,A.R., Collins,J.E., Bruskiewich,R., Beare,D.M.,
+            Clamp,M., Smink,L.J., Ainscough,R., Almeida,J.P., Babbage,A.,
+            Bagguley,C., Bailey,J., Barlow,K., Bates,K.N., Beasley,O.,
+            Bird,C.P., Blakey,S., Bridgeman,A.M., Buck,D., Burgess,J.,
+            Burrill,W.D., Burton,J., Carder,C., Carter,N.P., Chen,Y.,
+            Clark,G., Clegg,S.M., Cobley,V., Cole,C.G., Collier,R.E.,
+            Connor,R.E., Conroy,D., Corby,N., Coville,G.J., Cox,A.V.,
+            Davis,J., Dawson,E., Dhami,P.D., Dockree,C., Dodsworth,S.J.,
+            Durbin,R.M., Ellington,A., Evans,K.L., Fey,J.M., Fleming,K.,
+            French,L., Garner,A.A., Gilbert,J.G.R., Goward,M.E., Grafham,D.,
+            Griffiths,M.N., Hall,C., Hall,R., Hall-Tamlyn,G., Heathcott,R.W.,
+            Ho,S., Holmes,S., Hunt,S.E., Jones,M.C., Kershaw,J., Kimberley,A.,
+            King,A., Laird,G.K., Langford,C.F., Leversha,M.A., Lloyd,C.,
+            Lloyd,D.M., Martyn,I.D., Mashreghi-Mohammadi,M., Matthews,L.,
+            McCann,O.T., McClay,J., McLaren,S., McMurray,A.A., Milne,S.A.,
+            Mortimore,B.J., Odell,C.N., Pavitt,R., Pearce,A.V., Pearson,D.,
+            Phillimore,B.J., Phillips,S.H., Plumb,R.W., Ramsay,H., Ramsey,Y.,
+            Rogers,L., Ross,M.T., Scott,C.E., Sehra,H.K., Skuce,C.D.,
+            Smalley,S., Smith,M.L., Soderlund,C., Spragon,L., Steward,C.A.,
+            Sulston,J.E., Swann,R.M., Vaudin,M., Wall,M., Wallis,J.M.,
+            Whiteley,M.N., Willey,D., Williams,L., Williams,S., Williamson,H.,
+            Wilmer,T.E., Wilming,L., Wright,C.L., Hubbard,T., Bentley,D.R.,
+            Beck,S., Rogers,J., Shimizu,N., Minoshima,S., Kawasaki,K.,
+            Sasaki,T., Asakawa,S., Kudoh,J., Shintani,A., Shibuya,K.,
+            Yoshizaki,Y., Aoki,N., Mitsuyama,S., Roe,B.A., Chen,F., Chu,L.,
+            Crabtree,J., Deschamps,S., Do,A., Do,T., Dorman,A., Fang,F.,
+            Fu,Y., Hu,P., Hua,A., Kenton,S., Lai,H., Lao,H.I., Lewis,J.,
+            Lewis,S., Lin,S.-P., Loh,P., Malaj,E., Nguyen,T., Pan,H., Phan,S.,
+            Qi,S., Qian,Y., Ray,L., Ren,Q., Shaull,S., Sloan,D., Song,L.,
+            Wang,Q., Wang,Y., Wang,Z., White,J., Willingham,D., Wu,H., Yao,Z.,
+            Zhan,M., Zhang,G., Chissoe,S., Murray,J., Miller,N., Minx,P.,
+            Fulton,R., Johnson,D., Bemis,G., Bentley,D., Bradshaw,H.,
+            Bourne,S., Cordes,M., Du,Z., Fulton,L., Goela,D., Graves,T.,
+            Hawkins,J., Hinds,K., Kemp,K., Latreille,P., Layman,D.,
+            Ozersky,P., Rohlfing,T., Scheet,P., Walker,C., Wamsley,A.,
+            Wohldmann,P., Pepin,K., Nelson,J., Korf,I., Bedell,J.A.,
+            Hillier,L., Mardis,E., Waterston,R., Wilson,R., Emanuel,B.S.,
+            Shaikh,T., Kurahashi,H., Saitta,S., Budarf,M.L., McDermid,H.E.,
+            Johnson,A., Wong,A.C.C., Morrow,B.E., Edelmann,L., Kim,U.J.,
+            Shizuya,H., Simon,M.I., Dumanski,J.P., Peyrard,M., Kedra,D.,
+            Seroussi,E., Fransson,I., Tapia,I., Bruder,C.E. and O'Brien,K.P.
+  TITLE     The DNA sequence of human chromosome 22
+  JOURNAL   Nature 402, 489-495 (1999)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..962365
+                     /chromosome="22"
+                     /db_xref="taxon:9606"
+                     /map="22q11.2"
+                     /mol_type="genomic DNA"
+                     /organism="Homo sapiens"
+CONTIG      join(AP000522.1:1..37693,AP000523.1:2273..41306,
+            AP000524.1:474..4455,AP000525.1:846..39301,AP000526.1:22650..36885,
+            AP000527.1:7214..40562,AP000528.1:6429..42301,
+            AP000529.1:6550..37981,gap(unk100),AP000530.1:1..32968,
+            AP000531.1:12539..34029,AP000532.1:7998..37599,
+            AP000533.1:2490..45597,AP000534.1:2502..37769,
+            AP000535.1:4727..39151,AP000536.1:5212..39668,
+            AP000537.1:6785..43734,AP000538.1:15492..33760,
+            AP000539.1:10187..42207,AP000540.2:18532..41100,
+            AP000541.1:2678..34987,AP000542.1:8603..41389,gap(unk100),
+            AP000543.1:1..36955,AP000544.1:19046..38993,AP000545.1:4338..37247,
+            AP000546.1:4243..39984,AP000547.1:4740..123288,
+            AP000365.1:33343..111123)
+//

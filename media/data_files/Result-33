@@ -1,0 +1,27 @@
+>ref;1209242B
+NAME        cytochrome P450f
+ determine  mRNA
+SOURCE      Rattus norvegicus
+ cname      Norway rat
+ taxon      Eucarya;Animalia;Metazoa;Chordata;Vertebrata;Gnathostomata;
+            Mammalia;Eutheria;Rodentia;Myomorpha;Muridae
+JOURNAL     J.Biol.Chem., 261(23),10667-10672(1986)
+AUTHOR      Gonzalez,F.J., Kimura,S., Song,B.-J., Pastewka,J., Gelboin,H.V.,
+            Hardwick,J.P.
+TITLE       Sequence of two related P-450 mRNAs transcriptionally increased
+            during rat development. An R.dre.1 sequence occupies the complete
+            3' untranslated region of a liver mRNA.
+KEYWORD     Cytochrome P450PB1/P450f    Immunol Screening    Male Rat
+            cDNA Clone   Seq Determination   490AAs   Seq Comparison   DNA Blot
+            Mutigene Family    RNA Blot    Developmental Regulation
+SEQUENCE
+            MDLVTFLVLT LSSLILLSLW RQSSRRRKLP PGPTPLPIIG NFLQIDVKNI SQSLTKFSKT 
+            YGPVFTLYLG SQPTVILHGY EAIKEALIDN GEKFSGRGSY PMIENVTKGF GIVFSNGNRW 
+            KEMRRFTIMN FRNLGIGKRN IEDRVQEEAQ CLVEELRKTK GSPCDPSLIL NCAPCNVICS 
+            ITFQNHFDYK DKEMLTFMEK VNENLKIMSS PWMQVCNSFP SLIDYFPGTH HKIAKNINYM 
+            KSYLLKKIEE HQESLDVTNP RDFVDYYLIK QKQANNIEQS EYSHENLTCS IMDLIGAGTE 
+            TMSTTLRYAL LLMLKYPHVT AKVQEEIDRV IGRHRSPCMQ DRKHMPYTDA MIHEVQRFIN 
+            FVPTNLPHAV TCDIKFRNYL IPKGTKVLTS LTSVLHDSKE FPNPEMFDPG HFLDGNGNFK 
+            KSDYFLPFSA GKRACVGEGL ARMQLFLFLT TILQNFNLKS LVHPKDIDTM PVLNGFASLP 
+            PTYQLCFIPS 
+END

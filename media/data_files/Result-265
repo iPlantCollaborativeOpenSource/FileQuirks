@@ -1,0 +1,141 @@
+GT:ID          AAC73113.1
+GT:GENE        thrA
+GT:PRODUCT     fused aspartokinase I and homoserine dehydrogenase I
+GT:DATABASE    GIB00009CH01
+GT:ORG         ecol0
+GB:ACCESSION   GIB00009CH01
+GB:LOCATION    337..2799
+GB:FROM        337
+GB:TO          2799
+GB:DIRECTION   +
+GB:GENE        thrA
+GB:PRODUCT     fused aspartokinase I and homoserine dehydrogenase I
+GB:FUNCTION    enzyme; Amino acid biosynthesis: Threonine   1.5.1.8 metabolism; building block biosynthesis; amino acids; threonine   1.5.1.21 metabolism; building block biosynthesis; amino acids; homoserine   7.1 location of gene products; cytoplasm
+GB:NOTE        bifunctional: aspartokinase I (N-terminal); homoserine dehydrogenase I (C-terminal); GO_component: cytoplasm [GO ID 0005737]; GO_process: threonine biosynthetic process [GO ID 0009088]; GO_process: methionine biosynthetic process [GO ID 0009086]; GO_process: homoserine biosynthetic process [GO ID 0009090]
+GB:PROTEIN_ID  AAC73113.1
+GB:DB_XREF     GI:1786183|ASAP:ABE-0000008|UniProtKB/Swiss-Prot:P00561|EcoGene:EG10998|NCBI:NP_414543.1
+GB:GENE:GENE   thrA
+GB:GENE:NOTE   synonyms: ECK0002, thrD, JW0001, Hs, thrA2, thrA1
+LENGTH         820
+SQ:AASEQ       MRVLKFGGTSVANAERFLRVADILESNARQGQVATVLSAPAKITNHLVAMIEKTISGQDA
+               LPNISDAERIFAELLTGLAAAQPGFPLAQLKTFVDQEFAQIKHVLHGISLLGQCPDSINA
+               ALICRGEKMSIAIMAGVLEARGHNVTVIDPVEKLLAVGHYLESTVDIAESTRRIAASRIP
+               ADHMVLMAGFTAGNEKGELVVLGRNGSDYSAAVLAACLRADCCEIWTDVDGVYTCDPRQV
+               PDARLLKSMSYQEAMELSYFGAKVLHPRTITPIAQFQIPCLIKNTGNPQAPGTLIGASRD
+               EDELPVKGISNLNNMAMFSVSGPGMKGMVGMAARVFAAMSRARISVVLITQSSSEYSISF
+               CVPQSDCVRAERAMQEEFYLELKEGLLEPLAVTERLAIISVVGDGMRTLRGISAKFFAAL
+               ARANINIVAIAQGSSERSISVVVNNDDATTGVRVTHQMLFNTDQVIEVFVIGVGGVGGAL
+               LEQLKRQQSWLKNKHIDLRVCGVANSKALLTNVHGLNLENWQEELAQAKEPFNLGRLIRL
+               VKEYHLLNPVIVDCTSSQAVADQYADFLREGFHVVTPNKKANTSSMDYYHQLRYAAEKSR
+               RKFLYDTNVGAGLPVIENLQNLLNAGDELMKFSGILSGSLSYIFGKLDEGMSFSEATTLA
+               REMGYTEPDPRDDLSGMDVARKLLILARETGRELELADIEIEPVLPAEFNAEGDVAAFMA
+               NLSQLDDLFAARVAKARDEGKVLRYVGNIDEDGVCRVKIAEVDGNDPLFKVKNGENALAF
+               YSHYYQPLPLVLRGYGAGNDVTAAGVFADLLRTLSWKLGV
+GT:EXON        1|1-820:0|
+SW:ID          AK1H_ECOLI
+SW:DE          RecName: Full=Bifunctional aspartokinase/homoserine dehydrogenase 1;AltName: Full=Aspartokinase I/homoserine dehydrogenase I;         Short=AKI-HDI;Includes:  RecName: Full=Aspartokinase;           EC=2.7.2.4;Includes:  RecName: Full=Homoserine dehydrogenase;           EC=1.1.1.3;
+SW:GN          Name=thrA; Synonyms=thrA1, thrA2; OrderedLocusNames=b0002, JW0001;
+SW:KW          Allosteric enzyme; Amino-acid biosynthesis; Complete proteome;Direct protein sequencing; Kinase; Multifunctional enzyme; NADP;Oxidoreductase; Repeat; Threonine biosynthesis; Transferase.
+SW:EXACT       T
+SW:FUNC        +
+BL:SWS:NREP    1
+BL:SWS:REP     1->820|AK1H_ECOLI|0.0|100.0|820/820|
+GO:SWS:NREP    8
+GO:SWS         GO:0003824|"GO:catalytic activity"|Allosteric enzyme
+GO:SWS         GO:0008652|"GO:amino acid biosynthetic process"|Amino-acid biosynthesis
+GO:SWS         GO:0016301|"GO:kinase activity"|Kinase
+GO:SWS         GO:0003824|"GO:catalytic activity"|Multifunctional enzyme
+GO:SWS         GO:0016491|"GO:oxidoreductase activity"|Oxidoreductase
+GO:SWS         GO:0055114|"GO:oxidation reduction"|Oxidoreductase
+GO:SWS         GO:0009088|"GO:threonine biosynthetic process"|Threonine biosynthesis
+GO:SWS         GO:0016740|"GO:transferase activity"|Transferase
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|3|GO:0016301|kinase activity|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|3|GO:0016491|oxidoreductase activity|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|3|GO:0016740|transferase activity|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006082|organic acid metabolism|5|GO:0019752|carboxylic acid metabolism|6|GO:0006520|amino acid metabolism|7|GO:0008652|amino acid biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006082|organic acid metabolism|5|GO:0019752|carboxylic acid metabolism|6|GO:0006520|amino acid metabolism|7|GO:0008652|amino acid biosynthesis|8|GO:0009067|aspartate family amino acid biosynthesis|9|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006082|organic acid metabolism|5|GO:0019752|carboxylic acid metabolism|6|GO:0006520|amino acid metabolism|7|GO:0009066|aspartate family amino acid metabolism|8|GO:0006566|threonine metabolism|9|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006082|organic acid metabolism|5|GO:0019752|carboxylic acid metabolism|6|GO:0006520|amino acid metabolism|7|GO:0009066|aspartate family amino acid metabolism|8|GO:0009067|aspartate family amino acid biosynthesis|9|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006519|amino acid and derivative metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006519|amino acid and derivative metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006519|amino acid and derivative metabolism|5|GO:0006520|amino acid metabolism|6|GO:0009066|aspartate family amino acid metabolism|7|GO:0006566|threonine metabolism|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006519|amino acid and derivative metabolism|5|GO:0006520|amino acid metabolism|6|GO:0009066|aspartate family amino acid metabolism|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009058|biosynthesis|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009058|biosynthesis|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0006520|amino acid metabolism|6|GO:0009066|aspartate family amino acid metabolism|7|GO:0006566|threonine metabolism|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0006520|amino acid metabolism|6|GO:0009066|aspartate family amino acid metabolism|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|
+GO:SWS:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|7|GO:0009067|aspartate family amino acid biosynthesis|8|GO:0009088|threonine biosynthesis|
+PROS           3->11|PS00324|ASPARTOKINASE|PDOC00289
+PROS           660->682|PS01042|HOMOSER_DHGENASE|PDOC00800
+NREPEAT        1
+REPEAT         2|315->379|396->460
+SEG            465->478|vievfvigvggvgg
+BL:PDB:NREP    2
+BL:PDB:REP     3->457|2hmfA|2e-75|36.6|453/464|
+BL:PDB:REP     550->785|1ebfA|2e-37|36.8|234/358|
+RP:PDB:NREP    2
+RP:PDB:REP     3->461|2hmfA|4e-91|36.4|459/464|
+RP:PDB:REP     486->812|1ebfA|3e-42|31.1|325/358|
+RP:PFM:NREP    4
+RP:PFM:REP     1->284|PF00696|3e-28|34.5|226/228|AA_kinase
+RP:PFM:REP     400->460|PF01842|2e-04|39.3|61/65|ACT
+RP:PFM:REP     479->605|PF03447|2e-20|41.4|116/125|NAD_binding_3
+RP:PFM:REP     614->811|PF00742|3e-52|48.6|183/185|Homoserine_dh
+HM:PFM:REP     1->284|AA_kinase|5.9e-64|0.0|284/0|
+HM:PFM:REP     400->460|PF01842|0.0004|31.1|61/64|ACT
+HM:PFM:REP     472->606|NAD_binding_3|8.1e-51|0.0|135/0|
+HM:PFM:REP     614->811|Homoserine_dh|4.8e-106|0.0|198/0|
+RP:PFM:NREP    4
+GO:PFM:NREP    7
+GO:PFM         GO:0008652|"GO:amino acid biosynthetic process"|PF00696|IPR001048
+GO:PFM         GO:0008152|"GO:metabolic process"|PF01842|IPR002912
+GO:PFM         GO:0016597|"GO:amino acid binding"|PF01842|IPR002912
+GO:PFM         GO:0016491|"GO:oxidoreductase activity"|PF03447|IPR005106
+GO:PFM         GO:0050661|"GO:NADP or NADPH binding"|PF03447|IPR005106
+GO:PFM         GO:0004412|"GO:homoserine dehydrogenase activity"|PF00742|IPR001342
+GO:PFM         GO:0008652|"GO:amino acid biosynthetic process"|PF00742|IPR001342
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|3|GO:0016491|oxidoreductase activity|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0003824|catalytic activity|3|GO:0016491|oxidoreductase activity|4|GO:0016614|oxidoreductase activity\, acting on CH-OH group of donors|5|GO:0016616|oxidoreductase activity\, acting on the CH-OH group of donors\, NAD or NADP as acceptor|6|GO:0004412|homoserine dehydrogenase activity|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0005488|binding|3|GO:0043176|amine binding|4|GO:0016597|amino acid binding|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0003674|molecular_function|2|GO:0005488|binding|3|GO:0048037|cofactor binding|4|GO:0050662|coenzyme binding|5|GO:0050661|NADPH binding|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006082|organic acid metabolism|5|GO:0019752|carboxylic acid metabolism|6|GO:0006520|amino acid metabolism|7|GO:0008652|amino acid biosynthesis|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0006519|amino acid and derivative metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009058|biosynthesis|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0006520|amino acid metabolism|6|GO:0008652|amino acid biosynthesis|
+GO:PFM:TREE    0|GO:0003673|Gene_Ontology|1|GO:0008150|biological_process|2|GO:0007582|physiological process|3|GO:0008152|metabolism|4|GO:0009308|amine metabolism|5|GO:0009309|amine biosynthesis|6|GO:0008652|amino acid biosynthesis|
+RP:SCP:NREP    5
+RP:SCP:REP     3->300|2hmfA1|6e-48|34.9|298/302|c.73.1.3
+RP:SCP:REP     302->392|2hmfA3|1e-19|37.4|91/95|d.58.18.10
+RP:SCP:REP     396->460|2j0wA3|4e-17|28.6|63/64|d.58.18.10
+RP:SCP:REP     503->603|1ebfA1|8e-11|24.2|99/168|c.2.1.3
+RP:SCP:REP     614->798|1ebfA2|2e-13|33.7|184/190|d.81.1.2
+HM:SCP:REP     1->295|1gs5A_|1.3e-27|26.9|238/258|c.73.1.2|1/1|Carbamate kinase-like
+HM:SCP:REP     462->636|1ebfA1|9.7e-43|40.0|165/169|c.2.1.3|1/1|NAD(P)-binding Rossmann-fold domains
+HM:SCP:REP     614->798|1ebfA2|8.5e-54|46.7|184/190|d.81.1.2|1/1|Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+OP:NHOMO       1836
+OP:NHOMOORG    810
+OP:PATTERN     2111--2222-22222232211222232222222222222222333322113- 431111111112121111122111111211221122221112111211112221132222233311124245211111111111112222222222223311122122112222222221222212122222122112122245544445555554555134334444333333333333332233423355553355443111343332343322221333323-2332321-411-21222222222222222222-------------2222221-------------------22112112222222222222222222222122122222223322223322222222122222211-11111-1111111111111111222212222222222222232223322222222222221222212232221222322222222222222222221232222244444222222222222212222222222442323224244443334444343433--1322111133333333333333-33333333333333333333333333333333321333333333333111111111221222-221111-11222332222221111211212131113----21113344444444433333332332222222112222-------------222222222232 -------2--11--22222222222325322222222222221223422-22222122232222222222222222222222422234-651-1-----------------------------------------------------12433333332657A556A4455444 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+STR:NPRED      808
+STR:RPRED      98.5
+SQ:SECSTR      cEEEEEcTGGGccHHHHHHHHHHHHHHHHHccEEEEEcccTTHHHHHHHHHHHHHHTccH
+               HHHHHHHHHHHHHHHHHHHHHcccHHHHHHHHHHHHHHHHHHHHHHHHHHHTcccHHHHH
+               HHHTHHHHHHHHHHHHHHHHTTccEEEEcTTTTTEEEcccTTcccEEEEcHHHHHHHHHH
+               TTcEEEEEccEEEcTTccEEEccTTTHHHHHHHHHHHHTccEEEEEEcccccccccTTTc
+               TTcccccEEEHHHHHHHHHTTcTTccGGGHHHHHHTTccEEEEETTcTTcccEEEEcccc
+               cccccccEEEEEEEEEEEEEEEcccccHHHHHHHHHHHHHHTTccEEEEEcccTTccEEE
+               EEccTTHHHHHHHHHHHHccccccccEEEEEEEEEEEEEEEEcTTTTTcTTHHHHHHHHH
+               HHTTccccEEEccccccEEEEEEEGGGHHHHHHHHHHHHTTcccTTcccccGGGc####c
+               cTTcTHHHHHHcccccEEEEEEEEccccEEEcccccccccTTcHHHHHTcccccccHHHH
+               HHHHccccEEEEEccccHHHHTTHHHHHHTTcEEEccccGGGcccHHHHHHHTcccTTcc
+               cHEEcGGGTTTTcccHHHHHHHHHHTccEEEEEEEccHHHHHHHHHHcccccHHHHHHHH
+               HHHTcccccTHHHHTcHHHHHHHHHHHHTTcccccTTcccccccccGGGcTTccTHHHHH
+               HHGGGHHHHHHHHHHHTTTTEEEEEEEEEETTTEEEEEEEEEEcccGGGGccTTcEEEEE
+               EEcccccccEEEEEccccHHHHHHHHHHHHHH########
+PSIPRED        cEEEEEcccccccHHHHHHHHHHHHHHcccccEEEEEEccHHHHHHHHHHHHHHHcccHHHHHHHHHHHHHHHHHHHHHHHHcccHHHHHHHHHHHHHHHHHHHHHHHHHHccccHHHHHHHHHHHHHHHHHHHHHHHHHccccEEEEEccEEEEEEcccccccccccccHHHHHHHHHHcccEEEEEccccccccccEEEEcccccHHHHHHHHHHHcccEEEEEEccccccccccccccccEEcccccHHHHHHHHHcccHHHcHHHHHHHHHcccEEEEEEccccccccEEEccccccccccEEEEEEcccEEEEEEEEccccccHHHHHHHHHHHHHccccEEEEEcccccEEEEEEEcHHHHHHHHHHHHHHHHHHHHHccccEEEEEccEEEEEEEcccccccHHHHHHHHHHHHHccccEEEEEEccccEEEEEEEcHHHHHHHHHHHHHHHHcccccccccccccccHHHHHHHHHHHHHHHHHHccccEEEEEEEEcccEEcccccccHHHHHHHHHHccccccHHHHHHHHcccccccEEEEEEcccHHHHHHHHHHHHcccEEEccccHHHcccHHHHHHHHHHHHHcccEEEEEEcHHHHHHHHHHHHHHcccccEEEEEEEEEcHHHHHHHHHHcccccHHHHHHHHHHccccccccccccccHHHHHHHHHHHHHHcccccHHHEEEcccccccccccccHHHHHHccHHHHHHHHHHHHHHHHcccEEEEEEEEEcccEEEEEEEEEccccccEEEccccEEEEEEEEEccccEEEEEcccccccHHHHHHHHHHHHHHHHHccc
+//
+

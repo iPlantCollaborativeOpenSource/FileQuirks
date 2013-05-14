@@ -1,0 +1,63 @@
+LOCUS       AA127456                 455 bp    mRNA    linear   EST 26-NOV-1996
+DEFINITION  zn81e07.s1 Stratagene lung carcinoma 937218 Homo sapiens cDNA clone
+            IMAGE:564612 3' similar to gb:X59543_rna1
+            RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE M1 CHAIN (HUMAN);, mRNA
+            sequence.
+ACCESSION   AA127456
+VERSION     AA127456.1
+KEYWORDS    EST.
+SOURCE      Homo sapiens
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 455)
+  AUTHORS   Hillier,L., Lennon,G., Becker,M., Bonaldo,M.F., Chiapelli,B.,
+            Chissoe,S., Dietrich,N., DuBuque,T., Favello,A., Gish,W.,
+            Hawkins,M., Hultman,M., Kucaba,T., Lacy,M., Le,M., Le,N.,
+            Mardis,E., Moore,B., Morris,M., Parsons,J., Prange,C., Rifkin,L.,
+            Rohlfing,T., Schellenberg,K., Soares,M.B., Tan,F., Thierry-Meg,J.,
+            Trevaskis,E., Underwood,K., Wohldmann,P., Waterston,R., Wilson,R.
+            and Marra,M.
+  TITLE     Generation and analysis of 280,000 human expressed sequence tags
+  JOURNAL   Genome Res. 6 (9), 807-828 (1996)
+   PUBMED   8889549
+COMMENT     Contact: Wilson RK
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: est@watson.wustl.edu
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            Seq primer: -40M13 fwd. from Amersham
+            High quality sequence stop: 289.
+FEATURES             Location/Qualifiers
+     source          1..455
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="GDB:4593666"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:564612"
+                     /tissue_type="lung carcinoma"
+                     /cell_line="NCI-H69"
+                     /dev_stage="cell line NCI-H69"
+                     /lab_host="SOLR (kanamycin resistant)"
+                     /clone_lib="Stratagene lung carcinoma 937218"
+                     /note="Organ: lung; Vector: pBluescript SK-; Site_1:
+                     EcoRI; Site_2: XhoI; Cloned unidirectionally.  Primer:
+                     Oligo dT. Small cell carcinoma cell line NCI-H69.  Average
+                     insert size: 1.0 kb; Uni-ZAP XR Vector; ~5' adaptor
+                     sequence: 5' GAATTCGGCACGAG 3' ~3' adaptor sequence: 5'
+                     CTCGAGTTTTTTTTTTTTTTTTTT 3'"
+BASE COUNT          121 a          112 c           77 g          141 t
+ORIGIN      
+        1 caaaagcatt attttggtga aaatcccaat atatgagttt aaaaaaaaat cattaacatc
+       61 attaacagta ctttaaatca attactcctt ttgcctgcaa cagggtccag caaagcctta
+      121 ccacctcaag caaacccact atacctatct atgctcaaga agtagtttgg ctactgaaga
+      181 catgctggtc tcttccaagt ctttcctcag gatccacaca tcagacattc atctctattc
+      241 tccaaagagc acaccatggc tgctgtgttc ctctccttct cttcttcctc ttttgatacc
+      301 ttttctttat ctnttagctt ctccttattt agagtgaact gggattggat tangctgctg
+      361 ggtctcggcc ttaantaata catcccagnc ttcaaaccct ggttccaggg cggagaagtg
+      421 catactaggt gaggttggcc atagttaggg ctcag
+//

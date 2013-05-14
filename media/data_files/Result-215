@@ -1,0 +1,54 @@
+ID   VATB_METTL              Reviewed;         253 AA.
+AC   P20022;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   24-MAR-2009, entry version 50.
+DE   RecName: Full=V-type ATP synthase beta chain;
+DE   AltName: Full=V-ATPase subunit B;
+DE   Flags: Fragment;
+GN   Name=atpB;
+OS   Methanococcus thermolithotrophicus.
+OC   Archaea; Euryarchaeota; Methanococci; Methanococcales;
+OC   Methanococcaceae; Methanothermococcus.
+OX   NCBI_TaxID=2186;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=89325654; PubMed=2526753; DOI=10.1016/0014-5793(89)81442-5;
+RA   Bernasconi P., Rausch T., Gogarten J.P., Taiz L.;
+RT   "The H+ ATPase regulatory subunit of Methanococcus
+RT   thermolithotrophicus: amplification of an 800 bp fragment by
+RT   polymerase chain reaction.";
+RL   FEBS Lett. 251:132-136(1989).
+CC   -!- FUNCTION: Produces ATP from ADP in the presence of a proton
+CC       gradient across the membrane. The archaeal beta chain is a
+CC       regulatory subunit.
+CC   -!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; S05029; S05029.
+DR   SMR; P20022; 6-253.
+DR   BRENDA; 3.6.3.14; 1453.
+DR   GO; GO:0033178; C:proton-transporting two-sector ATPase compl...; IEA:InterPro.
+DR   GO; GO:0005524; F:ATP binding; IEA:HAMAP.
+DR   GO; GO:0046933; F:hydrogen ion transporting ATP synthase acti...; IEA:HAMAP.
+DR   GO; GO:0016820; F:hydrolase activity, acting on acid anhydrid...; IEA:InterPro.
+DR   GO; GO:0042777; P:plasma membrane ATP synthesis coupled proto...; IEA:HAMAP.
+DR   HAMAP; MF_00310; -; 1.
+DR   InterPro; IPR000194; ATPase_F1/V1/A1_a/bsu_nucl-bd.
+DR   Pfam; PF00006; ATP-synt_ab; 1.
+DR   PROSITE; PS00152; ATPASE_ALPHA_BETA; PARTIAL.
+PE   3: Inferred from homology;
+KW   ATP synthesis; Hydrogen ion transport; Ion transport; Transport.
+FT   CHAIN        <1   >253       V-type ATP synthase beta chain.
+FT                                /FTId=PRO_0000144659.
+FT   NON_TER       1      1
+FT   NON_TER     253    253
+SQ   SEQUENCE   253 AA;  27670 MW;  F3EF9582D0851AD1 CRC64;
+     NTNETKVRFT GETAKIGVSL EMLGRIFNGA GKPIDGGPEI IPEKKLDING YPLNPVSRNP
+     PNAFVQTGIS TIDGTNTLVR GQKLPIFSGS GLPHNTLAAQ IARQAKVRGE GEQFAVVFAA
+     MGITNEEANY FMEEFKKPGA LENAVVFINL ANDPAIERII TPRLALTTAE YLAYEKDMHV
+     LVVLTDMTNY CEALREIAAA RNEVPGRRGY PGYMYTDLAT LYERAGRVKG RKGTVTQIPI
+     LTMPHDDITH PIP
+//

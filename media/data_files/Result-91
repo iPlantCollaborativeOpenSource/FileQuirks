@@ -1,0 +1,54 @@
+LOCUS       AQ000009                 448 bp    DNA     linear   GSS 26-JUN-1998
+DEFINITION  CIT-HSP-2172L14.TR CIT-HSP Homo sapiens genomic clone 2172L14,
+            genomic survey sequence.
+ACCESSION   AQ000009
+VERSION     AQ000009.1
+KEYWORDS    GSS.
+SOURCE      Homo sapiens
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 448)
+  AUTHORS   Adams,M.D., Rounsley,S.D., Zhao,S., Field,C.E., Bass,S., Linher,K.,
+            Golden,K., Berry,K., Granger,D., Suh,E., Wible,C., Shizuya,H.,
+            Simon,M. and Venter,J.C.
+  TITLE     Use of a random BAC End Sequence Database for Sequence-Ready Map
+            Building (1998)
+  JOURNAL   Unpublished (1998)
+COMMENT     Other_GSSs: CIT-HSP-2172L14.TF
+            Contact: Mark Adams
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: mdadams@tigr.org
+            Clones are available from Research Genetics (info@resgen.com). BAC
+            end search page:
+            http://www.tigr.org/tdb/humgen/bac_end_search/bac_end_search.html
+            Seq primer: M13 Reverse
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..448
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="GDB:7103952"
+                     /db_xref="taxon:9606"
+                     /clone="2172L14"
+                     /sex="Male"
+                     /cell_type="Sperm"
+                     /clone_lib="CIT-HSP"
+                     /note="Vector: pBeloBAC11; Site_1: HindIII; Site_2:
+                     HindIII"
+BASE COUNT          129 a           64 c          122 g          133 t
+ORIGIN      
+        1 atactcaagc tttaaggatg agaagagttt ggtatggtct agaagctaac agtaggctag
+       61 ggtcatggaa tgaattgggt gagatggatg gtagtcaaac atgaggttgc agggccttga
+      121 ttatgtagag tgttgcaggc agaagctaag tgtttgccat gctaggtaca ataaaaagcc
+      181 attgatatgt tttcagcaga cagaggagtg aaggtggact gttacatttc aaacaggcca
+      241 aatttacatt tgaaaagatt tatttggctg ctctattgag tataaattgg agcgagacat
+      301 gttagaagcc tgcaggaaga atacagatag cgtggttgaa ggtgagagaa tagattttag
+      361 gaatacttgt ttgtgttggt ggctgtgcca tcagatccac ccctcactgt taacttttct
+      421 attctgcgtt tcaggctgca ttccttga
+//

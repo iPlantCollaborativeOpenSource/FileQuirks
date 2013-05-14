@@ -1,0 +1,89 @@
+ID   DNAK3_SYNE7             Reviewed;         749 AA.
+AC   P50022; Q31K09;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   03-MAR-2009, entry version 52.
+DE   RecName: Full=Chaperone protein dnaK3;
+DE   AltName: Full=Heat shock protein 70-3;
+DE   AltName: Full=Heat shock 70 kDa protein 3;
+DE   AltName: Full=HSP70-3;
+GN   Name=dnaK3; OrderedLocusNames=Synpcc7942_2580;
+OS   Synechococcus elongatus (strain PCC 7942) (Anacystis nidulans R2).
+OC   Bacteria; Cyanobacteria; Chroococcales; Synechococcus.
+OX   NCBI_TaxID=1140;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=94271242; PubMed=8003021; DOI=10.1006/bbrc.1994.1778;
+RA   Nimura K., Yoshikawa H., Takahashi H.;
+RT   "Sequence analysis of the third dnaK homolog gene in Synechococcus sp.
+RT   PCC7942.";
+RL   Biochem. Biophys. Res. Commun. 201:848-854(1994).
+RN   [2]
+RP   ERRATUM.
+RX   MEDLINE=95110355; PubMed=7811295; DOI=10.1006/bbrc.1994.2908;
+RA   Nimura K., Yoshikawa H., Takahashi H.;
+RL   Biochem. Biophys. Res. Commun. 205:2016-2017(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Copeland A., Lucas S., Lapidus A., Barry K., Detter J.C., Glavina T.,
+RA   Hammon N., Israni S., Pitluck S., Schmutz J., Larimer F., Land M.,
+RA   Kyrpides N., Lykidis A., Richardson P.;
+RT   "Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+RT   7942.";
+RL   Submitted (AUG-2005) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Acts as a chaperone (By similarity).
+CC   -!- SIMILARITY: Belongs to the heat shock protein 70 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D29968; BAA06234.1; -; Genomic_DNA.
+DR   EMBL; CP000100; ABB58610.1; -; Genomic_DNA.
+DR   PIR; JC2458; JC2458.
+DR   RefSeq; YP_401597.1; -.
+DR   HSSP; P04475; 1DG4.
+DR   GeneID; 3775176; -.
+DR   GenomeReviews; CP000100_GR; Synpcc7942_2580.
+DR   KEGG; syf:Synpcc7942_2580; -.
+DR   HOGENOM; P50022; -.
+DR   BioCyc; SELO1140:SYNPCC7942_2580-MON; -.
+DR   GO; GO:0005524; F:ATP binding; IEA:HAMAP.
+DR   GO; GO:0051082; F:unfolded protein binding; IEA:InterPro.
+DR   GO; GO:0006457; P:protein folding; IEA:InterPro.
+DR   GO; GO:0006950; P:response to stress; IEA:UniProtKB-KW.
+DR   HAMAP; MF_00332; -; 1.
+DR   InterPro; IPR012725; DnaK_prok.
+DR   InterPro; IPR018181; Heat_shock_70_CS.
+DR   InterPro; IPR001023; Hsp70.
+DR   InterPro; IPR013126; Hsp_70.
+DR   PANTHER; PTHR19375; Hsp70; 1.
+DR   Pfam; PF00012; HSP70; 1.
+DR   PRINTS; PR00301; HEATSHOCK70.
+DR   ProDom; PD000089; Hsp70; 1.
+DR   TIGRFAMs; TIGR02350; prok_dnaK; 1.
+DR   PROSITE; PS00297; HSP70_1; 1.
+DR   PROSITE; PS00329; HSP70_2; 1.
+DR   PROSITE; PS01036; HSP70_3; 1.
+PE   3: Inferred from homology;
+KW   ATP-binding; Chaperone; Complete proteome; Nucleotide-binding;
+KW   Phosphoprotein; Stress response.
+FT   CHAIN         1    749       Chaperone protein dnaK3.
+FT                                /FTId=PRO_0000078565.
+FT   COMPBIAS    742    746       Poly-Asp.
+FT   MOD_RES     198    198       Phosphothreonine; by autocatalysis (By
+FT                                similarity).
+SQ   SEQUENCE   749 AA;  84193 MW;  DD6ADD1C0D4E94C3 CRC64;
+     MGRVVGIDLG TTNSVIAVME GGKPMVIANA EGVRTTPSVV GVSKTGERLV GELARRQLVL
+     NPRNTFANIK RFIGRRYDEL TDESKRVPYT VRRDPEGNVR IVCPQLSREF APEEVAAMIL
+     RKLAEEASRY LGEPVTGAVI TVPAYFNDSQ RQATRDAGRI AGLEVKRILN EPTAASLAYG
+     LDRRDNQTIL VFDLGGGTFD VSVLKVGNGV FEVKATSGDT QLGGNDFDRR IVDWLAEQFL
+     EAEGIDLRRD RQALQRLIEA AEKAKIELSG VSVTDINLPF ITATEDEPKH LETRLTRSEF
+     EALCEDLLER MMRPLRRALK DARLQPQDID EVVLVGGSTR MPMVQQLVRS LIGREPNQNV
+     NPDEVVAIGA AIQAGILAGE VKDILLLDVT PLSLGLETIG GVMKKLIPRN TAIPVRRSDI
+     FSTAENNQTM VEIHILQGER QLAEGNKSLG RFKLTGIPPA PRGVPQVQVS FDIDANGILQ
+     VSALDKTTGR EQTVTIQGAS TLSQEEVKRM MKDAELYAQQ DRQLKARIEK RNRAQTLIAQ
+     SERRLREISL DFGLYFAESK RRRIESTIRE LKDYLERQDD RGLDLALAEL QDALFDLNQE
+     TAARLRDEEG EGFFEPLKQT FASLRGDGNR DFERSWDDRG GDRWDADPWD RSRRSTPSYG
+     YDDRRSPVSD PYRGERWVEE QTSMSRREPV RDRNGGNGSV RPEPAPRRGR PTWEEDQPPR
+     RDRSSQPPAK PASGRRWNDG WDDDDDEWF
+//

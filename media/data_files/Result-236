@@ -1,0 +1,362 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= sp|P14060|3BHS1_HUMAN 3 beta-hydroxysteroid dehydrogenase/Delta
+5-->4-isomerase type 1;
+         (373 letters)
+
+Database: UNIPROT: UniProt/Swiss-Prot + UniProt/TrEMBL protein
+sequence database [Last update May/16/2009] 
+           6,439,399 sequences; 2,093,259,921 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+tr|Q5TDG2|Q5TDG2_HUMAN Hydroxy-delta-5-steroid dehydrogenase, 3 ...   774   0.0  
+tr|A8K691|A8K691_HUMAN cDNA FLJ75712, highly similar to Homo sap...   773   0.0  
+sp|P14060|3BHS1_HUMAN RecName: Full=3 beta-hydroxysteroid dehydr...   773   0.0  
+tr|Q2XQY4|Q2XQY4_MACFA 3-beta-hydroxy-5-ene steroid dehydrogenas...   734   0.0  
+sp|P27365|3BHS1_MACMU RecName: Full=3 beta-hydroxysteroid dehydr...   734   0.0  
+tr|B0FPA1|B0FPA1_PAPHU 3beta-hydroxysteroid dehydrogenase/isomer...   729   0.0  
+tr|A2RRA5|A2RRA5_HUMAN HSD3B2 protein (Hydroxy-delta-5-steroid d...   728   0.0  
+sp|P26439|3BHS2_HUMAN RecName: Full=3 beta-hydroxysteroid dehydr...   728   0.0  
+tr|B2R8L0|B2R8L0_HUMAN cDNA, FLJ93951, highly similar to Homo sa...   726   0.0  
+sp|Q5IFP1|3BHS_CANFA RecName: Full=3 beta-hydroxysteroid dehydro...   632   e-179
+tr|A5HEW2|A5HEW2_CAPHI 3beta-hydroxysteroid dehydrogenase/isomer...   610   e-173
+tr|Q866T3|Q866T3_MACRA 3-beta-hydroxysteroid dehydrogenase/delta...   610   e-173
+sp|P14893|3BHS_BOVIN RecName: Full=3 beta-hydroxysteroid dehydro...   609   e-172
+sp|Q9N119|3BHS_PIG RecName: Full=3 beta-hydroxysteroid dehydroge...   585   e-165
+sp|Q60555|3BHS1_MESAU RecName: Full=3 beta-hydroxysteroid dehydr...   583   e-165
+tr|Q2VQU0|Q2VQU0_CAVPO 3beta-hydroxysteroid dehydrogenase/delta5...   582   e-164
+sp|O46516|3BHS_HORSE RecName: Full=3 beta-hydroxysteroid dehydro...   581   e-164
+sp|Q62878|3BHS4_RAT RecName: Full=3 beta-hydroxysteroid dehydrog...   576   e-163
+sp|P22071|3BHS1_RAT RecName: Full=3 beta-hydroxysteroid dehydrog...   573   e-162
+tr|Q3UI20|Q3UI20_MOUSE 17 days pregnant adult female amnion cDNA...   570   e-161
+sp|P24815|3BHS1_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   570   e-161
+tr|Q3UJ12|Q3UJ12_MOUSE 17 days pregnant adult female amnion cDNA...   570   e-161
+sp|Q64421|3BHS2_MESAU RecName: Full=3 beta-hydroxysteroid dehydr...   568   e-160
+sp|P22072|3BHS2_RAT RecName: Full=3 beta-hydroxysteroid dehydrog...   565   e-159
+tr|B1ARN8|B1ARN8_MOUSE Hydroxysteroid dehydrogenase-2, delta<5>-...   562   e-158
+sp|P26150|3BHS3_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   562   e-158
+tr|B1ARN7|B1ARN7_MOUSE Hydroxysteroid dehydrogenase-2, delta<5>-...   561   e-158
+sp|P26149|3BHS2_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   558   e-157
+tr|Q3UQN7|Q3UQN7_MOUSE 13 days embryo heart cDNA, RIKEN full-len...   557   e-157
+tr|Q76CU3|Q76CU3_MOUSE 3beta-hydroxysteroid dehydrogenase VI.         555   e-156
+tr|Q7TPU0|Q7TPU0_MOUSE Hsd3b6 protein.                                555   e-156
+tr|Q541Q1|Q541Q1_MOUSE 3 beta-hydroxysteroid dehydrogenase isome...   551   e-155
+sp|O35469|3BHS6_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   551   e-155
+sp|Q61694|3BHS5_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   548   e-154
+sp|O35296|3BHS3_MESAU RecName: Full=3 beta-hydroxysteroid dehydr...   546   e-154
+tr|Q3UIU9|Q3UIU9_MOUSE 16 days embryo kidney cDNA, RIKEN full-le...   544   e-153
+sp|Q61767|3BHS4_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   544   e-153
+sp|P27364|3BHS5_RAT RecName: Full=3 beta-hydroxysteroid dehydrog...   543   e-153
+tr|A2AEP8|A2AEP8_MOUSE Hydroxysteroid dehydrogenase-1, delta<5>-...   488   e-136
+tr|Q8TDP9|Q8TDP9_HUMAN 3-beta-hydroxysteroid dehydrogenase (Frag...   460   e-128
+tr|Q5FW73|Q5FW73_MOUSE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   451   e-125
+tr|Q91997|Q91997_CHICK 3beta-hydroxysteroid dehydrogenase/delta5...   427   e-118
+tr|Q6SYC3|Q6SYC3_POEGU 3beta-hydroxysteroid dehydrogenase/d5-d4 ...   416   e-114
+tr|Q3KPY4|Q3KPY4_XENLA MGC131206 protein.                             390   e-106
+tr|Q5QP01|Q5QP01_HUMAN Hydroxy-delta-5-steroid dehydrogenase, 3 ...   379   e-103
+tr|A6P661|A6P661_RANRU 3-beta-hydroxysteroid dehydrogenase.           367   e-100
+tr|Q91381|Q91381_ONCMY 3 beta-hydroxysteroid dehydrogenase.           365   3e-99
+tr|Q6GMH6|Q6GMH6_DANRE LOC553532 protein (Fragment).                  356   1e-96
+tr|A0JCJ4|A0JCJ4_COTJA 3beta-Hydroxysteroid dehydrogenase (Fragm...   353   8e-96
+tr|Q4RTQ7|Q4RTQ7_TETNG Chromosome 2 SCAF14997, whole genome shot...   340   1e-91
+tr|O73851|O73851_ICTPU Testicular 3-beta hydroxysteroid dehydrog...   333   2e-89
+tr|Q5RIL7|Q5RIL7_DANRE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   329   2e-88
+tr|Q567M6|Q567M6_DANRE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   325   3e-87
+tr|Q7ZZC3|Q7ZZC3_DANRE 3-beta-hydroxysteroid dehydrogenase.           325   4e-87
+tr|Q38HR9|Q38HR9_9CHON 3 beta-hydroxysteroid dehydrogenase.           324   5e-87
+tr|Q6DCG3|Q6DCG3_XENLA HSD3B2 protein (Fragment).                     311   5e-83
+tr|B1ARN9|B1ARN9_MOUSE Hydroxysteroid dehydrogenase-2, delta<5>-...   310   9e-83
+tr|B1ARP1|B1ARP1_MOUSE Hydroxysteroid dehydrogenase-2, delta<5>-...   303   1e-80
+tr|B1ARP0|B1ARP0_MOUSE Hydroxysteroid dehydrogenase-2, delta<5>-...   285   3e-75
+tr|O42353|O42353_DASAM 3 beta-hydroxysteroid dehydrogenase (Frag...   278   6e-73
+tr|A2AEP7|A2AEP7_MOUSE Hydroxysteroid dehydrogenase-1, delta<5>-...   273   1e-71
+tr|Q6I955|Q6I955_HUMAN 3<beta>-HSD <psi>1 protein.                    265   3e-69
+tr|Q5G040|Q5G040_ACASC 3beta-hydroxysteroid dehydrogenase (Fragm...   254   8e-66
+tr|Q32PQ7|Q32PQ7_DANRE Hsd3b1 protein.                                253   1e-65
+tr|Q3MHF2|Q3MHF2_BOVIN Hydroxy-delta-5-steroid dehydrogenase, 3 ...   251   6e-65
+sp|Q9H2F3|3BHS7_HUMAN RecName: Full=3 beta-hydroxysteroid dehydr...   249   3e-64
+tr|Q8QGF3|Q8QGF3_SALAL 3 beta hydroxysteroid dehydrogenase (Frag...   248   7e-64
+tr|A2RTR5|A2RTR5_MOUSE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   244   5e-63
+sp|Q9EQC1|3BHS7_MOUSE RecName: Full=3 beta-hydroxysteroid dehydr...   244   5e-63
+tr|B0BM86|B0BM86_XENTR Putative uncharacterized protein.              244   7e-63
+tr|Q4RWK7|Q4RWK7_TETNG Chromosome 3 SCAF14987, whole genome shot...   240   1e-61
+tr|A9JT34|A9JT34_DANRE Hsd3b7 protein.                                237   8e-61
+tr|B1H2H9|B1H2H9_XENTR Putative uncharacterized protein.              236   2e-60
+tr|A7YYJ0|A7YYJ0_DANRE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   236   2e-60
+tr|Q7ZVQ1|Q7ZVQ1_DANRE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   236   2e-60
+tr|Q9UD06|Q9UD06_HUMAN 3 beta-hydroxysteroid dehydrogenase (Frag...   231   6e-59
+tr|B1H3G7|B1H3G7_XENTR Putative uncharacterized protein.              229   2e-58
+tr|Q6NRR5|Q6NRR5_XENLA MGC82269 protein.                              228   7e-58
+tr|Q6VZT4|Q6VZT4_CNPV CNPV063 hydroxysteroid dehydrogenase-like ...   226   2e-57
+tr|Q6GPW9|Q6GPW9_XENLA MGC82547 protein.                              223   1e-56
+tr|Q6NY46|Q6NY46_DANRE Hydroxy-delta-5-steroid dehydrogenase, 3 ...   218   7e-55
+tr|Q3SCK1|Q3SCK1_ALLMI 3 beta-hydroxysteroid dehydrogenase / d5-...   216   1e-54
+sp|O35048|3BHS7_RAT RecName: Full=3 beta-hydroxysteroid dehydrog...   213   2e-53
+tr|Q8JL76|Q8JL76_9POXV EVM143.                                        204   8e-51
+tr|Q98318|Q98318_MCV1 MC152R (H-M-N-7 protein).                       202   2e-50
+tr|Q76TT0|Q76TT0_9POXV 3-beta hydroxy-5-ene steroid dehydrogenase.    202   2e-50
+tr|Q9UDK8|Q9UDK8_HUMAN 3 beta-hydroxysteroid dehydrogenase (Frag...   201   6e-50
+sp|Q6AI10|YA027_HUMAN RecName: Full=Putative 3-beta-HSD family p...   200   1e-49
+tr|Q8QMR0|Q8QMR0_COWPX CPXV182 protein.                               199   4e-49
+tr|Q8V2L3|Q8V2L3_CAMPM Hydroxysteroid dehydrogenase-like protein.     198   5e-49
+tr|Q0NPR0|Q0NPR0_COWPX Hydroxysteroid dehydrogenase.                  198   6e-49
+tr|Q8QQ22|Q8QQ22_CAMPS CMP161L.                                       197   8e-49
+tr|Q49PD9|Q49PD9_9POXV Hydroxysteroid dehydrogenase.                  197   9e-49
+tr|Q5IXM0|Q5IXM0_MONPV MPXV-WRAIR149 (Bifunctional hydroxysteroi...   197   1e-48
+tr|Q6RZD8|Q6RZD8_9POXV RPXV153.                                       197   1e-48
+tr|Q8V4T4|Q8V4T4_MONPV A45L (Bifunctional hydroxysteroid dehydro...   197   1e-48
+sp|P26670|3BHS_VACCW RecName: Full=3 beta-hydroxysteroid dehydro...   197   1e-48
+sp|O57245|3BHS_VACCA RecName: Full=3 beta-hydroxysteroid dehydro...   196   1e-48
+tr|A4GDM0|A4GDM0_9POXV 3 beta-hydroxysteroid dehydrogenase/delta...   196   1e-48
+sp|Q67477|3BHS_FOWPV RecName: Full=3 beta-hydroxysteroid dehydro...   196   2e-48
+
+>tr|Q5TDG2|Q5TDG2_HUMAN Hydroxy-delta-5-steroid dehydrogenase, 3
+           beta-and steroid delta- isomerase 1.
+          Length = 375
+
+ Score =  774 bits (1999), Expect = 0.0,   Method: Compositional matrix adjust.
+ Identities = 373/373 (100%), Positives = 373/373 (100%)
+
+Query: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+           MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE
+Sbjct: 3   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 62
+
+Query: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+           GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF
+Sbjct: 63  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 122
+
+Query: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+           IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL
+Sbjct: 123 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 182
+
+Query: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+           YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL
+Sbjct: 183 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 242
+
+Query: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+           QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI
+Sbjct: 243 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 302
+
+Query: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+           VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL
+Sbjct: 303 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 362
+
+Query: 361 VDRHKETLKSKTQ 373
+           VDRHKETLKSKTQ
+Sbjct: 363 VDRHKETLKSKTQ 375
+
+
+>tr|A8K691|A8K691_HUMAN cDNA FLJ75712, highly similar to Homo
+           sapiens hydroxy-delta-5-steroid dehydrogenase, 3 beta-
+           and steroid delta-isomerase 1 (HSD3B1), mRNA.
+          Length = 373
+
+ Score =  773 bits (1997), Expect = 0.0,   Method: Compositional matrix adjust.
+ Identities = 373/373 (100%), Positives = 373/373 (100%)
+
+Query: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+           MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE
+Sbjct: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+
+Query: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+           GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF
+Sbjct: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+
+Query: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+           IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL
+Sbjct: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+
+Query: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+           YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL
+Sbjct: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+
+Query: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+           QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI
+Sbjct: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+
+Query: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+           VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL
+Sbjct: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+
+Query: 361 VDRHKETLKSKTQ 373
+           VDRHKETLKSKTQ
+Sbjct: 361 VDRHKETLKSKTQ 373
+
+
+>sp|P14060|3BHS1_HUMAN RecName: Full=3 beta-hydroxysteroid
+           dehydrogenase/Delta 5-->4-isomerase type 1;        
+           Short=3-beta-HSD I; AltName: Full=Trophoblast antigen
+           FDO161G; Includes:   RecName:
+           Full=3-beta-hydroxy-Delta(5)-steroid dehydrogenase;     
+                 EC=1.1.1.145;   AltName: Full=3-beta-hydroxy-5-ene
+           steroid dehydrogenase;   AltName: Full=Progesterone
+           reductase; Includes:   RecName: Full=Steroid
+           Delta-isomerase;            EC=5.3.3.1;   AltName:
+           Full=Delta-5-3-ketosteroid isomerase;
+          Length = 373
+
+ Score =  773 bits (1997), Expect = 0.0,   Method: Compositional matrix adjust.
+ Identities = 373/373 (100%), Positives = 373/373 (100%)
+
+Query: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+           MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE
+Sbjct: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+
+Query: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+           GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF
+Sbjct: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+
+Query: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+           IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL
+Sbjct: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+
+Query: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+           YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL
+Sbjct: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+
+Query: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+           QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI
+Sbjct: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+
+Query: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+           VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL
+Sbjct: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+
+Query: 361 VDRHKETLKSKTQ 373
+           VDRHKETLKSKTQ
+Sbjct: 361 VDRHKETLKSKTQ 373
+
+
+>tr|Q2XQY4|Q2XQY4_MACFA 3-beta-hydroxy-5-ene steroid
+           dehydrogenase/delta-5-delta-4 isomerase.
+          Length = 373
+
+ Score =  734 bits (1896), Expect = 0.0,   Method: Compositional matrix adjust.
+ Identities = 350/373 (93%), Positives = 364/373 (97%)
+
+Query: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+           MTGWSCLVTGAGGFLGQRI+RLLV+EKELKEIRVLDKAF PELREEFSKLQNKTKLTVLE
+Sbjct: 1   MTGWSCLVTGAGGFLGQRIVRLLVEEKELKEIRVLDKAFRPELREEFSKLQNKTKLTVLE 60
+
+Query: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+           GDILDEPFLKRACQDVSV+IHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF
+Sbjct: 61  GDILDEPFLKRACQDVSVVIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+
+Query: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+           IYTS++EVAGPNSYKEIIQNGHEEEPLENTWPAPYP+SKKLAEKAVLAANGW LKNGGTL
+Sbjct: 121 IYTSTLEVAGPNSYKEIIQNGHEEEPLENTWPAPYPYSKKLAEKAVLAANGWTLKNGGTL 180
+
+Query: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+           YTCALRPMYIYGEG  FLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL
+Sbjct: 181 YTCALRPMYIYGEGGPFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+
+Query: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+           +DPKKAPS++GQFYYISDDTPHQSYDNLNY LSKEFGL LDSRWS PL+LMYWIGFLLE+
+Sbjct: 241 RDPKKAPSVQGQFYYISDDTPHQSYDNLNYILSKEFGLCLDSRWSLPLALMYWIGFLLEV 300
+
+Query: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+           VSFLL P+Y+Y+PPFNRH VTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL
+Sbjct: 301 VSFLLSPVYSYQPPFNRHTVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+
+Query: 361 VDRHKETLKSKTQ 373
+           VDRHKETLKSKTQ
+Sbjct: 361 VDRHKETLKSKTQ 373
+
+
+>sp|P27365|3BHS1_MACMU RecName: Full=3 beta-hydroxysteroid
+           dehydrogenase/Delta 5-->4-isomerase type 1;        
+           Short=3-beta-HSD I; Includes:   RecName:
+           Full=3-beta-hydroxy-Delta(5)-steroid dehydrogenase;     
+                 EC=1.1.1.145;   AltName: Full=3-beta-hydroxy-5-ene
+           steroid dehydrogenase;   AltName: Full=Progesterone
+           reductase; Includes:   RecName: Full=Steroid
+           Delta-isomerase;            EC=5.3.3.1;   AltName:
+           Full=Delta-5-3-ketosteroid isomerase;
+          Length = 373
+
+ Score =  734 bits (1896), Expect = 0.0,   Method: Compositional matrix adjust.
+ Identities = 350/373 (93%), Positives = 364/373 (97%)
+
+Query: 1   MTGWSCLVTGAGGFLGQRIIRLLVKEKELKEIRVLDKAFGPELREEFSKLQNKTKLTVLE 60
+           MTGWSCLVTGAGGFLGQRI+RLLV+EKELKEIRVLDKAF PELREEFSKLQNKTKLTVLE
+Sbjct: 1   MTGWSCLVTGAGGFLGQRIVRLLVEEKELKEIRVLDKAFRPELREEFSKLQNKTKLTVLE 60
+
+Query: 61  GDILDEPFLKRACQDVSVIIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+           GDILDEPFLKRACQDVSV+IHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF
+Sbjct: 61  GDILDEPFLKRACQDVSVVIHTACIIDVFGVTHRESIMNVNVKGTQLLLEACVQASVPVF 120
+
+Query: 121 IYTSSIEVAGPNSYKEIIQNGHEEEPLENTWPAPYPHSKKLAEKAVLAANGWNLKNGGTL 180
+           IYTS++EVAGPNSYKEIIQNGHEEEPLENTWPAPYP+SKKLAEKAVLAANGW LKNGGTL
+Sbjct: 121 IYTSTLEVAGPNSYKEIIQNGHEEEPLENTWPAPYPYSKKLAEKAVLAANGWTLKNGGTL 180
+
+Query: 181 YTCALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+           YTCALRPMYIYGEG  FLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL
+Sbjct: 181 YTCALRPMYIYGEGGPFLSASINEALNNNGILSSVGKFSTVNPVYVGNVAWAHILALRAL 240
+
+Query: 241 QDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFGLRLDSRWSFPLSLMYWIGFLLEI 300
+           +DPKKAPS++GQFYYISDDTPHQSYDNLNY LSKEFGL LDSRWS PL+LMYWIGFLLE+
+Sbjct: 241 RDPKKAPSVQGQFYYISDDTPHQSYDNLNYILSKEFGLCLDSRWSLPLALMYWIGFLLEV 300
+
+Query: 301 VSFLLRPIYTYRPPFNRHIVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+           VSFLL P+Y+Y+PPFNRH VTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL
+Sbjct: 301 VSFLLSPVYSYQPPFNRHTVTLSNSVFTFSYKKAQRDLAYKPLYSWEEAKQKTVEWVGSL 360
+
+Query: 361 VDRHKETLKSKTQ 373
+           VDRHKETLKSKTQ
+Sbjct: 361 VDRHKETLKSKTQ 373
+
+
+  Database: UNIPROT: UniProt/Swiss-Prot + UniProt/TrEMBL protein
+  sequence database [Last update May/16/2009]
+    Posted date:  May 16, 2009  7:05 AM
+  Number of letters in database: 2,093,259,921
+  Number of sequences in database:  6,439,399
+  
+Lambda     K      H
+   0.319    0.136    0.410 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 6439399
+Number of Hits to DB: 1,569,694,126
+Number of extensions: 65950533
+Number of successful extensions: 163738
+Number of sequences better than 10.0: 4617
+Number of HSP's gapped: 163162
+Number of HSP's successfully gapped: 4637
+Length of query: 373
+Length of database: 2,093,259,921
+Length adjustment: 135
+Effective length of query: 238
+Effective length of database: 1,223,941,056
+Effective search space: 291297971328
+Effective search space used: 291297971328
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.8 bits)
+S2: 79 (35.0 bits)

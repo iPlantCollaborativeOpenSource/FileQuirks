@@ -1,0 +1,16 @@
+
+ /tmp/readseq.in.7496  MSF: 116  Type: N  January 01, 1776  12:00  Check: 1999 ..
+
+ Name: 1234567          Len:   116  Check:  2244  Weight:  1.00
+ Name: sample           Len:   116  Check:  9755  Weight:  1.00
+
+//
+
+        1234567  CCCGCCTGGG GCGCCGGCCC CCCCAGCGCC CCCGGCGGCA GCGGCTGGGT
+         sample  GGTGCTGAGA GAC------- ---------- ---------- --AACATCCA
+
+        1234567  GGCCGCCGCC CTGTGCGTGG TGATCGCCCT GACCGCCGCC GCCAACAGCC
+         sample  GGGCATCACC AAGCCCGCCA TCAGAAGACT GGCCAGAAGA GGCGGCGTGA
+
+        1234567  TGCTGATCGC CCTGAT
+         sample  AGAGAATCAG CGGCCT

@@ -1,0 +1,36 @@
+LOCUS       GG000009              116682 bp    DNA     linear   CON 06-NOV-2008
+DEFINITION  Choloepus hoffmanni scaffold_8 genomic scaffold, whole genome
+            shotgun sequence.
+ACCESSION   GG000009 ABVD01000000
+VERSION     GG000009.1
+PROJECT     GenomeProject:30809
+KEYWORDS    WGS.
+SOURCE      Choloepus hoffmanni
+  ORGANISM  Choloepus hoffmanni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Xenarthra; Megalonychidae; Choloepus.
+REFERENCE   1  (bases 1 to 116682)
+  AUTHORS   Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,
+            Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.
+  TITLE     The Genome Sequence of Choloepus hoffmanni (sloth)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 116682)
+  AUTHORS   Gnerre,S., Heiman,D., Young,S., Fulton,L., Delehaunty,K., Minx,P.,
+            Chinwalla,A., Mardis,E., Wilson,R. and Warren,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2008) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Sequenced at Washington University School of Medicine Genome
+            Sequencing Center, assembled at the Broad Institute.
+            Assembly name: ChoHof1.0
+            Coverage: 2.18X.
+FEATURES             Location/Qualifiers
+     source          1..116682
+                     /organism="Choloepus hoffmanni"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9358"
+                     /sex="female"
+     gap             1914..2013
+                     /estimated_length=unknown
+CONTIG      join(ABVD01000184.1:1..1913,gap(unk100),ABVD01000185.1:1..114669)
+//

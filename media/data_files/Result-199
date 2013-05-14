@@ -1,0 +1,205 @@
+gc; MTECHINOIDEA
+gx; PR00873
+gn; COMPOUND(4)
+ga; 26-JUN-1998; UPDATE 27-JUN-1999
+gt; Echinoidea (sea urchin) metallothionein signature
+gp; PRINTS; PR00858 MTCRUSTACEAN; PR00859 MTPROKARYOTE; PR00860 MTVERTEBRATE
+gp; PRINTS; PR00872 MTDIPTERA; PR00874 MTFUNGIIV; PR00875 MTMOLLUSC
+gp; PRINTS; PR00876 MTNEMATODE; PR00877 MTPLANTPEC
+gp; INTERPRO; IPR001396
+gp; PROTOMAP; P04734
+gp; PFAM; PF00131 metalthio
+bb;
+gr; 1. KAGI, J.H.R.
+gr; Overview of Metallothioneins.
+gr; METHODS ENZYMOL. 205 613-626 (1991).
+gr;
+gr; 2. KAGI, J.H.R. AND KOJIMA, Y.
+gr; Chemistry and biochemistry of metallothionein.
+gr; EXPERIENTIA SUPPL. 52 25-61 (1987).
+gr;
+gr; 3. KAGI, J.H.R. AND SCHAFFER, A.
+gr; Biochemistry of metallothionein.
+gr; BIOCHEMISTRY 27 8509-8515 (1988).
+gr;
+gr; 4. FOWLER, B.A., HILDEBRAND, C.E., KOJIMA, Y. AND WEBB, M.
+gr; Nomenclature of metallothionein.
+gr; EXPERIENTIA SUPPL. 52 21 (1987).
+gr;
+gr; 5. KOJIMA, Y.
+gr; Definitions and nomenclature of metallothioneins.
+gr; METHODS ENZYMOL. 205 8-10 (1991).
+gr;
+gr; 6. BINZ, P.-A. AND KAGI, J.H.R.
+gr; Molecular evolution of the metallothionein. Suggestions for a natural 
+gr; classification system.
+gr; FOURTH INTERNATIONAL MEETING ON METALLOTHIONEIN, KANSAS CITY (USA), 1997.
+bb;
+bb;
+gd; Metallothioneins (MT) are small proteins that bind heavy metals, such as
+gd; zinc, copper, cadmium, nickel, etc.. They have a high content of cysteine
+gd; residues that bind the metal ions through clusters of thiolate bonds [1-3]
+gd; (http://www.unizh.ch/~mtpage/MT.html). An empirical classification into
+gd; three classes has been proposed by Fowler et al. [4] and Kojima [5]. Members
+gd; of class I are defined to include polypeptides related in the positions of
+gd; their cysteines to equine MT-1B, and include mammalian MTs as well as MTs 
+gd; from crustaceans and molluscs. Class II groups MTs from a variety of 
+gd; species, including sea urchins, fungi, insects and cyanobacteria. Class
+gd; III MTs are atypical polypeptides composed of gamma-glutamylcysteinyl
+gd; units [4]. 
+gd;
+gd; This original classification system has been found to be limited, in the
+gd; sense that it does not allow clear differentiation of patterns of structural
+gd; similarities, either between or within classes. Consequently, all class I
+gd; and class II MTs (the proteinaceous sequences) have now been grouped into
+gd; families of phylogenetically-related and thus alignable sequences [6]
+gd; (http://www.unizh.ch/~mtpage/classif.html). This system subdivides the MT
+gd; superfamily into families, subfamilies, subgroups, and isolated isoforms
+gd; and alleles. 
+gd;
+gd; The metallothionein superfamily comprises all polypeptides that resemble
+gd; equine renal metallothionein in several respects [4]: e.g., low molecular
+gd; weight; high metal content; amino acid composition with high Cys and low
+gd; aromatic residue content; unique sequence with characteristic distribution
+gd; of cysteines, and spectroscopic manifestations indicative of metal thiolate
+gd; clusters. A MT family subsumes MTs that share particular sequence-specific 
+gd; features and are thought to be evolutionarily related. The inclusion of a
+gd; MT within a family presupposes that its amino acid sequence is alignable 
+gd; with that of all members. Fifteen MT families have been characterised, each
+gd; family being identified by its number and its taxonomic range: e.g., Family
+gd; 1: vertebrate MTs.
+gd;
+gd; Echinoidea (Sea urchin, family 4) MTs are 64-67 residue proteins, in which
+gd; 20 conserved cysteines bind divalent metal ions. The protein is arranged
+gd; into two domains, the N-terminal domain containing 9 Cys residues and the
+gd; C-terminal domain having 11 cysteines. In particular, the consensus pattern 
+gd; P-D-x-K-C-V-C-C-x(5)-C-x-C-x(4)-C-C-x(4)-C-C-x(4,6)-C-C has been found to
+gd; be diagnostic of family 4 MTs. The protein is induced by and binds various
+gd; heavy metal ions.
+gd;
+gd; MTECHINOIDEA is a 4-element fingerprint that provides a signature for
+gd; echinoidea (sea urchin, family 4) metallothioneins. The fingerprint was
+gd; derived from an initial alignment of 6 sequences: motif 1 contains 5 metal-
+gd; binding Cys residues; motifs 2 and 3 each include 4 cysteines; and motif 4
+gd; contains 6 Cys residues. Motifs 1 to 3 fully span the characteristic
+gd; consensus pattern. Two iterations on OWL30.1 were required to reach
+gd; convergence, at which point a true set comprising 7 sequences was 
+gd; identified.
+gd;
+gd; An update on SPTR37_9f identified a true set of 5 sequences.
+bb;
+bb;
+si; SUMMARY INFORMATION
+si; -------------------
+sd;    5 codes involving  4 elements
+sd;    0 codes involving  3 elements
+sd;    0 codes involving  2 elements
+bb;
+bb;
+ci; COMPOSITE FINGERPRINT INDEX
+ci; ---------------------------
+cr;
+cd;  4|   5    5    5    5  
+cd;  3|   0    0    0    0  
+cd;  2|   0    0    0    0  
+cd; --+---------------------
+cd;   |   1    2    3    4  
+bb;
+bb;
+tp; MT_STENE       MTA_STRPU      MTB_STRPU      O02033         
+tp; MT_PARLI       
+bb;
+bb;
+tt; MT_STENE         METALLOTHIONEIN (MT) - STERECHINUS NEUMAYERI (ANTARTIC SEA URCHIN).
+tt; MTA_STRPU        METALLOTHIONEIN-A (MTA) - STRONGYLOCENTROTUS PURPURATUS (PURPLE SEA URCHIN).
+tt; MTB_STRPU        METALLOTHIONEIN-B (MTB) - STRONGYLOCENTROTUS PURPURATUS (PURPLE SEA URCHIN).
+tt; O02033           METALLOTHIONEIN - LYTECHINUS PICTUS (PAINTED SEA URCHIN).
+tt; MT_PARLI         METALLOTHIONEIN (MT) - PARACENTROTUS LIVIDUS (COMMON SEA URCHIN).
+bb;
+bb;
+sh; SCAN HISTORY
+sh; ------------
+dn; OWL30_1     2   100 NSINGLE
+dn; SPTR37_9f   2    50 NSINGLE
+bb;
+bb;
+im; INITIAL MOTIF-SETS
+im; ------------------
+ic; MTECHINOIDEA1
+il; 16
+it; Sea-urchin metallothionein motif I - 1
+id; PDTKCVCCQDGKQCPC                   MT_PARLI      1     1
+id; PDVKCVCCKEGKECAC                  MTA_STRPU      2     2
+id; PDVKCVCCKEGNECAC                  MTB_STRPU      2     2
+id; PDVKCVCCQDGKECPC                  MTA_SPHGR      3     3
+id; PDVKCVCCQDGEECPC                  MTB_SPHGR      3     3
+id; PDVKCVCCKEGKECAC                   MT_STENE      2     2
+bb;
+ic; MTECHINOIDEA2
+il; 14
+it; Sea-urchin metallothionein motif II - 1
+id; GQECCITGKCCKDG                     MT_PARLI     18     1
+id; GQDCCKTGECCKDG                    MTA_STRPU     19     1
+id; GQDCCTIGKCCKDG                    MTB_STRPU     19     1
+id; GGECCITGSCCKEG                    MTA_SPHGR     20     1
+id; GGECCITGTCCKEG                    MTB_SPHGR     20     1
+id; GKECCTTGECCKDG                     MT_STENE     19     1
+bb;
+ic; MTECHINOIDEA3
+il; 11
+it; Sea-urchin metallothionein motif III - 1
+id; CCGTCSNAACK                        MT_PARLI     35     3
+id; CCGICTNAACK                       MTA_STRPU     34     1
+id; CCGKCSNAACK                       MTB_STRPU     34     1
+id; CCGKCSNAACK                       MTA_SPHGR     37     3
+id; CCGKCSNAACK                       MTB_SPHGR     37     3
+id; CCGKCTNAACK                        MT_STENE     34     1
+bb;
+ic; MTECHINOIDEA4
+il; 19
+it; Sea-urchin metallothionein motif IV - 1
+id; CTGGCKCEGGCVCTEGNCT                MT_PARLI     46     0
+id; CANGCKCGSGCSCTEGNCA               MTA_STRPU     45     0
+id; CADGCTCGSGCSCTEGNCP               MTB_STRPU     46     1
+id; CADGCKCGSGCSCTLGNCT               MTA_SPHGR     48     0
+id; CADGCKCGSGCSCTLGNCT               MTB_SPHGR     48     0
+id; CADGCKCGSGCSCTEGNCA                MT_STENE     45     0
+bb;
+fm; FINAL MOTIF-SETS
+fm; ----------------
+fc; MTECHINOIDEA1
+fl; 16
+ft; Sea-urchin metallothionein motif I - 2
+fd; PDVKCVCCKEGKECAC                   MT_STENE      2     2
+fd; PDVKCVCCKEGKECAC                  MTA_STRPU      2     2
+fd; PDVKCVCCKEGNECAC                  MTB_STRPU      2     2
+fd; PDVKCFCCRDGKECAC                     O02033      4     4
+fd; PDTKCVCCQDGKQCPC                   MT_PARLI      1     1
+bb;
+fc; MTECHINOIDEA2
+fl; 14
+ft; Sea-urchin metallothionein motif II - 2
+fd; GKECCTTGECCKDG                     MT_STENE     19     1
+fd; GQDCCKTGECCKDG                    MTA_STRPU     19     1
+fd; GQDCCTIGKCCKDG                    MTB_STRPU     19     1
+fd; GGECCITGKCCKEG                       O02033     21     1
+fd; GQECCITGKCCKDG                     MT_PARLI     18     1
+bb;
+fc; MTECHINOIDEA3
+fl; 11
+ft; Sea-urchin metallothionein motif III - 2
+fd; CCGKCTNAACK                        MT_STENE     34     1
+fd; CCGICTNAACK                       MTA_STRPU     34     1
+fd; CCGKCSNAACK                       MTB_STRPU     34     1
+fd; CCGKCSNAACK                          O02033     38     3
+fd; CCGTCSNAACK                        MT_PARLI     35     3
+bb;
+fc; MTECHINOIDEA4
+fl; 19
+ft; Sea-urchin metallothionein motif IV - 2
+fd; CADGCKCGSGCSCTEGNCA                MT_STENE     45     0
+fd; CANGCKCGSGCSCTEGNCA               MTA_STRPU     45     0
+fd; CADGCTCGSGCSCTEGNCP               MTB_STRPU     46     1
+fd; CADGCKCEGACACTMGNCT                  O02033     49     0
+fd; CTGGCKCEGGCVCTEGNCT                MT_PARLI     46     0
+bb;

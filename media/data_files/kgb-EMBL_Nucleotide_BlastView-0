@@ -1,0 +1,5 @@
+BLASTN:temp_job3_embl_1_EU881235	EMBLRELEASE:EU881235	embl	>EM_ENV:EU881235;	Uncultured bacterium clone KGB200711-153 16S ribosomal RNA gene, partial sequence. 	2878	0.0	100	1452	
+BLASTN:temp_job3_embl_10_FJ479591	EMBLRELEASE:EU881235	embl	>EM_ENV:FJ479591;	Uncultured bacterium clone p11k09ok 16S ribosomal RNA gene, partial sequence. 	2520	0.0	97	1445	
+BLASTN:temp_job3_embl_21_FJ479206	EMBLRELEASE:EU881235	embl	>EM_ENV:FJ479206;	Uncultured bacterium clone p27m03ok 16S ribosomal RNA gene, partial sequence. 	2504	0.0	97	1445	
+BLASTN:temp_job3_embl_25_FJ478658	EMBLRELEASE:EU881235	embl	>EM_ENV:FJ478658;	Uncultured bacterium clone p27i11ok 16S ribosomal RNA gene, partial sequence. 	2502	0.0	97	1444	
+BLASTN:temp_job3_embl_30_EU335329	EMBLRELEASE:EU881235	embl	>EM_ENV:EU335329;	Uncultured bacterium clone BacB_028 16S ribosomal RNA gene, partial sequence. 	2494	0.0	96	1444	

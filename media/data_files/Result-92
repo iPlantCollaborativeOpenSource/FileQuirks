@@ -1,0 +1,23 @@
+LOCUS       AR000009                  30 bp    DNA     linear   PAT 04-DEC-1998
+DEFINITION  Sequence 5 from patent US 5736137.
+ACCESSION   AR000009
+VERSION     AR000009.1
+KEYWORDS    .
+SOURCE      unknown
+  ORGANISM  Unknown.
+            Unclassified.
+REFERENCE   1  (bases 1 to 30)
+  AUTHORS   Anderson,D.R., Hanna,N., Leonard,J.E., Newman,R.A., Reff,M.E. and
+            Rastetter,W.H.
+  TITLE     Therapeutic application of chimeric and radiolabeled antibodies to
+            human B lymphocyte restricted differentiation antigen for treatment
+            of B cell lymphoma
+  JOURNAL   Patent: US 5736137-A 5 07-APR-1998;
+FEATURES             Location/Qualifiers
+     source          1..30
+                     /organism="unknown"
+                     /mol_type="unassigned DNA"
+BASE COUNT            5 a            8 c            6 g           11 t
+ORIGIN      
+        1 tgcagcatcc gtacgtttga tttccagctt
+//

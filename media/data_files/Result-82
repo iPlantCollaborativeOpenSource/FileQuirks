@@ -1,0 +1,64 @@
+LOCUS       AB023551                1197 bp    DNA     linear   VRL 11-DEC-1999
+DEFINITION  Human adenovirus type 22 hexon gene, partial cds.
+ACCESSION   AB023551
+VERSION     AB023551.1
+KEYWORDS    hexon.
+SOURCE      Human adenovirus type 22
+  ORGANISM  Human adenovirus type 22
+            Viruses; dsDNA viruses, no RNA stage; Adenoviridae; Mastadenovirus.
+REFERENCE   1  (bases 1 to 1197)
+  AUTHORS   Takeuchi,S., Itoh,N., Uchio,E., Aoki,K. and Ohno,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-1999) to the DDBJ/EMBL/GenBank databases.
+            Contact:Satoshi Takeuchi
+            Yokohama City University School of Medicine, Department of
+            Ophthalmology; 3-9 Fuku-ura Kanazawa-ku, Yokohama, Kanagawa
+            236-8567, Japan
+REFERENCE   2
+  AUTHORS   Takeuchi,S., Itoh,N., Uchio,E., Tanaka,K., Kitamura,K., Kanai,H.,
+            Isobe,K., Aoki,K. and Ohno,S.
+  TITLE     Adenovirus strains of subgenus D associated with nosocomial
+            infection as new etiological agents of epidemic
+            keratoconjunctivitis in Japan
+  JOURNAL   J. Clin. Microbiol. 37, 3392-3394 (1999)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..1197
+                     /mol_type="genomic DNA"
+                     /organism="Human adenovirus type 22"
+     CDS             <1..>1197
+                     /codon_start=1
+                     /gene="hexon"
+                     /protein_id="BAA84985.1"
+                     /transl_table=1
+                     /translation="VDREDTTYSYKARFTLAVGDNRVLDMASTYFDIRGVLDRGPSFK
+                     PYSGTAYNSLAPKGAPNSSQWAQKKTGEDNQTETRTFGVAAMGGILIDKNGLQIGTDE
+                     TKPNNKEVYADKTFQPEPQIGEENWQDGDVFYGGRTIKKETKMKPCYGSFARPTNEKG
+                     GQAKFKTNAEGQPTEELDIDLNFFDINGGAGDNEFNPDMVMYAENMNLETPDTHVVYK
+                     PGTSDDSSEANLAQQSMPNRPNYIGFRDNFVGLMYYNSTGNMGVLAGQASQLNAVVDL
+                     QDRNTELSYQLLLDSLGDRTRYFSMWNSAVDSYDPDVRIIENHGVEDELPNYCFPLDG
+                     TGTNSTYQGVKETAAQNGWEKDPNVAAQNQICKGNIYAMEINLQANLWKSFLYSNVAL
+                     YLPDSFN"
+BASE COUNT          358 a          274 c          297 g          268 t
+ORIGIN      
+        1 gtggatcgcg aggacaccac gtactcgtac aaggcgcgct tcactctggc cgtgggcgac
+       61 aaccgggtgc tagacatggc cagcacttac tttgacatcc gcggcgtcct ggaccgcggt
+      121 cccagcttca aaccctactc gggcacggct tacaacagcc tggcccccaa gggcgcccct
+      181 aactccagtc agtgggcgca gaaaaagact ggtgaagaca atcaaactga aacacgcaca
+      241 tttggtgtgg ccgctatggg tggaatactt attgataaaa atggtcttca gattggaaca
+      301 gatgaaacta aacccaataa caaggaagtt tatgcagaca aaacattcca gccagaacct
+      361 caaataggtg aagaaaactg gcaagatgga gatgttttct atggaggcag gactattaaa
+      421 aaggaaacca aaatgaagcc atgctatggc tcatttgcca gacccactaa tgaaaaggga
+      481 ggtcaggcaa aatttaaaac taatgccgaa ggtcagccca cagaggagtt agacattgac
+      541 ctgaacttct ttgatattaa tggaggggca ggtgataatg aatttaaccc agacatggtc
+      601 atgtatgctg agaatatgaa tctggagacg ccagatacac atgtggtgta caaacctgga
+      661 acttcagatg acagttctga agctaactta gcgcagcagt ccatgcccaa caggccaaac
+      721 tacattggct tcagagacaa ttttgtgggg cttatgtact acaacagcac tggcaacatg
+      781 ggtgtgctgg ctggtcaggc atctcagttg aatgctgtgg tcgacttgca agacagaaat
+      841 actgagctgt cttaccagct cttgctagat tctctgggtg acagaacaag atactttagc
+      901 atgtggaact ctgcggtgga cagctatgat cccgatgtca ggatcattga gaatcacggt
+      961 gtggaagatg aacttccaaa ctattgcttc ccattggatg gcactggcac caattctaca
+     1021 taccaagggg ttaaagaaac agctgctcag aatggatggg aaaaagatcc aaatgttgct
+     1081 gctcagaacc aaatttgcaa gggcaacatc tatgccatgg agattaacct ccaggccaac
+     1141 ctgtggaaga gttttctgta ctcgaacgtg gccctgtacc tgcccgactc tttcaat
+//

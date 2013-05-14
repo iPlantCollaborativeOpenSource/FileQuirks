@@ -1,0 +1,50 @@
+LOCUS       AB000001                 660 bp    DNA     linear   PLN 12-SEP-2002
+DEFINITION  Rhizoctonia solani genes for 18S rRNA, 5.8S rRNA, 28S rRNA,
+            partial and complete sequence, isolate:#1.
+ACCESSION   AB000001
+VERSION     AB000001.1
+KEYWORDS    .
+SOURCE      Rhizoctonia solani
+  ORGANISM  Thanatephorus cucumeris
+            Eukaryota; Fungi; Basidiomycota; Hymenomycetes;
+            Heterobasidiomycetes; Heterobasidiomycetidae; Ceratobasidiales;
+            Ceratobasidiaceae; Thanatephorus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Kuninaga,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+            Contact:Shiro Kuninaga
+            Health Sciences University of Hokkaido, General Education; 1757
+            Kanazawa, Tohbetsu, Hokkaido 061-02, Japan
+REFERENCE   2  
+  AUTHORS   Kuninaga,S., Natsuaki,T. and Takeuchi,T.
+  TITLE     Sequence variation of the rDNA ITS regions within and between
+            anastomosis groups in Rhizoctonia solani
+  JOURNAL   Curr. Genet. 32, 237-243 (1997)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /isolate="#1"
+                     /mol_type="genomic DNA"
+                     /organism="Rhizoctonia solani"
+                     /strain="AG-3"
+     rRNA            <1..6
+                     /product="18S rRNA"
+     rRNA            229..383
+                     /product="5.8S rRNA"
+     rRNA            656..>660
+                     /product="28S rRNA"
+BASE COUNT          185 a          125 c          127 g          223 t
+ORIGIN      
+        1 aattttaatg aagagtttgg ttgtagctgg cccattaatt taggcatgtg cacacctttc
+       61 tctttcatcc catacacacc tgtgaacttg tgagacagat ggggaattta tttattgttt
+      121 ttttttgtaa tataaagatg ataagtcatt gaacccttct gtctactcaa ctcatataaa
+      181 ctcaatttat tttaaaatga atgtaatgga tgtaacgcat ctaatactaa gtttcaacaa
+      241 cggatctctt ggctctcgca tcgatgaaga acgcagcgaa atgcgataag taatgtgaat
+      301 tgcagaattc agtgaatcat cgaatctttg aacgcacctt gcgctccttg gtattccttg
+      361 gagcatgcct gtttgagtat catgaaatct tcaaaatcaa gtcttttgtt aattcaattg
+      421 gctttgactt tggtattgga ggtctttgca gcttcacacc tgctcctctt tgtacattag
+      481 ctggatctca gtgttatgct tggttccact cagcgtgata agttatctat cgctgaggac
+      541 actgtaaaaa ggtggccaag gtaaatgcag atgaaccgct tctaatagtc cattgacttg
+      601 gacaatattt ttatgatctg atctcaaatc aggtaggact acccgctgaa cttaagcata
+//

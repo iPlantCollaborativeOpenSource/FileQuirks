@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB000102</LOCUS>
+<LENGTH>285</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PLN</DIVISION>
+<LAST_UPDATE>25-NOV-1998</LAST_UPDATE>
+
+<DEFINITION>Trichosporon brassicae gene for large subunit ribosomal RNA, CBS6382, partial sequence.</DEFINITION>
+<ACCESSION>AB000102</ACCESSION>
+<VERSION>AB000102.1</VERSION>
+<KEYWORDS>large subunit ribosomal RNA.</KEYWORDS>
+
+<SOURCE>Trichosporon brassicae</SOURCE>
+<ORGANISM>Trichosporon brassicae</ORGANISM>
+<TAXONOMY>Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Tremellales;mitosporic Tremellales; Trichosporon.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Sugita,T.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (25-DEC-1996) to the DDBJ/EMBL/GenBank databases.Contact:Takashi SugitaMeiji Pharmaceutical University, Department of Microbiology;2-522-1 Noshio, Kiyose, Tokyo 204-8588, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Sugita,T., Makimura,K., Nishikawa,A., Uchida,K., Yamaguchi,H. andShinoda,T.</authors>
+     <title>Partial sequence of large subunit ribosomal DNA of a new yeastspecies, Trichosporon domesticum and related species</title>
+     <journal>Microbiol. Immunol. 41, 571-573 (1998)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..285</location>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organism">Trichosporon brassicae</qualifiers>
+     <qualifiers name="strain">CBS 6382</qualifiers>
+</source>
+<rrna>
+     <location>&lt;1..&gt;285</location>
+     <qualifiers name="product">large subunit ribosomal RNA</qualifiers>
+</rrna>
+</FEATURES>
+
+<BASE_COUNT A="         77 " C="         49 " G="         76 " T="         83 "/>
+<SEQUENCE>aaagatgaaaagcactttggaaagagagttaaacagtacgtgaaattgttaaaagggaaacgattgaagtcagtcgtgttcattggattcagctagttcttctagtctacttcttttgaacgggtcaacatcagttttgtccggtggataaaggtattaggaatgtgacttcctcggaagtgttatagcctagtatcacatacactgggggagactgaggactgcagctcgccttttggccggggttcgcccacgttcgagcttaggatgttgacataatggctt</SEQUENCE>
+</DDBJXML>

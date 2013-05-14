@@ -1,0 +1,93 @@
+ID   14331_CAEEL             Reviewed;         248 AA.
+AC   P41932; Q21537;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   22-JUL-2008, sequence version 2.
+DT   05-MAY-2009, entry version 61.
+DE   RecName: Full=14-3-3-like protein 1;
+DE   AltName: Full=Partitioning defective protein 5;
+GN   Name=par-5; Synonyms=ftt-1; ORFNames=M117.2;
+OS   Caenorhabditis elegans.
+OC   Eukaryota; Metazoa; Nematoda; Chromadorea; Rhabditida; Rhabditoidea;
+OC   Rhabditidae; Peloderinae; Caenorhabditis.
+OX   NCBI_TaxID=6239;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Bristol N2;
+RX   MEDLINE=95011616; PubMed=7926802; DOI=10.1016/0378-1119(94)90068-X;
+RA   Wang W., Shakes D.C.;
+RT   "Isolation and sequence analysis of a Caenorhabditis elegans cDNA
+RT   which encodes a 14-3-3 homologue.";
+RL   Gene 147:215-218(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Bristol N2;
+RX   MEDLINE=99069613; PubMed=9851916; DOI=10.1126/science.282.5396.2012;
+RG   The C. elegans sequencing consortium;
+RT   "Genome sequence of the nematode C. elegans: a platform for
+RT   investigating biology.";
+RL   Science 282:2012-2018(1998).
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, INTERACTION WITH DAF-16 AND
+RP   SIR-2.1, AND SUBCELLULAR LOCATION.
+RX   PubMed=16777605; DOI=10.1016/j.cell.2006.04.036;
+RA   Berdichevsky A., Viswanathan M., Horvitz H.R., Guarente L.;
+RT   "C. elegans SIR-2.1 interacts with 14-3-3 proteins to activate DAF-16
+RT   and extend life span.";
+RL   Cell 125:1165-1177(2006).
+CC   -!- SUBUNIT: Interacts with daf-16 and sir-2.1.
+CC   -!- INTERACTION:
+CC       Q9NAE1:-; NbExp=1; IntAct=EBI-318108, EBI-315053;
+CC       Q9TYY1:lag-1; NbExp=1; IntAct=EBI-318108, EBI-324482;
+CC       Q10666:pop-1; NbExp=2; IntAct=EBI-318108, EBI-317870;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+CC   -!- SIMILARITY: Belongs to the 14-3-3 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U05038; AAA61872.1; -; mRNA.
+DR   EMBL; Z73910; CAA98138.1; -; Genomic_DNA.
+DR   PIR; JC2581; JC2581.
+DR   PIR; T23759; T23759.
+DR   RefSeq; NP_502235.1; -.
+DR   UniGene; Cel.17302; -.
+DR   HSSP; P93343; 1O9E.
+DR   SMR; P41932; 7-232.
+DR   DIP; DIP:27044N; -.
+DR   IntAct; P41932; 6.
+DR   Ensembl; M117.2; Caenorhabditis elegans.
+DR   GeneID; 178113; -.
+DR   WormBase; WBGene00003920; par-5.
+DR   WormPep; M117.2; CE06200.
+DR   OMA; P41932; KYLILNA.
+DR   NextBio; 899768; -.
+DR   ArrayExpress; P41932; -.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:InterPro.
+DR   GO; GO:0009792; P:embryonic development ending in birth or eg...; IMP:WormBase.
+DR   GO; GO:0002009; P:morphogenesis of an epithelium; IMP:WormBase.
+DR   GO; GO:0002119; P:nematode larval development; IMP:WormBase.
+DR   GO; GO:0040010; P:positive regulation of growth rate; IMP:WormBase.
+DR   InterPro; IPR000308; 14-3-3.
+DR   Gene3D; G3DSA:1.20.190.20; 14-3-3; 1.
+DR   PANTHER; PTHR18860; 14-3-3; 1.
+DR   Pfam; PF00244; 14-3-3; 1.
+DR   PIRSF; PIRSF000868; 14-3-3; 1.
+DR   PRINTS; PR00305; 1433ZETA.
+DR   ProDom; PD000600; 14-3-3; 1.
+DR   SMART; SM00101; 14_3_3; 1.
+DR   PROSITE; PS00796; 1433_1; 1.
+DR   PROSITE; PS00797; 1433_2; 1.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Cytoplasm; Nucleus.
+FT   CHAIN         1    248       14-3-3-like protein 1.
+FT                                /FTId=PRO_0000058647.
+FT   CONFLICT    118    118       V -> A (in Ref. 1; AAA61872).
+SQ   SEQUENCE   248 AA;  28191 MW;  ABBE0DA27D9341AF CRC64;
+     MSDTVEELVQ RAKLAEQAER YDDMAAAMKK VTEQGQELSN EERNLLSVAY KNVVGARRSS
+     WRVISSIEQK TEGSEKKQQL AKEYRVKVEQ ELNDICQDVL KLLDEFLIVK AGAAESKVFY
+     LKMKGDYYRY LAEVASEDRA AVVEKSQKAY QEALDIAKDK MQPTHPIRLG LALNFSVFYY
+     EILNTPEHAC QLAKQAFDDA IAELDTLNED SYKDSTLIMQ LLRDNLTLWT SDVGAEDQEQ
+     EGNQEAGN
+//

@@ -1,0 +1,62 @@
+LOCUS       BAA99165.1               942 aa    PRT              BCT 19-MAY-2007
+DEFINITION  Chlamydophila pneumoniae J138 insulinase family/protease
+            III protein.
+ACCESSION   BA000008-955
+PROTEIN_ID  BAA99165.1
+SOURCE      Chlamydophila pneumoniae J138
+  ORGANISM  Chlamydophila pneumoniae J138
+            Bacteria; Chlamydiae; Chlamydiales; Chlamydiaceae; Chlamydophila.
+REFERENCE   1  (bases 1 to 1226565)
+  AUTHORS   Hattori,M., Ishii,K. and Shiba,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUL-2000) to the DDBJ/EMBL/GenBank databases.
+            Contact:Masahira Hattori
+            Graduate School of Frontier Sciences, University of Tokyo; 5-1-5
+            Kashiwanoha, Kashiwa, Chiba 277-8561, Japan
+REFERENCE   2  
+  AUTHORS   Shirai,M., Hirakawa,H., Kimoto,M., Tabuchi,M., Kishi,F., Ouchi,K.,
+            Shiba,T., Ishii,K., Hattori,M., Kuhara,S. and Nakazawa,T.
+  TITLE     Comparison of whole genome sequences of Chlamydia pneumoniae J138
+            from Japan and CWL029 from USA
+  JOURNAL   Nucleic Acids Res. 28, 2311-2314 (2000)
+REFERENCE   3  
+  AUTHORS   Shirai,M., Hirakawa,H., Ouchi,K., Tabuchi,M., Kishi,F., Kimoto,M.,
+            Takeuchi,A., Nishida,J., Shibata,K., Fujinaga,R., Yoneda,H.,
+            Matsushima,H., Tanaka,C., Furukawa,S., Miura,K., Nakazawa,A.,
+            Ishii,K., Shiba,T., Hattori,M., Kuhara,S. and Nakazawa,T.
+  TITLE     Comparison of Outer Membrane Protein Genes omp and pmp in the
+            Whole Genome Sequences of Chlamydia pneumoniae Isolates from Japan
+            and the United States
+  JOURNAL   J. Infect. Dis. 181, S524-S527 (2000)
+COMMENT     This work was done in collaboration with Mutsunori Shirai,
+            Mitsuaki Kimoto, Mitsuaki Tabuchi, Fumio Kishi, Teruko Nakazawa
+            (Yamaguchi University), Kazunobu Ouchi (Shimonoseki Saiseikai
+            General Hospital), Hideki Hirakawa, Satoru Kuhara (Kuyshu
+            University), and supported by the Research for the Future Program
+            of the Japan Society for the Promotion of Science.
+FEATURES             Qualifiers
+     source          /db_xref="taxon:138677"
+                     /mol_type="genomic DNA"
+                     /note="synonym:Chlamydia pneumoniae (strain J138)"
+                     /organism="Chlamydophila pneumoniae J138"
+                     /strain="J138"
+     protein         /gene="ide"
+                     /transl_table=11
+BEGIN
+        1 MFWKLLCPIL ICTSLSITSC EQQFKVVPNQ CPLQVSTPAA ADQKIEKIIC SNGLPLLIIS
+       61 DPNLPTSGAA LLVKTGNNAD PEEYPGMAHF TEHCVFLGNE KYPEVSGFPG FLSENNGVHN
+      121 AFTYPNKTVF VFSVEHSAFS DALDQFVHLF INPKFRQEDL DREKYAVHQE FAAHPLSDGR
+      181 RVHRIQQLVA PQGHPCARFG CGNASTLTPV TTEKMAEWFK LHYSPENMCA IAYTSAPLSK
+      241 AKKQFSKIFS QIPRSKNYER QEPFLPSGDT SSLKNLYINQ AIQPTSNLEI YWHIYESSHP
+      301 IPLGCYKALA EVLRNESKNS LVSLLKNEQL ITDLDVEFFR SSLNTGEFYI SYELTEKGDK
+      361 HYSQVIDSTF QYLRYIQEHG IPNYTLEEIS TINALNYCYS SKSPLFDLLC KQIVSLGNED
+      421 LSTYPYHSLV YPKYSSEDES ALLNLVSDPE QARFVLSSKN SEHWEEATQL HDPIFDMTYY
+      481 VKALDGVQDY GKVQSLKPIA LPKPNLFIPK EVTLPGVHLL KKQEFPFAPA LSYQDDKLTL
+      541 YHCEDHYYTA PKLSSQIRIR SPQISRSSPQ FLVATELYCL AVNDQLLREY YPATQAGLSF
+      601 TSALGGDGID LRVSGYTTTV PALLNSILTS LPNLEISYET FLVYKKQLLE LYQGALLNCP
+      661 VRSGLDELAS QVMKETYSNT TKLSALEKLS FSEFQAFASN LFNSVHLEVM VLGNLSEQQK
+      721 KDYLEMLQVF TASRSSHATK PFYYELQSQE ISEIHHDYPL TANGMLLLLQ DKSSPSIQGK
+      781 VCAEMLFEWL HHITFEELRT QQQLGYMVGA RYREFASRPF GFLYIRSDAY SPEELLAKTS
+      841 LFLNKVSASP EKFGISQEKF ANIRKAYINK ILEPEHSLDM MNSALFSLAF ERPFVEFSTP
+      901 DLKIAIAETL TYEEFLKYCQ CFLSNELGTQ TSVYIRGTQK TS
+//

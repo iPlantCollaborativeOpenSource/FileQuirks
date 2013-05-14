@@ -1,0 +1,68 @@
+LOCUS       AB023501                1194 bp    DNA     linear   PLN 28-APR-2001
+DEFINITION  Asplenium nidus chloroplast gene for ribulose 1,5-bisphosphate
+            carboxylase/oxygenase large subunit, partial cds.
+ACCESSION   AB023501
+VERSION     AB023501.1
+KEYWORDS    ribulose-bisphosphate carboxylase.
+SOURCE      Asplenium nidus chloroplast
+  ORGANISM  Asplenium nidus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Filicophyta; Filicopsida; Filicales; Aspleniaceae; Asplenium.
+REFERENCE   1  (bases 1 to 1194)
+  AUTHORS   Murakami,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-1999) to the DDBJ/EMBL/GenBank databases.
+            Contact:Noriaki Murakami
+            Graduate School of Science, Kyoto University, Department of
+            Botany; Kitashirakawa-Oiwake-cho, Sakyo-ku, Kyoto, Kyoto 606-8502,
+            Japan
+REFERENCE   2
+  AUTHORS   Murakami,N., Yatabe,Y., Iwasaki,H., Darnaedi,D. and Iwatsuki,K.
+  TITLE     Molecular alpha-Taxonomy of Morphologically Simple Ferns of the
+            Asplenium nidus L. Complex from Mt. Halimun National Park,
+            Indonesia
+  JOURNAL   Unpublished (1999)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..1194
+                     /mol_type="genomic DNA"
+                     /organelle="plastid:chloroplast"
+                     /organism="Asplenium nidus"
+     CDS             <1..>1194
+                     /codon_start=1
+                     /gene="rbcL"
+                     /product="ribulose 1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="BAA82830.1"
+                     /transl_table=11
+                     /translation="PEYKTKDTDILAAFRMTPQPGVPAEEAGAAVAAESSTGTWTTVW
+                     TDGLTSLDRYKGRCYDIEPVAGEENQYIAYVAYPLDLFEEGSVTNMLTSIVGNVFGFK
+                     ALRALRLEDLRIPPAYSKTFNGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYG
+                     RAVYECLRGGLDFTKDDENVNSQPFMRWRDRFLFVAEALFKSQSETGEIKGHYLNATA
+                     GTCEEMMKRAVFARELGAPIVMHDYLTGGFTANTSLAHYCRDNGLLLHIHRAMHAVID
+                     RQRNHGMHFRVLAKALRMSGGDHIHAGTVVGKLEGEREVTLGFVDLLRDDYIEKDRAR
+                     GIYFTQDWVSMPGVIPVASGGIHVWHMPALTEIFGDDAVLQFGGGTLGHPWGNAPGAV
+                     ANRVAL"
+BASE COUNT          327 a          256 c          297 g          314 t
+ORIGIN      
+        1 cccgaataca agaccaaaga taccgatatc ttagcagctt tccggatgac cccacaacct
+       61 ggagtaccag ctgaagaagc cggagctgca gtagctgcgg agtcctctac aggtacgtgg
+      121 accactgtgt ggacagacgg tttgaccagt cttgaccgtt acaagggccg atgctacgat
+      181 attgagcccg ttgctggaga ggaaaatcag tatatcgcgt acgtagctta tccattggac
+      241 ctttttgaag aaggttcagt caccaacatg ttaacttcaa ttgtaggtaa cgtttttgga
+      301 tttaaagctc tacgtgccct acggttggaa gaccttcgaa tcccccccgc ttactctaaa
+      361 actttcaacg gaccgccaca tggtattcag gttgaaaggg ataagttaaa caaatacgga
+      421 cgccccttat tgggatgtac aatcaagcca aaattaggtc tatctgccaa aaattacggt
+      481 agagccgttt atgaatgcct tcgtggtgga cttgatttta caaaagatga cgaaaacgta
+      541 aattcccaac cattcatgcg ctggagagat cgtttcttat ttgttgcaga agctcttttc
+      601 aaatcccagt ctgaaacagg cgaaattaag gggcattact taaacgctac tgcaggtaca
+      661 tgtgaagaaa tgatgaaaag agctgttttt gcgagagaat tgggcgcacc aattgtcatg
+      721 catgactacc tgactggagg gtttactgca aatactagtt tagctcacta ttgcagagat
+      781 aatgggttgc ttcttcatat tcatcgcgcg atgcatgctg taattgatag acaacgaaat
+      841 cacggtatgc attttcgtgt attggccaag gcattgcgca tgtccggcgg ggatcacata
+      901 cacgctggaa ctgtagtagg taaactagaa ggagaaaggg aagtcacttt gggttttgtc
+      961 gatttacttc gcgacgatta tatcgagaaa gatcgtgcac gtggtattta tttcactcaa
+     1021 gattgggtat ctatgccggg tgtaatccca gtagcttcgg ggggtatcca cgtatggcac
+     1081 atgccagctc taaccgaaat ctttggggac gatgctgtct tacagttcgg tggaggaacc
+     1141 ttagggcatc cctggggaaa tgcacccggt gcggtagcca accgagtcgc atta
+//

@@ -1,0 +1,101 @@
+792786
+Aaur_TC1	Aaur_TC1:	2113	Arthrobacter aurescens TC1	putative protein kinase domain protein	CDS	1910264	1911949	+	AAAA2
+Aaur_TC1	Aaur_TC1:	4790	Arthrobacter aurescens TC1	putative serinethreonine protein kinase domain protein	CDS	4319227	4320591	-	AAAA2
+Aaur_TC1	Aaur_TC1:	4839	Arthrobacter aurescens TC1	putative protein kinase domain protein	CDS	4364800	4365729	-	AAAA2
+Bant_0581	Bant_0581:	2954	Bacillus anthracis 'Ames Ancestor'	protein kinase domain protein	CDS	2151390	2152211	+	AAAA1
+Bant_AMES	Bant_AMES:	2966	Bacillus anthracis Ames chroinfo	protein kinase domain protein	CDS	2151266	2152087	+	AAAA1
+Bant_STERNE	Bant_STERNE:	2938	Bacillus anthracis Sterne chroinfo	protein kinase domain protein	CDS	2151294	2152115	+	AAAA1
+Blon_NCC2705	Blon_NCC2705:	1816	Bifidobacterium longum NCC2705	widely conserved protein with eukaryotic protein kinase domain	CDS	1648197	1650416	-	A2
+Ctra_434Bu	Ctra_434Bu:	66	Chlamydia trachomatis 434/Bu	putative serinethreonine-protein kinase (TTSS effector protein)	CDS	48774	50246	+	AAAA1
+Ctra_UCH1	Ctra_UCH1:	69	Chlamydia trachomatis L2b/UCH-1/proctitis	putative serinethreonine-protein kinase (TTSS effector protein)	CDS	48779	50251	+	AAAA1
+Cyan_ATCC51142	Cyan_ATCC51142:01C	4191	Cyanothece sp. ATCC 51142 circular chromosome	serinethreonine protein kinase	CDS	2982871	2984535	+	AAAA1
+Gthe_NG802	Gthe_NG802:	2503	Geobacillus thermodenitrificans NG80-2	serinethreonine protein kinase-like protein	CDS	1612176	1613003	-	AAAA2
+Mbov_AF212297	Mbov_AF212297:	23	Mycobacterium bovis AF2122/97	TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE B PKNB (PROTEIN KINASE B) (STPK B)	CDS	15589	17469	-	AAAA1
+Mbov_AF212297	Mbov_AF212297:	24	Mycobacterium bovis AF2122/97	TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE A PKNA (PROTEIN KINASE A) (STPK A)	CDS	17466	18743	-	AAAA2
+Mbov_AF212297	Mbov_AF212297:	535	Mycobacterium bovis AF2122/97	SERINETHREONINE-PROTEIN KINASE PKNG (PROTEIN KINASE G) (STPK G)	CDS	496081	498333	-	AAAA1
+Mbov_AF212297	Mbov_AF212297:	1238	Mycobacterium bovis AF2122/97	TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE D PKNDa [FIRST PART] (PROTEIN KINASE D) (STPK D)	CDS	1039505	1040380	-	AAAA1
+Mbov_AF212297	Mbov_AF212297:	1706	Mycobacterium bovis AF2122/97	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE H PKNH (PROTEIN KINASE H) (STPK H)	CDS	1412196	1414031	-	AAAA2
+Mbov_AF212297	Mbov_AF212297:	2329	Mycobacterium bovis AF2122/97	ANCHORED-MEMBRANE SERINETHREONINE-PROTEIN KINASE PKNF (PROTEIN KINASE F) (STPK F)	CDS	1957536	1958966	+	AAAA1
+Mbov_AF212297	Mbov_AF212297:	2815	Mycobacterium bovis AF2122/97	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE J PKNJ (PROTEIN KINASE J) (STPK J)	CDS	2326311	2328080	+	AAAA1
+Mbov_AF212297	Mbov_AF212297:	2921	Mycobacterium bovis AF2122/97	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE L PKNL (PROTEIN KINASE L) (STPK L)	CDS	2416975	2418174	+	AAAA1
+Mbov_AF212297	Mbov_AF212297:	3920	Mycobacterium bovis AF2122/97	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE I PKNI (PROTEIN KINASE I) (STPK I) (PHOSPHORYLASE B KINASE KINASE) (HYDROXYALKYL-PROTEIN KINASE)	CDS	3178283	3180040	-	AAAA1
+Mpet_PM1	Mpet_PM1:	3377	Methylibium petroleiphilum PM1	serinethreonine protein kinase-like protein	CDS	3134522	3135994	+	AAAA2
+Mrad_JCM2831	Mrad_JCM2831:	3623	Methylobacterium radiotolerans JCM 2831	serinethreonine protein kinase	CDS	3317877	3319634	-	AAAA1
+Mtub_H37RV	Mtub_H37RV:	23	Mycobacterium tuberculosis H37Rv	TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE B PKNB (PROTEIN KINASE B) (STPK B)	CDS	15590	17470	-	AAAA1
+Mtub_H37RV	Mtub_H37RV:	24	Mycobacterium tuberculosis H37Rv	TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE A PKNA (PROTEIN KINASE A) (STPK A)	CDS	17467	18744	-	AAAA2
+Mtub_H37RV	Mtub_H37RV:	521	Mycobacterium tuberculosis H37Rv	SERINETHREONINE-PROTEIN KINASE PKNG (PROTEIN KINASE G) (STPK G)	CDS	495062	497314	-	AAAA1
+Mtub_H37RV	Mtub_H37RV:	1688	Mycobacterium tuberculosis H37Rv	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE H PKNH (PROTEIN KINASE H) (STPK H)	CDS	1413960	1415876	-	AAAA2
+Mtub_H37RV	Mtub_H37RV:	2325	Mycobacterium tuberculosis H37Rv	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE E PKNE (PROTEIN KINASE E) (STPK E)	CDS	1969004	1970704	+	AAAA1
+Mtub_H37RV	Mtub_H37RV:	2331	Mycobacterium tuberculosis H37Rv	ANCHORED-MEMBRANE SERINETHREONINE-PROTEIN KINASE PKNF (PROTEIN KINASE F) (STPK F)	CDS	1972138	1973568	+	AAAA1
+Mtub_H37RV	Mtub_H37RV:	2824	Mycobacterium tuberculosis H37Rv	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE J PKNJ (PROTEIN KINASE J) (STPK J)	CDS	2344411	2346180	+	AAAA1
+Mtub_H37RV	Mtub_H37RV:	2941	Mycobacterium tuberculosis H37Rv	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE L PKNL (PROTEIN KINASE L) (STPK L)	CDS	2437941	2439140	+	AAAA1
+Mtub_H37RV	Mtub_H37RV:	3962	Mycobacterium tuberculosis H37Rv	PROBABLE TRANSMEMBRANE SERINETHREONINE-PROTEIN KINASE I PKNI (PROTEIN KINASE I) (STPK I) (PHOSPHORYLASE B KINASE KINASE) (HYDROXYALKYL-PROTEIN KINASE)	CDS	3221767	3223524	-	AAAA1
+Acel_11B	Acel_11B:	27	Acidothermus cellulolyticus 11B	serinethreonine protein kinase	CDS	17343	19091	-	AAAA1
+Amar_MBIC11017	Amar_MBIC11017:	2231	Acaryochloris marina MBIC11017	serinethreonine protein kinase	CDS	1354141	1355412	+	AAAA2
+Amar_MBIC11017	Amar_MBIC11017:	3026	Acaryochloris marina MBIC11017	serinethreonine protein kinase	CDS	1840793	1842259	-	AAAA2
+Amar_MBIC11017	Amar_MBIC11017:	8805	Acaryochloris marina MBIC11017	serinethreonine protein kinase, putative	CDS	5573934	5575499	+	AAAA2
+Amar_MBIC11017	Amar_MBIC11017:	10073	Acaryochloris marina MBIC11017	hypothetical protein	CDS	6364432	6365286	+	AAAA2
+Amet_QYMF	Amet_QYMF:	4189	Alkaliphilus metalliredigens QYMF	protein kinase	CDS	2794615	2796561	-	AAAA1
+Aore_OhILAs	Aore_OhILAs:	628	Alkaliphilus oremlandii OhILAs	serinethreonine protein kinase	CDS	484263	485171	+	AAAA2
+Avar_ATCC29413	Avar_ATCC29413:	7086	Anabaena variabilis ATCC 29413	serinethreonine protein kinase	CDS	4463240	4464976	+	AAAA2
+Bcer_ATCC10987	Bcer_ATCC10987:	5046	Bacillus cereus ATCC 10987	serinethreonine protein kinase	CDS	3652806	3654779	-	AAAA1
+Bcer_ATCC14579	Bcer_ATCC14579:	5262	Bacillus cereus ATCC 14579	Serinethreonine protein kinase	CDS	3838191	3840164	-	AAAA1
+Bcer_ZK	Bcer_ZK:	5067	Bacillus cereus ZK	serinethreonine protein kinase	CDS	3757963	3759936	-	AAAA1
+Bcla_KSMK16	Bcla_KSMK16:	158	Bacillus clausii KSM-K16	serinethreonine protein kinase	CDS	120810	121757	+	AAAA2
+Bcla_KSMK16	Bcla_KSMK16:	3529	Bacillus clausii KSM-K16	serinethreonine protein kinase	CDS	2437650	2439770	-	AAAA1
+Bhal_C125	Bhal_C125:	3754	Bacillus halodurans C-125	serinethreonine protein kinase	CDS	2621753	2623747	-	AAAA1
+Blic_DSM13_NOVOZYMES	Blic_DSM13_NOVOZYMES:	2607	Bacillus licheniformis ATCC 14580	protein kinase PrkC	CDS	1756945	1758918	+	AAAA1
+Bsub_168	Bsub_168:	2397	Bacillus subtilis 168	protein kinase	CDS	1650442	1652388	+	AAAA1
+Cbei_NCIMB8052	Cbei_NCIMB8052:	2665	Clostridium beijerinckii NCIMB 8052	protein kinase	CDS	2227645	2229132	-	AAAA1
+Cbot_LANGELAND	Cbot_LANGELAND:	3376	Clostridium botulinum F Langeland	protein kinase	CDS	2687326	2689284	-	AAAA1
+Cbur_RSA493	Cbur_RSA493:	271	Coxiella burnetii RSA 493	serinethreonine protein kinase domain protein	CDS	156895	157554	+	AAAA2
+Cdif_630	Cdif_630:	3023	Clostridium difficile 630	putative serinethreonine protein kinase	CDS	2484875	2485849	-	AAAA2
+Cdif_630	Cdif_630:	3594	Clostridium difficile 630	serinethreonine-protein kinase and phosphatase	CDS	2981778	2983787	-	AAAA1
+Chyd_Z2901	Chyd_Z2901:	1686	Carboxydothermus hydrogenoformans Z-2901	putative serinethreonine protein kinase	CDS	1201771	1204065	+	AAAA1
+Chyd_Z2901	Chyd_Z2901:	1834	Carboxydothermus hydrogenoformans Z-2901	putative serinethreonine protein kinase	CDS	1318549	1320381	-	AAAA1
+Cpsy_34H	Cpsy_34H:	207	Colwellia psychrerythraea 34H	leucine-rich repeat protein	CDS	158416	159684	-	AAAA2
+Csac_DSM8903	Csac_DSM8903:	3275	Caldicellulosiruptor saccharolyticus DSM 8903	serinethreonine protein kinase	CDS	2225128	2227011	-	AAAA1
+Cthe_ATCC27405	Cthe_ATCC27405:	890	Clostridium thermocellum ATCC 27405	serinethreonine protein kinase	CDS	701454	703565	+	AAAA1
+Cyan_ATCC51142	Cyan_ATCC51142:01C	4149	Cyanothece sp. ATCC 51142 circular chromosome	serinethreonine protein kinase	CDS	2955072	2956994	+	AAAA2
+Cyan_ATCC51142	Cyan_ATCC51142:01C	4542	Cyanothece sp. ATCC 51142 circular chromosome	serinethreonine protein kinase	CDS	3295655	3297007	+	AAAA2
+Esak_BAA894	Esak_BAA894:	2263	Enterobacter sakazakii ATCC BAA-894	hypothetical protein	CDS	1722846	1724399	-	AAAA2
+Faln_ACN14A	Faln_ACN14A:	8149	Frankia alni ACN14a	putative serinethreonine-protein kinase	CDS	7363134	7365239	+	AAAA1
+Fran_CCI3	Fran_CCI3:	3559	Frankia sp. CcI3	serinethreonine protein kinase	CDS	2815426	2817705	+	AAAA2
+Fran_CCI3	Fran_CCI3:	5001	Frankia sp. CcI3	serinethreonine protein kinase	CDS	4050547	4051650	-	AAAA2
+Gkau_HTA426	Gkau_HTA426:	1949	Geobacillus kaustophilus HTA426	serinethreonine protein kinase	CDS	1196798	1198768	+	AAAA1
+Gthe_NG802	Gthe_NG802:	1727	Geobacillus thermodenitrificans NG80-2	Putative Pkn2 protein	CDS	1098220	1100217	+	AAAA1
+Haur_ATCC23779	Haur_ATCC23779:	30	Herpetosiphon aurantiacus ATCC 23779	serinethreonine protein kinase	CDS	28950	31190	+	AAAA1
+Hche_KCTC2396	Hche_KCTC2396:	9300	Hahella chejuensis KCTC 2396	Serinethreonine protein kinase	CDS	6974114	6975928	-	AAAA1
+Krhi_DC2201	Krhi_DC2201:	1673	Kocuria rhizophila DC2201	hypothetical protein	CDS	1631510	1633684	-	A2
+Laci_NCFM	Laci_NCFM:	1536	Lactobacillus acidophilus NCFM	serine-threonine protein kinase	CDS	1296209	1298233	-	AAAA1
+Linn_CLIP11262	Linn_CLIP11262:	2374	Listeria innocua Clip11262	putative protein kinase	CDS	1947899	1949872	-	AAAA1
+Ljoh_NCC533	Ljoh_NCC533:	1565	Lactobacillus johnsonii NCC 533	hypothetical protein	CDS	1410035	1412023	-	AAAA1
+Lmon_4B_F2365	Lmon_4B_F2365:	2253	Listeria monocytogenes 4b F2365	putative protein kinase	CDS	1872873	1874840	-	AAAA1
+Lpla_WCFS1	Lpla_WCFS1:	1982	Lactobacillus plantarum WCFS1	serinethreonine protein kinase (putative)	CDS	1473319	1475343	+	AAAA1
+Lpla_WCFS1	Lpla_WCFS1:	3923	Lactobacillus plantarum WCFS1	serinethreonine protein kinase	CDS	2834878	2835942	-	AAAA2
+Lsak_23K	Lsak_23K:	857	Lactobacillus sakei subsp. sakei 23K	Putative serinethreonine protein kinase	CDS	689929	691812	+	AAAA1
+Lsph_C341	Lsph_C341:	129	Lysinibacillus sphaericus C3-41	chaperonin (Heat shock protein 33) (HSP33)-like protein	CDS	97583	98464	+	AAAA2
+Lsph_C341	Lsph_C341:	4132	Lysinibacillus sphaericus C3-41	chaperonin (Heat shock protein 33-like protein) (HSP33)	CDS	2911454	2912410	-	AAAA2
+Lwel_6B_SLCC5334	Lwel_6B_SLCC5334:	2231	Listeria welshimeri serovar 6b SLCC5334	putative protein kinase	CDS	1867449	1869416	-	AAAA1
+Mavi_104	Mavi_104:	19	Mycobacterium avium 104	serinethreonine protein kinase	CDS	16682	18562	-	AAAA1
+Mboo_6A8	Mboo_6A8:	2240	Candidatus Methanoregula boonei 6A8	protein kinase	CDS	1346719	1348068	+	AAAA2
+Mflo_L1	Mflo_L1:	21	Mesoplasma florum L1	putative hsp33 redox-regulated chaperone	CDS	25310	25738	+	BBBB2
+Mgil_PYRGCK	Mgil_PYRGCK:	938	Mycobacterium gilvum PYR-GCK	serinethreonine protein kinase	CDS	839550	841427	+	AAAA1
+Mhun_JF1	Mhun_JF1:	4123	Methanospirillum hungatei JF-1	serinethreonine protein kinase	CDS	2494892	2497372	-	AAAA2
+Mlep_TN	Mlep_TN:	49	Mycobacterium leprae TN	putative serinethreonine protein kinase	CDS	19001	20869	-	AAAA1
+Mmar_M	Mmar_M:	2274	Mycobacterium marinum M	transmembrane serinethreonine-protein kinase I PknI	CDS	2191822	2193624	+	AAAA1
+Mpet_PM1	Mpet_PM1:	1775	Methylibium petroleiphilum PM1	serinethreonine protein kinase-like protein	CDS	1666738	1668387	+	AAAA2
+Msme_MC2_155	Msme_MC2_155:	34	Mycobacterium smegmatis MC2 155	serine-threonine protein kinase	CDS	48216	50093	-	AAAA1
+Mthe_ATCC39073	Mthe_ATCC39073:	1400	Moorella thermoacetica ATCC 39073	serinethreonine protein kinase	CDS	946723	948561	+	AAAA1
+Mvan_PYR1	Mvan_PYR1:	33	Mycobacterium vanbaalenii PYR-1	serinethreonine protein kinase	CDS	26605	28482	-	AAAA1
+Mxan_DK1622	Mxan_DK1622:	1052	Myxococcus xanthus DK 1622	serinethreonine protein kinase	CDS	999393	1000886	+	AAAA1
+Mxan_DK1622	Mxan_DK1622:	3732	Myxococcus xanthus DK 1622	serinethreonine protein kinase	CDS	3749587	3751230	+	AAAA1
+Mxan_DK1622	Mxan_DK1622:	7337	Myxococcus xanthus DK 1622	serinethreonine protein kinase	CDS	7797360	7798529	-	AAAA1
+Myco_JLS	Myco_JLS:	21	Mycobacterium sp. JLS	serinethreonine protein kinase	CDS	15784	17658	-	AAAA1
+Nfar_IFM10152	Nfar_IFM10152:	93	Nocardia farcinica IFM 10152	putative serinethreonine protein kinase	CDS	61091	62998	-	AAAA1
+Aaur_TC1	Aaur_TC1:	33	Arthrobacter aurescens TC1	putative serinethreonine protein kinase	CDS	23514	25379	-	AAAA2
+Aaur_TC1	Aaur_TC1:	2045	Arthrobacter aurescens TC1	putative Serinethreonine-protein kinase	CDS	1851173	1853236	-	AAAA2
+Abac_ELLIN345	Abac_ELLIN345:	43	Acidobacteria bacterium Ellin345	serinethreonine protein kinase	CDS	32479	34701	+	AAAA2
+Abac_ELLIN345	Abac_ELLIN345:	994	Acidobacteria bacterium Ellin345	serinethreonine protein kinase with TPR repeats	CDS	949516	951687	+	AAAA2
+Abac_ELLIN345	Abac_ELLIN345:	1907	Acidobacteria bacterium Ellin345	serinethreonine protein kinase	CDS	1757330	1759780	+	AAAA2
+Abac_ELLIN345	Abac_ELLIN345:	2264	Acidobacteria bacterium Ellin345	serinethreonine protein kinase with TPR repeats	CDS	2106291	2108561	+	AAAA2

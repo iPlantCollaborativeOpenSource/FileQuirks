@@ -1,0 +1,84 @@
+LOCUS       AAA51884                 375 aa            linear   PRI 01-NOV-1994
+DEFINITION  alcohol dehydrogenase beta subunit [Homo sapiens].
+ACCESSION   AAA51884
+VERSION     AAA51884.1  GI:178098
+DBSOURCE    locus HUMADH2BA accession M24317.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 375)
+  AUTHORS   Ikuta,T., Fujiyoshi,T., Kurachi,K. and Yoshida,A.
+  TITLE     Molecular cloning of a full-length cDNA for human alcohol
+            dehydrogenase
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 82 (9), 2703-2707 (1985)
+   PUBMED   2986130
+COMMENT     [2]  revises [1].
+            Reprint of [1] kindly provided by A.Yoshida, 15-SEP-1985.  Draft
+            entry and clean copy sequence for [2] kindly provided by G.Duester,
+            31-MAR-1986.
+            ADH is encoded by at least five genes that fall into three classes.
+            Class I, which evolved as a multigene family, contains a large
+            group of isoenzymes possessing various combinations of alpha, beta,
+            and gamma subunits, coded for by three genes designated ADH1, ADH2,
+            and ADH3, respectively. Class II contains the pi isoenzyme and
+            class III contains the chi isoenzyme.  The majority of Orientals
+            have the 'atypical' 2-ADH-2 gene, producing an atypical beta-2
+            subunit instead of the beta-1 subunit, which is predominant in
+            Caucasians.
+            The other human class I ADH1 beta subunit sequences are found under
+            accession D00137 X03350 M24308-M24316 M21692.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /map="4q21-q23"
+     Protein         1..375
+                     /name="alcohol dehydrogenase beta subunit"
+     Region          3..375
+                     /region_name="alcohol_DH_class_I_II_IV"
+                     /note="IV alcohol dehydrogenases; cd08299"
+                     /db_xref="CDD:176259"
+     Region          8..375
+                     /region_name="AdhC"
+                     /note="Zn-dependent alcohol dehydrogenases, class III
+                     [Energy production and conversion]; COG1062"
+                     /db_xref="CDD:31262"
+     Site            order(47,68,175)
+                     /site_type="other"
+                     /note="catalytic Zn binding site"
+                     /db_xref="CDD:176259"
+     Site            order(48..49,175,179,200..204,224..225,229,269..270,
+                     274..275,293..294,318..320,370)
+                     /site_type="other"
+                     /note="NAD binding site"
+                     /db_xref="CDD:176259"
+     Site            order(49,68,94,117,142,295)
+                     /site_type="other"
+                     /note="substrate binding site"
+                     /db_xref="CDD:176259"
+     Site            order(98..99,101,104,112)
+                     /site_type="other"
+                     /note="structural Zn binding site"
+                     /db_xref="CDD:176259"
+     Site            order(102..103,106,111,261..262,273,286..287,292..293,
+                     301..306,309..319)
+                     /site_type="other"
+                     /note="dimer interface"
+                     /db_xref="CDD:176259"
+     CDS             1..375
+                     /gene="ADH2"
+                     /coded_by="M24317.1:31..1158"
+                     /db_xref="GDB:G00-119-651"
+ORIGIN      
+        1 mstagkvikc kaavlwevkk pfsiedveva ppkayevrik mvavgicrtd dhvvsgnlvt
+       61 plpvilghea agivesvgeg vttvkpgdkv iplftpqcgk crvcknpesn yclkndlgnp
+      121 rgtlqdgtrr ftcrgkpihh flgtstfsqy tvvdenavak idaasplekv cligcgfstg
+      181 ygsavnvakv tpgstcavfg lggvglsavm gckaagaari iavdinkdkk akakelgate
+      241 cinpqdykkp iqevlkemtd ggvdfsfevi grldtmmasl lccheacgts vivgvppasq
+      301 nlsinpmlll tgrtwkgavy ggfkskegip klvadfmakk fsldalithv lpfekinegf
+      361 dllhsgksir tvltf
+//

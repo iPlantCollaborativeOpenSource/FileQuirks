@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AA123456</LOCUS>
+<LENGTH>529</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>EST</DIVISION>
+<LAST_UPDATE>17-FEB-1997</LAST_UPDATE>
+
+<DEFINITION>mp94a07.r1 Soares_thymus_2NbMT Mus musculus cDNA clone IMAGE:5768525&apos;, mRNA sequence.</DEFINITION>
+<ACCESSION>AA123456</ACCESSION>
+<VERSION>AA123456.1</VERSION>
+<KEYWORDS>EST.</KEYWORDS>
+
+<SOURCE>Mus musculus</SOURCE>
+<ORGANISM>Mus musculus</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;Sciurognathi; Muroidea; Muridae; Murinae; Mus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Marra,M., Hillier,L., Allen,M., Bowles,M., Dietrich,N., Dubuque,T.,Geisel,S., Kucaba,T., Lacy,M., Le,M., Martin,J., Morris,M.,Schellenberg,K., Steptoe,M., Tan,F., Underwood,K., Moore,B.,Theising,B., Wylie,T., Lennon,G., Soares,B., Wilson,R. andWaterston,R.</authors>
+     <title>The WashU-HHMI Mouse EST Project</title>
+     <journal>Unpublished (1996)</journal>
+</REFERENCE>
+<COMMENT>Contact: Marra M/Mouse EST ProjectWashU-HHMI Mouse EST ProjectWashington University School of MedicineP4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108Tel: 314 286 1800Fax: 314 286 1810Email: mouseest@watson.wustl.eduThis clone is available royalty-free through LLNL ; contact theIMAGE Consortium (info@image.llnl.gov) for further information.MGI:351500Seq primer: -28M13 rev2 from AmershamHigh quality sequence stop: 492.</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..529</location>
+     <qualifiers name="organism">Mus musculus</qualifiers>
+     <qualifiers name="mol_type">mRNA</qualifiers>
+     <qualifiers name="strain">C57BL/6J</qualifiers>
+     <qualifiers name="db_xref">taxon:10090</qualifiers>
+     <qualifiers name="clone">IMAGE:576852</qualifiers>
+     <qualifiers name="sex">male</qualifiers>
+     <qualifiers name="tissue_type">Thymus</qualifiers>
+     <qualifiers name="dev_stage">4 weeks</qualifiers>
+     <qualifiers name="lab_host">DH10B</qualifiers>
+     <qualifiers name="clone_lib">Soares_thymus_2NbMT</qualifiers>
+     <qualifiers name="note">Vector: pT7T3D-PacI; Site_1: Not I; Site_2: Eco RI;1st strand cDNA was primed with a Not I - oligo(dT) primer[5&apos;TGTTACCAATCTGAAGTGGGAGCGGCCGCGTTTTTTTTTTTTTTTTTTTTTTTTT3&apos;]; double-stranded cDNA was ligated to Eco RI adaptors(Pharmacia), digested with Not I and cloned into the Not Iand Eco RI sites of the modified pT7T3 vector. RNAprovided by Dr. Bertrand Jordan. Library went through tworounds of normalization, and was constructed by BentoSoares and M.Fatima Bonaldo.</qualifiers>
+</source>
+</FEATURES>
+
+<BASE_COUNT A="        150 " C="        114 " G="        127 " T="        138 "/>
+<SEQUENCE>cacgtctgctcttaggaccacccagccttctgggccctccccccatggctaacgggaagcctggtgatcccaagtcaggtgaggagaaattgggccctgattcatgttttaagccctggagaagggatggacccctaaagacttaaacaaaagcccagggattgtgtgtacctaaatgagggatcatatattaaccgtttggaaatacggtgttgtcaaaatgttactttccttccagattaactcctaggtctgtctttatttgtgtgtagaaataaatgttctccattatagaggctctaaatgggacactaccaagaccaaagtgagagggcatagcaagatttagtgaaaagctgcagtagctatgacattgtggttttcacagaatgtcaacataagttcttaacatgtggaaggatcaggagttcctggccagcctctcctgcaatagcaaatttgagaccggctagcctaggctacatgagaccctatctgagtgcaatcggaggcctgtagatatatgaac</SEQUENCE>
+</DDBJXML>

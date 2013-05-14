@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB003001</LOCUS>
+<LENGTH>720</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>VRL</DIVISION>
+<LAST_UPDATE>05-FEB-1999</LAST_UPDATE>
+
+<DEFINITION>Human immunodeficiency virus type 1 env gene for envelopeglycoprotein, partial cds, clone 63-E332t.</DEFINITION>
+<ACCESSION>AB003001</ACCESSION>
+<VERSION>AB003001.1</VERSION>
+<KEYWORDS>gp120/V1-V3; env.</KEYWORDS>
+
+<SOURCE>Human immunodeficiency virus type 1</SOURCE>
+<ORGANISM>Human immunodeficiency virus type 1</ORGANISM>
+<TAXONOMY>Viruses; Retroid viruses; Retroviridae; Lentivirus; Primatelentivirus group.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Shioda,T., Oka,S., Xin,X., Liu,H., Harukuni,R., Kurotani,A.,Fukushima,M., Hasan,M.K., Shiino,T., Takebe,Y., Iwamoto,A. andNagai,Y.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (01-APR-1997) to the DDBJ/EMBL/GenBank databases.Contact:Tatsuo ShiodaInstitute of Medical Science, Depertment of Viral Infection;Shiroganedai 4-6-1, Minato-ku, Tokyo 108, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Shioda,T., Oka,S., Xin,X., Liu,H., Harukuni,R., Kurotani,A.,Fukushima,M., Hasan,M.K., Shiino,T., Takebe,Y., Iwamoto,A. andNagai,Y.</authors>
+     <title>In vivo sequence variability of human immunodeficiency virus type1 envelope gp120: association of V2 extention with slow diseaseprogression</title>
+     <journal>J. Virol. 71, 4871-4881 (1997)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..720</location>
+     <qualifiers name="clone">63-E332t</qualifiers>
+     <qualifiers name="isolate">63</qualifiers>
+     <qualifiers name="mol_type">genomic RNA</qualifiers>
+     <qualifiers name="note">isolated from plasma</qualifiers>
+     <qualifiers name="organism">Human immunodeficiency virus type 1</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..&gt;720</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">env</qualifiers>
+     <qualifiers name="note">V1-V3 loops of gp120</qualifiers>
+     <qualifiers name="product">envelope glycoprotein</qualifiers>
+     <qualifiers name="protein_id">BAA21306.1</qualifiers>
+     <qualifiers name="translation">CTDLNNATNTTRQGSEGAMEREEIKNCSFNITTSIRDKVQKEYALFYKLDVVPIDNTNSNNNSNNDSASYRLISCNTSVITQACPKVSFEPIPIHYCAPAGFAILKCNDKKFNGTGSCTNVSTVQCTHGIRPVVSTQLLLNGSLAEDEIVVRSDSLTDNAKTIIVQLNKSVEINCIRPNNNTRKSIHIGPGKAFYATGDIIGDIRQAHCNLSRAQWNNTLKQIAEKLGEQFKNKTITFNH</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        284 " C="        117 " G="        141 " T="        178 "/>
+<SEQUENCE>tgtactgatttgaataatgctactaataccactaggcaaggtagtgagggagcgatggagagagaagaaataaagaactgctcgttcaatatcaccacaagcataagagataaggtgcagaaagaatatgcacttttttataaacttgatgtagtaccaatagataatactaatagtaataataatagtaataatgatagtgccagttataggttgataagttgtaacacctcagtcattacgcaggcctgtccaaaggtatcctttgagccaattcccatacattattgtgccccggctggttttgcgattctaaagtgtaacgataagaagttcaatggaacaggatcatgtacaaatgtcagcacagtacaatgtacacatggaattaggccagtagtatcaactcaactgctgttaaatggcagtctagcagaagacgagatagtagttagatctgacagtctcacagacaatgctaaaaccataatagtacagctgaacaaatctgtagaaattaattgtataagacccaacaacaatacaagaaaaagtatacatatagggccagggaaagcattttatgcaacaggagacataataggagatataagacaagcacattgtaaccttagtagggcacaatggaataacactttaaaacagatagctgaaaaattaggagaacaatttaagaataaaacaataacctttaatcac</SEQUENCE>
+</DDBJXML>

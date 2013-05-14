@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB027551</LOCUS>
+<LENGTH>644</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>INV</DIVISION>
+<LAST_UPDATE>14-MAR-2001</LAST_UPDATE>
+
+<DEFINITION>Echinococcus multilocularis mitochondrial gene for cytochromeoxidase subunit 2, tRNA-Glu, NADH dehydrogenase subunit 6,tRNA-Tyr, isolate:Austria.</DEFINITION>
+<ACCESSION>AB027551</ACCESSION>
+<VERSION>AB027551.1</VERSION>
+<KEYWORDS>tRNA-Tyr; ND6; NADH dehydrogenase subunit 6; tRNA-Glu; cytochromeoxidase subunit 2.</KEYWORDS>
+
+<SOURCE>Echinococcus multilocularis mitochondrion</SOURCE>
+<ORGANISM>Echinococcus multilocularis</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Platyhelminthes; Rhabditophora; Neodermata;Cestoda; Eucestoda; Cyclophyllidea; Taeniidae; Echinococcus.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Fukunaga,M.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (20-MAY-1999) to the DDBJ/EMBL/GenBank databases.Contact:Masahito FukunagaFaculty of Pharmacy and Pharmaceutical Sciences, FukuyamaUniversity, Laboratory of Molecular Microbiology; Sanzo 985,Gakuencho 1, Fukuyama, Hiroshima 729-0292, Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Fukunaga,M., Yokoyama,N., Ito,A. and Nakao,M.</authors>
+     <title>Distribution of Echinococcus multilocularis in Hokkaido, Japan andits geographical migration</title>
+     <journal>Unpublished (1999)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..644</location>
+     <qualifiers name="isolate">Austria</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organelle">mitochondrion</qualifiers>
+     <qualifiers name="organism">Echinococcus multilocularis</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..15</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="product">cytochrome oxidase subunit 2</qualifiers>
+     <qualifiers name="protein_id">BAA95327.1</qualifiers>
+     <qualifiers name="transl_table">9</qualifiers>
+     <qualifiers name="translation">GDCC</qualifiers>
+</cds>
+<trna>
+     <location>33..100</location>
+     <qualifiers name="product">tRNA-Glu</qualifiers>
+</trna>
+<cds>
+     <location>103..558</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">ND6</qualifiers>
+     <qualifiers name="product">NADH dehydrogenase subunit 6</qualifiers>
+     <qualifiers name="protein_id">BAA95328.2</qualifiers>
+     <qualifiers name="transl_table">9</qualifiers>
+     <qualifiers name="translation">MLLEVLVVMYFCVLVLFCFTSHCIYYCVLLVVNALLAGCICYVVYGFSWYSLLLCLVYIGGVYILFIFVSVFSPNSSFVLYSGAYGVSLWVLFGFGLFVCSLVCYVLVNVEFSSVLCSASEGWLYLCLCLTLVFGFLVLSIILSSKVNFYR</qualifiers>
+</cds>
+<trna>
+     <location>572..635</location>
+     <qualifiers name="product">tRNA-Tyr</qualifiers>
+</trna>
+</FEATURES>
+
+<BASE_COUNT A="        126 " C="         32 " G="        166 " T="        320 "/>
+<SEQUENCE>ggtgattgttgttagttttgggtttgtgtatgtctgttttagtataattgatattatgttagcttttcgtgctttagatggttgttttaactgaacagatttatgttgttggaggttttagtagttatgtatttttgtgtgttggtgcttttttgttttactagtcattgtatatattattgtgtattgttggtggttaatgcgttgttggctggttgtatatgttatgtagtttatgggtttagttggtattccttgcttttgtgtttagtttatataggtggtgtttatatattgtttatttttgtgtcggtgtttagtccaaatagtagttttgttttatatagtggtgcttatggggttagtttatgggtgttattcggttttgggttatttgtatgttcgttagtttgttatgtgttggttaaagtggagtttagaagtgtattatgtagtgctagagagggttggttatatttgtgtttgtgtttgactttagtgtttggttttttggtgttaagtattatactaaggagtaaggtaaaattttatcgttaatggttatattagactgatttagcatatatttaatgtggtgggttgtaaaccctttgaaatctctgtagttaatcaggaaattattt</SEQUENCE>
+</DDBJXML>

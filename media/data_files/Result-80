@@ -1,0 +1,61 @@
+LOCUS       AB003001                 720 bp    RNA     linear   VRL 05-FEB-1999
+DEFINITION  Human immunodeficiency virus type 1 env gene for envelope
+            glycoprotein, partial cds, clone 63-E332t.
+ACCESSION   AB003001
+VERSION     AB003001.1
+KEYWORDS    gp120/V1-V3; env.
+SOURCE      Human immunodeficiency virus type 1
+  ORGANISM  Human immunodeficiency virus type 1
+            Viruses; Retroid viruses; Retroviridae; Lentivirus; Primate
+            lentivirus group.
+REFERENCE   1  (bases 1 to 720)
+  AUTHORS   Shioda,T., Oka,S., Xin,X., Liu,H., Harukuni,R., Kurotani,A.,
+            Fukushima,M., Hasan,M.K., Shiino,T., Takebe,Y., Iwamoto,A. and
+            Nagai,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-1997) to the DDBJ/EMBL/GenBank databases.
+            Contact:Tatsuo Shioda
+            Institute of Medical Science, Depertment of Viral Infection;
+            Shiroganedai 4-6-1, Minato-ku, Tokyo 108, Japan
+REFERENCE   2
+  AUTHORS   Shioda,T., Oka,S., Xin,X., Liu,H., Harukuni,R., Kurotani,A.,
+            Fukushima,M., Hasan,M.K., Shiino,T., Takebe,Y., Iwamoto,A. and
+            Nagai,Y.
+  TITLE     In vivo sequence variability of human immunodeficiency virus type
+            1 envelope gp120: association of V2 extention with slow disease
+            progression
+  JOURNAL   J. Virol. 71, 4871-4881 (1997)
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..720
+                     /clone="63-E332t"
+                     /isolate="63"
+                     /mol_type="genomic RNA"
+                     /note="isolated from plasma"
+                     /organism="Human immunodeficiency virus type 1"
+     CDS             <1..>720
+                     /codon_start=1
+                     /gene="env"
+                     /note="V1-V3 loops of gp120"
+                     /product="envelope glycoprotein"
+                     /protein_id="BAA21306.1"
+                     /translation="CTDLNNATNTTRQGSEGAMEREEIKNCSFNITTSIRDKVQKEYA
+                     LFYKLDVVPIDNTNSNNNSNNDSASYRLISCNTSVITQACPKVSFEPIPIHYCAPAGF
+                     AILKCNDKKFNGTGSCTNVSTVQCTHGIRPVVSTQLLLNGSLAEDEIVVRSDSLTDNA
+                     KTIIVQLNKSVEINCIRPNNNTRKSIHIGPGKAFYATGDIIGDIRQAHCNLSRAQWNN
+                     TLKQIAEKLGEQFKNKTITFNH"
+BASE COUNT          284 a          117 c          141 g          178 t
+ORIGIN      
+        1 tgtactgatt tgaataatgc tactaatacc actaggcaag gtagtgaggg agcgatggag
+       61 agagaagaaa taaagaactg ctcgttcaat atcaccacaa gcataagaga taaggtgcag
+      121 aaagaatatg cactttttta taaacttgat gtagtaccaa tagataatac taatagtaat
+      181 aataatagta ataatgatag tgccagttat aggttgataa gttgtaacac ctcagtcatt
+      241 acgcaggcct gtccaaaggt atcctttgag ccaattccca tacattattg tgccccggct
+      301 ggttttgcga ttctaaagtg taacgataag aagttcaatg gaacaggatc atgtacaaat
+      361 gtcagcacag tacaatgtac acatggaatt aggccagtag tatcaactca actgctgtta
+      421 aatggcagtc tagcagaaga cgagatagta gttagatctg acagtctcac agacaatgct
+      481 aaaaccataa tagtacagct gaacaaatct gtagaaatta attgtataag acccaacaac
+      541 aatacaagaa aaagtataca tatagggcca gggaaagcat tttatgcaac aggagacata
+      601 ataggagata taagacaagc acattgtaac cttagtaggg cacaatggaa taacacttta
+      661 aaacagatag ctgaaaaatt aggagaacaa tttaagaata aaacaataac ctttaatcac
+//

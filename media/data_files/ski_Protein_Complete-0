@@ -1,0 +1,584 @@
+ID   1433S_MOUSE             Reviewed;         248 AA.
+AC   O70456;
+DT   26-SEP-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   24-MAR-2009, entry version 63.
+DE   RecName: Full=14-3-3 protein sigma;
+DE   AltName: Full=Stratifin;
+GN   Name=Sfn; Synonyms=Mkrn3;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=FVB/N;
+RA   Karpitskiy V.V., Shaw A.S.;
+RL   Submitted (APR-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   PROTEIN SEQUENCE OF 1-12; 42-49; 61-68 AND 215-224, AND MASS
+RP   SPECTROMETRY.
+RC   STRAIN=C57BL/6, and OF1; TISSUE=Brain, and Hippocampus;
+RA   Lubec G., Kang S.U., Sunyer B., Chen W.-Q.;
+RL   Submitted (JAN-2009) to UniProtKB.
+RN   [3]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-64 AND SER-216, AND MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Brain;
+RX   PubMed=15648052; DOI=10.1002/pmic.200401066;
+RA   Vosseller K., Hansen K.C., Chalkley R.J., Trinidad J.C., Wells L.,
+RA   Hart G.W., Burlingame A.L.;
+RT   "Quantitative analysis of both protein expression and serine /
+RT   threonine post-translational modifications through stable isotope
+RT   labeling with dithiothreitol.";
+RL   Proteomics 5:388-398(2005).
+RN   [4]
+RP   FUNCTION, INTERACTION WITH KRT17, SUBCELLULAR LOCATION, TISSUE
+RP   SPECIFICITY, AND INDUCTION.
+RX   PubMed=16710422; DOI=10.1038/nature04659;
+RA   Kim S., Wong P., Coulombe P.A.;
+RT   "A keratin cytoskeletal protein regulates protein synthesis and
+RT   epithelial cell growth.";
+RL   Nature 441:362-365(2006).
+CC   -!- FUNCTION: Adapter protein implicated in the regulation of a large
+CC       spectrum of both general and specialized signaling pathway. Binds
+CC       to a large number of partners, usually by recognition of a
+CC       phosphoserine or phosphothreonine motif. Binding generally results
+CC       in the modulation of the activity of the binding partner. When
+CC       bound to KRT17, regulates protein synthesis and epithelial cell
+CC       growth by stimulating Akt/mTOR pathway.
+CC   -!- SUBUNIT: Homodimer. Found in a complex with XPO7, EIF4A1, ARHGAP1,
+CC       VPS26A, VPS29, VPS35 and SFN (By similarity). Interacts with
+CC       KRT17.
+CC   -!- INTERACTION:
+CC       Q9QWL7:Krt17; NbExp=2; IntAct=EBI-1544118, EBI-309015;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Secreted (By
+CC       similarity). Note=May be secreted by a non-classical secretory
+CC       pathway (By similarity).
+CC   -!- TISSUE SPECIFICITY: Expressed in the basal layer of skin
+CC       epithelium and in outer root sheath of hair follicle.
+CC   -!- INDUCTION: Induced in damaged or stressed epidermis.
+CC   -!- MISCELLANEOUS: 14-3-3 proteins have been shown to be PKC
+CC       activators, but this effect could be non-specific and only due to
+CC       the acidic nature of the protein.
+CC   -!- SIMILARITY: Belongs to the 14-3-3 family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF058798; AAC14344.1; -; mRNA.
+DR   IPI; IPI00118286; -.
+DR   UniGene; Mm.44482; -.
+DR   HSSP; P29312; 1A38.
+DR   SMR; O70456; 1-231.
+DR   IntAct; O70456; 1.
+DR   PRIDE; O70456; -.
+DR   Ensembl; ENSMUSG00000047281; Mus musculus.
+DR   MGI; MGI:1891831; Sfn.
+DR   HOGENOM; O70456; -.
+DR   HOVERGEN; O70456; -.
+DR   ArrayExpress; O70456; -.
+DR   Bgee; O70456; -.
+DR   CleanEx; MM_MKRN3; -.
+DR   CleanEx; MM_SFN; -.
+DR   GermOnline; ENSMUSG00000047281; Mus musculus.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:InterPro.
+DR   GO; GO:0030216; P:keratinocyte differentiation; IMP:MGI.
+DR   GO; GO:0043616; P:keratinocyte proliferation; IGI:MGI.
+DR   GO; GO:0008285; P:negative regulation of cell proliferation; IGI:MGI.
+DR   GO; GO:0030307; P:positive regulation of cell growth; IDA:UniProtKB.
+DR   GO; GO:0000079; P:regulation of cyclin-dependent protein kina...; IDA:MGI.
+DR   GO; GO:0043588; P:skin development; IMP:MGI.
+DR   InterPro; IPR000308; 14-3-3.
+DR   Gene3D; G3DSA:1.20.190.20; 14-3-3; 1.
+DR   PANTHER; PTHR18860; 14-3-3; 1.
+DR   Pfam; PF00244; 14-3-3; 1.
+DR   PIRSF; PIRSF000868; 14-3-3; 1.
+DR   PRINTS; PR00305; 1433ZETA.
+DR   ProDom; PD000600; 14-3-3; 1.
+DR   SMART; SM00101; 14_3_3; 1.
+DR   PROSITE; PS00796; 1433_1; 1.
+DR   PROSITE; PS00797; 1433_2; 1.
+PE   1: Evidence at protein level;
+KW   Cytoplasm; Direct protein sequencing; Nucleus; Phosphoprotein;
+KW   Secreted.
+FT   CHAIN         1    248       14-3-3 protein sigma.
+FT                                /FTId=PRO_0000058644.
+FT   SITE         56     56       Interaction with phosphoserine on
+FT                                interacting protein (By similarity).
+FT   SITE        129    129       Interaction with phosphoserine on
+FT                                interacting protein (By similarity).
+FT   MOD_RES      64     64       Phosphoserine.
+FT   MOD_RES     216    216       Phosphoserine.
+SQ   SEQUENCE   248 AA;  27713 MW;  D433390433FB3F48 CRC64;
+     MERASLIQKA KLAEQAERYE DMAAFMKSAV EKGEELSCEE RNLLSVAYKN VVGGQRAAWR
+     VLSSIEQKSN EEGSEEKGPE VKEYREKVET ELRGVCDTVL GLLDSHLIKG AGDAESRVFY
+     LKMKGDYYRY LAEVATGDDK KRIIDSARSA YQEAMDISKK EMPPTNPIRL GLALNFSVFH
+     YEIANSPEEA ISLAKTTFDE AMADLHTLSE DSYKDSTLIM QLLRDNLTLW TADSAGEEGG
+     EAPDDPHI
+//
+ID   3BHS1_HUMAN             Reviewed;         373 AA.
+AC   P14060; A8K691; Q14545; Q8IV65;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   10-FEB-2009, entry version 100.
+DE   RecName: Full=3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1;
+DE            Short=3-beta-HSD I;
+DE   AltName: Full=Trophoblast antigen FDO161G;
+DE   Includes:
+DE     RecName: Full=3-beta-hydroxy-Delta(5)-steroid dehydrogenase;
+DE              EC=1.1.1.145;
+DE     AltName: Full=3-beta-hydroxy-5-ene steroid dehydrogenase;
+DE     AltName: Full=Progesterone reductase;
+DE   Includes:
+DE     RecName: Full=Steroid Delta-isomerase;
+DE              EC=5.3.3.1;
+DE     AltName: Full=Delta-5-3-ketosteroid isomerase;
+GN   Name=HSD3B1; Synonyms=3BH, HSDB3A;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PROTEIN SEQUENCE OF 2-30.
+RX   MEDLINE=89384668; PubMed=2779585;
+RA   Luu-The V., Lachance Y., Labrie F., Leblanc G., Thomas J.L.,
+RA   Strickler R.C., Labrie C.;
+RT   "Full length cDNA structure and deduced amino acid sequence of human 3
+RT   beta-hydroxy-5-ene steroid dehydrogenase.";
+RL   Mol. Endocrinol. 3:1310-1312(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Placenta;
+RX   MEDLINE=90228249; PubMed=2139411;
+RA   Lorence M.C., Murry B.A., Trant J.M., Mason J.I.;
+RT   "Human 3 beta-hydroxysteroid dehydrogenase/delta 5-->4isomerase from
+RT   placenta: expression in nonsteroidogenic cells of a protein that
+RT   catalyzes the dehydrogenation/isomerization of C21 and C19 steroids.";
+RL   Endocrinology 126:2493-2498(1990).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=91186993; PubMed=2082186;
+RA   Lorence M.C., Corbin C.J., Kamimura N., Mahendroo M.S., Mason J.I.;
+RT   "Structural analysis of the gene encoding human 3 beta-hydroxysteroid
+RT   dehydrogenase/delta 5-->4-isomerase.";
+RL   Mol. Endocrinol. 4:1850-1855(1990).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT ASN-367.
+RX   MEDLINE=91056097; PubMed=2243100;
+RA   Lachance Y., Luu-The V., Labrie C., Simard J., Dumont M.,
+RA   Launoit Y.D., Guerin S., Leblanc G., Labrie F.;
+RT   "Characterization of human 3 beta-hydroxysteroid dehydrogenase/delta
+RT   5-delta 4-isomerase gene and its expression in mammalian cells.";
+RL   J. Biol. Chem. 265:20469-20475(1990).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Placenta;
+RX   MEDLINE=92015040; PubMed=1920284;
+RA   Nickson D.A., McBride M.W., Zeinali S., Hawes C.S., Petropoulos A.,
+RA   Mueller U.W., Sutcliffe R.G.;
+RT   "Molecular cloning and expression of human trophoblast antigen FDO161G
+RT   and its identification as 3 beta-hydroxy-5-ene steroid
+RT   dehydrogenase.";
+RL   J. Reprod. Fertil. 93:149-156(1991).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=93018017; PubMed=1401999; DOI=10.1111/1523-1747.ep12616131;
+RA   Dumont M., Van L.T., Dupont E., Pelletier G., Labrie F.;
+RT   "Characterization, expression, and immunohistochemical localization of
+RT   3 beta-hydroxysteroid dehydrogenase/delta 5-delta 4 isomerase in human
+RT   skin.";
+RL   J. Invest. Dermatol. 99:415-421(1992).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT ASN-367.
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   VARIANTS VAL-79 AND LEU-286.
+RX   MEDLINE=99318093; PubMed=10391209; DOI=10.1038/10290;
+RA   Cargill M., Altshuler D., Ireland J., Sklar P., Ardlie K., Patil N.,
+RA   Shaw N., Lane C.R., Lim E.P., Kalyanaraman N., Nemesh J., Ziaugra L.,
+RA   Friedland L., Rolfe A., Warrington J., Lipshutz R., Daley G.Q.,
+RA   Lander E.S.;
+RT   "Characterization of single-nucleotide polymorphisms in coding regions
+RT   of human genes.";
+RL   Nat. Genet. 22:231-238(1999).
+RN   [10]
+RP   ERRATUM.
+RA   Cargill M., Altshuler D., Ireland J., Sklar P., Ardlie K., Patil N.,
+RA   Shaw N., Lane C.R., Lim E.P., Kalyanaraman N., Nemesh J., Ziaugra L.,
+RA   Friedland L., Rolfe A., Warrington J., Lipshutz R., Daley G.Q.,
+RA   Lander E.S.;
+RL   Nat. Genet. 23:373-373(1999).
+CC   -!- FUNCTION: 3-beta-HSD is a bifunctional enzyme, that catalyzes the
+CC       oxidative conversion of Delta(5)-ene-3-beta-hydroxy steroid, and
+CC       the oxidative conversion of ketosteroids. The 3-beta-HSD enzymatic
+CC       system plays a crucial role in the biosynthesis of all classes of
+CC       hormonal steroids.
+CC   -!- CATALYTIC ACTIVITY: A 3-beta-hydroxy-Delta(5)-steroid + NAD(+) = a
+CC       3-oxo-Delta(5)-steroid + NADH.
+CC   -!- CATALYTIC ACTIVITY: A 3-oxo-Delta(5)-steroid = a 3-oxo-Delta(4)-
+CC       steroid.
+CC   -!- PATHWAY: Lipid metabolism; steroid biosynthesis.
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane; Single-pass
+CC       membrane protein. Mitochondrion membrane; Single-pass membrane
+CC       protein.
+CC   -!- TISSUE SPECIFICITY: Placenta and skin. Predominantly expressed in
+CC       mammary gland tissue.
+CC   -!- SIMILARITY: Belongs to the 3-beta-HSD family.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA36001.1; Type=Erroneous gene model prediction;
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M27137; AAA36015.1; -; mRNA.
+DR   EMBL; X53321; CAA37408.1; -; mRNA.
+DR   EMBL; M35493; AAA51538.1; -; mRNA.
+DR   EMBL; M63397; AAA51662.1; -; Genomic_DNA.
+DR   EMBL; M63395; AAA51662.1; JOINED; Genomic_DNA.
+DR   EMBL; M63396; AAA51662.1; JOINED; Genomic_DNA.
+DR   EMBL; M28392; AAA36001.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; M28162; AAA36001.1; JOINED; Genomic_DNA.
+DR   EMBL; M28391; AAA36001.1; JOINED; Genomic_DNA.
+DR   EMBL; M38180; AAA51831.1; -; Genomic_DNA.
+DR   EMBL; X55997; CAA39469.1; -; mRNA.
+DR   EMBL; S45679; AAB23543.1; -; mRNA.
+DR   EMBL; AK291556; BAF84245.1; -; mRNA.
+DR   EMBL; BC031999; AAH31999.1; -; mRNA.
+DR   IPI; IPI00843838; -.
+DR   PIR; A36551; DEHUHS.
+DR   RefSeq; NP_000853.1; -.
+DR   UniGene; Hs.364941; -.
+DR   PRIDE; P14060; -.
+DR   Ensembl; ENSG00000203857; Homo sapiens.
+DR   GeneID; 3283; -.
+DR   KEGG; hsa:3283; -.
+DR   GeneCards; GC01P119852; -.
+DR   H-InvDB; HIX0000948; -.
+DR   H-InvDB; HIX0057008; -.
+DR   HGNC; HGNC:5217; HSD3B1.
+DR   MIM; 109715; gene.
+DR   PharmGKB; PA29486; -.
+DR   HOVERGEN; P14060; -.
+DR   BRENDA; 1.1.1.145; 247.
+DR   BRENDA; 5.3.3.1; 247.
+DR   Reactome; REACT_602; Lipid and lipoprotein metabolism.
+DR   DrugBank; DB00157; NADH.
+DR   DrugBank; DB01108; Trilostane.
+DR   LinkHub; P14060; -.
+DR   NextBio; 13031; -.
+DR   ArrayExpress; P14060; -.
+DR   Bgee; P14060; -.
+DR   CleanEx; HS_HSD3B1; -.
+DR   GermOnline; ENSG00000203857; Homo sapiens.
+DR   GO; GO:0016021; C:integral to membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005792; C:microsome; IDA:UniProtKB.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+DR   GO; GO:0005758; C:mitochondrial intermembrane space; IDA:UniProtKB.
+DR   GO; GO:0030868; C:smooth endoplasmic reticulum membrane; ISS:UniProtKB.
+DR   GO; GO:0003854; F:3-beta-hydroxy-delta5-steroid dehydrogenase...; ISS:UniProtKB.
+DR   GO; GO:0005488; F:binding; IEA:InterPro.
+DR   GO; GO:0004769; F:steroid delta-isomerase activity; ISS:UniProtKB.
+DR   GO; GO:0006702; P:androgen biosynthetic process; TAS:UniProtKB.
+DR   GO; GO:0006700; P:C21-steroid hormone biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0006703; P:estrogen biosynthetic process; TAS:UniProtKB.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   InterPro; IPR002225; 3Beta_OHSteriod_DHase/Estase.
+DR   InterPro; IPR016040; NAD(P)-bd.
+DR   Gene3D; G3DSA:3.40.50.720; NAD(P)-bd; 1.
+DR   Pfam; PF01073; 3Beta_HSD; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Endoplasmic reticulum; Isomerase; Membrane;
+KW   Mitochondrion; Multifunctional enzyme; NAD; Oxidoreductase;
+KW   Polymorphism; Steroidogenesis; Transmembrane.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    373       3 beta-hydroxysteroid dehydrogenase/Delta
+FT                                5-->4-isomerase type 1.
+FT                                /FTId=PRO_0000087774.
+FT   TRANSMEM    288    308       Potential.
+FT   VARIANT      54     54       T -> I (in dbSNP:rs3088283).
+FT                                /FTId=VAR_048096.
+FT   VARIANT      71     71       R -> I (in dbSNP:rs4986952).
+FT                                /FTId=VAR_048097.
+FT   VARIANT      79     79       I -> V (in dbSNP:rs6201).
+FT                                /FTId=VAR_014174.
+FT   VARIANT      90     90       G -> S (in dbSNP:rs6684974).
+FT                                /FTId=VAR_048098.
+FT   VARIANT     286    286       F -> L (in dbSNP:rs6205).
+FT                                /FTId=VAR_014175.
+FT   VARIANT     367    367       T -> N (in dbSNP:rs1047303).
+FT                                /FTId=VAR_000005.
+SQ   SEQUENCE   373 AA;  42252 MW;  2C76616E7EA7433A CRC64;
+     MTGWSCLVTG AGGFLGQRII RLLVKEKELK EIRVLDKAFG PELREEFSKL QNKTKLTVLE
+     GDILDEPFLK RACQDVSVII HTACIIDVFG VTHRESIMNV NVKGTQLLLE ACVQASVPVF
+     IYTSSIEVAG PNSYKEIIQN GHEEEPLENT WPAPYPHSKK LAEKAVLAAN GWNLKNGGTL
+     YTCALRPMYI YGEGSRFLSA SINEALNNNG ILSSVGKFST VNPVYVGNVA WAHILALRAL
+     QDPKKAPSIR GQFYYISDDT PHQSYDNLNY TLSKEFGLRL DSRWSFPLSL MYWIGFLLEI
+     VSFLLRPIYT YRPPFNRHIV TLSNSVFTFS YKKAQRDLAY KPLYSWEEAK QKTVEWVGSL
+     VDRHKETLKS KTQ
+//
+ID   3BHS_FOWPV              Reviewed;         370 AA.
+AC   Q67477; Q9J5F8;
+DT   29-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   29-AUG-2001, sequence version 2.
+DT   20-JAN-2009, entry version 48.
+DE   RecName: Full=3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase;
+DE            Short=3-beta-HSD;
+DE   Includes:
+DE     RecName: Full=3-beta-hydroxy-Delta(5)-steroid dehydrogenase;
+DE              EC=1.1.1.145;
+DE     AltName: Full=3-beta-hydroxy-5-ene steroid dehydrogenase;
+DE     AltName: Full=Progesterone reductase;
+DE   Includes:
+DE     RecName: Full=Steroid Delta-isomerase;
+DE              EC=5.3.3.1;
+DE     AltName: Full=Delta-5-3-ketosteroid isomerase;
+GN   OrderedLocusNames=FPV046;
+OS   Fowlpox virus (FPV).
+OC   Viruses; dsDNA viruses, no RNA stage; Poxviridae; Chordopoxvirinae;
+OC   Avipoxvirus.
+OX   NCBI_TaxID=10261;
+OH   NCBI_TaxID=7742; Vertebrata.
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=FP-9 / Isolate HP-438;
+RX   MEDLINE=94358756; PubMed=8077953;
+RA   Skinner M.A., Moore J.B., Binns M.M., Smith G.L., Boursnell M.E.G.;
+RT   "Deletion of fowlpox virus homologues of vaccinia virus genes between
+RT   the 3 beta-hydroxysteroid dehydrogenase (A44L) and DNA ligase (A50R)
+RT   genes.";
+RL   J. Gen. Virol. 75:2495-2498(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   MEDLINE=20193820; PubMed=10729156;
+RX   DOI=10.1128/JVI.74.8.3815-3831.2000;
+RA   Afonso C.L., Tulman E.R., Lu Z., Zsak L., Kutish G.F., Rock D.L.;
+RT   "The genome of fowlpox virus.";
+RL   J. Virol. 74:3815-3831(2000).
+CC   -!- FUNCTION: 3-beta-HSD is a bifunctional enzyme, that catalyzes the
+CC       oxidative conversion of Delta(5)-ene-3-beta-hydroxy steroid, and
+CC       the oxidative conversion of ketosteroids. The 3-beta-HSD enzymatic
+CC       system plays a crucial role in the biosynthesis of all classes of
+CC       hormonal steroids (By similarity).
+CC   -!- CATALYTIC ACTIVITY: A 3-beta-hydroxy-Delta(5)-steroid + NAD(+) = a
+CC       3-oxo-Delta(5)-steroid + NADH.
+CC   -!- CATALYTIC ACTIVITY: A 3-oxo-Delta(5)-steroid = a 3-oxo-Delta(4)-
+CC       steroid.
+CC   -!- PATHWAY: Lipid metabolism; steroid biosynthesis.
+CC   -!- SIMILARITY: Belongs to the 3-beta-HSD family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z29716; CAA82802.1; -; Genomic_DNA.
+DR   EMBL; AF198100; AAF44390.1; -; Genomic_DNA.
+DR   PIR; S41971; S41971.
+DR   RefSeq; NP_039008.1; -.
+DR   GeneID; 1486594; -.
+DR   BRENDA; 1.1.1.145; 288568.
+DR   BRENDA; 5.3.3.1; 288568.
+DR   GO; GO:0003854; F:3-beta-hydroxy-delta5-steroid dehydrogenase...; IEA:InterPro.
+DR   GO; GO:0005488; F:binding; IEA:InterPro.
+DR   GO; GO:0004769; F:steroid delta-isomerase activity; IEA:EC.
+DR   GO; GO:0006700; P:C21-steroid hormone biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   InterPro; IPR002225; 3Beta_OHSteriod_DHase/Estase.
+DR   InterPro; IPR016040; NAD(P)-bd.
+DR   Gene3D; G3DSA:3.40.50.720; NAD(P)-bd; 1.
+DR   Pfam; PF01073; 3Beta_HSD; 1.
+PE   3: Inferred from homology;
+KW   Isomerase; Multifunctional enzyme; NAD; Oxidoreductase;
+KW   Steroidogenesis.
+FT   CHAIN         1    370       3 beta-hydroxysteroid dehydrogenase/Delta
+FT                                5-->4-isomerase.
+FT                                /FTId=PRO_0000087797.
+FT   CONFLICT     38     43       IRIDQW -> LDRPM (in Ref. 1; CAA82802).
+FT   CONFLICT    251    251       N -> K (in Ref. 1; CAA82802).
+SQ   SEQUENCE   370 AA;  42349 MW;  730FE72BA84FA681 CRC64;
+     MRTLVYVVTG GCGFLGRHII NNLILFESSL KEVRVYDIRI DQWLLDLVEK CNIIKIVPVI
+     GDVRNKSTLD EALRSADVVI HIASINDVAG KFTNDSIMDV NINGTKNVVD SCLYNGVRVL
+     VYTSSYSAVG PNFLGDAMIR GNENTYYQSN HKEAYPLSKQ LSEKYILEAN GTMSNIGLRL
+     CTCALRPLGV FGEYCPVLET LYRRSYKSRK MYKYADDKVF HSRVYAGNVA WMHILAARNM
+     IENGQHSPLC NNVYYCYDTS PTEHYHDFNM HFFNQLGMDL RNTCLPLWCL RFIANINKGL
+     RVLLSPICSY TPLLNPYTLI KECTTFTIET DKAFKDFGYV PLYTWEESRS KTQLWIRELE
+     AKSSSQKPKS
+//
+ID   3MGH_CORJK              Reviewed;         213 AA.
+AC   Q4JYA4;
+DT   12-DEC-2006, integrated into UniProtKB/Swiss-Prot.
+DT   02-AUG-2005, sequence version 1.
+DT   25-NOV-2008, entry version 20.
+DE   RecName: Full=Putative 3-methyladenine DNA glycosylase;
+DE            EC=3.2.2.-;
+GN   OrderedLocusNames=jk0054;
+OS   Corynebacterium jeikeium (strain K411).
+OC   Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales;
+OC   Corynebacterineae; Corynebacteriaceae; Corynebacterium.
+OX   NCBI_TaxID=306537;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15968079; DOI=10.1128/JB.187.13.4671-4682.2005;
+RA   Tauch A., Kaiser O., Hain T., Goesmann A., Weisshaar B.,
+RA   Albersmeier A., Bekel T., Bischoff N., Brune I., Chakraborty T.,
+RA   Kalinowski J., Meyer F., Rupp O., Schneiker S., Viehoever P.,
+RA   Puehler A.;
+RT   "Complete genome sequence and analysis of the multiresistant
+RT   nosocomial pathogen Corynebacterium jeikeium K411, a lipid-requiring
+RT   bacterium of the human skin flora.";
+RL   J. Bacteriol. 187:4671-4682(2005).
+CC   -!- SIMILARITY: Belongs to the DNA glycosylase MPG family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CR931997; CAI36203.1; -; Genomic_DNA.
+DR   RefSeq; YP_249821.1; -.
+DR   GeneID; 3432042; -.
+DR   GenomeReviews; CR931997_GR; jk0054.
+DR   KEGG; cjk:jk0054; -.
+DR   NMPDR; fig|306537.3.peg.1850; -.
+DR   HOGENOM; Q4JYA4; -.
+DR   BioCyc; CJEI306537:JK0054-MON; -.
+DR   GO; GO:0003905; F:alkylbase DNA N-glycosylase activity; IEA:InterPro.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0006284; P:base-excision repair; IEA:InterPro.
+DR   HAMAP; MF_00527; -; 1.
+DR   InterPro; IPR003180; PurDNA_glycsylse.
+DR   Gene3D; G3DSA:3.10.300.10; PurDNA_glycsylse; 1.
+DR   PANTHER; PTHR10429; PurDNA_glycsylse; 1.
+DR   Pfam; PF02245; Pur_DNA_glyco; 1.
+DR   ProDom; PD009649; PurDNA_glycsylse; 1.
+DR   TIGRFAMs; TIGR00567; 3mg; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; DNA damage; DNA repair; Hydrolase.
+FT   CHAIN         1    213       Putative 3-methyladenine DNA glycosylase.
+FT                                /FTId=PRO_0000265012.
+SQ   SEQUENCE   213 AA;  22220 MW;  559A46002634C52D CRC64;
+     MDRSAQRIDF TQPADVVAPL LLGAVLRHGG VAIELTEVEA YLGTADEASH AFNGPTPRCE
+     VMFGPPQHLY VYASYGIHRA GNLVCSPDGE AGGVLLRAGK IIEGLDIARA RRGSKPADEA
+     LARGPGNLGA ALGLNLDLNG SAVDQVFSGA GDSSPTSAPF TLTPRTAIPE ITRGKRIGIS
+     KNADALLRFW VPGDRSVSSP RGRQLGTPLR ASS
+//
+ID   AAXC_CHLT2              Reviewed;         483 AA.
+AC   B0B7U3;
+DT   10-FEB-2009, integrated into UniProtKB/Swiss-Prot.
+DT   26-FEB-2008, sequence version 1.
+DT   24-MAR-2009, entry version 11.
+DE   RecName: Full=Arginine/agmatine antiporter;
+GN   Name=aaxC; Synonyms=arcD; OrderedLocusNames=CTL0628;
+OS   Chlamydia trachomatis (strain L2/434/Bu / ATCC VR902B).
+OC   Bacteria; Chlamydiae; Chlamydiales; Chlamydiaceae; Chlamydia.
+OX   NCBI_TaxID=471472;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18032721; DOI=10.1101/gr.7020108;
+RA   Thomson N.R., Holden M.T.G., Carder C., Lennard N., Lockey S.J.,
+RA   Marsh P., Skipp P., O'Connor C.D., Goodhead I., Norbertzcak H.,
+RA   Harris B., Ormond D., Rance R., Quail M.A., Parkhill J.,
+RA   Stephens R.S., Clarke I.N.;
+RT   "Chlamydia trachomatis: genome sequence analysis of lymphogranuloma
+RT   venereum isolates.";
+RL   Genome Res. 18:161-171(2008).
+CC   -!- FUNCTION: Catalyzes the exchange of L-arginine for agmatine. The
+CC       arginine uptake by the bacterium in the macrophage may be a
+CC       virulence factor against the host innate immune response (By
+CC       similarity).
+CC   -!- SUBCELLULAR LOCATION: Cell inner membrane; Multi-pass membrane
+CC       protein (By similarity).
+CC   -!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+CC       superfamily.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM884176; CAP04069.1; -; Genomic_DNA.
+DR   RefSeq; YP_001654702.1; -.
+DR   GeneID; 5858403; -.
+DR   GenomeReviews; AM884176_GR; CTL0628.
+DR   KEGG; ctb:CTL0628; -.
+DR   GO; GO:0016021; C:integral to membrane; IEA:InterPro.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0015171; F:amino acid transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0015297; F:antiporter activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006865; P:amino acid transport; IEA:InterPro.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   InterPro; IPR002293; AA/rel_permease1.
+DR   InterPro; IPR004841; Permease_region.
+DR   InterPro; IPR004754; R/O_antiport.
+DR   PANTHER; PTHR11785; AA/rel_permease1; 1.
+DR   Pfam; PF00324; AA_permease; 1.
+DR   PIRSF; PIRSF006060; AA_transporter; 1.
+DR   TIGRFAMs; TIGR00905; 2A0302; 1.
+PE   3: Inferred from homology;
+KW   Amino-acid transport; Antiport; Cell inner membrane; Cell membrane;
+KW   Complete proteome; Membrane; Transmembrane; Transport; Virulence.
+FT   CHAIN         1    483       Arginine/agmatine antiporter.
+FT                                /FTId=PRO_5000300957.
+FT   TRANSMEM     11     33       Potential.
+FT   TRANSMEM     48     70       Potential.
+FT   TRANSMEM     90    112       Potential.
+FT   TRANSMEM    127    149       Potential.
+FT   TRANSMEM    156    178       Potential.
+FT   TRANSMEM    209    228       Potential.
+FT   TRANSMEM    241    263       Potential.
+FT   TRANSMEM    293    315       Potential.
+FT   TRANSMEM    335    357       Potential.
+FT   TRANSMEM    367    389       Potential.
+FT   TRANSMEM    415    435       Potential.
+FT   TRANSMEM    458    477       Potential.
+SQ   SEQUENCE   483 AA;  52662 MW;  96B39D99BE8590A0 CRC64;
+     MLLKKRSPTS ILGTLALTGI VISYMIGGGI FSLPQNMAAS ASAGAVMLAW MLSGIGIFFI
+     ANTFKTLSII RPDLKAGIYT YSREGFGPYV GFTIAWGYWL CQIFGNVGYA VITMDALNYF
+     FPPYFAGGNT IPAILLGSLL IWIFNYIVLR GIRQASFVNI IGVVCTLIPL LLFILITARF
+     FKFSIFKTDF WGTAPQHTLG SIGSQLKSTM LVTLWAFIGI EGAVVISGRA ANPSSVGKAT
+     ILGFSGCLLI YVLLSLLPFG SLFQYQLAKI ADPSTAGVLN ILVGKWGEVL MNTGLLIAVL
+     TSWLSWTILA SEIPYAAAKN GTFPECFAIE NSKHAPSFSL FMTSGLMQIT MLLVYFSSNA
+     WNTMLEITGV MVLPAYLTSS LFLVKFSLSK KYPKQAAIKA RIAMITGLLG SLYSLWLIYA
+     GGLQHLFMVA ILLALGIPFY VDSGIRHKQE KTFLNRKEIL KMTIMALAAL LAIFLFSANK
+     IHL
+//

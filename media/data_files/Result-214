@@ -1,0 +1,39 @@
+ID   YVCD_VACCC              Reviewed;          70 AA.
+AC   P21122;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   22-JUL-2008, entry version 27.
+DE   RecName: Full=Uncharacterized 7.9 kDa protein;
+GN   ORFNames=C ORF D;
+OS   Vaccinia virus (strain Copenhagen) (VACV).
+OC   Viruses; dsDNA viruses, no RNA stage; Poxviridae; Chordopoxvirinae;
+OC   Orthopoxvirus.
+OX   NCBI_TaxID=10249;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   MEDLINE=91021027; PubMed=2219722; DOI=10.1016/0042-6822(90)90294-2;
+RA   Goebel S.J., Johnson G.P., Perkus M.E., Davis S.W., Winslow J.P.,
+RA   Paoletti E.;
+RT   "The complete DNA sequence of vaccinia virus.";
+RL   Virology 179:247-266(1990).
+RN   [2]
+RP   COMPLETE GENOME.
+RA   Goebel S.J., Johnson G.P., Perkus M.E., Davis S.W., Winslow J.P.,
+RA   Paoletti E.;
+RT   "Appendix to 'The complete DNA sequence of vaccinia virus'.";
+RL   Virology 179:517-563(1990).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M35027; AAA47989.1; -; Genomic_DNA.
+DR   PIR; E33172; E33172.
+PE   4: Predicted;
+KW   Complete proteome.
+FT   CHAIN         1     70       Uncharacterized 7.9 kDa protein.
+FT                                /FTId=PRO_0000099682.
+SQ   SEQUENCE   70 AA;  7880 MW;  AE675377266D7554 CRC64;
+     MLLHVGIPLS NNSLNTSTLG FDVVAYFSTI LIPFLILFIS IPFEISNFNK SISMLSEHRY
+     SNISKSLIFL
+//

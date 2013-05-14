@@ -1,0 +1,14 @@
+\\\
+ENTRY           1234567 
+TITLE           1234567, 212 bases, 11E checksum.
+SEQUENCE        
+                5        10        15        20        25        30
+      1  C C C G C C T G G G G C G C C G G C C C C C C C A G C G C C
+     31  C C C G G C G G C A G C G G C T G G G T G G C C G C C G C C
+     61  C T G T G C G T G G T G A T C G C C C T G A C C G C C G C C
+     91  G C C A A C A G C C T G C T G A T C G C C C T G A T A G C G
+    121  G C T G G G T G G C C G C C G C C C T G A G C G G C T G G G
+    151  T G G C C G C C G C C C T G A G C G G C T G G G T G G C C G
+    181  C C G C C C T G A G C G G C T G G G T G G C C G C C G C C C
+    211  T G
+///

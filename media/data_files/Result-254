@@ -1,0 +1,124 @@
+
+
+
+ CLUSTAL W (1.83) Multiple Sequence Alignments
+
+
+
+Sequence format is Pearson
+Sequence 1: sp|O70456|1433S_MOUSE      248 aa
+Sequence 2: sp|P14060|3BHS1_HUMAN      373 aa
+Sequence 3: sp|Q67477|3BHS_FOWPV       370 aa
+Sequence 4: sp|Q4JYA4|3MGH_CORJK       213 aa
+Sequence 5: sp|B0B7U3|AAXC_CHLT2       483 aa
+Start of Pairwise alignments
+Aligning...
+Sequences (1:2) Aligned. Score:  10
+Sequences (1:3) Aligned. Score:  7
+Sequences (1:4) Aligned. Score:  4
+Sequences (1:5) Aligned. Score:  4
+Sequences (2:3) Aligned. Score:  32
+Sequences (2:4) Aligned. Score:  1
+Sequences (2:5) Aligned. Score:  5
+Sequences (3:4) Aligned. Score:  4
+Sequences (3:5) Aligned. Score:  3
+Sequences (4:5) Aligned. Score:  2
+Start of Multiple Alignment
+There are 4 groups
+Aligning...
+Group 1:                     Delayed
+Group 2:                     Delayed
+Group 3:                     Delayed
+Group 4:                     Delayed
+Sequence:3     Score:4182
+Sequence:1     Score:1780
+Sequence:5     Score:2088
+Sequence:4     Score:1374
+Alignment Score -479
+aln result
+----------
+CLUSTAL W (1.83) multiple sequence alignment
+
+
+sp|P14060|3BHS1_HUMAN      --------------------------------------------MTGWSC
+sp|Q67477|3BHS_FOWPV       --------------------------------------------MRTLVY
+sp|O70456|1433S_MOUSE      --------------------------------------------------
+sp|B0B7U3|AAXC_CHLT2       MLLKKRSPTSILGTLALTGIVISYMIGGGIFSLPQNMAASASAGAVMLAW
+sp|Q4JYA4|3MGH_CORJK       --------------------------------------------------
+                                                                             
+
+sp|P14060|3BHS1_HUMAN      LVTGAGGFLGQRIIR-LLVKEKELKE------------IRVLDKAFGPEL
+sp|Q67477|3BHS_FOWPV       VVTGGCGFLGRHIINNLILFESSLKE------------VRVYDIRIDQWL
+sp|O70456|1433S_MOUSE      -----------------------MER------------ASLIQKAKLAEQ
+sp|B0B7U3|AAXC_CHLT2       MLSGIGIFFIANTFKTLSIIRPDLKAGIYTYSREGFGPYVGFTIAWGYWL
+sp|Q4JYA4|3MGH_CORJK       --------------------------------------------------
+                                                                             
+
+sp|P14060|3BHS1_HUMAN      REEFSKLQNKTKLTVLEGDILDEPFLKRACQDVSVI-------IHTACII
+sp|Q67477|3BHS_FOWPV       LDLVEKCN-IIKIVPVIGDVRNKSTLDEALRSADVV-------IHIASIN
+sp|O70456|1433S_MOUSE      AERYEDMAAFMKSAVEKGEELS----------------------------
+sp|B0B7U3|AAXC_CHLT2       CQIFGNVGYAVITMDALNYFFPPYFAGGNTIPAILLGSLLIWIFNYIVLR
+sp|Q4JYA4|3MGH_CORJK       --------------------------------------------------
+                                                                             
+
+sp|P14060|3BHS1_HUMAN      DVFGVTHRESIMNVNVKGTQLLLEACVQASVPVFIYTSSIEVAGPNSYKE
+sp|Q67477|3BHS_FOWPV       DVAGKFTNDSIMDVNINGTKNVVDSCLYNGVRVLVYTSSYSAVGPNFLGD
+sp|O70456|1433S_MOUSE      -------------------------CEERNLLSVAYKN---VVGGQRAAW
+sp|B0B7U3|AAXC_CHLT2       GIRQASFVNIIGVVCTLIPLLLFILITARFFKFSIFKTDFWGTAPQHTLG
+sp|Q4JYA4|3MGH_CORJK       --------------------------MDRSAQRIDFTQPADVVAPLLLGA
+                                                              :.     ..      
+
+sp|P14060|3BHS1_HUMAN      IIQNGHEEEPLENTWPAPYPH----SKKLAEKAVLAANGWNLKNGGTLYT
+sp|Q67477|3BHS_FOWPV       AMIRGNENTYYQSNHKEAYPL----SKQLSEKYILEANGTMSNIGLRLCT
+sp|O70456|1433S_MOUSE      RVLSSIEQKSNEEGSEEKGPE----VKEYREKVETELRGVCDTVLGLLDS
+sp|B0B7U3|AAXC_CHLT2       SIGSQLKSTMLVTLWAFIGIEGAVVISGRAANPSSVGKATILGFSGCLLI
+sp|Q4JYA4|3MGH_CORJK       VLRHGGVAIELTEVEAYLGTAD---EASHAFNGPTPRCEVMFGPPQHLYV
+                            :                             :               *  
+
+sp|P14060|3BHS1_HUMAN      CALRPMYIYGEGSRFLSASINEALNNNGILSSVGKFSTVNP-----VYVG
+sp|Q67477|3BHS_FOWPV       CALRPLGVFGEYCPVLETLYRRSYKSRKMYKYADDKVFHSR-----VYAG
+sp|O70456|1433S_MOUSE      HLIK-----------------------------GAGDAESR-----VFYL
+sp|B0B7U3|AAXC_CHLT2       YVLLSLLPFGSLFQYQLAKIADPSTAGVLNILVGKWGEVLMNTGLLIAVL
+sp|Q4JYA4|3MGH_CORJK       YASYG------------------------IHRAGNLVCSPD---------
+                                                            .                
+
+sp|P14060|3BHS1_HUMAN      NVAWAHILALRALQDPKKAPSIRGQFYYISDDTPHQSYDNLNYTLSKEFG
+sp|Q67477|3BHS_FOWPV       NVAWMHILAARNMIENGQHSPLCNNVYYCYDTSPTEHYHDFNMHFFNQLG
+sp|O70456|1433S_MOUSE      KMKGDYYRYLAEVATGDDKKRIIDSARSAYQEAMDISKKEMPPTNPIRLG
+sp|B0B7U3|AAXC_CHLT2       TSWLSWTILASEIPYAAAKNGTFPECFAIENSKHAPSFSLFMTSGLMQIT
+sp|Q4JYA4|3MGH_CORJK       GEAGGVLLRAGKIIEG---LDIARARRGSKPADEALARGPGNLGAALGLN
+                                       :                                   : 
+
+sp|P14060|3BHS1_HUMAN      LRLDSRWSFPLSLMYWIGFLLEIVSFLLRPIYTYRPPFNRHIVTLSNSVF
+sp|Q67477|3BHS_FOWPV       MDLRN-TCLPLWCLRFIANINKGLRVLLSPICSYTPLLNPYTLIKECTTF
+sp|O70456|1433S_MOUSE      LALNF----------------SVFHYEIANSPEEAISLAKTTFDEAMADL
+sp|B0B7U3|AAXC_CHLT2       MLLVYFSSNAWNTMLEITGVMVLPAYLTSSLFLVKFSLSKKYPKQAAIKA
+sp|Q4JYA4|3MGH_CORJK       LDLNG----------------SAVDQVFSGAGDSSPTSAPFTLTPRTAIP
+                           : *                                               
+
+sp|P14060|3BHS1_HUMAN      TFSYKK--AQRDLAYKPLYSWEEAKQKTVEWVGSLVD------------R
+sp|Q67477|3BHS_FOWPV       TIETDK--AFKDFGYVPLYTWEESRSKTQLWIRELEA------------K
+sp|O70456|1433S_MOUSE      HTLSED--SYKDSTLIMQLLRDN----LTLWTADSAG------------E
+sp|B0B7U3|AAXC_CHLT2       RIAMIT--GLLGSLYSLWLIYAGGLQHLFMVAILLALGIPFYVDSGIRHK
+sp|Q4JYA4|3MGH_CORJK       EITRGKRIGISKNADALLRFWVPGDRSVSSPRGRQLG-------------
+                                   .                                         
+
+sp|P14060|3BHS1_HUMAN      HKETLKSKTQ-------------------------
+sp|Q67477|3BHS_FOWPV       SSSQKPKS---------------------------
+sp|O70456|1433S_MOUSE      EGGEAPDDPHI------------------------
+sp|B0B7U3|AAXC_CHLT2       QEKTFLNRKEILKMTIMALAALLAIFLFSANKIHL
+sp|Q4JYA4|3MGH_CORJK       --TPLRASS--------------------------
+                                                              
+----------
+dnd result
+----------
+(
+(
+sp|O70456|1433S_MOUSE:0.45272,
+(
+sp|P14060|3BHS1_HUMAN:0.33150,
+sp|Q67477|3BHS_FOWPV:0.34147)
+:0.12209)
+:0.01370,
+sp|Q4JYA4|3MGH_CORJK:0.49427,
+sp|B0B7U3|AAXC_CHLT2:0.48226);

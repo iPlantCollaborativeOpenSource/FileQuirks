@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>DA000009</LOCUS>
+<LENGTH>815</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>EST</DIVISION>
+<LAST_UPDATE>08-JAN-2008</LAST_UPDATE>
+
+<DEFINITION>Homo sapiens cDNA clone 3NB691000011, 5&apos; end, mRNA sequence.</DEFINITION>
+<ACCESSION>DA000009</ACCESSION>
+<VERSION>DA000009.1</VERSION>
+<KEYWORDS>EST (expressed sequence tag); oligo capping; 5&apos;-end sequence(5&apos;-EST).</KEYWORDS>
+
+<SOURCE>Homo sapiens</SOURCE>
+<ORGANISM>Homo sapiens</ORGANISM>
+<TAXONOMY>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;Catarrhini; Hominidae; Homo.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Isogai,T. and Yamamoto,J.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (22-MAR-2005) to the DDBJ/EMBL/GenBank databases.Contact:Takao IsogaiFLJ Project (HRI Team); 2-6-7 Kazusa-Kamatari, Kisarazu, Chiba292-0818, JapanE-mail :flj-cdna@nifty.com</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Wakamatsu,A., Ota,T., Sugiyama,T., Ishii,S., Yamamoto,J.,Suzuki,Y., Isono,Y., Saito,K., Nagai,K., Sugano,S. and Isogai,T.</authors>
+     <title>NEDO human cDNA sequencing project</title>
+     <journal>Unpublished (2005)</journal>
+</REFERENCE>
+<REFERENCE ID="3">
+     <authors>Kimura,K., Wakamatsu,A., Suzuki,Y., Ota,T., Nishikawa,T.,Yamashita,R., Yamamoto,J., Sekine,M., Tsuritani,K., Wakaguri,H.,Ishii,S., Sugiyama,T., Saito,K., Isono,Y., Irie,R., Kushida,N.,Yoneyama,T., Otsuka,R., Kanda,K., Yokoi,T., Kondo,H.,Wagatsuma,M., Murakawa,K., Ishida,S., Ishibashi,T.,Takahashi-Fujii,A., Tanase,T., Nagai,K., Kikuchi,H., Nakai,K.,Isogai,T. and Sugano,S.</authors>
+     <title>Diversification of Transcriptional Modulation: Large-scaleIdentification and Characterization of Putative AlternativePromoters of Human Genes</title>
+     <journal>Genome Res. 16, 55-65 (2006)</journal>
+</REFERENCE>
+<COMMENT>NEDO human cDNA project (New Energy and Industrial TechnologyDevelopmental Organization, Japan); cDNA library construction:Helix Research Institute (HRI); 5&apos;-end  one pass sequencing: HRI,Research Association for Biotechnology (RAB) and BiotechnologyCenter, National Institute of Technology and Evaluation; 3&apos;-endone pass sequencing: RAB.</COMMENT>
+
+<FEATURES>
+<source>
+     <location>1..815</location>
+     <qualifiers name="cell_line">NB69</qualifiers>
+     <qualifiers name="cell_type">neuroblastoma</qualifiers>
+     <qualifiers name="clone">3NB691000011</qualifiers>
+     <qualifiers name="clone_lib">3NB691</qualifiers>
+     <qualifiers name="db_xref">taxon:9606</qualifiers>
+     <qualifiers name="mol_type">mRNA</qualifiers>
+     <qualifiers name="note">cloning vector: pME18SFL3</qualifiers>
+     <qualifiers name="organism">Homo sapiens</qualifiers>
+</source>
+</FEATURES>
+
+<BASE_COUNT A="        245 " C="        168 " G="        204 " T="        196 "/>
+<SEQUENCE>gggctcattgcggtgtgcgccctgcactctgtccctcactcgccgccgacgacctgtctcgccgagcgcacgccttgccgccgccccgcagaaatgcttcggttacccacagtctttcgccagatgagaccggtgtccagggtactggctcctcatctcactcgggcttatgccaaagatgtaaaatttggtgcagatgcccgagccttaatgcttcaaggtgtagaccttttagccgatgctgtggccgttacaatggggccaaagggaagaacagtggttattgagcagagttggggaagtcccaaagtaacaaaagatggtgtgactgttgcaaagtcaattgacttaaaagataaatacgagaacattggagctaaacttgttcaagatgttgccaataacacaaatgaagaagctggggatggcactaccactgctactgtactggcacgctctatagccaaggaaggcttcgagaagattagcaaaggtgctaatccagtggaaatcaggagaggtgtgatgttagctgttgatgctgtaattgctgaacttaaaaagcagtctaaacctgtgaccacccctgaagaaattgcacaggttgctacgatttctgcaaacggagacaaagaaattggcaatatcatctctgatgcaatgaaaaaagttggaagaaagggtgtcatcacagtaaaggatggaaaaacactgaatgatgaattagaaattattgaaggcatgaagtttgatcgangctatatttctncatactttattaatacatcaaaaggtcagaaatgtgaatttcaagg</SEQUENCE>
+</DDBJXML>

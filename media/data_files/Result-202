@@ -1,0 +1,193 @@
+gc; CLCHANNEL0
+gx; PR01111
+gn; COMPOUND(5)
+ga; 26-APR-1999
+gt; CLC-0 chloride channel signature
+gp; PRINTS; PR00762 CLCHANNEL; PR01112 CLCHANNEL1; PR01113 CLCHANNEL2
+gp; PRINTS; PR01114 CLCHANNEL3; PR01115 CLCHANNEL4; PR01116 CLCHANNEL5
+gp; PRINTS; PR01117 CLCHANNEL6; PR01118 CLCHANNEL7; PR01119 CLCHANNELKDY
+gp; PRINTS; PR01120 CLCHANNELPLT
+gp; INTERPRO; IPR002242
+gp; PRODOM; PD035112; PD036723; PD036730
+bb;
+gr; 1. JENTSCH, T.J. AND GUNTHER, W.
+gr; Chloride channels: an emerging molecular picture.
+gr; BIOESSAYS 19 117-126 (1997).
+gr; 
+gr; 2. JENTSCH, T.J., STEINMEYER, K. AND SCHWARZ, G.
+gr; Primary structure of Torpedo marmorata chloride channel isolated by
+gr; expression cloning in Xenopus oocytes.
+gr; NATURE 348 510-514 (1990).
+gr; 
+gr; 3. SCHMIDT-ROSE, T. AND JENTSCH, T.J.
+gr; Transmembrane topology of a CLC chloride channel.
+gr; PROC.NATL.ACAD.SCI.U.S.A. 94 7633-7638 (1997).
+gr; 
+gr; 4. LEHMANN-HORN, F., MAILANDER, V., HEINE, R. AND GEORGE, A.L.
+gr; Myotonia levior is a chloride channel disorder.
+gr; HUM.MOL.GENET. 4 1397-1402 (1995).
+gr;
+gr; 5. LLOYD, S.E., PEARCE, S.H.S., FISHER, S.E., STEINMEYER, K.,
+gr; SCHWAPPACH, B., SCHEINMAN, S.J., HARDING, B., BOLINO, A., DEVOTO, M.,
+gr; GOODYER, P., RIGDEN, S.P.A., WRONG, O., JENTSCH, T.J., CRAIG, I.W. AND
+gr; THAKKER, R.V.
+gr; A common molecular basis for three inherited kidney stone diseases.
+gr; NATURE 379 445-449 (1996).
+gr;
+gr; 6. MIDDLETON, R.E., PHEASENT, D.J. AND MILLER, C.
+gr; Homodimeric architecture of a ClC-type Cl- channel.
+gr; NATURE 383 337-340 (1996).
+gr;
+gr; 7. LUDEWIG, U., PUSCH, M. AND JENTSCH, T.J.
+gr; Two physically distinct pores in the dimeric ClC-0 chloride channel.
+gr; NATURE 383 340-343 (1996).
+bb;
+bb;
+gd; Chloride channels (CLCs) constitute an evolutionarily well-conserved family
+gd; of voltage-gated channels that are structurally unrelated to the other known
+gd; voltage-gated channels. They are found in organisms ranging from bacteria to
+gd; yeasts and plants, and also to animals. Their functions in higher animals
+gd; likely include the regulation of cell volume, control of electrical 
+gd; excitability and trans-epithelial transport [1].
+gd; 
+gd; The first member of the family (CLC-0) was expression-cloned from the
+gd; electric organ of Torpedo marmorata [2], and subsequently nine CLC-like
+gd; proteins have been cloned from mammals. They are thought to function as
+gd; multimers of two or more identical or homologous subunits, and they have
+gd; varying tissue distributions and functional properties. To date, CLC-0, 
+gd; CLC-1, CLC-2, CLC-4 and CLC-5 have been demonstrated to form functional Cl-
+gd; channels; whether the remaining isoforms do so is either contested or 
+gd; unproven. One possible explanation for the difficulty in expressing 
+gd; activatable Cl- channels is that some of the isoforms may function as Cl- 
+gd; channels of intracellular compartments, rather than of the plasma membrane.
+gd; However, they are all thought to have a similar transmembrane (TM) topology,
+gd; initial hydropathy analysis suggesting 13 hydrophobic stretches long enough
+gd; to form putative TM domains [2]. Recently, the postulated TM topology has
+gd; been revised, and it now seems likely that the CLCs have 10 (or possibly 12)
+gd; TM domains, with both N- and C-termini residing in the cytoplasm [3].
+gd; 
+gd; A number of human disease-causing mutations have been identified in the
+gd; genes encoding CLCs. Mutations in CLCN1, the gene encoding CLC-1, the major
+gd; skeletal muscle Cl- channel, lead to both recessively and dominantly-
+gd; inherited forms of muscle stiffness or myotonia [4]. Similarly, mutations
+gd; in CLCN5, which encodes CLC-5, a renal Cl- channel, lead to several forms 
+gd; of inherited kidney stone disease [5]. These mutations have been
+gd; demonstrated to reduce or abolish CLC function.
+gd; 
+gd; CLC-0 is the principal Cl- channel of the electric organ of the Torpedo
+gd; species. These marine electric rays generate high voltage pulses (to stun
+gd; their prey) by the concerted action of Cl- channels and nicotinic acetyl-
+gd; choline receptors, in specialised cells known as electrocytes. The
+gd; properties of the CLC-0 channel (consisting of 805-809 amino acids) have
+gd; been extensively studied after reconstitution into lipid bilayers. It has
+gd; a peculiar double-barrelled structure, appearing to have two identical ion
+gd; pores that close and open independently, but which can be also closed
+gd; together by another common gate. Further evidence also suggests it may
+gd; function as a homodimer [6,7].
+gd;
+gd; CLCHANNEL0 is a 5-element fingerprint that provides a signature for the 
+gd; CLC-0 voltage-gated Cl- channel. The fingerprint was derived from an initial
+gd; alignment of 2 sequences: the motifs were drawn from conserved regions
+gd; within the N-terminal half of the alignment, focusing on those sections
+gd; that characterise the CLC-0 isoform but distinguish it from others -
+gd; motifs 1-3 reside within the putative cytoplasmic N-terminus; and motifs 4
+gd; and 5 lie within the ninth and tenth, hydrophilic domains, respectively.
+gd; A single iteration on SPTR37_9f was required to reach convergence, no
+gd; further sequences being identified beyond the starting set.
+bb;
+bb;
+si; SUMMARY INFORMATION
+si; -------------------
+sd;    2 codes involving  5 elements
+sd;    0 codes involving  4 elements
+sd;    0 codes involving  3 elements
+sd;    0 codes involving  2 elements
+bb;
+bb;
+ci; COMPOSITE FINGERPRINT INDEX
+ci; ---------------------------
+cr;
+cd;  5|   2    2    2    2    2  
+cd;  4|   0    0    0    0    0  
+cd;  3|   0    0    0    0    0  
+cd;  2|   0    0    0    0    0  
+cd; --+--------------------------
+cd;   |   1    2    3    4    5  
+bb;
+bb;
+tp; CICH_TORCA     CICH_TORMA     
+bb;
+bb;
+tt; CICH_TORCA       CHLORIDE CHANNEL PROTEIN (CLC-0) - TORPEDO CALIFORNICA (PACIFIC ELECTRIC RAY).
+tt; CICH_TORMA       CHLORIDE CHANNEL PROTEIN - TORPEDO MARMORATA (MARBLED ELECTRIC RAY).
+bb;
+bb;
+sh; SCAN HISTORY
+sh; ------------
+dn; SPTR37_9f   1   300 NSINGLE
+bb;
+bb;
+im; INITIAL MOTIF-SETS
+im; ------------------
+ic; CLCHANNEL01
+il; 9
+it; CLC-0 chloride channel motif I - 1
+id; SHEKNEASG                        CICH_TORCA      1     1
+id; SHEKNEASG                        CICH_TORMA      2     2
+bb;
+ic; CLCHANNEL02
+il; 10
+it; CLC-0 chloride channel motif II - 1
+id; PEAQSWKAQE                       CICH_TORCA     11     1
+id; PEAQSWKSQE                       CICH_TORMA     12     1
+bb;
+ic; CLCHANNEL03
+il; 10
+it; CLC-0 chloride channel motif III - 1
+id; AMLGVKTEVS                       CICH_TORCA     21     0
+id; AMLGARTEVS                       CICH_TORMA     22     0
+bb;
+ic; CLCHANNEL04
+il; 11
+it; CLC-0 chloride channel motif IV - 1
+id; AQWFIPHLNIF                      CICH_TORCA    380   349
+id; AQWFIPHLNIF                      CICH_TORMA    381   349
+bb;
+ic; CLCHANNEL05
+il; 13
+it; CLC-0 chloride channel motif V - 1
+id; LLFPDGLVSNGNL                    CICH_TORCA    437    46
+id; LLFPDGLVSNGNL                    CICH_TORMA    438    46
+bb;
+fm; FINAL MOTIF-SETS
+fm; ----------------
+fc; CLCHANNEL01
+fl; 9
+ft; CLC-0 chloride channel motif I - 1
+fd; SHEKNEASG                        CICH_TORCA      1     1
+fd; SHEKNEASG                        CICH_TORMA      2     2
+bb;
+fc; CLCHANNEL02
+fl; 10
+ft; CLC-0 chloride channel motif II - 1
+fd; PEAQSWKAQE                       CICH_TORCA     11     1
+fd; PEAQSWKSQE                       CICH_TORMA     12     1
+bb;
+fc; CLCHANNEL03
+fl; 10
+ft; CLC-0 chloride channel motif  III - 1
+fd; AMLGVKTEVS                       CICH_TORCA     21     0
+fd; AMLGARTEVS                       CICH_TORMA     22     0
+bb;
+fc; CLCHANNEL04
+fl; 11
+ft; CLC-0 chloride channel motif IV - 1
+fd; AQWFIPHLNIF                      CICH_TORCA    380   349
+fd; AQWFIPHLNIF                      CICH_TORMA    381   349
+bb;
+fc; CLCHANNEL05
+fl; 13
+ft; CLC-0 chloride channel motif V - 1
+fd; LLFPDGLVSNGNL                    CICH_TORCA    437    46
+fd; LLFPDGLVSNGNL                    CICH_TORMA    438    46
+bb;

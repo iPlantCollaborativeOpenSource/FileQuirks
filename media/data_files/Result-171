@@ -1,0 +1,96 @@
+LOCUS       MMU89993                1564 bp    DNA     linear   ROD 03-JUN-1997
+DEFINITION  Mus musculus lymphocyte-specific adaptor protein Lnk (Lnk) gene,
+            complete cds.
+ACCESSION   U89993
+VERSION     U89993.1
+KEYWORDS    .
+SOURCE      Mus musculus
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus.
+REFERENCE   1  (bases 1 to 1564)
+  AUTHORS   Takaki,S. and Perlmutter,R.M.
+  TITLE     Characterization of Lnk: a lymphocyte-specific adaptor protein
+            implicated antigen receptor signaling
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1564)
+  AUTHORS   Takaki,S. and Perlmutter,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1997) Immunology, University of Washington, Box
+            357370, Seattle, WA 98195-7370, USA
+FEATURES             Location/Qualifiers
+     source          1..1564
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129SV"
+                     /db_xref="taxon:10090"
+                     /chromosome="5"
+                     /map="no crossover with Nos1 and Tbx3"
+     gene            78..1564
+                     /gene="Lnk"
+     mRNA            join(<78..179,256..347,432..526,606..820,898..1069,
+                     1192..1564)
+                     /gene="Lnk"
+                     /product="lymphocyte specific adaptor protein Lnk"
+     exon            78..179
+                     /gene="Lnk"
+                     /number=2
+     CDS             join(147..179,256..347,432..526,606..820,898..1069,
+                     1192..1514)
+                     /gene="Lnk"
+                     /codon_start=1
+                     /product="lymphocyte specific adaptor protein Lnk"
+                     /protein_id="AAB58581.1"
+                     /db_xref="GI:2149600"
+                     /translation="MPDNLYTFVLKVQDQTDIIFEVGDEQQLNSWLAELRASTGLGLE
+                     HPDTELPLSLAAEPGPARSPRGSTDSLDQGASPGVLLDPACQKTDHFLSCYPWFHGPI
+                     SRVRAAQLVQLQGPDAHGVFLVRQSESRRGEYVLTFNLQGRAKHLRLVLTERGQCRVQ
+                     HLHFPSVVDMLRHFQRSPIPLECGAACDVRLSGYVVVLSQAPGSSNTVLFPFSLPHWD
+                     SELGHPHLSSVGCPPSHGAEALPGQVTPPEQIFHLVPSPEELANSLRQLELESVSSAR
+                     DSDYDMDSSSRGHLRAIDNQYTPLSQLCREADV"
+     exon            256..347
+                     /gene="Lnk"
+                     /number=3
+     exon            432..526
+                     /gene="Lnk"
+                     /number=4
+     exon            606..820
+                     /gene="Lnk"
+                     /number=5
+     exon            898..1069
+                     /gene="Lnk"
+                     /number=6
+     exon            1192..1564
+                     /gene="Lnk"
+                     /number=7
+BASE COUNT          303 a          485 c          412 g          354 t
+ORIGIN      
+        1 tggagaaact acagacaacc tgagaggcct gaagggtggg agcagccttg aatgaccacc
+       61 ctcttgccct ctcctagagc tcaaagccca agctccaaga ggcctgttcc agcatccggg
+      121 aggtccgacc atgtacacgc ctggagatgc ctgacaacct ctacaccttt gtgttgaagg
+      181 tgagtgccaa ggctgtggct ccttgggagc tctgttctct cctcagatgc agagctgcac
+      241 gcctcctttt tgcaggtgca ggaccagaca gacatcatct ttgaggtggg agatgaacag
+      301 cagctgaact catggctggc agagctcagg gcaagcacag gccttgggtg aggattgtcc
+      361 ctgcccactc atccttggtt ccctttgata atccctgctg gttcccttct tacccagctc
+      421 ttcccctaca ggctggagca cccggacacc gagttacctc tttccttagc ggcagagcct
+      481 ggcccagcta gatccccaag gggaagcact gactccctgg accaaggtat gtgccaggtc
+      541 cttggtctct gggtgtcctt ggacatgtgg ccccctgcgg gtcaccacca ccatctttcc
+      601 gccaggtgct tcacctgggg tgttgctgga cccagcctgc cagaaaacag atcacttcct
+      661 atcctgctac ccctggttcc acggccccat ctccagggtg agggctgcac agctggtcca
+      721 gctccagggc cctgatgccc acggcgtgtt cctggtgcgg cagagtgagt cccggagagg
+      781 agagtatgta ctcacattca acttacaggg cagagccaag gtaggggcag gaactggtgg
+      841 accagggtgg ggcaaatgca gcctgggcag caggctgatc tttacccctt tccatagcac
+      901 ttacgcctgg tgctcacaga gcgtggacag tgccgggtgc aacacctgca cttcccctcg
+      961 gtggtagata tgctccgcca cttccagcgt tctcctatcc cactggaatg tggagcagct
+     1021 tgtgacgtcc gactctctgg ctatgtggta gtcctctctc aggcaccagg taggaaccan
+     1081 aaagttgttg nnaagggtgg tgtcaccgca agtacacaca tgnnnaaagc tnnttttctg
+     1141 gngngctttt ttcggtttta agactcatcc acatccatgc catctctcca ggttcctcca
+     1201 acaccgtcct cttccctttt tcccttcctc actgggattc ggagctgggt catccccacc
+     1261 tcagctctgt tggctgtccc cccagccatg gtgcagaggc tctccctggc caagtgacac
+     1321 cacctgagca gatcttccac ctggtgcctt ctcctgagga actggccaac agtctgcggc
+     1381 agctggagct cgagtctgtg agcagtgccc gggactcgga ctatgacatg gactcctctt
+     1441 cacggggcca ccttcgggcc attgacaacc agtacacccc tctctcacag ctgtgcagag
+     1501 aggcagacgt gtgaatggaa ccattttcct cccctccaga gaactatagg ctgctgtcag
+     1561 cctc
+//

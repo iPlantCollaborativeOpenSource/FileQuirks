@@ -1,0 +1,10 @@
+Gene	55344
+Organism	human
+Gene name	PLCXD1
+Chromosome	Y
+Location	132991-160020
+Strand	+
+Transcript1	NM_018390.2
+Translation1	NP_060860.1
+CDS1	join(140855..140981,145400..145536,147315..147443,148166..148321,149702..149885,155764..156002)
+

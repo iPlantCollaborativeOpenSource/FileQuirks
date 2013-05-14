@@ -1,0 +1,95 @@
+CLUSTAL FORMAT for T-COFFEE Version_7.71 [http://www.tcoffee.org] [MODE: regular ], CPU=6.03 sec, SCORE=23, Nseq=5, Len=780 
+
+embl|GO503690|GO503690  --tcgaattccgttgctgtcgagaagga-g---aagac-----cgagacgaa-----cag
+embl|GO504381|GO504381  ---cgaattccgttgctgtcggacgtacc----gggtc-----cgagga-ag-----ccg
+embl|GO505130|GO505130  --tcgaattccgttgctgtcggg-actt-----------------aag-aag-----c--
+embl|GO507592|GO507592  tatcgaattccgttgctgtcgaatctgcatttctactc-----tcttta-atcgaatcgc
+embl|GO508159|GO508159  --tcgaattccgttgctgtcgacgaaaa-cgtgaaagcttcttcgcggcagt-----cac
+                           ******************                                    *  
+
+embl|GO503690|GO503690  agcgcgaatcaagcagagatggcccgtaccaagc-aaa--ctgctcgta--------agt
+embl|GO504381|GO504381  agagccgctcccgctc--accctccgtacgaagaggtaacg-cattttctggaattttct
+embl|GO505130|GO505130  ------------------------------------------------------------
+embl|GO507592|GO507592  at-cccttcgctttcg--aaaacccccaaattcgcaaaccctaattttc--------tct
+embl|GO508159|GO508159  aggctctgtgctgctg--atacctgatacagagagagagagagatggga--------aat
+                                                                                    
+
+embl|GO503690|GO503690  caactggaggaaaggctccc--ag----gaagcagctcgcaa--ccaaggctgcccg--t
+embl|GO504381|GO504381  -agaat-tcgaat---cctcaatttctcgat-tcgtgtgctgcaagtttt-gggaattta
+embl|GO505130|GO505130  ------------------------------------------------------------
+embl|GO507592|GO507592  caccac-cccaatggcgcccaaagctgagaagaagcccgccg--agaaga-agccag-ca
+embl|GO508159|GO508159  ccgaagcaaaaatggacggtggag-gaagaagaagctctgag--agcggg-ggttag-ga
+                                                                                    
+
+embl|GO503690|GO503690  aagtctgcaccaaccactgg-ag-gagtcaagaagccccacagataccgcccgggtaccg
+embl|GO504381|GO504381  gg--gtttac----ga-tctgatttttccggttcgatttt----------------gtct
+embl|GO505130|GO505130  ------------------------------------cccacagataccgcccgggtaccg
+embl|GO507592|GO507592  ga-ggagaag----aagtcggctgtcgctgagaaggcccc----------------cgcc
+embl|GO508159|GO508159  aacacggcactggcaagtggaaggacatccagaaggaccccgagttcaacccctttctct
+                                                                                  * 
+
+embl|GO503690|GO503690  ttgctcttcgt--gaaa-tccgtaagt-accagaagagtactg-agctgtt-g---at-c
+embl|GO504381|GO504381  ctgcagatggt--taagg-acgcgattgtgactttgaaggaaaggactggtt-cg-agcc
+embl|GO505130|GO505130  ttgctcttcgt--gaaa-tccgtaagt-accagaagagtactg-agctgtt-g---at-c
+embl|GO507592|GO507592  gagaagaagcc--caagg-ccgggaagaagctcccgaagga---ggctggagccgccgcc
+embl|GO508159|GO508159  cttctcgctccaatattgatctcaagg-acaaatggaggaatatgactgtt-agt-ag-c
+                                      *     *   *          **         ***          *
+
+embl|GO503690|GO503690  agg-aagctgcc----attcc---agaggcttgttcgtgaaatt-----gcccaggactt
+embl|GO504381|GO504381  agt-acgcgatcactaagttcatcgaggagaagcacaagcagctgc----cgcccaactt
+embl|GO505130|GO505130  agg-aagctgcc----attcc---agaggcttgttcgtgaaatt-----gcccaggactt
+embl|GO507592|GO507592  ggcgacaagaagaagaaga-gatcgaagaagagcgtggagacctacaagatctacatctt
+embl|GO508159|GO508159  acg-gggcctcgggaaaaatc---aaggcccaaagcaagaacaa-----acccagatgtt
+                                        *          *            *                 **
+
+embl|GO503690|GO503690  caagactgatc------tgcgttt-ccagagccatgcagtgctggcactgcagga---g-
+embl|GO504381|GO504381  caagaagcttctgctcttccattt-gaagaag-ctt---gtgagttctgataagatcgtt
+embl|GO505130|GO505130  caagactgatc------tgcgttt-ccagagccatgcagtgctggcactgcagga---g-
+embl|GO507592|GO507592  caaggtcctgaagcaggtccaccc---tgac--atc---ggaatctccagcaaggccatg
+embl|GO508159|GO508159  gctgttgcttcagta--tccgttccccagac--ttcttctgctgctccagtcaga---cg
+                           *             * *        **    *                  *      
+
+embl|GO503690|GO503690  ----------gctgctg-aggct---tacctg-gtgggtctgtttga-ggacaccaac--
+embl|GO504381|GO504381  aagatcaaaaactcctacaagatc-ccgcctgtgaggtcctcggcgc-cga--ag----c
+embl|GO505130|GO505130  ----------gctgctg-aggct---tacctg-gtgggtctgtttga-ggacaccaac--
+embl|GO507592|GO507592  ggaatcatgaacagcttcatcaacgacatcttcgagaagctcgccca-ggagtcgt---c
+embl|GO508159|GO508159  cgattcaccagcagcagcagcaa---cccctg-ctagacgtgattcaccagcggcagccc
+                                   *  *   *          **         *                   
+
+embl|GO503690|GO503690  -ctttgcgct---------atccatgccaagcgggttaccatcatgccgaa---ggatat
+embl|GO504381|GO504381  c---------tgcttctccgg-tg-aagaagaagccggccgctaagcccaag---gcaaa
+embl|GO505130|GO505130  -ctttgcgct---------atccatgccaagcgggttaccatcatgccgaa---ggatat
+embl|GO507592|GO507592  c---------aggctcgccaggtacaacaagaagcccaccatcacttctcgg---gagat
+embl|GO508159|GO508159  cagtcggacttgattcaccagcggc-agccccagtcggacatgattcaccagcagaagct
+                                                         *     *   *                
+
+embl|GO503690|GO503690  tcagcttgccaggagg-atcaggggtg--agcgtgccta-a-gcaacccgcctgcctt-g
+embl|GO504381|GO504381  agctcctgctgcgaagcctaag-ggagggaaaaagccagctgccaaagctccggccaagc
+embl|GO505130|GO505130  tcagcttgccaggagg-atcaggggtg--agcgtgccta-a-gcaacccgcctgcctt-g
+embl|GO507592|GO507592  ccagactgctgtgag-att----ggtg-----cttcc---tggt-gagctc--gccaagc
+embl|GO508159|GO508159  ccagtcaggcgcgatgcaccagcggca---ac-t-cca--t-tcaa-acgcgagccat-c
+                               *    **         **          **           * *  ***    
+
+embl|GO503690|GO503690  caat-ggagcg-gggttaattgtggggtggctgcagacgggattgaagac------tg--
+embl|GO504381|GO504381  caaaggctgctgccgccaagcct----------aaggcgaaaccgaaggcaaagcccgca
+embl|GO505130|GO505130  caat-ggagcg-gggttaattgtggggtggctgcagacgggattgaagac------tg--
+embl|GO507592|GO507592  -atgcg--g----tgt-----------------ccgaggggac-------taaggcggtg
+embl|GO508159|GO508159  aaca-gaaactccagt-----------------cagacgcgatacaactc-----cag--
+                         *   *        *                    *  *  *               *  
+
+embl|GO503690|GO503690  -atatgtataatgcttttg----------cgga--cagaaggtggtg---------tttt
+embl|GO504381|GO504381  gctaagccaaaa-------gctgctgctccgaagcccaaagcggctg---------ctcc
+embl|GO505130|GO505130  -atatgtataatgcttttg----------cgga--cagaaggtggtg---------tttt
+embl|GO507592|GO507592  accaagttta---------ccagctctt--gaagtgt--ggtgggttcagggtcttttag
+embl|GO508159|GO508159  -ttgcggatgattcctcgactggcttatctgat--gcaatac--ctg---------ctcc
+                             *                        *              *           *  
+
+embl|GO503690|GO503690  t---ttgtgataggatgatat------------aggag-ggttaggggt---tgg--gga
+embl|GO504381|GO504381  ggttaagt----ctaagcct-gccaagc-ctaaacccgccgccaagcctaaacc-cgcgg
+embl|GO505130|GO505130  t---ttgtgataggatgatat------------aggag--gttagg-gt---tgg--gga
+embl|GO507592|GO507592  ggtt---t----ggaagatt-g--gatc--tttatg--tgtttagtgttta--g-ggttt
+embl|GO508159|GO508159  agt-gtgcaatgcaatgattttcgaagcacttgctgcctcgacagatccaaatggattgg
+                                      * *                          *                
+
+
+

@@ -24,11 +24,11 @@ DATABASE_ENGINE = 'mysql'
 
 DATABASE_NAME = 'TypesDB'
 
-DATABASE_USER = ''
-DATABASE_PASSWORD = ''
-DATABASE_HOST = ''             # Set to empty string for localhost. Not used with sqlite3.
-DATABASE_PORT = ''             # Set to empty string for default. Not used with sqlite3.
-DATABASE_OPTIONS = {"init_command": "SET storage_engine=INNODB"} 
+DATABASE_USER = 'app'
+DATABASE_PASSWORD = 'w00tums'
+DATABASE_HOST = '127.0.0.1'    # Set to empty string for localhost. Not used with sqlite3.
+DATABASE_PORT = '3306'         # Set to empty string for default. Not used with sqlite3.
+DATABASE_OPTIONS = {"init_command": "SET storage_engine=INNODB"}
 
 # Local time zone for this installation. Choices can be found here:
 # http://www.postgresql.org/docs/8.1/static/datetime-keywords.html#DATETIME-TIMEZONE-SET-TABLE

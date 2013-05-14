@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB127951</LOCUS>
+<LENGTH>618</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PLN</DIVISION>
+<LAST_UPDATE>30-JAN-2009</LAST_UPDATE>
+
+<DEFINITION>Typhula ishikariensis genes for ITS1, 5.8S ribosomal RNA, ITS2,28S large subunit ribosomal RNA, partial and complete sequence,isolate: YS3-3.</DEFINITION>
+<ACCESSION>AB127951</ACCESSION>
+<VERSION>AB127951.1</VERSION>
+<KEYWORDS>.</KEYWORDS>
+
+<SOURCE>Typhula ishikariensis</SOURCE>
+<ORGANISM>Typhula ishikariensis</ORGANISM>
+<TAXONOMY>Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;Agaricomycetes; Thelephorales; Typhulaceae; Typhula.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Hoshino,T., Fujiwara,M. and Yumoto,I.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (03-DEC-2003) to the DDBJ/EMBL/GenBank databases.Contact:Tamotsu HoshinoNational Institute of Advanced Industrial Science and Technology(AIST), Institute for Biological Resources and Functions;2-17-2-1, Tsukisamu-higashi, Toyohira-ku, Sapporo, Hokkaido062-8517, JapanURL    :http://www.aist.go.jp/index_j.html</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Hoshino,T., Tkachenko,O.B., Fujiwara,M., Yumoto,I. and Matsumoto,N.</authors>
+     <title>ITS sequences of super VCG of Typhula ishikariensis</title>
+     <journal>Published Only in Database(2004)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..618</location>
+     <qualifiers name="country">Russia: Sakhalin, Yuzhno-Sakhalinsk</qualifiers>
+     <qualifiers name="db_xref">taxon:69361</qualifiers>
+     <qualifiers name="host">Poa annua L.</qualifiers>
+     <qualifiers name="isolate">YS3-3</qualifiers>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="note">Biological species I: dikaryon</qualifiers>
+     <qualifiers name="organism">Typhula ishikariensis</qualifiers>
+</source>
+<misc_rna>
+     <location>&lt;1..156</location>
+     <qualifiers name="product">internal transcribed spacer 1</qualifiers>
+</misc_rna>
+<rrna>
+     <location>157..432</location>
+     <qualifiers name="product">5.8S ribosomal RNA</qualifiers>
+</rrna>
+<misc_rna>
+     <location>433..561</location>
+     <qualifiers name="product">internal transcribed spacer 2</qualifiers>
+</misc_rna>
+<rrna>
+     <location>562..&gt;618</location>
+     <qualifiers name="product">28S large subunit ribosomal RNA</qualifiers>
+</rrna>
+</FEATURES>
+
+<BASE_COUNT A="        171 " C="        120 " G="        128 " T="        199 "/>
+<SEQUENCE>ttggtttctctttttatagctttccaaagagagggtaagacgttaaaagaacgatctttgccttataacatacccttcttttaaaaatgtttatgaacgtcaaaaaaaatgtaggctcgccttaaaaacgtgtagctgaaattataaaattatacaacttttaacaacggatctcttggctctcgcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcaccttgcgctccctggtattccggggagcatgcctgtttgagtgtcattaaattctcaacttcgaatcgtttgtttacagactttacgaggcttggactttggagtgtgccggtctctaacgagatcgactcctctttaaatgcattagctggaacctcttgtggaccagactacggtgtgataattatctacgctgttggtcttgtgaagcactttattgttacgaggttctgcttctaatcgtcctttactgcgacaatgagggttttattcttaattgaattggcctttgacattttgacctcaaatcaggtaggactacccgctgaacttaagcatatcaataagcggagga</SEQUENCE>
+</DDBJXML>

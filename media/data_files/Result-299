@@ -1,0 +1,6 @@
+all all
+   GO:0003674 molecular_function
+      GO:0003824 catalytic activity
+         GO:0016853 isomerase activity
+            GO:0016872 intramolecular lyase activity
+               GO:0009905 ent-copalyl diphosphate synthase activity

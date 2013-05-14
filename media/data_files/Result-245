@@ -1,0 +1,445 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= gi|81868287|sp|Q9ERC1.1|MYO16_RAT RecName: Full=Myosin-XVI;
+AltName: Full=Unconventional myosin-16; AltName: Full=Myosin heavy
+chain myr 8
+         (1912 letters)
+
+Database: SWISS: SWISS sequence taken from the header [Last update
+May/16/2009] 
+           428,650 sequences; 154,417,242 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+sp|Q9ERC1|MYO16_RAT RecName: Full=Myosin-XVI; AltName: Full=Unco...  3472   0.0  
+sp|Q5DU14|MYO16_MOUSE RecName: Full=Myosin-XVI; AltName: Full=Un...  2892   0.0  
+sp|Q9Y6X6|MYO16_HUMAN RecName: Full=Myosin-XVI; AltName: Full=Un...  2317   0.0  
+sp|Q1EG27|MYO3B_MOUSE RecName: Full=Myosin-IIIB;          EC=2.7...   426   e-118
+sp|Q8WXR4|MYO3B_HUMAN RecName: Full=Myosin-IIIB;          EC=2.7...   418   e-115
+sp|Q8NEV4|MYO3A_HUMAN RecName: Full=Myosin IIIA;          EC=2.7...   404   e-111
+sp|Q8K3H5|MYO3A_MOUSE RecName: Full=Myosin IIIA;          EC=2.7...   398   e-109
+sp|P34092|MYOB_DICDI RecName: Full=Myosin IB heavy chain;             338   2e-91
+sp|Q9QZZ4|MYO15_MOUSE RecName: Full=Myosin-XV; AltName: Full=Unc...   336   8e-91
+sp|Q9UKN7|MYO15_HUMAN RecName: Full=Myosin-XV; AltName: Full=Unc...   333   8e-90
+sp|Q12965|MYO1E_HUMAN RecName: Full=Myosin-Ie; AltName: Full=Myo...   331   2e-89
+sp|P79114|MYO10_BOVIN RecName: Full=Myosin-X; AltName: Full=Unco...   330   4e-89
+sp|Q9HD67|MYO10_HUMAN RecName: Full=Myosin-X; AltName: Full=Unco...   328   3e-88
+sp|P08799|MYS2_DICDI RecName: Full=Myosin-2 heavy chain; AltName...   327   6e-88
+sp|Q63356|MYO1E_RAT RecName: Full=Myosin-Ie; AltName: Full=Myosi...   326   8e-88
+sp|P19706|MYSB_ACACA RecName: Full=Myosin heavy chain IB; AltNam...   322   1e-86
+sp|Q876G9|MYO2_SACBA RecName: Full=Myosin-2; AltName: Full=Class...   322   1e-86
+sp|Q875Q8|MYO2_SACKL RecName: Full=Myosin-2; AltName: Full=Class...   320   4e-86
+sp|Q9U1M8|MYOI_DICDI RecName: Full=Myosin-I heavy chain; AltName...   320   6e-86
+sp|P19524|MYO2_YEAST RecName: Full=Myosin-2; AltName: Full=Class...   319   9e-86
+sp|Q6PIF6|MYO7B_HUMAN RecName: Full=Myosin-VIIb;                      319   1e-85
+sp|Q622K8|HUM6_CAEBR RecName: Full=Unconventional myosin heavy c...   319   1e-85
+sp|P91443|HUM6_CAEEL RecName: Full=Unconventional myosin heavy c...   319   1e-85
+sp|P32492|MYO4_YEAST RecName: Full=Myosin-4; AltName: Full=SWI5-...   318   2e-85
+sp|Q13402|MYO7A_HUMAN RecName: Full=Myosin-VIIa;                      316   8e-85
+sp|O94832|MYO1D_HUMAN RecName: Full=Myosin-Id;                        316   1e-84
+sp|Q63357|MYO1D_RAT RecName: Full=Myosin-Id; AltName: Full=Myosi...   315   3e-84
+sp|Q17R14|MYO1D_BOVIN RecName: Full=Myosin-Id;                        313   5e-84
+sp|Q5SYD0|MYO1D_MOUSE RecName: Full=Myosin-Id;                        312   2e-83
+sp|Q17LW0|MYO7A_AEDAE RecName: Full=Myosin-VIIa; AltName: Full=P...   311   3e-83
+sp|Q99MZ6|MYO7B_MOUSE RecName: Full=Myosin-VIIb;                      310   4e-83
+sp|Q875X3|MYO2A_SACCA RecName: Full=Myosin-2A; AltName: Full=Cla...   310   6e-83
+sp|P08964|MYO1_YEAST RecName: Full=Myosin-1; AltName: Full=Type ...   308   2e-82
+sp|P97479|MYO7A_MOUSE RecName: Full=Myosin-VIIa;                      307   4e-82
+sp|P70248|MYO1F_MOUSE RecName: Full=Myosin-If;                        307   5e-82
+sp|A8N2Y6|MYO1_COPC7 RecName: Full=Myosin-1; AltName: Full=Class...   307   6e-82
+sp|Q27966|MYO1C_BOVIN RecName: Full=Myosin-Ic; AltName: Full=Myo...   304   3e-81
+sp|O00159|MYO1C_HUMAN RecName: Full=Myosin-Ic; AltName: Full=Myo...   304   4e-81
+sp|Q9USI6|MYO2_SCHPO RecName: Full=Myosin type-2 heavy chain 1; ...   303   1e-80
+sp|P05659|MYSN_ACACA RecName: Full=Myosin-2 heavy chain, non mus...   302   1e-80
+sp|P35748|MYH11_RABIT RecName: Full=Myosin-11; AltName: Full=Myo...   301   3e-80
+sp|P10587|MYH11_CHICK RecName: Full=Myosin-11; AltName: Full=Myo...   301   3e-80
+sp|O08638|MYH11_MOUSE RecName: Full=Myosin-11; AltName: Full=Myo...   301   4e-80
+sp|Q9D6A1|MYO1H_MOUSE RecName: Full=Myosin-Ih;                        300   5e-80
+sp|Q9WTI7|MYO1C_MOUSE RecName: Full=Myosin-Ic; AltName: Full=Myo...   299   2e-79
+sp|Q23979|MY61F_DROME RecName: Full=Myosin-IB;          Short=MI...   298   2e-79
+sp|Q875X4|MYO2B_SACCA RecName: Full=Myosin-2B; AltName: Full=Cla...   298   2e-79
+sp|Q23978|MY31D_DROME RecName: Full=Myosin-IA;          Short=MI...   298   2e-79
+sp|P42522|MYOC_DICDI RecName: Full=Myosin IC heavy chain;             298   2e-79
+sp|Q9V3Z6|MYO7A_DROME RecName: Full=Myosin-VIIa;          Short=...   298   2e-79
+sp|Q9JLT0|MYH10_RAT RecName: Full=Myosin-10; AltName: Full=Myosi...   298   3e-79
+sp|P35749|MYH11_HUMAN RecName: Full=Myosin-11; AltName: Full=Myo...   298   3e-79
+sp|P35579|MYH9_HUMAN RecName: Full=Myosin-9; AltName: Full=Myosi...   297   4e-79
+sp|Q9Z1N3|MYO9A_RAT RecName: Full=Myosin-IXa; AltName: Full=Unco...   297   5e-79
+sp|B2RTY4|MYO9A_HUMAN RecName: Full=Myosin-IXa; AltName: Full=Un...   297   6e-79
+sp|Q8VDD5|MYH9_MOUSE RecName: Full=Myosin-9; AltName: Full=Myosi...   296   7e-79
+sp|Q05096|MYO1B_RAT RecName: Full=Myosin-Ib; AltName: Full=Myosi...   296   9e-79
+sp|P35580|MYH10_HUMAN RecName: Full=Myosin-10; AltName: Full=Myo...   296   1e-78
+sp|Q29P71|MYO7A_DROPS RecName: Full=Myosin-VIIa; AltName: Full=P...   296   1e-78
+sp|Q27991|MYH10_BOVIN RecName: Full=Myosin-10; AltName: Full=Myo...   296   1e-78
+sp|Q61879|MYH10_MOUSE RecName: Full=Myosin-10; AltName: Full=Myo...   296   1e-78
+sp|Q8C170|MYO9A_MOUSE RecName: Full=Myosin-IXa; AltName: Full=Un...   296   1e-78
+sp|Q62812|MYH9_RAT RecName: Full=Myosin-9; AltName: Full=Myosin ...   296   1e-78
+sp|P22467|MYOA_DICDI RecName: Full=Myosin IA heavy chain; AltNam...   295   2e-78
+sp|Q9NQX4|MYO5C_HUMAN RecName: Full=Myosin-Vc;                        295   2e-78
+sp|Q258K2|MYH9_CANFA RecName: Full=Myosin-9; AltName: Full=Myosi...   294   3e-78
+sp|Q99104|MYO5A_MOUSE RecName: Full=Myosin-Va; AltName: Full=Dil...   294   3e-78
+sp|O43795|MYO1B_HUMAN RecName: Full=Myosin-Ib; AltName: Full=Myo...   294   4e-78
+sp|Q6C7C0|MYO1_YARLI RecName: Full=Myosin-1; AltName: Full=Class...   294   4e-78
+sp|P14105|MYH9_CHICK RecName: Full=Myosin-9; AltName: Full=Myosi...   294   5e-78
+sp|Q9QYF3|MYO5A_RAT RecName: Full=Myosin-Va; AltName: Full=Dilut...   293   1e-77
+sp|Q9Y4I1|MYO5A_HUMAN RecName: Full=Myosin-Va; AltName: Full=Dil...   291   2e-77
+sp|P10569|MYSC_ACACA RecName: Full=Myosin IC heavy chain;             291   3e-77
+sp|A5DKH0|MYO1_PICGU RecName: Full=Myosin-1; AltName: Full=Class...   290   7e-77
+sp|Q5SUA5|MYO1G_MOUSE RecName: Full=Myosin-Ig;                        289   1e-76
+sp|O00160|MYO1F_HUMAN RecName: Full=Myosin-If; AltName: Full=Myo...   289   1e-76
+sp|Q9ULV0|MYO5B_HUMAN RecName: Full=Myosin-Vb;                        289   2e-76
+sp|Q02440|MYO5A_CHICK RecName: Full=Myosin-Va; AltName: Full=Dil...   288   2e-76
+sp|Q0CEX5|MYO1_ASPTN RecName: Full=Myosin-1; AltName: Full=Class...   288   2e-76
+sp|P47808|MYSH_ACACA RecName: Full=High molecular weight form of...   288   3e-76
+sp|P46735|MYO1B_MOUSE RecName: Full=Myosin-Ib; AltName: Full=Myo...   286   9e-76
+sp|Q7Z406|MYH14_HUMAN RecName: Full=Myosin-14; AltName: Full=Myo...   286   1e-75
+sp|A2AQP0|MYH7B_MOUSE RecName: Full=Myosin-7B; AltName: Full=Myo...   285   2e-75
+sp|A2R5J1|MYO1_ASPNC RecName: Full=Myosin-1; AltName: Full=Class...   285   3e-75
+sp|A7E2Y1|MYH7B_HUMAN RecName: Full=Myosin-7B; AltName: Full=Myo...   285   3e-75
+sp|P70569|MYO5B_RAT RecName: Full=Myosin-Vb; AltName: Full=Myosi...   284   4e-75
+sp|Q5ZMC2|MYO1G_CHICK RecName: Full=Myosin-Ig;                        284   5e-75
+sp|A5E4A8|MYO1_LODEL RecName: Full=Myosin-1; AltName: Full=Class...   282   1e-74
+sp|Q7SDM3|MYO1_NEUCR RecName: Full=Myosin-1; AltName: Full=Class...   281   3e-74
+sp|P12844|MYO3_CAEEL RecName: Full=Myosin-3; AltName: Full=Myosi...   280   7e-74
+sp|P11055|MYH3_HUMAN RecName: Full=Myosin-3; AltName: Full=Myosi...   280   8e-74
+sp|P21271|MYO5B_MOUSE RecName: Full=Myosin-Vb;                        280   1e-73
+sp|B0I1T2|MYO1G_HUMAN RecName: Full=Myosin-Ig; Contains:   RecNa...   279   1e-73
+sp|P54695|MYOF_DICDI RecName: Full=Myosin IF heavy chain;             279   1e-73
+sp|Q9Y2K3|MYH15_HUMAN RecName: Full=Myosin-15; AltName: Full=Myo...   278   2e-73
+sp|Q60LV4|MYO3_CAEBR RecName: Full=Myosin-3; AltName: Full=Myosi...   278   2e-73
+sp|Q9QY06|MYO9B_MOUSE RecName: Full=Myosin-IXb; AltName: Full=Un...   277   4e-73
+sp|Q63358|MYO9B_RAT RecName: Full=Myosin-IXb; AltName: Full=Unco...   277   6e-73
+sp|P05661|MYSA_DROME RecName: Full=Myosin heavy chain, muscle;        276   9e-73
+sp|A3LYL7|MYO1_PICST RecName: Full=Myosin-1; AltName: Full=Class...   276   1e-72
+
+1_0    1    MEIDQCLLESLPLGQRQRLVRRMRCEQIKAYYEREKVFQKQEGLLKRIKPGKSQKVRFGL 60
+198078 1    ............................................................ 60
+198077 1    ....................K......................P...S....R....... 60
+198076 1    ....................K...............A......F...L.HA.NP..H.N. 60
+
+1_0    61   ADMIQDAIIHHHDKEVLQLLKEGADPHTLVSSGGSLLHLCARYDNVFIAEVLIDRGVNVN 120
+198078 61   ............................................................ 120
+198077 61   .......V.................................................... 120
+198076 61   T..L.......N.....R...........................A....I......... 120
+
+1_0    121  HQDEDFWAPMHIACACDNPDXXXXXXXXXXXXXXQDVNGNIPLDYAVEGTESSAILLAYL 180
+198078 121  ....................IVLLLILAGANVLL.......................... 180
+198077 121  .......T............IVLLLILAGANVFL.......................... 180
+198076 121  .......T............IVLLLVLAGANVLL...................S...T.. 180
+
+1_0    181  DENGVDLNSLRQIKLQRPLSMLTDVRHFLSSGGDVNEKNDDGVTLLHMACASGYKEVVLL 240
+198078 181  ............................................................ 240
+198077 181  ..K....S.................................................... 240
+198076 181  .......T....M.....M......K.......N......E.................S. 240
+
+1_0    241  LLEHGGDLNGMDDGYWTPLHLAAKYGQTTLVKLLLAHQANPHLVNCNGEKPSDIAASESI 300
+198078 241  ............................................................ 300
+198077 241  ..........T..R.............................................. 300
+198076 241  I........IV..Q..............N......M...........E..A.......F. 300
+
+1_0    301  EEMLLKAEIAWEERMKESPSVPSLAQEELYEEILHDL------------PELSSKLS-PL 347
+198078 301  .....................................------------........-.. 347
+198077 301  .............K......A..........-.....------------.D......-.. 346
+198076 301  .............K...PL.AST.....P....I...------------.V......-.. 347
+198144 248                       .K.R.P..WSAEFN.FISKCLTKDYEKR.TV.DL.KHKF 286
+
+1_0    348  VLPIAKQDSLLEKDIM-FKDTTKGLCNQE--------SQDGPPETSMVSSSSKPEQVQLT 398
+198078 348  ................-............--------....................... 398
+198077 347  ................-.........K..--------..........T.NCG......VM 397
+198076 348  ................-...A.....K.Q--------...SI..NP.M.G.T.....K.M 398
+198144 287  ITQ.EGK.VI.Q.QL.E.I.IHQC.GST.KARHERIHTKK.NLNR.LI..LKD------- 339
+
+1_0    399  PPAPSDDLATLSELNDSSLLYEIQKRFGNDQIHTFIGDIFLLVNPFKELPIYSTVVSQMY 458
+198078 399  ............................................................ 458
+198077 398  ......................................................M..... 457
+198076 399  ....N...........G............N..Y......L.....Y.......SM...L. 458
+198146 334       ...VN.EV.DEDTII.WL...YADAL.Y.YV...LIAL...QN.S...PQF.RL. 388
+198145 346       ...VN.EV.DEDTIIHQL...YADLL.Y.YV...LIAL...QN.S...PQF.RL. 400
+198143 341       ......EI.DENTVSEQLE.CYSR...YVYV...LIAL...QS.GL...KH.KL. 395
+198144 340  ----V......DV.DEPTASPHLHPCHSR....IHVA..LIAL...QS.G...PKL.RL. 395
+198192 11       T...VM.PKVSEDEICENLK..YM..F.Y.N..PVLIS....RN.NNSGPDFIEA. 66
+198075 1209      E.MTQ.ED.QETTV.ANLKT..ERNL.Y.Y..S.LVS...YRMFA..GPEQV.Q. 1263
+198074 1225      E.MTQ.ED.QETTV.SNLKI..ERNL.Y.Y..S.LVS...YQMFG..GPEQV.Q. 1279
+
+1_0    459  LSPTGQRSPSLPPHLFSCAERAFHRLFQERRPQNIILSGERGSGKTQASKQIMKHLTSRA 518
+198078 459  ............................................................ 518
+198077 458  ..............................K.......................Y..... 517
+198076 459  F.SS.KLCS.........V.....Q..R.Q...CF..........SE.....IR...C.. 518
+198146 389  ---H.VKRS.N...I.AS.DN.YQC.VTFSKD.C.VI...S.....ESAHL.VQ...FLG 445
+198145 401  ---H.VKRA.N...I.AS.DA.YQCMVTLSKD.C.VI...S.....ESAHL.VQ...FLG 457
+198143 396  I---.SKRTAS...I.AM.DLGYQSMITYNSD.C.VI...S.A...ENAHLLVQQ..VLG 452
+198144 396  I---.AKRTAN...I.AM.DLGYQSMVTYNAD.C.VI...S.A...ESAHLLVQQ..VLG 452
+198192 67   ---R.KHAQEV...VYQL..S.YRAMKNDQEN.CV.I...S.A...E.A.L..GYVSAIS 123
+198075 1264 ---S.RALGEN.....AI.NL..AKMLDAKQN.CV.I...S.....E.T.L.LRC.AAMN 1320
+198074 1280 ---N.RALGEN.....AV.NL..AKMLDAKQN.C..I...S.....E.T.L.LRY.AAMN 1336
+
+1_0    519  SSSCTMFDSRFKHAIC----ILEAFGHAKTTLNNVSSCLIQYWELQFCQRRKHVTGARIS 574
+198078 519  ................----........................................ 574
+198077 518  ..........LR...Y----.V........................C......I...... 573
+198076 519  GA.RATL......VV.----.............DL...F.K.F.....E.KQQL.....Y 574
+198146 446  KADNQTLRQKILQVNS----LV....N.R.AI.DN..RFGK.L.MM.TPTGA-.M..... 500
+198145 458  KANNQTLREKILQVNS----LV....NSC.AI.DN..RFGK.L.MM.TPTGV-.M..... 512
+198143 453  KANNRTLQEKILQVNN----LV....N.C.II.DN..RFGK.L.MK.TSS-GA.V..Q.. 507
+198144 453  KANNRTLQEKILQMNN----LV....N.C.II.DN..RFGK.L.MK.TSSGA-.V..Q.. 507
+198192 124  G.TEKV--EYV..V.LESNPL.....N...LR..N..RFGK.F.I..DKAGDP.-.GK.Y 180
+198075 1321 QRRDV.QQIKILE.TP----L.....N...VR.DN..RFGKFV.I-.LE-GGVIC..IT. 1374
+198074 1337 QKREV.QQIKILE.TP----L..S..N...VR.DN..RFGKFV.I-.LE-GGVIS..IT. 1390
+
+1_0    575  TYMLEKPRLVAQPPGQGSFLIFSWLMDGLSAEEKCG-LH-LS-NFCAHRYV---SQ---G 625
+198078 575  ....................................-..-..-........---..---. 625
+198077 574  ......S.V........T............S.....-..-.N-........---..---. 624
+198076 575  ..L...S...S..L..SN....YL..........Y.-..-.N-.L.....L---N.---T 625
+198146 501  E.L...S.VIQ.AA.EKN.H..YYIYA..YHQK.LAEFR-.P-EEKPP..IAGETE---R 555
+198145 513  E.L...S.VIK.AAREKN.H..YYIYA..HHQK.LSDFR-.P-EEKPP..I---ADETGR 567
+198143 508  E.L...S.VIH.AI.EKN.H..YYIYA..AEKK.LA-HYK.P-ENKPP..L---QN---D 559
+198144 508  E.L...S.VIH.AM.EKN.H..YYIYG..AEKK.LA-.Y-K.PEHKPP..LQ--ND---N 560
+198192 181  N.L...S.V.Y.N..ERN.H..YQ.LA.A..Q..RD-YV-..-SPESYY.L---N.---S 231
+198075 1375 Q.L...S.I.F.AKNERNYH..YE.LA..P.QLRQA-FS-.Q-EAETYY.L---N.---. 1425
+198074 1391 Q.L...S.I.F.AKNERNYH..YE.LA..P.QLRQA-FS-.Q-EAETYY.L---N.---. 1441
+
+1_0    626  -MREDVSTAERSLNKERLADLKHALNVIGFSALEVENLFAILSAILHIGDIQFTAL-T-- 681
+198078 626  -.......................................................-.-- 681
+198077 625  -.........H........A...........T.......V................-.-- 680
+198076 626  -IQD.A..G.....R.K..V..R....V...S.......V..A....L...R....-N-- 681
+198146 556  -VMQ.ITSK.SY--RTQFEAIQ.CFKI...ADK..HSVYR..AG..N..S.E.A.I-SSQ 611
+198145 568  -VMH.ITSK.SY--RRQFEAIQ.CFRI...TDK..HSVYR..AG..N..N.E.A.I-SSQ 623
+198143 560  HL.TVQDIMNN.FY.SQYELIEQCFK....TMEQLGSIYS..A...NV.N.E.SSV-ATE 618
+198144 561  -L.TVQDMMNN.FY.SQYELIEQCFK....TMEQLASVYSV.A...NV.N.E.SSV-ATE 618
+198192 232  -Q---CY.VDGINDVSDY.EVRQ.MDT..LT.Q.QSDIIR.VACV....N.Y.IED-D-- 284
+198075 1426 -GNCEIAGKSDADDFR..LA---.ME.L..TSEDQDSI.R..AS...L.NVY.EK--H-- 1477
+198074 1442 -GNCEIAGKSDADDFR..LA---.ME.L...SEDQDSI.R..AS...L.NVY.EKYE.-- 1495
+
+1_0    682  -EA-DS---AFVSDLQLLEQVADMLQVSTDELASALTTDI--QYFKGDVIIRRHTTQI-- 732
+198078 682  -..-..---...............................--................-- 732
+198077 681  -..-..---.............G.................--.............I.M-- 731
+198076 682  -.G-N.---.............G.................--......M......I..-- 732
+198146 612  HQT-.K---SE.PNPEA..NA.CV.CI.SE..QE...SHC--VVTR.ET.V.AN.VDR-- 663
+198145 624  HQT-.K---SE.PNAEA.QNA.SV.CI.PE..QE...SHC--VVTR.ET...AN.VDR-- 675
+198143 619  HQI-.K---SHI.NHTA..NC.SL.CIRA...QE...SHC--VVTR.ET...PN.VEK-- 670
+198144 619  YQM-.K---SYICNHTA..NC.SL.CIQA...QE...SHC--VVTR.ET...PN.VEK-- 670
+198192 285  -KG-NA---.-IY.PNA..LA.S..CIDSAT.QN.ILFRVINTGGA.GAGN..S.YNVPQ 338
+198075 1478 -.T-.AQEV.S.VSAREIQA..EL....PEG.QK.I.FKV--TETIREK.FTPL.VES-- 1531
+198074 1496 -D.QEV---.S.VSAREIQA..EL..I.PEG.QK.I.FKV--TETMREK.FTPL.VES-- 1547
+
+1_0    733  ----AAFYRDLLAKSLYSRLFGFLINTVNCCLQSQDE-YKSLQ-T-LDIGILDIFGFEEF 785
+198078 733  ----.................................-.....-.-.............. 785
+198077 732  ----.............................N...-.....-.-.............. 784
+198076 733  ----.E.F.............S..V..M.S..H....-Q..M.-.-.............. 785
+198146 664  ----.EDV..AMS.A..G...SWIV.RI.TL..PDKN-IC.AEDR-MNV.........D. 717
+198145 676  ----..DV..AMS.A..G...SWIV.RI.TL..PDEN-IC.AG-GGMNV.........N. 729
+198143 671  ----.TDV..AM..T..G...SWIV.CI.SL.KHDSSPSGNGD-E-.S..........N. 724
+198144 671  ----..DV..AM..T..G...SCIV.CI.SL.KHDTS-PSGDE-E-.N..........N. 723
+198192 339  NVEQ.NGT..A..RTI.D.M.SW.VER..---..LSY-...PY-Q-NV..........I. 392
+198075 1532 ----.VDA..AI..V..AL...W..TR..ALVSPKQD-------.-.S.A....Y...DL 1579
+198074 1548 ----.VDA..AI..V..AL..SW..TR..ALVSPRQD-------.-.S.A....Y...DL 1595
+
+1_0    786  QKNEFEQLCVNLTNEKMHHYIQEVLFLQEQTECVQEGVAMETACSPGNQAGVLDFFFQK- 844
+198078 786  ...........................................................- 844
+198077 785  ...........................................................- 843
+198076 786  ...........M.........N.....H..V.......T....Y.....N.........- 844
+198146 718  .R.S.....I.IA..QIQY.FNQHV.AL..M.YKN...DAVLVQYED.RP-L..M.L..- 775
+198145 730  .R.S.....I.IA..QIQY.FNQHV.AL..M.YQN..IDAVPVEYED.RP-L..M.L..- 787
+198143 725  K..S.....I.IA..QIQY.YNQHV.AW..N.YLN.D.DARVIEYED.WP-L..M.L..- 782
+198144 724  KR.S.....I.IA..QIQY.FNQHV.AW..N.YLN.D.DARVIEYED.RP-L..M.L..- 781
+198192 393  E..G...F.I.FV...LQQFFI.LTLKA..E.Y.R..IKW.PIKYFN..I-.C.LIEG.S 451
+198075 1580 SF.S.....I.YA..NLQYLFNKIV.QE..E.YIR.QMDWREIAFAD..P-CINLISL.- 1637
+198074 1596 SF.S.....I.YA..NLQYLFNKIV.QE..E.YIR.QIDWQEITFAD..PRI-NLISL.- 1653
+
+1_0    845  PSGFFSLLDEESQAIWSVEPNLPRKLQGLLESSNTNAVYSPMKDGNGNVAFKGQGAAFTV 904
+198078 845  ............................................................ 904
+198077 844  .............V...G.......................V.................. 903
+198076 845  ....LT.......M.....S.F.K...S......................L.DH.T...I 904
+198146 776  .L.LLA......RFPQGTDQT.VD.FEDN.R---CKFFWR.----------..VELC.GI 822
+198145 788  .L.LLA......RFPQATDQT.VD.FEDN.R---CKYFWR.----------..VELC.GI 834
+198143 783  .M.LL.......RFPKATDQT.VE.FE.N.K.Q---YFWR.----------.RMELS.GI 829
+198144 782  .M.LL.......RFPKATDQT.IE.FEDN.K.Q---YFWR.----------.RMELS.GI 828
+198192 452  .P.I.....DICSTLHAQSTGTDQ.---F..K--MAGI.------D.HLHWR.MTG..AI 500
+198075 1638 .Y.ILRI..DQCCFPQATDHTF---..KCHYHHGA.PL..---------KP.MPLPE..I 1685
+198074 1654 .Y.ILRI..DQCCFPQATDHTF---..KCHYHHGA.PL..---------KP.MPLPE..I 1701
+
+1_0    905  MHYAGRVTYEIRGAVERNKDSLSQNLLFVMKTSENVVISHLFQSKLSPTGSLISSYPSFK 964
+198078 905  ............................................................ 964
+198077 904  .......M..MG...................................Q............ 963
+198076 905  .......M.DVV..I.K.....................N........Q....V.A..... 964
+198146 823  Q....P.L.DAS.VL.K.R.T.PADVVV.LR....KLLQQ..SIP.TK..N.AQTRAKIT 882
+198145 835  Q....K.L.DAS.VL.K.R.T.PADVVV.LR....KLLQQ..SIP.TK..N.AQTRARIT 894
+198143 830  H....K.L.NAS.FLAK.R.T.PTDIVLLLRS.D.S..RQ.VNHP.TK..N.----.HS. 885
+198144 829  H....K.L.SAS.FLAK.R.TFPTDIVLPLRS...S..RQ.VNHP.TK..N.----.LS. 884
+198192 501  K....E....AE.FSDK...T.FFD.IEAIQC.KMPFLAS..NED---....QKKR.T-- 555
+198075 1686 K....K...QVHKFLDK.H.QVR.DV.DLFVH.RTR.VA...S.---------------- 1729
+198074 1702 K....K...QVHKFLDK.H.QVR.DV.DLFVR.RTR.VA...S.---------------- 1745
+
+1_0    965  FGGHKSSLLSKRI-ASSMVGVNKNYLELSKLLKKKGTCTFLQR-LERGDPATTASQLTKS 1022
+198078 965  .............-.............................-................ 1022
+198077 964  ......T.....T-.......................S.....-....E...A....... 1021
+198076 965  .R....A....KMT...II.E................S.....-......V.I....R.. 1023
+198146 883  --------A.S.S-LPPHFSAGRAKVDTLEVIRHPEET.NMK.-------Q.M..YFRY. 926
+198145 895  VA---..S.PPHF-SAGKAK.DT--..---VIRHPEET.NMK.-------Q.V..YFRY. 938
+198143 886  ---------T.NV-INYQMRTSEKLIN.A.--GDT.EA.RHA.ETTNMKTQ.V..YFRY. 933
+198144 885  ---------T.N.-VNYQMWNSEKSTN.T.GETRDV..HACE--TTNVKTQ.VS.YFRY. 932
+198192 556  ------------------------------------.AG.KIK--------.S.GE.M.A 571
+198075 1730 ---.AAQTAPP.L----------------------.KSSSIT.-.YKAH--.V.AKFQQ. 1761
+198074 1746 ---.APQAAPQ.L-GK.S--------SVTR.Y.AH----------------.V.AKFQQ. 1777
+
+1_0    1023 LADITAKLQKGSPHFILCVKPNTSQLPGVFDHFYVSAQLQYLGVLGLVRLFRYGYPVRPS 1082
+198078 1023 ............................................................ 1082
+198077 1022 .........R........I.................................S....... 1081
+198076 1024 .M..IG....CT....H.IR..N.K..DT..N.........I...EM.KI........L. 1083
+198146 927  .M.LLS.MVV.Q....R.I...DDRKALQ.SQDR.L...RST.I.ET.SIR.Q..SH.IF 986
+198145 939  .M.LLS.MVV.Q...VR.I...DDREALQ.SRER.L...RST.I.ET.SIR.Q..SH.IL 998
+198143 934  .M.LLS.MVV.Q...VR.I...SERQARKY.KEK.LL..R.T.I.ETA.IR.L.FSH.IL 993
+198144 933  .M.LLS.MVV.Q...VR.I...NERQARKY.KEK.LL..RCT.I.ETA.IR.L..SH.IL 992
+198192 572  .SQC.-------..Y.R.I...ETKKAKDWENSR.KH.V....L.EN..VR.A.FAY.NT 624
+198075 1762 .L.LVE.MERCN.L.VR.L...HKKE..L.EPDVMM...R.S...ET..IRKE.F...LP 1821
+198074 1778 .L.LVE.MERCN.L.MR.L...HKKE..L.EPDV.M...R.S...ET..IRKE.F...LP 1837
+
+1_0    1083 FEDFLSRYEPLASV---LLGEKKGQPA-E-ERCRLVLQR-CKLQG--WQMGVHKVFLKYW 1134
+198078 1083 ..............---..........-.-.........-.....--............. 1134
+198077 1082 ..............---....T...A.-.-.........-.....--..I.......... 1133
+198076 1084 .S......K...DT---F.R...E.S.-A-........Q-.....--.....R....... 1135
+198146 987  ..E.VK..YY..------FRAHQTP..NK-.S.VAI.EK-SR.DH--.VL.KT......Y 1036
+198145 999  ..E.VK..YY..-----FTAHQTPLAS-K-.S.VAI.EK-SR.DH--.VL.KT......Y 1048
+198143 994  .AN.IK..YL.CYK---SSE.PRMS.----DT.ATI.EK-AG.DN--.AL.KT......Y 1043
+198144 993  .AN.IK..YI.CYK---SSE.PPVS.----DT.AAI.EK-AG.DN--.AL.KT......Y 1042
+198192 625  .DKV.K..KK.S.KTWGIW..W..D-.-I-.G.KTIF.D-MN.EAGQ..L.KT...IRHP 680
+198075 1822 .QV.ID..R----C---.VAL.LNV..-DGDM.VSL.S.L.TVTPDMYRV.IS.L...-- 1871
+198074 1838 .QG.ID..----CC---.VAL.HDL..-NGDM.VS..S.L..VMPNMYRV..S.L...-- 1887
+
+1_0    1135 QVDQLGDL-----------------WLQMQRK----------I-----VTC----QKVIR 1158
+198078 1135 ........-----------------.......----------.-----...----..... 1158
+198077 1134 H....S..-----------------...L...----------.-----...----..... 1157
+198076 1136 HA...N..-----------------C..L...----------.-----I..----..... 1159
+198146 1037 H.E..NL.LREVMGRVVMLQAYTKG..GAR.YKRAKEKREKGA-----I.I----.SAW. 1087
+198145 1049 H.E..NL.-----------------LREVIGR----------V-----.VL----.AYTK 1072
+198143 1044 H.E..NLM-----------------RKEAID.----------L-----ILI----.ACV. 1067
+198144 1043 H.E..NLM-----------------RKEATN.----------L-----.LI----.ASV. 1066
+198192 681  ETVF.--.-----------------EEALDK.----------D-----FD.TAKI..AF. 706
+198075 1872 --EH.HQ.-----------------LES.RER----------VQNRAAL.L----.RYL. 1898
+198074 1888 --EH.YQ.-----------------LES.REH----------VLNLAAL.L----.RCL. 1914
+
+1_0    1159 GFL-ARQHL--L-QRMSIKQQEVTSIKSFL--QSTEDM--ALKTYDALVIQNASDIAREH 1210
+198078 1159 ...-.....--.-.................--......--.................... 1210
+198077 1158 ...-.....--.-.................--......--.................... 1209
+198076 1160 ...-.....--.-..I..R.......N...--.N....--G..................N 1211
+198146 1088 .YD-..RK.--K-..SRRRSESEAH.HTV.--.T.P.                        1118
+198145 1073 .W.-GARRY--N-KVREKREKGAIA.Q.------------.WRG...              1103
+198143 1068 A..-CSRR---Y-.KIQE.RK.SAI.                                   1088
+198144 1067 A..G..RY                                                     1074
+198192 707  NWK-.KK.S--.E..AQ.                                           721
+198075 1899 ..F-IQR.FRS.-R.KI.LL.--SRARG..AR.RYQQ.RQS.LKFRS..HTYVNR--.RY 1952
+198074 1915 ..F-IKRRF------R.LRHKII-----L.--..--------RARGY.AR.RYQQMR.SL 1952
+
+1_0    1211 DRLRKEVHAAYH------RNRQEEGTKRAEDQGGCRH-AHSNSVPVPMAVDSLAQALAGP 1263
+198078 1211 ............------...................-...................... 1263
+198077 1210 ........T...------...................-V.........V........T.. 1262
+198076 1212 ....S.MN.P..KEKLEV..M....S..TD.KS.P..-F.PS.MS.CA...G.G.C.V.. 1270
+198075 1953 LK..A.-----Q------.R.AQ.AWL.EQEELSK.EVVPVRHLE..AE.AG.L..A..  2000
+198074 1953 VKF.SL...YVS------.R.                                        1967
+
+1_0    1264 SSRSPSLHSVFSMDDSTGLXXXXXXXXXXXXXXXXXXLSASYEAVSACLSATKDAASEAL 1323
+198078 1264 ...................PSPRKQPPPKPKRDPNTR....................... 1323
+198077 1263 .T.P...............PSPRKQPPPKPKRDPNTR..............A....G... 1322
+198076 1271 .IW.............SS.PSPRKQPPPKPKRDPNTR..............ARE..N... 1330
+
+1_0    1324 TRPRPHSDDYSTMXXXXXXXXXXXXHTKLSGSYEEIWG-PRPSGTMGQVGKHH-----AP 1377
+198078 1324 .............KKIPPRKPKRSP.............-..............-----.. 1377
+198077 1323 .............KKIPPRKPKRSP.............P.........G.R.Q-----.. 1377
+198076 1331 A............KKIPPRKPKRSPN..........S.-S..GDARPAGAPGAAARVLT. 1389
+
+1_0    1378 GTLGVQWASPDSMPQCTXXXXXXXXXXXGDYDDDGEPVYIEMVGNAARAGGSETDSPDQG 1437
+198078 1378 .................PQLPLHLPLPQ................................ 1437
+198077 1378 ...S....R...V....PQLPLHLPLPQ......A......................... 1437
+198076 1390 ..--P.C.L.PAA.-------------P..-E..S.......L.H...P-----....P. 1428
+
+1_0    1438 ESVYEEMKYVLPEEGCGPGMLTFL--PASPPLFLETRKAIILEAGEGSCQPLKDTCDIXX 1495
+198078 1438 ........................--................................PP 1495
+198077 1438 .........I.......L......--..................A..N...S......PP 1495
+198076 1429 ........CC..DD.-...AGS..LHG.....LHRAPE-------DEAAG.PG.A...PP 1480
+
+1_0    1496 XXXXXXXXXXXXXXXXXXXVTCSPASDESPLTPLEVKKLPVLETNLKYPVQSEGSSPLSP 1555
+198078 1496 PFPNLLPHRPPLLVFPPTP......................................... 1555
+198077 1496 PFPNLLPHRPPLLVFPPTP..R...................................... 1555
+198076 1481 PFPNLLPHRPPLLVFPPTP................................P........ 1540
+
+1_0    1556 QYSKAQKGENDQLTSPGFPVFNGPSRISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 1615
+198078 1556 ............................PPATPPPPPGPPPAPCGPPSAPCGPPPAPCGP 1615
+198077 1556 ........D....A..............                                 1583
+198076 1541 ....S...DG.RPA...LAL...SG.A.                                 1568
+
+1_0    1616 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXTHFAFPPDSVLVTAAKALTNSDLPRTQPKPS 1675
+198078 1616 PPVPCGPPPAPCGPPPAPCGAAPAPCRPP............................... 1675
+198077 1652                              .......E....................... 1682
+198076 1592                               .L....EPAP.N.G..GPSAEA.KVH...N 1621
+
+1_0    1676 SAPVLGPCSPFVKAPYSPGRTARADLRKAXXXXXXXXXXXXXXXXXXXXXLDELASLFNS 1735
+198078 1676 .............................SSTFSPPSPYSPPNSRPLSSP.......... 1735
+198077 1683 ....P....S.........K........TSSTFSPPSPYSPPNSRPLSSP.......... 1742
+198076 1622 ....A....S.P.I....VKAT...A...GSSASPPAPYSPPSSRPLSSP.......... 1681
+
+1_0    1736 GRSVLRRSAVGRRIREAEGFETNMNLSSRDEPSSSEMASETQDRNANNHGTQXXXXXXXX 1795
+198078 1736 ....................................................LSSSLSSV 1795
+198077 1743 ....................................................LSSSLSSD 1802
+198076 1682 ......K..A..K............I....D..T..IT............I.LSNSLSSA 1741
+
+1_0    1796 XXXENGNPVTNGLAEDDGCSRLCLSGMGTSSFQRHRESHTTQVIHQLRLSENESVALQEL 1855
+198078 1796 VAA......................................................... 1855
+198077 1803 VTA...............................N......................... 1862
+198076 1742 ITA....SIS...P.E..Y...SI..T...T.....D....................... 1801
+
+1_0    1856 LDWRRKLCESREGWQEAMQHXXXXXXXXXXXXXXXXXXXXEGGSCTRLSSQLWDSSI 1912
+198078 1856 ....................PEPRAPPPPPCKKPTLLKKP................. 1912
+198077 1863 .........A.......L..PEPRAPPPPPCKKPTLLKKP........P.......M 1919
+198076 1802 .........EGQD..QILH.AEPRVPPPPPCKKPSLLKKP..A..N..P.E...TT. 1858
+  Database: SWISS: SWISS sequence taken from the header [Last update
+  May/16/2009]
+    Posted date:  May 16, 2009  5:30 AM
+  Number of letters in database: 154,417,242
+  Number of sequences in database:  428,650
+  
+Lambda     K      H
+   0.317    0.132    0.387 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 428650
+Number of Hits to DB: 513,583,902
+Number of extensions: 20724443
+Number of successful extensions: 65750
+Number of sequences better than 10.0: 1062
+Number of HSP's gapped: 62399
+Number of HSP's successfully gapped: 2841
+Length of query: 1912
+Length of database: 154,417,242
+Length adjustment: 131
+Effective length of query: 1781
+Effective length of database: 98,264,092
+Effective search space: 175008347852
+Effective search space used: 175008347852
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.6 bits)
+S2: 77 (34.3 bits)

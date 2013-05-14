@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DDBJXML SYSTEM "DDBJXML.dtd">
+<DDBJXML>
+<LOCUS>AB023501</LOCUS>
+<LENGTH>1194</LENGTH>
+<MOLECULAR_FORM>linear</MOLECULAR_FORM>
+<DIVISION>PLN</DIVISION>
+<LAST_UPDATE>28-APR-2001</LAST_UPDATE>
+
+<DEFINITION>Asplenium nidus chloroplast gene for ribulose 1,5-bisphosphatecarboxylase/oxygenase large subunit, partial cds.</DEFINITION>
+<ACCESSION>AB023501</ACCESSION>
+<VERSION>AB023501.1</VERSION>
+<KEYWORDS>ribulose-bisphosphate carboxylase.</KEYWORDS>
+
+<SOURCE>Asplenium nidus chloroplast</SOURCE>
+<ORGANISM>Asplenium nidus</ORGANISM>
+<TAXONOMY>Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;Filicophyta; Filicopsida; Filicales; Aspleniaceae; Asplenium.</TAXONOMY>
+
+<REFERENCE ID="1">
+     <authors>Murakami,N.</authors>
+     <title>Direct Submission</title>
+     <journal>Submitted (09-FEB-1999) to the DDBJ/EMBL/GenBank databases.Contact:Noriaki MurakamiGraduate School of Science, Kyoto University, Department ofBotany; Kitashirakawa-Oiwake-cho, Sakyo-ku, Kyoto, Kyoto 606-8502,Japan</journal>
+</REFERENCE>
+<REFERENCE ID="2">
+     <authors>Murakami,N., Yatabe,Y., Iwasaki,H., Darnaedi,D. and Iwatsuki,K.</authors>
+     <title>Molecular alpha-Taxonomy of Morphologically Simple Ferns of theAsplenium nidus L. Complex from Mt. Halimun National Park,Indonesia</title>
+     <journal>Unpublished (1999)</journal>
+</REFERENCE>
+
+<FEATURES>
+<source>
+     <location>1..1194</location>
+     <qualifiers name="mol_type">genomic DNA</qualifiers>
+     <qualifiers name="organelle">plastid:chloroplast</qualifiers>
+     <qualifiers name="organism">Asplenium nidus</qualifiers>
+</source>
+<cds>
+     <location>&lt;1..&gt;1194</location>
+     <qualifiers name="codon_start">1</qualifiers>
+     <qualifiers name="gene">rbcL</qualifiers>
+     <qualifiers name="product">ribulose 1,5-bisphosphate carboxylase/oxygenaselarge subunit</qualifiers>
+     <qualifiers name="protein_id">BAA82830.1</qualifiers>
+     <qualifiers name="transl_table">11</qualifiers>
+     <qualifiers name="translation">PEYKTKDTDILAAFRMTPQPGVPAEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYDIEPVAGEENQYIAYVAYPLDLFEEGSVTNMLTSIVGNVFGFKALRALRLEDLRIPPAYSKTFNGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRFLFVAEALFKSQSETGEIKGHYLNATAGTCEEMMKRAVFARELGAPIVMHDYLTGGFTANTSLAHYCRDNGLLLHIHRAMHAVIDRQRNHGMHFRVLAKALRMSGGDHIHAGTVVGKLEGEREVTLGFVDLLRDDYIEKDRARGIYFTQDWVSMPGVIPVASGGIHVWHMPALTEIFGDDAVLQFGGGTLGHPWGNAPGAVANRVAL</qualifiers>
+</cds>
+</FEATURES>
+
+<BASE_COUNT A="        327 " C="        256 " G="        297 " T="        314 "/>
+<SEQUENCE>cccgaatacaagaccaaagataccgatatcttagcagctttccggatgaccccacaacctggagtaccagctgaagaagccggagctgcagtagctgcggagtcctctacaggtacgtggaccactgtgtggacagacggtttgaccagtcttgaccgttacaagggccgatgctacgatattgagcccgttgctggagaggaaaatcagtatatcgcgtacgtagcttatccattggacctttttgaagaaggttcagtcaccaacatgttaacttcaattgtaggtaacgtttttggatttaaagctctacgtgccctacggttggaagaccttcgaatcccccccgcttactctaaaactttcaacggaccgccacatggtattcaggttgaaagggataagttaaacaaatacggacgccccttattgggatgtacaatcaagccaaaattaggtctatctgccaaaaattacggtagagccgtttatgaatgccttcgtggtggacttgattttacaaaagatgacgaaaacgtaaattcccaaccattcatgcgctggagagatcgtttcttatttgttgcagaagctcttttcaaatcccagtctgaaacaggcgaaattaaggggcattacttaaacgctactgcaggtacatgtgaagaaatgatgaaaagagctgtttttgcgagagaattgggcgcaccaattgtcatgcatgactacctgactggagggtttactgcaaatactagtttagctcactattgcagagataatgggttgcttcttcatattcatcgcgcgatgcatgctgtaattgatagacaacgaaatcacggtatgcattttcgtgtattggccaaggcattgcgcatgtccggcggggatcacatacacgctggaactgtagtaggtaaactagaaggagaaagggaagtcactttgggttttgtcgatttacttcgcgacgattatatcgagaaagatcgtgcacgtggtatttatttcactcaagattgggtatctatgccgggtgtaatcccagtagcttcggggggtatccacgtatggcacatgccagctctaaccgaaatctttggggacgatgctgtcttacagttcggtggaggaaccttagggcatccctggggaaatgcacccggtgcggtagccaaccgagtcgcatta</SEQUENCE>
+</DDBJXML>

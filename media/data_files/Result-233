@@ -1,0 +1,959 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= query
+         (280 letters)
+
+Database: SWISS: SWISS sequence taken from the header [Last update
+May/16/2009] 
+           428,650 sequences; 154,417,242 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+sp|A2APV2|FMNL2_MOUSE RecName: Full=Formin-like protein 2; AltNa...   285   2e-76
+sp|Q96PY5|FMNL2_HUMAN RecName: Full=Formin-like protein 2; AltNa...   285   2e-76
+sp|Q8IVF7|FMNL3_HUMAN RecName: Full=Formin-like protein 3; AltNa...   278   2e-74
+sp|Q6ZPF4|FMNL3_MOUSE RecName: Full=Formin-like protein 3;            278   3e-74
+sp|O95466|FMNL_HUMAN RecName: Full=Formin-like protein 1; AltNam...   274   5e-73
+sp|Q9JL26|FMNL_MOUSE RecName: Full=Formin-like protein 1; AltNam...   270   8e-72
+sp|Q8BPM0|DAAM1_MOUSE RecName: Full=Disheveled-associated activa...   105   2e-22
+sp|Q9Y4D1|DAAM1_HUMAN RecName: Full=Disheveled-associated activa...   105   2e-22
+sp|Q80U19|DAAM2_MOUSE RecName: Full=Disheveled-associated activa...    96   2e-19
+sp|Q86T65|DAAM2_HUMAN RecName: Full=Disheveled-associated activa...    95   4e-19
+sp|O70566|DIAP2_MOUSE RecName: Full=Protein diaphanous homolog 2...    84   1e-15
+sp|Q5TJ56|FORF_DICDI RecName: Full=Formin-F; AltName: Full=Diaph...    83   2e-15
+sp|O60879|DIAP2_HUMAN RecName: Full=Protein diaphanous homolog 2...    83   2e-15
+sp|Q9Z207|DIAP3_MOUSE RecName: Full=Protein diaphanous homolog 3...    82   3e-15
+sp|Q0GNC1|INF2_MOUSE RecName: Full=Inverted formin-2;                  81   6e-15
+sp|Q27J81|INF2_HUMAN RecName: Full=Inverted formin-2; AltName: F...    80   2e-14
+sp|Q9NSV4|DIAP3_HUMAN RecName: Full=Protein diaphanous homolog 3...    77   2e-13
+sp|O08808|DIAP1_MOUSE RecName: Full=Protein diaphanous homolog 1...    75   5e-13
+sp|O60610|DIAP1_HUMAN RecName: Full=Protein diaphanous homolog 1...    75   6e-13
+sp|Q5TJ55|FORD_DICDI RecName: Full=Formin-D; AltName: Full=Diaph...    74   1e-12
+sp|P78621|SEPA_EMENI RecName: Full=Cytokinesis protein sepA; Alt...    74   1e-12
+sp|Q54N00|FORH_DICDI RecName: Full=Formin-H; AltName: Full=Diaph...    74   1e-12
+sp|Q5TJ57|FORE_DICDI RecName: Full=Formin-E; AltName: Full=Diaph...    71   8e-12
+sp|Q0IHV1|INF2_XENTR RecName: Full=Inverted formin-2;                  64   9e-10
+sp|P48608|DIA_DROME RecName: Full=Protein diaphanous;                  63   2e-09
+sp|Q6NTV6|INF2_XENLA RecName: Full=Inverted formin-2;                  62   3e-09
+sp|Q54WH2|FORA_DICDI RecName: Full=Formin-A;                           59   2e-08
+sp|Q54SP2|FORB_DICDI RecName: Full=Formin-B;                           52   3e-06
+sp|Q86UP8|GTD2A_HUMAN RecName: Full=General transcription factor...    37   0.15 
+sp|Q55DM7|PKS2_DICDI RecName: Full=Probable polyketide synthase ...    35   0.34 
+sp|Q9FJK6|CCC11_ARATH RecName: Full=Cyclin-C1-1;          Short=...    35   0.42 
+sp|Q00722|PLCB2_HUMAN RecName: Full=1-phosphatidylinositol-4,5-b...    35   0.44 
+sp|Q6EKJ0|GTD2B_HUMAN RecName: Full=General transcription factor...    34   0.75 
+sp|A0M8T5|CTTB2_FELCA RecName: Full=Cortactin-binding protein 2;...    33   1.9  
+sp|Q8N5R6|CCD33_HUMAN RecName: Full=Coiled-coil domain-containin...    33   2.2  
+sp|Q6FU75|LIC4_CANGA RecName: Full=Protein ATC1/LIC4;                  33   2.5  
+sp|Q99KW3|TARA_MOUSE RecName: Full=TRIO and F-actin-binding prot...    32   3.1  
+sp|Q04004|PLP1_YEAST RecName: Full=Phosducin-like protein 1;           32   3.8  
+sp|Q2QLA2|CTTB2_HORSE RecName: Full=Cortactin-binding protein 2;...    32   5.5  
+sp|Q07E28|CTTB2_NEONE RecName: Full=Cortactin-binding protein 2;...    32   6.2  
+sp|Q2IBB2|CTTB2_RHIFE RecName: Full=Cortactin-binding protein 2;...    31   7.5  
+sp|Q3UHD3|K0774_MOUSE RecName: Full=Uncharacterized protein KIAA...    31   7.7  
+
+>sp|A2APV2|FMNL2_MOUSE RecName: Full=Formin-like protein 2; AltName:
+           Full=Protein Man;
+          Length = 1086
+
+ Score =  285 bits (730), Expect = 2e-76,   Method: Compositional matrix adjust.
+ Identities = 134/185 (72%), Positives = 163/185 (88%), Gaps = 1/185 (0%)
+
+Query: 35  DDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG 94
+           DD+HV IMCLRAIMN +YGFNMV+ H  A+N IALSL +K+ RTKALVLELLAA+CLV+G
+Sbjct: 219 DDVHVCIMCLRAIMNYQYGFNMVMSHPHAVNEIALSLNNKNPRTKALVLELLAAVCLVRG 278
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+           GHEIIL +FDNFK+VC EK+RF+ LME+F N E  NIDFMVA MQF+NIVVHSVEDMN+R
+Sbjct: 279 GHEIILSAFDNFKEVCGEKQRFEKLMEHFRN-EDNNIDFMVASMQFINIVVHSVEDMNFR 337
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQE 214
+           VHLQYEFT LGLD+YL++++ TES++L+VQI AYLDNVFDV AL+ED+ETK +ALERV+E
+Sbjct: 338 VHLQYEFTKLGLDEYLDKLKHTESDKLQVQIQAYLDNVFDVGALLEDAETKNAALERVEE 397
+
+Query: 215 LEDQL 219
+           LE+ +
+Sbjct: 398 LEENI 402
+
+
+>sp|Q96PY5|FMNL2_HUMAN RecName: Full=Formin-like protein 2; AltName:
+           Full=Formin homology 2 domain-containing protein 2;
+          Length = 1087
+
+ Score =  285 bits (729), Expect = 2e-76,   Method: Compositional matrix adjust.
+ Identities = 134/185 (72%), Positives = 163/185 (88%), Gaps = 1/185 (0%)
+
+Query: 35  DDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG 94
+           DD+HV IMCLRAIMN +YGFNMV+ H  A+N IALSL +K+ RTKALVLELLAA+CLV+G
+Sbjct: 219 DDVHVCIMCLRAIMNYQYGFNMVMSHPHAVNEIALSLNNKNPRTKALVLELLAAVCLVRG 278
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+           GHEIIL +FDNFK+VC EK+RF+ LME+F N E  NIDFMVA MQF+NIVVHSVEDMN+R
+Sbjct: 279 GHEIILSAFDNFKEVCGEKQRFEKLMEHFRN-EDNNIDFMVASMQFINIVVHSVEDMNFR 337
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQE 214
+           VHLQYEFT LGLD+YL++++ TES++L+VQI AYLDNVFDV AL+ED+ETK +ALERV+E
+Sbjct: 338 VHLQYEFTKLGLDEYLDKLKHTESDKLQVQIQAYLDNVFDVGALLEDAETKNAALERVEE 397
+
+Query: 215 LEDQL 219
+           LE+ +
+Sbjct: 398 LEENI 402
+
+
+>sp|Q8IVF7|FMNL3_HUMAN RecName: Full=Formin-like protein 3; AltName:
+           Full=Formin homology 2 domain-containing protein 3;
+           AltName: Full=WW domain-binding protein 3;        
+           Short=WBP-3;
+          Length = 1028
+
+ Score =  278 bits (711), Expect = 2e-74,   Method: Compositional matrix adjust.
+ Identities = 138/248 (55%), Positives = 184/248 (74%), Gaps = 5/248 (2%)
+
+Query: 35  DDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG 94
+           DD+HV I+CLRAIMN +YGFN+V+ H  A+N IALSL +K+ RTKALVLELLAA+CLV+G
+Sbjct: 222 DDVHVCILCLRAIMNYQYGFNLVMSHPHAVNEIALSLNNKNPRTKALVLELLAAVCLVRG 281
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+           GHEIIL +FDNFK+VC+E  RF+ LMEYF N E  NIDFMVACMQF+NIVVHSVEDMN+R
+Sbjct: 282 GHEIILAAFDNFKEVCKELHRFEKLMEYFRN-EDSNIDFMVACMQFINIVVHSVEDMNFR 340
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQE 214
+           VHLQYEFT LGL+++L++ R TESE+L+VQI AYLDNVFDV  L+ED+ETK  ALE+V+E
+Sbjct: 341 VHLQYEFTKLGLEEFLQKSRHTESEKLQVQIQAYLDNVFDVGGLLEDAETKNVALEKVEE 400
+
+Query: 215 LEDQL----EREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQH 270
+           LE+ +    E+ +D  +E + + A               +    +    ++  ++R+++ 
+Sbjct: 401 LEEHVSHLTEKLLDLENENMMRVAELEKQLLQREKELESIKETYENTSHQVHTLRRLIKE 460
+
+Query: 271 NEQELKKR 278
+            E+  ++R
+Sbjct: 461 KEEAFQRR 468
+
+
+>sp|Q6ZPF4|FMNL3_MOUSE RecName: Full=Formin-like protein 3;
+          Length = 1028
+
+ Score =  278 bits (711), Expect = 3e-74,   Method: Compositional matrix adjust.
+ Identities = 138/248 (55%), Positives = 184/248 (74%), Gaps = 5/248 (2%)
+
+Query: 35  DDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG 94
+           DD+HV I+CLRAIMN +YGFN+V+ H  A+N IALSL +K+ RTKALVLELLAA+CLV+G
+Sbjct: 222 DDVHVCILCLRAIMNYQYGFNLVMSHPHAVNEIALSLNNKNPRTKALVLELLAAVCLVRG 281
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+           GHEIIL +FDNFK+VC+E  RF+ LMEYF N E  NIDFMVACMQF+NIVVHSVEDMN+R
+Sbjct: 282 GHEIILAAFDNFKEVCKELHRFEKLMEYFRN-EDSNIDFMVACMQFINIVVHSVEDMNFR 340
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQE 214
+           VHLQYEFT LGL+++L++ R TESE+L+VQI AYLDNVFDV  L+ED+ETK  ALE+V+E
+Sbjct: 341 VHLQYEFTKLGLEEFLQKSRHTESEKLQVQIQAYLDNVFDVGGLLEDAETKNVALEKVEE 400
+
+Query: 215 LEDQL----EREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQH 270
+           LE+ +    E+ +D  +E + + A               +    +    ++  ++R+++ 
+Sbjct: 401 LEEHVSHLTEKLLDLENENMMRVAELEKQLLQREKELESIKETYENTSNQVHTLRRLIKE 460
+
+Query: 271 NEQELKKR 278
+            E+  ++R
+Sbjct: 461 KEEAFQRR 468
+
+
+>sp|O95466|FMNL_HUMAN RecName: Full=Formin-like protein 1; AltName:
+           Full=Leukocyte formin; AltName: Full=CLL-associated
+           antigen KW-13;
+          Length = 1100
+
+ Score =  274 bits (700), Expect = 5e-73,   Method: Compositional matrix adjust.
+ Identities = 141/237 (59%), Positives = 177/237 (74%), Gaps = 18/237 (7%)
+
+Query: 15  SPSLKRRSRHIA-KLNMG------------AATDDIHVSIMCLRAIMNNKYGFNMVIQHR 61
+            PS   +SRH+  KL               +  DD+HV IMCLRAIMN + GF++V+ H 
+Sbjct: 192 PPSSVPKSRHLTIKLTPAHSRKALRNSRIVSQKDDVHVCIMCLRAIMNYQSGFSLVMNHP 251
+
+Query: 62  EAINCIALSLIHKSLRTKALVLELLAAICLVKGGHEIILGSFDNFKDVCQEKRRFQTLME 121
+             +N IALSL +K+ RTKALVLELLAA+CLV+GGH+IIL +FDNFK+VC E+ RF+ LME
+Sbjct: 252 ACVNEIALSLNNKNPRTKALVLELLAAVCLVRGGHDIILAAFDNFKEVCGEQHRFEKLME 311
+
+Query: 122 YFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYEFTALGLDKYLERIRLTESEEL 181
+           YF N E  NIDFMVACMQF+NIVVHSVE+MN+RV LQYEFT LGLD YLER+RLTES++L
+Sbjct: 312 YFRN-EDSNIDFMVACMQFINIVVHSVENMNFRVFLQYEFTHLGLDLYLERLRLTESDKL 370
+
+Query: 182 KVQISAYLDNVFDVAALMEDSETKTSALERVQELEDQL----EREIDRNSEFLYKYA 234
+           +VQI AYLDN+FDV AL+ED+ETK + LE ++EL++Q+    ER  D  +E + K A
+Sbjct: 371 QVQIQAYLDNIFDVGALLEDTETKNAVLEHMEELQEQVALLTERLRDAENESMAKIA 427
+
+
+>sp|Q9JL26|FMNL_MOUSE RecName: Full=Formin-like protein 1; AltName:
+           Full=Formin-related protein;
+          Length = 1094
+
+ Score =  270 bits (690), Expect = 8e-72,   Method: Compositional matrix adjust.
+ Identities = 127/185 (68%), Positives = 158/185 (85%), Gaps = 1/185 (0%)
+
+Query: 35  DDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG 94
+           DD+HV IMCLRAIMN + GF++V+ H   +N IALSL +KS RTKALVLELLAA+CLV+G
+Sbjct: 224 DDVHVCIMCLRAIMNYQSGFSLVMNHPACVNEIALSLNNKSPRTKALVLELLAAVCLVRG 283
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+           GH+IIL +FDNFK+VC E+ RF+ LMEYF + E  NIDFMVACMQF+NIVVHSVE+MN+R
+Sbjct: 284 GHDIILAAFDNFKEVCGEQHRFEKLMEYFRH-EDSNIDFMVACMQFINIVVHSVENMNFR 342
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQE 214
+           V LQYEFT LGLD YLER+RLTES++L+VQI AYLDNVFDV  L+E++ETK + LE ++E
+Sbjct: 343 VFLQYEFTHLGLDLYLERLRLTESDKLQVQIQAYLDNVFDVGTLLEETETKNAVLEHMEE 402
+
+Query: 215 LEDQL 219
+           L++Q+
+Sbjct: 403 LQEQV 407
+
+
+>sp|Q8BPM0|DAAM1_MOUSE RecName: Full=Disheveled-associated activator
+           of morphogenesis 1;
+          Length = 1077
+
+ Score =  105 bits (263), Expect = 2e-22,   Method: Compositional matrix adjust.
+ Identities = 56/152 (36%), Positives = 91/152 (59%), Gaps = 7/152 (4%)
+
+Query: 37  IHVSIM-CLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG 95
+           IH S++ C++A+MNN  G   V+ H E+IN IA SL  ++++TK  VLE+L A+CLV GG
+Sbjct: 177 IHTSLIGCIKALMNNSQGRAHVLAHSESINVIAQSLSTENIKTKVAVLEILGAVCLVPGG 236
+
+Query: 96  HEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAF---NIDFMVACMQFMNIVVH---SVE 149
+           H+ +L +  +++    E+ RFQTL+             +    A M F+N V+     VE
+Sbjct: 237 HKKVLQAMLHYQKYASERTRFQTLINDLDKSTGRYRDEVSLKTAIMSFINAVLSQGAGVE 296
+
+Query: 150 DMNYRVHLQYEFTALGLDKYLERIRLTESEEL 181
+            +++R+HL+YEF  LG+   ++++R  E+  L
+Sbjct: 297 SLDFRLHLRYEFLMLGIQPVIDKLREHENSTL 328
+
+
+>sp|Q9Y4D1|DAAM1_HUMAN RecName: Full=Disheveled-associated activator
+           of morphogenesis 1;
+          Length = 1078
+
+ Score =  105 bits (263), Expect = 2e-22,   Method: Compositional matrix adjust.
+ Identities = 56/152 (36%), Positives = 91/152 (59%), Gaps = 7/152 (4%)
+
+Query: 37  IHVSIM-CLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG 95
+           IH S++ C++A+MNN  G   V+ H E+IN IA SL  ++++TK  VLE+L A+CLV GG
+Sbjct: 177 IHTSLIGCIKALMNNSQGRAHVLAHSESINVIAQSLSTENIKTKVAVLEILGAVCLVPGG 236
+
+Query: 96  HEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAF---NIDFMVACMQFMNIVVH---SVE 149
+           H+ +L +  +++    E+ RFQTL+             +    A M F+N V+     VE
+Sbjct: 237 HKKVLQAMLHYQKYASERTRFQTLINDLDKSTGRYRDEVSLKTAIMSFINAVLSQGAGVE 296
+
+Query: 150 DMNYRVHLQYEFTALGLDKYLERIRLTESEEL 181
+            +++R+HL+YEF  LG+   ++++R  E+  L
+Sbjct: 297 SLDFRLHLRYEFLMLGIQPVIDKLREHENSTL 328
+
+
+>sp|Q80U19|DAAM2_MOUSE RecName: Full=Disheveled-associated activator
+           of morphogenesis 2;
+          Length = 1115
+
+ Score = 95.9 bits (237), Expect = 2e-19,   Method: Compositional matrix adjust.
+ Identities = 53/149 (35%), Positives = 91/149 (61%), Gaps = 7/149 (4%)
+
+Query: 37  IHVS-IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG 95
+           IH S I C++A+MNN  G   V+   EAI+ IA SL  ++ +TK  VLE+L A+CLV GG
+Sbjct: 173 IHTSLIGCIKALMNNSQGRAHVLAQPEAISIIAQSLRTENSKTKVAVLEILGAVCLVPGG 232
+
+Query: 96  HEIILGSFDNFKDVCQEKRRFQTL---MEYFMNFEAFNIDFMVACMQFMNIVVHSV---E 149
+           H+ +L +  +++    E+ RFQTL   ++  +      ++   A M F+N V+++    +
+Sbjct: 233 HKKVLQAMLHYQAYAAERTRFQTLLNELDRSLGRYRDEVNLKTAIMSFINAVLNAGAGED 292
+
+Query: 150 DMNYRVHLQYEFTALGLDKYLERIRLTES 178
+           ++ +R+HL+YEF  LG+   ++++R  E+
+Sbjct: 293 NLEFRLHLRYEFLMLGIQPVIDKLRQHEN 321
+
+
+>sp|Q86T65|DAAM2_HUMAN RecName: Full=Disheveled-associated activator
+           of morphogenesis 2;
+          Length = 1068
+
+ Score = 95.1 bits (235), Expect = 4e-19,   Method: Compositional matrix adjust.
+ Identities = 52/149 (34%), Positives = 91/149 (61%), Gaps = 7/149 (4%)
+
+Query: 37  IHVSIM-CLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG 95
+           IH S++ C++A+MNN  G   V+   EAI+ IA SL  ++ +TK  VLE+L A+CLV GG
+Sbjct: 173 IHTSLIGCIKALMNNSQGRAHVLAQPEAISTIAQSLRTENSKTKVAVLEILGAVCLVPGG 232
+
+Query: 96  HEIILGSFDNFKDVCQEKRRFQTLMEYF---MNFEAFNIDFMVACMQFMNIVVHSV---E 149
+           H+ +L +  +++    E+ RFQTL+      +      ++   A M F+N V+++    +
+Sbjct: 233 HKKVLQAMLHYQVYAAERTRFQTLLNELDRSLGRYRDEVNLKTAIMSFINAVLNAGAGED 292
+
+Query: 150 DMNYRVHLQYEFTALGLDKYLERIRLTES 178
+           ++ +R+HL+YEF  LG+   ++++R  E+
+Sbjct: 293 NLEFRLHLRYEFLMLGIQPVIDKLRQHEN 321
+
+
+>sp|O70566|DIAP2_MOUSE RecName: Full=Protein diaphanous homolog 2;
+           AltName: Full=Diaphanous-related formin-2;        
+           Short=DRF2;          Short=mDia3;
+          Length = 1098
+
+ Score = 84.0 bits (206), Expect = 1e-15,   Method: Compositional matrix adjust.
+ Identities = 51/157 (32%), Positives = 85/157 (54%), Gaps = 7/157 (4%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGGHEIIL 100
+           I CL+A MNNK+G   ++    ++  +A ++  K       ++++L+AIC+V  G E IL
+Sbjct: 233 IQCLKAFMNNKFGLQRILGDERSLLLLARAIDPKQQNMMTEIVKILSAICIV--GEENIL 290
+
+Query: 101 GSFDNFKDVCQE---KRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHL 157
+                      E   + RF  ++E   N EA ++   VACMQF+N +V S  D+++R+HL
+Sbjct: 291 DKLLGGITAAAELNNRERFSPIVEGLENNEALHL--QVACMQFINALVTSPYDLDFRIHL 348
+
+Query: 158 QYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFD 194
+           + EF   GL   L  ++  E+E L +Q+  + +N  D
+Sbjct: 349 RNEFLRCGLKAMLPTLKEIENEGLDIQLRVFEENKED 385
+
+
+>sp|Q5TJ56|FORF_DICDI RecName: Full=Formin-F; AltName:
+           Full=Diaphanous-related formin dia1;
+          Length = 1220
+
+ Score = 83.2 bits (204), Expect = 2e-15,   Method: Compositional matrix adjust.
+ Identities = 49/160 (30%), Positives = 93/160 (58%), Gaps = 9/160 (5%)
+
+Query: 38  HVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLV-KGGH 96
+            +++ CL +++N+KYG    I    ++  +  S+      T++ V E+L AIC++ + G+
+Sbjct: 135 SLAVTCLLSLLNSKYGIEKAIATPNSMIRLITSMDTPKADTRSSVFEILTAICMISEKGY 194
+
+Query: 97  EIILGSFDNFKDVCQEKRRFQTLMEYF---MNFEAFNIDFMVACMQFMNIVVHSVEDMNY 153
+           ++IL +  +FK V +E+ RF  L+E     MN  + + +++  C+  +N +V+S E+++ 
+Sbjct: 195 QLILEAMTHFKQVRKERFRFTFLVESMKKVMN--SSDKEYLTTCLTLVNGIVNSSEEIDE 252
+
+Query: 154 RVHLQYEFTALGLDKYL---ERIRLTESEELKVQISAYLD 190
+           R+ L+ EFT LGLD+ +   + I   E+ +L  QI  Y D
+Sbjct: 253 RIQLRTEFTRLGLDEVISVNKNIPYEEAPDLLTQIDVYED 292
+
+
+>sp|O60879|DIAP2_HUMAN RecName: Full=Protein diaphanous homolog 2;
+           AltName: Full=Diaphanous-related formin-2;        
+           Short=DRF2;
+          Length = 1101
+
+ Score = 82.8 bits (203), Expect = 2e-15,   Method: Compositional matrix adjust.
+ Identities = 50/157 (31%), Positives = 85/157 (54%), Gaps = 7/157 (4%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGGHEIIL 100
+           I CL+A MNNK+G   ++    ++  +A ++  K       ++++L+AIC+V  G E IL
+Sbjct: 234 IQCLKAFMNNKFGLQRILGDERSLLLLARAIDPKQPNMMTEIVKILSAICIV--GEENIL 291
+
+Query: 101 GSFDNFKDVCQEK---RRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHL 157
+                      E+    RF  ++E   N EA  +   VACMQF+N +V S  ++++R+HL
+Sbjct: 292 DKLLGAITTAAERNNRERFSPIVEGLENQEALQL--QVACMQFINALVTSPYELDFRIHL 349
+
+Query: 158 QYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFD 194
+           + EF   GL   L  ++  E++EL +Q+  + +N  D
+Sbjct: 350 RNEFLRSGLKTMLPDLKEKENDELDIQLKVFDENKED 386
+
+
+>sp|Q9Z207|DIAP3_MOUSE RecName: Full=Protein diaphanous homolog 3;
+           AltName: Full=Diaphanous-related formin-3;        
+           Short=DRF3; AltName: Full=p134mDIA2;        
+           Short=mDIA2;
+          Length = 1171
+
+ Score = 82.4 bits (202), Expect = 3e-15,   Method: Compositional matrix adjust.
+ Identities = 52/192 (27%), Positives = 94/192 (48%), Gaps = 23/192 (11%)
+
+Query: 38  HVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGGHE 97
+           H  I CLRA+MN +YG   ++  + +++ +A ++  +     A V++LL+A+C+V  G E
+Sbjct: 223 HKVIQCLRALMNTQYGLERIMSDKRSLSLLAKAMDPRQPAMMADVVKLLSAVCIV--GEE 280
+
+Query: 98  IILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHL 157
+            IL           E+R+              +++  VACMQ +N +V S +D+++R+HL
+Sbjct: 281 SILEEVLEALTSAGEERKIDRFFSIVEGLRHNSVNLQVACMQLINALVTSPDDLDFRLHL 340
+
+Query: 158 QYEFTALGLDKYLERIRLTESEELKVQ---------------------ISAYLDNVFDVA 196
+           + EF   GL + L  ++  +++ L +Q                     I A LD   DV 
+Sbjct: 341 RNEFMRCGLKEILPNLKGIKNDGLDIQLKVFDEHKEEDLSEFFHRLEDIRAELDEASDVY 400
+
+Query: 197 ALMEDSETKTSA 208
+           +++ D+  +T A
+Sbjct: 401 SMLWDTVKETRA 412
+
+
+>sp|Q0GNC1|INF2_MOUSE RecName: Full=Inverted formin-2;
+          Length = 1273
+
+ Score = 81.3 bits (199), Expect = 6e-15,   Method: Composition-based stats.
+ Identities = 43/146 (29%), Positives = 81/146 (55%), Gaps = 3/146 (2%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVK-GGHEII 99
+           I C+RA+MN++ G   ++ ++  +  ++ +L   ++  K  V ELLAA+C+    GH + 
+Sbjct: 102 ISCVRAVMNSQQGIEYILSNQGYVRQLSQALDTSNVMVKKQVFELLAALCIYSPEGHALT 161
+
+Query: 100 LGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQY 159
+           L + D++K VC ++ RF  +M    + +  N+ ++V  +  +N ++   ED+  R  L+ 
+Sbjct: 162 LDALDHYKMVCSQQYRFSVIMSELSDSD--NVPYVVTLLSVINAIILGPEDLRSRAQLRS 219
+
+Query: 160 EFTALGLDKYLERIRLTESEELKVQI 185
+           EF  L L   L R+R  E  +L +Q+
+Sbjct: 220 EFIGLQLLDILTRLRDLEDADLLIQL 245
+
+
+>sp|Q27J81|INF2_HUMAN RecName: Full=Inverted formin-2; AltName:
+           Full=HBEBP2-binding protein C;
+          Length = 1249
+
+ Score = 79.7 bits (195), Expect = 2e-14,   Method: Composition-based stats.
+ Identities = 43/146 (29%), Positives = 80/146 (54%), Gaps = 3/146 (2%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVK-GGHEII 99
+           + C+RA+MN++ G   ++ ++  +  ++ +L   ++  K  V ELLAA+C+    GH + 
+Sbjct: 102 VSCVRAVMNSRQGIEYILSNQGYVRQLSQALDTSNVMVKKQVFELLAALCIYSPEGHVLT 161
+
+Query: 100 LGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQY 159
+           L + D++K VC ++ RF  +M      +  N+ ++V  +  +N V+   ED+  R  L+ 
+Sbjct: 162 LDALDHYKTVCSQQYRFSIVMNELSGSD--NVPYVVTLLSVINAVILGPEDLRARTQLRN 219
+
+Query: 160 EFTALGLDKYLERIRLTESEELKVQI 185
+           EF  L L   L R+R  E  +L +Q+
+Sbjct: 220 EFIGLQLLDVLARLRDLEDADLLIQL 245
+
+
+>sp|Q9NSV4|DIAP3_HUMAN RecName: Full=Protein diaphanous homolog 3;
+           AltName: Full=Diaphanous-related formin-3;        
+           Short=DRF3;
+          Length = 1193
+
+ Score = 76.6 bits (187), Expect = 2e-13,   Method: Compositional matrix adjust.
+ Identities = 44/170 (25%), Positives = 94/170 (55%), Gaps = 10/170 (5%)
+
+Query: 38  HVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGGHE 97
+           H  I CL+A+MN +YG   ++    +++ +A ++  +       V++LL+A+C+V G   
+Sbjct: 244 HKVIQCLKALMNTQYGLERIMSEERSLSLLAKAVDPRHPNMMTDVVKLLSAVCIV-GEES 302
+
+Query: 98  IILGSFDNFKDVCQEKR--RFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRV 155
+           I+    +      +EK+  RF  ++E        ++   VACMQ +N +V S +D+++R+
+Sbjct: 303 ILEEVLEALTSAGEEKKIDRFFCIVE---GLRHNSVQLQVACMQLINALVTSPDDLDFRL 359
+
+Query: 156 HLQYEFTALGLDKYLERIRLTESEELKVQISAY----LDNVFDVAALMED 201
+           H++ EF   GL + L  ++  +++ L +Q+  +     +++F+++  +ED
+Sbjct: 360 HIRNEFMRCGLKEILPNLKCIKNDGLDIQLKVFDEHKEEDLFELSHRLED 409
+
+
+>sp|O08808|DIAP1_MOUSE RecName: Full=Protein diaphanous homolog 1;
+           AltName: Full=Diaphanous-related formin-1;        
+           Short=DRF1; AltName: Full=p140mDIA;        
+           Short=mDIA1;
+          Length = 1255
+
+ Score = 74.7 bits (182), Expect = 5e-13,   Method: Compositional matrix adjust.
+ Identities = 46/171 (26%), Positives = 91/171 (53%), Gaps = 10/171 (5%)
+
+Query: 38  HVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG-- 95
+           H  I CL+A MNNK+G   +++  E I  +  ++            +LL+A+C++     
+Sbjct: 206 HEIIRCLKAFMNNKFGIKTMLETEEGILLLVRAMDPAVPNMMIDAAKLLSALCILPQPED 265
+
+Query: 96  -HEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+            +E +L +     ++  E  RFQ L++   +    +I   V C+Q +N ++   E++++R
+Sbjct: 266 MNERVLEAMTERAEM-DEVERFQPLLDGLKS--GTSIALKVGCLQLINALITPAEELDFR 322
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAY----LDNVFDVAALMED 201
+           VH++ E   LGL + L+ +R  E+E++KVQ+  +     ++ FD+   ++D
+Sbjct: 323 VHIRSELMRLGLHQVLQELREIENEDMKVQLCVFDEQGDEDFFDLKGRLDD 373
+
+
+>sp|O60610|DIAP1_HUMAN RecName: Full=Protein diaphanous homolog 1;
+           AltName: Full=Diaphanous-related formin-1;        
+           Short=DRF1;
+          Length = 1272
+
+ Score = 74.7 bits (182), Expect = 6e-13,   Method: Compositional matrix adjust.
+ Identities = 46/160 (28%), Positives = 85/160 (53%), Gaps = 11/160 (6%)
+
+Query: 38  HVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGG-- 95
+           H  I CL+A MNNK+G   +++  E I  +  ++            +LL+A+C++     
+Sbjct: 215 HEIIRCLKAFMNNKFGIKTMLETEEGILLLVRAMDPAVPNMMIDAAKLLSALCILPQPED 274
+
+Query: 96  -HEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYR 154
+            +E +L +     ++  E  RFQ L++   +     I   V C+Q +N ++   E++++R
+Sbjct: 275 MNERVLEAMTERAEM-DEVERFQPLLDGLKS--GTTIALKVGCLQLINALITPAEELDFR 331
+
+Query: 155 VHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFD 194
+           VH++ E   LGL + L+ +R  E+E+++VQ+     NVFD
+Sbjct: 332 VHIRSELMRLGLHQVLQDLREIENEDMRVQL-----NVFD 366
+
+
+>sp|Q5TJ55|FORD_DICDI RecName: Full=Formin-D; AltName:
+           Full=Diaphanous-related formin dia4;
+          Length = 1214
+
+ Score = 73.9 bits (180), Expect = 1e-12,   Method: Compositional matrix adjust.
+ Identities = 42/143 (29%), Positives = 76/143 (53%), Gaps = 7/143 (4%)
+
+Query: 35  DDIHVSIMCLRA---IMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICL 91
+           +DI+    CL +   IMN K+G   VI+    I+ I+L +    L+T+ +V+ELLAA+C+
+Sbjct: 138 EDIYKIAQCLHSLKLIMNTKFGLESVIKQPTNIHSISLVMDTPHLKTRIMVIELLAALCV 197
+
+Query: 92  VKG-GHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVED 150
+           V   G  ++L + DN+++V +EK+ F  L +   N               +N ++ S + 
+Sbjct: 198 VNSKGLPLVLSAMDNYREVKREKKPFIHLFQGLKNPSG---SLQATTFALINTLISSSQS 254
+
+Query: 151 MNYRVHLQYEFTALGLDKYLERI 173
+           +  R  ++ +F  LG+ K +E +
+Sbjct: 255 VEERQKIRNQFKKLGITKVIEEL 277
+
+
+>sp|P78621|SEPA_EMENI RecName: Full=Cytokinesis protein sepA;
+           AltName: Full=Forced expression inhibition of growth A;
+           AltName: Full=Protein FH1/2;
+          Length = 1790
+
+ Score = 73.6 bits (179), Expect = 1e-12,   Method: Composition-based stats.
+ Identities = 59/210 (28%), Positives = 103/210 (49%), Gaps = 30/210 (14%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAIC-LVKG-GHEI 98
+           + CL+A+MNNKYG +  + H++ I  +  SL+   L T+ LV E+L  +C   +G GHE 
+Sbjct: 435 VKCLKALMNNKYGADDALAHQQIIVALISSLLSPRLNTRKLVSEVLTFLCHWAEGQGHER 494
+
+Query: 99  ILGSFDNFKDVCQEKRRFQTLM---------------------EYF---MNFEAFNIDFM 134
+           +L + D+ K+   E  RF   M                     EY    +  E   +++ 
+Sbjct: 495 VLQAMDHVKNHQGETGRFDAWMRIVEVTIDGRGKMGSLVGASEEYRSGGIGMENLLMEYA 554
+
+Query: 135 VACMQFMNIVVHSVE-DMNYRVHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDN-V 192
+           V+ M  +N++V + E D+  R H++ +F + G+ + L ++   + E +  QI  + +N  
+Sbjct: 555 VSTMILINMLVDAPENDLQLRCHIRAQFISCGIKRLLSKMEGFQYEVIDKQIEHFRENEA 614
+
+Query: 193 FDVAALM--EDSETKTSALERVQELEDQLE 220
+            D   L+  E S TK S    V+++ D L+
+Sbjct: 615 IDYEDLLQRESSSTKDSIEGEVKDMTDPLQ 644
+
+
+>sp|Q54N00|FORH_DICDI RecName: Full=Formin-H; AltName:
+           Full=Diaphanous-related formin dia2;        
+           Short=dDia2;
+          Length = 1087
+
+ Score = 73.6 bits (179), Expect = 1e-12,   Method: Compositional matrix adjust.
+ Identities = 42/132 (31%), Positives = 70/132 (53%), Gaps = 2/132 (1%)
+
+Query: 43  CLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKGGHEIILGS 102
+           C+ A+M  K G   +    +  N + L L    ++ K LVLELLAAI +   GH  +L S
+Sbjct: 171 CIAALMKIKIGMEYIASFPQTTNLMVLCLDTPLIKAKTLVLELLAAIAVTDRGHGAVLTS 230
+
+Query: 103 FDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYEFT 162
+               K+V +E  R+  L++  +  E  N +++  CM F+N ++ S  D+  R+ ++  F 
+Sbjct: 231 MIYHKEVKKEITRYFNLVQS-LKIEK-NAEYLTTCMSFINCIISSPSDLPSRIEIRKAFL 288
+
+Query: 163 ALGLDKYLERIR 174
+            L + KY+E +R
+Sbjct: 289 NLKILKYIENLR 300
+
+
+>sp|Q5TJ57|FORE_DICDI RecName: Full=Formin-E; AltName:
+           Full=Diaphanous-related formin dia3;
+          Length = 1561
+
+ Score = 70.9 bits (172), Expect = 8e-12,   Method: Composition-based stats.
+ Identities = 57/191 (29%), Positives = 97/191 (50%), Gaps = 22/191 (11%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKS--LRTKALVLELLAAICL---VKGG 95
+           + C+  +M+N  G N V Q   A   I   L  K   +++KA+ +ELL  + L   V GG
+Sbjct: 692 LSCIGKVMSNPIGLNSVAQLPMAPKTITKVLRSKQYCIKSKAMAIELLTVMLLDKYVPGG 751
+
+Query: 96  HEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRV 155
+             ++L +    K    EK+RF   + +  + E+  +     C  F+N+++  +EDMN RV
+Sbjct: 752 CSLVLKALTKTK----EKKRFSFFVRFIKDNESLELKTKALC--FINVLIFEMEDMNVRV 805
+
+Query: 156 HLQYEFTALGLDKYLERIR--LTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQ 213
+           +++ EF  LGL  YL  I+  +T  + L  QI  + +        M + +T+   L R++
+Sbjct: 806 NIRSEFLRLGLYTYLREIKKTITHEKTLFTQIEIFEE--------MMNEDTQELDL-RLE 856
+
+Query: 214 ELEDQLEREID 224
+           +L+ QL  +ID
+Sbjct: 857 DLKRQLGIDID 867
+
+
+>sp|Q0IHV1|INF2_XENTR RecName: Full=Inverted formin-2;
+          Length = 1380
+
+ Score = 63.9 bits (154), Expect = 9e-10,   Method: Composition-based stats.
+ Identities = 41/145 (28%), Positives = 77/145 (53%), Gaps = 3/145 (2%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVK-GGHEII 99
+           I C+R +MN+  G   ++ +   +  ++ +L   ++  K  V ELLAA+C+    GH + 
+Sbjct: 102 INCVRTLMNSHRGIEYIVNNEGYVRKLSQALDTSNVMVKKQVFELLAALCIYSPEGHALS 161
+
+Query: 100 LGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQY 159
+           L + +++K V  ++ RF  +M      +  N+ +MV  +  +N ++   E++  RV L+ 
+Sbjct: 162 LDALEHYKAVKNQQYRFSVIMNELSTSD--NVPYMVTLLSAINAIIFGTEELRKRVQLRN 219
+
+Query: 160 EFTALGLDKYLERIRLTESEELKVQ 184
+           EF  L L   L ++R  E E+L +Q
+Sbjct: 220 EFIGLQLLDLLTKLRDLEDEDLLIQ 244
+
+
+>sp|P48608|DIA_DROME RecName: Full=Protein diaphanous;
+          Length = 1091
+
+ Score = 62.8 bits (151), Expect = 2e-09,   Method: Compositional matrix adjust.
+ Identities = 43/155 (27%), Positives = 84/155 (54%), Gaps = 13/155 (8%)
+
+Query: 40  SIMCLRAIMNNKYGFNMVI---QHREAINCIALSLIHKSLRTKALVLELLAAICLV--KG 94
+           +I CL+AIMNN +G N+V+   QH   +  +A SL  +  +T    L+LLA+ C+V  + 
+Sbjct: 188 AIRCLKAIMNNTWGLNVVLNPDQH-SVVLLLAQSLDPRKPQTMCEALKLLASFCIVYERN 246
+
+Query: 95  GHEIILGSFDNFKDVC-QEKRRFQTLMEYFMNFEAFNIDFMVAC--MQFMNIVVHSVEDM 151
+           G+E +L +         +   RF+ +++     +  +    +AC  + F+N + ++  D+
+Sbjct: 247 GYEKVLRAITTIAATSFKASERFRPIVDALFASDQQDPKRDLACHSLIFINTLTNTPTDL 306
+
+Query: 152 NYRVHLQYEFTALG----LDKYLERIRLTESEELK 182
+           N+R+HL+ E   +G    LD++ + +  + +E L+
+Sbjct: 307 NFRLHLRCEIMRMGLYDRLDEFTKIVEASNNENLQ 341
+
+
+>sp|Q6NTV6|INF2_XENLA RecName: Full=Inverted formin-2;
+          Length = 1099
+
+ Score = 62.4 bits (150), Expect = 3e-09,   Method: Compositional matrix adjust.
+ Identities = 40/145 (27%), Positives = 77/145 (53%), Gaps = 3/145 (2%)
+
+Query: 41  IMCLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVKG-GHEII 99
+           I C+R +MN+  G   ++ +   +  ++ +L   ++  K  V ELLAA+C+    GH + 
+Sbjct: 102 INCVRTLMNSHKGIEYIVNNEGYVRKLSQALDTSNVMVKKQVFELLAALCIYSPEGHALC 161
+
+Query: 100 LGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQY 159
+           L + +++K V  ++ RF  +     + +  N+ +MV  +  +N ++   E++  RV L+ 
+Sbjct: 162 LDALEHYKVVKNQQYRFSVITNELSSSD--NVPYMVTLLSVINAIIFGTEELRNRVQLRN 219
+
+Query: 160 EFTALGLDKYLERIRLTESEELKVQ 184
+           EF  L L   L ++R  E E+L +Q
+Sbjct: 220 EFIGLQLLDLLTKLRDLEDEDLLIQ 244
+
+
+>sp|Q54WH2|FORA_DICDI RecName: Full=Formin-A;
+          Length = 1218
+
+ Score = 59.3 bits (142), Expect = 2e-08,   Method: Compositional matrix adjust.
+ Identities = 38/156 (24%), Positives = 78/156 (50%), Gaps = 10/156 (6%)
+
+Query: 43  CLRAIMNNKYGFNMVIQHREAINCIALSLIHKSLRTKALVLELLAAICLVK--GGHEIIL 100
+           C++ +MNN  G   +   +++   I L L  +  +   L + LL  IC +    GH++++
+Sbjct: 299 CIKNLMNNNVGIGYIFGIKDSFKTIVLCLGSEYEKVNELAIGLLNTICFLPKINGHKLLI 358
+
+Query: 101 GSFDNFKDVCQEKRRFQTLMEYFMNFEAF-----NIDFMVACMQFMNIVVHSVEDMNYRV 155
+              + FK+  +E RRF ++++   +          +      + F+NI+V++  +++ R+
+Sbjct: 359 ELLNYFKEEKKESRRFISIVKSLKSKAGVIETKETLKTKSIYLSFINIIVNTPAEIDLRL 418
+
+Query: 156 HLQYEFTALGLDKYLERIR---LTESEELKVQISAY 188
+            L+ EF  LG+ + L ++      ES EL  QI+ +
+Sbjct: 419 ALRQEFYWLGIKEILVKLSNYTYDESPELDTQITVF 454
+
+
+>sp|Q54SP2|FORB_DICDI RecName: Full=Formin-B;
+          Length = 1126
+
+ Score = 52.0 bits (123), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 31/98 (31%), Positives = 57/98 (58%), Gaps = 3/98 (3%)
+
+Query: 95  GHEIILGSFDNFKDVCQEKRRFQTLME--YFMNFEAFNIDFMVACMQFMNIVVHSVEDMN 152
+           GH  +L + +NFK   +EK RFQT++E    ++    + +++ + M  +N +V+S  D+ 
+Sbjct: 228 GHSYVLEAIENFKVSNREKVRFQTIIEGAKSVSNTQLHYEYLTSFMNLVNSIVNSPADLQ 287
+
+Query: 153 YRVHLQYEFTALGLDKYLERIRLTESEELKVQISAYLD 190
+            R+ L+ EFTAL L + +   +   SE+L  QI+ + +
+Sbjct: 288 VRIGLRSEFTALKLIELISNSKGV-SEDLDTQINLFFE 324
+
+
+>sp|Q86UP8|GTD2A_HUMAN RecName: Full=General transcription factor
+           II-I repeat domain-containing protein 2A; AltName:
+           Full=GTF2I repeat domain-containing protein 2A; AltName:
+           Full=Transcription factor GTF2IRD2-alpha;
+          Length = 949
+
+ Score = 36.6 bits (83), Expect = 0.15,   Method: Composition-based stats.
+ Identities = 42/170 (24%), Positives = 70/170 (41%), Gaps = 15/170 (8%)
+
+Query: 107 KDVCQEKRRFQTLME--YFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYEFTAL 164
+           + + QE R FQ   E  YF   E  NI   + C Q M++     ++ N R H Q   +  
+Sbjct: 419 RKIDQEGRVFQEKWERAYFF-VEVQNIPTCLICKQSMSVS----KEYNLRRHYQTNHSK- 472
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDV------AALMEDSETKTSALERVQELEDQ 218
+             D+Y+ER+R  +  ELK  +  YL  + D             S T+ S ++ V++L   
+Sbjct: 473 HYDQYMERMRDEKLHELKKGLRKYLLGLSDTECPEQKQVFAHPSPTQKSPVQPVEDLAGN 532
+
+Query: 219 LEREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRML 268
+           L  ++         Y+              QLA+  + ++E   V + +L
+Sbjct: 533 LWEKLREKIRSFVAYS-IAIDEITDINNTTQLAIFIRGVDENFDVSEELL 581
+
+
+>sp|Q55DM7|PKS2_DICDI RecName: Full=Probable polyketide synthase 2;   
+                  Short=dipks2;          EC=2.3.1.-;
+          Length = 3010
+
+ Score = 35.4 bits (80), Expect = 0.34,   Method: Composition-based stats.
+ Identities = 36/144 (25%), Positives = 62/144 (43%), Gaps = 21/144 (14%)
+
+Query: 57   VIQHREAINCIALSLIHKSLRTKALVLELLAAIC-----------LVKGGHEIILGSFDN 105
+            VI +   IN + +S I  SL    +   LL   C            ++  + ++  +   
+Sbjct: 1691 VIVYVNTINQVFISFISYSLEYIKINQHLLRTNCNAKHVLLTRSAFIETTNTLVSATVGA 1750
+
+Query: 106  FKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYEFTALG 165
+            F+  C+    F  L  Y M+F+       +  MQF+N V H + + N   H Q EF   G
+Sbjct: 1751 FRYFCE----FSQLDLYLMDFDD---SIYLKSMQFIN-VTHEMTNPNK--HYQREFIFRG 1800
+
+Query: 166  LDKYLERIRLTESEELKVQISAYL 189
+               Y ER+    + +LK++ ++Y+
+Sbjct: 1801 DKVYYERVTQETNLKLKLKSTSYI 1824
+
+
+>sp|Q9FJK6|CCC11_ARATH RecName: Full=Cyclin-C1-1;        
+           Short=CycC1;1;
+          Length = 253
+
+ Score = 35.4 bits (80), Expect = 0.42,   Method: Compositional matrix adjust.
+ Identities = 23/94 (24%), Positives = 51/94 (54%), Gaps = 4/94 (4%)
+
+Query: 23  RHIAKLNMGAATDDIHVSIMCLRAIMNNKYGFNMVIQH---REAINCIALSLIHKSLRTK 79
+           R +++    AA +D++++ +    I+N+ Y  ++++ H   R A+ CI ++ +H+     
+Sbjct: 149 RSLSEFLQDAALNDVNMNQITW-GIVNDTYKMDLILVHPPYRIALACIYIASVHREKDIT 207
+
+Query: 80  ALVLELLAAICLVKGGHEIILGSFDNFKDVCQEK 113
+           A   +L   + LVK     IL  ++N++ + +EK
+Sbjct: 208 AWFEDLHEDMNLVKNIAMEILDFYENYRTITEEK 241
+
+
+>sp|Q00722|PLCB2_HUMAN RecName:
+            Full=1-phosphatidylinositol-4,5-bisphosphate
+            phosphodiesterase beta-2;          EC=3.1.4.11; AltName:
+            Full=Phosphoinositide phospholipase C; AltName:
+            Full=Phospholipase C-beta-2;          Short=PLC-beta-2;
+          Length = 1185
+
+ Score = 35.0 bits (79), Expect = 0.44,   Method: Composition-based stats.
+ Identities = 18/68 (26%), Positives = 34/68 (50%)
+
+Query: 211  RVQELEDQLEREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQH 270
+            RV+EL+D+LE E+ R  E  Y+                 + + R+K   EL  ++   ++
+Sbjct: 979  RVRELKDRLELELLRQGEEQYECVLKRKEQHVAEQISKMMELAREKQAAELKALKETSEN 1038
+
+Query: 271  NEQELKKR 278
+            + +E+KK+
+Sbjct: 1039 DTKEMKKK 1046
+
+
+>sp|Q6EKJ0|GTD2B_HUMAN RecName: Full=General transcription factor
+           II-I repeat domain-containing protein 2B; AltName:
+           Full=GTF2I repeat domain-containing protein 2B; AltName:
+           Full=Transcription factor GTF2IRD2-beta;
+          Length = 949
+
+ Score = 34.3 bits (77), Expect = 0.75,   Method: Composition-based stats.
+ Identities = 42/170 (24%), Positives = 68/170 (40%), Gaps = 15/170 (8%)
+
+Query: 107 KDVCQEKRRFQTLME--YFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYEFTAL 164
+           + + QE R FQ   E  YF   E  NI   + C Q M++     ++ N R H Q   +  
+Sbjct: 419 RKIDQEGRVFQEKWERAYFF-VEVQNIPTCLICKQSMSVS----KEYNLRRHYQTNHSK- 472
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDV------AALMEDSETKTSALERVQELEDQ 218
+             D+Y ER+R  +  ELK  +  YL    D             S T+ S ++ V++L   
+Sbjct: 473 HYDQYTERMRDEKLHELKKGLRKYLLGSSDTECPEQKQVFANPSPTQKSPVQPVEDLAGN 532
+
+Query: 219 LEREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRML 268
+           L  ++         Y+              QLA+  + ++E   V + +L
+Sbjct: 533 LWEKLREKIRSFVAYS-IAIDEITDINNTTQLAIFIRGVDENFDVSEELL 581
+
+
+>sp|A0M8T5|CTTB2_FELCA RecName: Full=Cortactin-binding protein 2;   
+                 Short=CortBP2;
+          Length = 1658
+
+ Score = 33.1 bits (74), Expect = 1.9,   Method: Composition-based stats.
+ Identities = 22/73 (30%), Positives = 41/73 (56%), Gaps = 11/73 (15%)
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALE--------RVQELE 216
+           G +K++  + + E ++L  ++      + +V A +E+ +TKTSALE        R  E+E
+Sbjct: 165 GKNKHVVLMLVKECKQLSGKVIEEAQKLEEVMAKLEEEKTKTSALEEELSAEKRRSTEME 224
+
+Query: 217 DQLEREIDRNSEF 229
+            Q+E+++   SEF
+Sbjct: 225 AQMEKQL---SEF 234
+
+
+>sp|Q8N5R6|CCD33_HUMAN RecName: Full=Coiled-coil domain-containing
+           protein 33; AltName: Full=Cancer/testis antigen 61;     
+               Short=CT61;
+          Length = 958
+
+ Score = 32.7 bits (73), Expect = 2.2,   Method: Composition-based stats.
+ Identities = 36/145 (24%), Positives = 62/145 (42%), Gaps = 13/145 (8%)
+
+Query: 146 HSVEDMNYR----------VHLQYEFTALGLDKYLERIRLTESEELKVQISAY-LDNVFD 194
+           H  E  NYR          + L+ + + L  +  + R RL + EE + Q  A    N   
+Sbjct: 631 HDTEMNNYRRAMQKMAEDILSLRRQASILEGENRILRSRLAQQEEEEGQGKASEAQNTVS 690
+
+Query: 195 VAALMEDSETKTSAL-ERVQELEDQLEREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMI 253
+           +   +  SE     L +RVQ L+++L R+ DR  E L  Y               +L  +
+Sbjct: 691 MKQKLLLSELDMKKLRDRVQHLQNELIRKNDREKELLLLYQAQQPQAALLKQYQGKLQKM 750
+
+Query: 254 RQKLEEELTVMQRMLQHNEQELKKR 278
+           +  LEE +   +++++  E+ L+ R
+Sbjct: 751 K-ALEETVRHQEKVIEKMERVLEDR 774
+
+
+>sp|Q6FU75|LIC4_CANGA RecName: Full=Protein ATC1/LIC4;
+          Length = 348
+
+ Score = 32.7 bits (73), Expect = 2.5,   Method: Compositional matrix adjust.
+ Identities = 36/147 (24%), Positives = 56/147 (38%), Gaps = 22/147 (14%)
+
+Query: 45  RAIMNNKYGFNMVIQHREAINCIAL----SLIHKSLRTKALVLELLAAICLVKGGHEIIL 100
+           RA + NKY  + +I H+E I    L    S++  ++  K            VK    +I 
+Sbjct: 192 RAKLKNKYEMSNIIIHKEDIPAANLRNRRSMVDNNVIKKISPHSSADHNKTVKKEPVVIT 251
+
+Query: 101 GSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFMVACMQFMNIVVHSVEDMNYRVHLQYE 160
+             +     V Q KRR     +  +NF     ++  AC+Q    V    +   +R HL   
+Sbjct: 252 NEY-TVSQVAQMKRRIIDSHKLLLNFNVIKDNYARACVQLKRSVTALKDSEIHRAHL--- 307
+
+Query: 161 FTALGLDKYLERIRLTESEELKVQISA 187
+                         + E+EELK Q+ A
+Sbjct: 308 --------------ILENEELKKQLQA 320
+
+
+>sp|Q99KW3|TARA_MOUSE RecName: Full=TRIO and F-actin-binding protein;
+            AltName: Full=Protein Tara; AltName: Full=Trio-associated
+            repeat on actin;
+          Length = 2014
+
+ Score = 32.3 bits (72), Expect = 3.1,   Method: Composition-based stats.
+ Identities = 25/109 (22%), Positives = 41/109 (37%), Gaps = 11/109 (10%)
+
+Query: 179  EELKVQISAYLDNVFDVAALMEDSETKTSALERVQ-----------ELEDQLEREIDRNS 227
+            +EL+V    Y     ++ AL   +E +   L R Q           EL   L  EIDR  
+Sbjct: 1850 QELQVLSERYSQKCLEIGALTRQAEEREHTLRRCQQEGQELLRHNQELHSHLSEEIDRLR 1909
+
+Query: 228  EFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQHNEQELK 276
+             F+                  +L ++ +  E EL  +++ +Q    EL+
+Sbjct: 1910 SFIASQGTGNSCGRSNERSSCELEVLLRVKENELQYLKKEVQCLRDELQ 1958
+
+
+>sp|Q04004|PLP1_YEAST RecName: Full=Phosducin-like protein 1;
+          Length = 230
+
+ Score = 32.0 bits (71), Expect = 3.8,   Method: Compositional matrix adjust.
+ Identities = 15/33 (45%), Positives = 23/33 (69%)
+
+Query: 201 DSETKTSALERVQELEDQLEREIDRNSEFLYKY 233
+           DS+ K+S  E + EL ++L+RE+D + EFL  Y
+Sbjct: 25  DSDDKSSGEENLDELLNELDRELDEDHEFLSAY 57
+
+
+>sp|Q2QLA2|CTTB2_HORSE RecName: Full=Cortactin-binding protein 2;   
+                 Short=CortBP2;
+          Length = 1665
+
+ Score = 31.6 bits (70), Expect = 5.5,   Method: Composition-based stats.
+ Identities = 21/73 (28%), Positives = 40/73 (54%), Gaps = 11/73 (15%)
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALE--------RVQELE 216
+           G +K++  + + E ++L  ++      + +V A +E+ + KTSALE        R  E+E
+Sbjct: 165 GKNKHVVLMLVKECKQLSSKVIEEAQKLEEVMAKLEEEKKKTSALEEELSAEKRRSTEME 224
+
+Query: 217 DQLEREIDRNSEF 229
+            Q+E+++   SEF
+Sbjct: 225 AQMEKQL---SEF 234
+
+
+>sp|Q07E28|CTTB2_NEONE RecName: Full=Cortactin-binding protein 2;   
+                 Short=CortBP2;
+          Length = 1658
+
+ Score = 31.6 bits (70), Expect = 6.2,   Method: Composition-based stats.
+ Identities = 21/73 (28%), Positives = 40/73 (54%), Gaps = 11/73 (15%)
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALE--------RVQELE 216
+           G +K++  + + E ++L  ++      + +V   +E+ +TKTSALE        R  E+E
+Sbjct: 165 GKNKHVVLMLVKECKQLSGKVIEEAQKLEEVMVKLEEEKTKTSALEEELSAEKRRSTEME 224
+
+Query: 217 DQLEREIDRNSEF 229
+            Q+E+++   SEF
+Sbjct: 225 AQMEKQL---SEF 234
+
+
+>sp|Q2IBB2|CTTB2_RHIFE RecName: Full=Cortactin-binding protein 2;   
+                 Short=CortBP2;
+          Length = 1663
+
+ Score = 31.2 bits (69), Expect = 7.5,   Method: Composition-based stats.
+ Identities = 22/106 (20%), Positives = 49/106 (46%), Gaps = 2/106 (1%)
+
+Query: 165 GLDKYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQELEDQLEREID 224
+           G +K++  + + E ++L  ++      + DV A +++ + KTSALE  +EL  +  R  D
+Sbjct: 165 GKNKHVVLMLVKECKQLSGRVIEEAQKLEDVMAKLDEEKKKTSALE--EELSTEKRRSTD 222
+
+Query: 225 RNSEFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQH 270
+             ++   + +              +       L+EE+  M++M++ 
+Sbjct: 223 MEAQMEKQLSEFDTEREQLRAKLHREEAHTADLKEEIDKMKKMIEQ 268
+
+
+>sp|Q3UHD3|K0774_MOUSE RecName: Full=Uncharacterized protein KIAA0774;
+          Length = 1353
+
+ Score = 31.2 bits (69), Expect = 7.7,   Method: Composition-based stats.
+ Identities = 21/110 (19%), Positives = 49/110 (44%)
+
+Query: 168  KYLERIRLTESEELKVQISAYLDNVFDVAALMEDSETKTSALERVQELEDQLEREIDRNS 227
+            ++ E +R T  E+L++ ++ Y     D+ +L +  E K   +   ++   +LE+ +++N 
+Sbjct: 1196 RFEEALRKTTEEQLEIALAPYQHLEEDMQSLKQVLEMKNQQIHLQEKKIIELEKLVEKNI 1255
+
+Query: 228  EFLYKYAXXXXXXXXXXXXXXQLAMIRQKLEEELTVMQRMLQHNEQELKK 277
+                +                Q  ++ ++L EE   +Q  ++   QE K+
+Sbjct: 1256 ILEERIQVLQQQNEDLKARIDQNTVVTRQLSEENANLQEYVEKETQEKKR 1305
+
+
+  Database: SWISS: SWISS sequence taken from the header [Last update
+  May/16/2009]
+    Posted date:  May 16, 2009  5:30 AM
+  Number of letters in database: 154,417,242
+  Number of sequences in database:  428,650
+  
+Lambda     K      H
+   0.324    0.136    0.378 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 428650
+Number of Hits to DB: 71,061,513
+Number of extensions: 2622254
+Number of successful extensions: 10812
+Number of sequences better than 10.0: 68
+Number of HSP's gapped: 11292
+Number of HSP's successfully gapped: 68
+Length of query: 280
+Length of database: 154,417,242
+Length adjustment: 115
+Effective length of query: 165
+Effective length of database: 105,122,492
+Effective search space: 17345211180
+Effective search space used: 17345211180
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 15 ( 7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 40 (21.6 bits)
+S2: 68 (30.8 bits)

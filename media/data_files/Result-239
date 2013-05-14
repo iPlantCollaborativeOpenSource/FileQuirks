@@ -1,0 +1,417 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= query
+         (280 letters)
+
+Database: SWISS: SWISS sequence taken from the header [Last update
+May/16/2009] 
+           428,650 sequences; 154,417,242 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+sp|A2APV2|FMNL2_MOUSE RecName: Full=Formin-like protein 2; AltNa...   285   2e-76
+sp|Q96PY5|FMNL2_HUMAN RecName: Full=Formin-like protein 2; AltNa...   285   2e-76
+sp|Q8IVF7|FMNL3_HUMAN RecName: Full=Formin-like protein 3; AltNa...   278   2e-74
+sp|Q6ZPF4|FMNL3_MOUSE RecName: Full=Formin-like protein 3;            278   3e-74
+sp|O95466|FMNL_HUMAN RecName: Full=Formin-like protein 1; AltNam...   274   5e-73
+sp|Q9JL26|FMNL_MOUSE RecName: Full=Formin-like protein 1; AltNam...   270   8e-72
+sp|Q8BPM0|DAAM1_MOUSE RecName: Full=Disheveled-associated activa...   105   2e-22
+sp|Q9Y4D1|DAAM1_HUMAN RecName: Full=Disheveled-associated activa...   105   2e-22
+sp|Q80U19|DAAM2_MOUSE RecName: Full=Disheveled-associated activa...    96   2e-19
+sp|Q86T65|DAAM2_HUMAN RecName: Full=Disheveled-associated activa...    95   4e-19
+sp|O70566|DIAP2_MOUSE RecName: Full=Protein diaphanous homolog 2...    84   1e-15
+sp|Q5TJ56|FORF_DICDI RecName: Full=Formin-F; AltName: Full=Diaph...    83   2e-15
+sp|O60879|DIAP2_HUMAN RecName: Full=Protein diaphanous homolog 2...    83   2e-15
+sp|Q9Z207|DIAP3_MOUSE RecName: Full=Protein diaphanous homolog 3...    82   3e-15
+sp|Q0GNC1|INF2_MOUSE RecName: Full=Inverted formin-2;                  81   6e-15
+sp|Q27J81|INF2_HUMAN RecName: Full=Inverted formin-2; AltName: F...    80   2e-14
+sp|Q9NSV4|DIAP3_HUMAN RecName: Full=Protein diaphanous homolog 3...    77   2e-13
+sp|O08808|DIAP1_MOUSE RecName: Full=Protein diaphanous homolog 1...    75   5e-13
+sp|O60610|DIAP1_HUMAN RecName: Full=Protein diaphanous homolog 1...    75   6e-13
+sp|Q5TJ55|FORD_DICDI RecName: Full=Formin-D; AltName: Full=Diaph...    74   1e-12
+sp|P78621|SEPA_EMENI RecName: Full=Cytokinesis protein sepA; Alt...    74   1e-12
+sp|Q54N00|FORH_DICDI RecName: Full=Formin-H; AltName: Full=Diaph...    74   1e-12
+sp|Q5TJ57|FORE_DICDI RecName: Full=Formin-E; AltName: Full=Diaph...    71   8e-12
+sp|Q0IHV1|INF2_XENTR RecName: Full=Inverted formin-2;                  64   9e-10
+sp|P48608|DIA_DROME RecName: Full=Protein diaphanous;                  63   2e-09
+sp|Q6NTV6|INF2_XENLA RecName: Full=Inverted formin-2;                  62   3e-09
+sp|Q54WH2|FORA_DICDI RecName: Full=Formin-A;                           59   2e-08
+sp|Q54SP2|FORB_DICDI RecName: Full=Formin-B;                           52   3e-06
+sp|Q86UP8|GTD2A_HUMAN RecName: Full=General transcription factor...    37   0.15 
+sp|Q55DM7|PKS2_DICDI RecName: Full=Probable polyketide synthase ...    35   0.34 
+sp|Q9FJK6|CCC11_ARATH RecName: Full=Cyclin-C1-1;          Short=...    35   0.42 
+sp|Q00722|PLCB2_HUMAN RecName: Full=1-phosphatidylinositol-4,5-b...    35   0.44 
+sp|Q6EKJ0|GTD2B_HUMAN RecName: Full=General transcription factor...    34   0.75 
+sp|A0M8T5|CTTB2_FELCA RecName: Full=Cortactin-binding protein 2;...    33   1.9  
+sp|Q8N5R6|CCD33_HUMAN RecName: Full=Coiled-coil domain-containin...    33   2.2  
+sp|Q6FU75|LIC4_CANGA RecName: Full=Protein ATC1/LIC4;                  33   2.5  
+sp|Q99KW3|TARA_MOUSE RecName: Full=TRIO and F-actin-binding prot...    32   3.1  
+sp|Q04004|PLP1_YEAST RecName: Full=Phosducin-like protein 1;           32   3.8  
+sp|Q2QLA2|CTTB2_HORSE RecName: Full=Cortactin-binding protein 2;...    32   5.5  
+sp|Q07E28|CTTB2_NEONE RecName: Full=Cortactin-binding protein 2;...    32   6.2  
+sp|Q2IBB2|CTTB2_RHIFE RecName: Full=Cortactin-binding protein 2;...    31   7.5  
+sp|Q3UHD3|K0774_MOUSE RecName: Full=Uncharacterized protein KIAA...    31   7.7  
+
+1_0    15   SPSLKRRSRHIAKLNMGAATDDIHVSIMCLRAIMNNKYGFNMVIQHREAINCIALSLIHK 74
+102001 219                      ..V..C.........YQ......MS.PH.V.E.....NN. 258
+102000 219                      ..V..C.........YQ......MS.PH.V.E.....NN. 258
+102002 222                      ..V..C.L.......YQ....L.MS.PH.V.E.....NN. 261
+102003 222                      ..V..C.L.......YQ....L.MS.PH.V.E.....NN. 261
+102004 192  P..SVPK...LT..TPASQK..V..C.........YQS..SL.MN.PACV.E.....NN. 264
+                        \    \                                          
+                        |    |
+                        I HSRKALRNSRIV                                  
+102005 224                      ..V..C.........YQS..SL.MN.PACV.E.....NN. 263
+66712  177                        ..T.LI.IK.L...SQ.RAH.LA.S.S..V..Q..STE 215
+                                        \                               
+                                        |
+                                        G                               
+66711  177                        ..T.LI.IK.L...SQ.RAH.LA.S.S..V..Q..STE 215
+                                        \                               
+                                        |
+                                        G                               
+66714  173                        ..T..G.IK.L...SQ.RAH.LAQP...SI..Q..RTE 211
+                                      \                                 
+                                      |
+                                      L                                 
+66713  173                        ..T.LI.IK.L...SQ.RAH.LAQP...ST..Q..RTE 211
+                                        \                               
+                                        |
+                                        G                               
+74241  233                            .Q..K.F....F.LQRILGDERSLLLL.RAIDP. 266
+103537 135                         SLAVT..LSLL.S...IEKA.ATPNSMIRLIT.MDTP 171
+74240  234                            .Q..K.F....F.LQRILGDERSLLLL.RAIDP. 267
+74243  223                         .KV.Q....L..TQ..LERIMSDKRSLSLL.KAMDPR 259
+147486 102                            .S.V..V..SQQ.IEYILSNQGYVRQLSQA.DTS 135
+147485 102                            VS.V..V..SRQ.IEYILSNQGYVRQLSQA.DTS 135
+74242  244                         .KV.Q..K.L..TQ..LERIMSEERSLSLL.KAVDPR 280
+74239  206                         .EI.R..K.F....F.IKTMLETE.G.LLLVRAMDPA 242
+74238  215                         .EI.R..K.F....F.IKTMLETE.G.LLLVRAMDPA 251
+103535 138                      E..YKIAQ..HS...T.F.LES..KQPTN.HS.S.VMDTP 180
+                                            \                           
+                                            |
+                                          LKL                           
+326958 435                            VK..K.L......ADDALA.QQI.VALIS..LSP 468
+103539 171                              .IA.L.KI.I.MEYIASFPQTT.LMV.C.DTP 202
+103536 692                            LS.IGKV.S.PI.L.S.A.LPM.PKT.TKV.RS. 725
+147488 102                            .N.V.TL..SHR.IEYIVNNEGYVRKLSQA.DTS 135
+74245  188                           A.R..K.....TW.L.V.L..-SVVLLL.Q..DPR 224
+                                                        \               
+                                                        |
+                                                      NPD               
+147487 102                            .N.V.TL..SHK.IEYIVNNEGYVRKLSQA.DTS 135
+103530 299                              .IKNL...NV.IGYIFGIKDSFKT.V.C.GSE 330
+232294 1691                                           ..VYVNT..QVFI.F.SY 1708
+38478  149          .SLSEFLQD..LN.VNMNQITW-G.V.DT.KMDLILV..I.LA..YIASV.R 202
+                                                          \             
+                                                          |
+                                                        PPY             
+166497 192                                ..KLK...EMSNI.I.K.D.PAAN..MVDN 225
+                                                                   \    
+                                                                   |
+                                                                RNRR    
+
+1_0    75   SLRTKALVLELLAAICLVKGGHEIILGSFDNFKDVCQEKRRFQTLMEYFMNFEAFNIDFM 134
+102001 259  NP............V...R.......SA.....E..G..Q..EK...H.R.-.DN..... 317
+102000 259  NP............V...R.......SA.....E..G..Q..EK...H.R.-.DN..... 317
+102002 262  NP............V...R.......AA.....E..K.LH..EK.....R.-.DS..... 320
+102003 262  NP............V...R.......AA.....E..K.LH..EK.....R.-.DS..... 320
+102004 265  NP............V...R...D...AA.....E..G.QH..EK.....R.-.DS..... 323
+102005 264  .P............V...R...D...AA.....E..G.QH..EK.....RH-.DS..... 322
+66712  216  NIK..VA...I.G.V...P...KKV.QAMLHYQKYAS.RT.....INDLDKSTGREVSLK 278
+                                                                   \    
+                                                                   |
+                                                                 YRD    
+66711  216  NIK..VA...I.G.V...P...KKV.QAMLHYQKYAS.RT.....INDLDKSTGREVSLK 278
+                                                                   \    
+                                                                   |
+                                                                 YRD    
+66714  212  NSK..VA...I.G.V...P...KKV.QAMLHYQAYAA.RT.....LDRSLGRYRDEVNLK 274
+                                                         \              
+                                                         |
+                                                       LNE              
+66713  212  NSK..VA...I.G.V...P...KKV.QAMLHYQVYAA.RT.....LNELLGRYRDEVNLK 274
+                                                             \          
+                                                             |
+                                                           DRS          
+74241  267  QQNMMTEIVKI.S...I.--.E.N..DKLLGGITAAA.RE..SPIV.GLE.N..LHL--Q 325
+                                                  \                     
+                                                  |
+                                                LNN                     
+103537 172  KAD.RSS.F.I.T...MIEK.YQL..EAMTH..Q.RK.RF..TF.V.SM..--SSDKEYL 233
+                              \                              \          
+                              |                              |
+                              S                            KKV          
+74240  268  QPNMMTEIVKI.S...I.--.E.N..DKLLGAITTAA.RE..SPIV.GLE.Q..LQL--Q 326
+                                                   \                    
+                                                   |
+                                                 NNR                    
+74243  260  QPAMM.D.VK..S.V.I.--.E.S..EEVLEALTSAG.E.KIDRFFSIVEGLRHNSVNLQ 317
+147486 136  NVMV.KQ.F.....L.IYSE..ALT.DAL.HY.M..SQQY..SVI.SELSDSD--.VPYV 194
+                               \                                        
+                               |
+                               P                                        
+147485 136  NVMV.KQ.F.....L.IYSE..VLT.DAL.HY.T..SQQY..SIV.NELSGSD--.VPYV 194
+                               \                                        
+                               |
+                               P                                        
+74242  281  HPNMMTD.VK..S.V.I.-.EES.LEEVLEALTSAGE..K..FCIV.---GLRHNSVQLQ 338
+                                                    \                   
+                                                    |
+                                                   ID                   
+74239  243  VPNMMIDAAK..S.L.ILPQPN.RV.EAMTERAEM-D.VE...P.LDGLKS--GTS.ALK 302
+                                 \                                      
+                                 |
+                               EDM                                      
+74238  252  VPNMMIDAAK..S.L.ILPQPN.RV.EAMTERAEM-D.VE...P.LDGLKS--GTT.ALK 311
+                                 \                                      
+                                 |
+                               EDM                                      
+103535 181  H.K.RIM.I.....L.V.NS.LPLV.SAM..YRE.KR..KP.IH.FQGLK.PSG---SLQ 238
+                                \                                       
+                                |
+                                K                                       
+326958 469  R.N.RK..S.V.TFL.WAE....RV.QAM.HV.NHQG.TG..DAW...RIGM.NLLMEYA 554
+                            \   \                         \  \          
+                            |   |                         |  |
+                            H   Q     RIVEVTIDGRGKMGSLVGASE SGG         
+103539 203  LIKA.T.........AVTDR..GAV.T.MIYH.E.KK.IT.YFN.VQS-LKI.K-.AEYL 260
+103536 726  QIKS..MAI...TVML..P..CSLV.KALTKT.----..K..SFFVRFIKDN.SLELKTK 786
+             \               \                                          
+             |               |
+            YC             DKY                                          
+147488 136  NVMV.KQ.F.....L.IYSE..ALS.DALEHY.A.KNQQY..SVI.NELSTSD--.VPY. 194
+                               \                                        
+                               |
+                               P                                        
+74245  225  KPQ.MCEA.K...SF.I.RN.Y.KV.RAITTIAATSKASE..RPIVDALFASDQQDPKRD 287
+                              \                 \                       
+                              |                 |
+                             YE                 F                       
+147487 136  NVMV.KQ.F.....L.IYSP..ALC.DALEHY.V.KNQQY..SVITNELSSSD--.VPY. 194
+                                \                                       
+                                |
+                                E                                       
+103530 331  YEKVNE.AIG..NT..FLPN..KLLIELLNY..EEKK.S...ISIVKSLKSKAGVTLKTK 397
+                               \                                   \    
+                               |                                   |
+                              KI                               IETKE    
+103531 228                      ..SYV.EAIE...VSNR..V....II.KSVSNTQLHYEYL 269
+                                                           \            
+                                                           |
+                                                          GA            
+123873 419                                  RKID..G.V..EKW...F-V.VQ..PTC 447
+                                                           \            
+                                                           |
+                                                          RA            
+232294 1709 ..EYIKINQH..RTN.FIETTNTLVSATVGA.RYF.E----.SQ.DL.L.D.DD---SIY 1772
+                            \                                           
+                            |
+                  NAKHVLLTRSA                                           
+38478  203  EKDIT.WFED.HEDMN...NIAME..DFYE.YRTITE..                      241
+123874 419                                  RKID..G.V..EKW...F-V.VQ..PTC 447
+                                                           \            
+                                                           |
+                                                          RA            
+166497 226  NVIK.ISPHSSADHNKT..KEPVV.TNEY-TVSQ.A.M...IIDSHKLLL..NVIKDNYA 284
+
+1_0    135  VACMQFMNIVVHSVEDMNYRVHLQYEFTALGLDKYLERIRLTESEELKVQISAYLDNVFD 194
+102001 318  ..S...I...........F.........K....E..DKLKH...DK.Q...Q........ 377
+102000 318  ..S...I...........F.........K....E..DKLKH...DK.Q...Q........ 377
+102002 321  ......I...........F.........K...EEF.QKS.H....K.Q...Q........ 380
+102003 321  ......I...........F.........K...EEF.QKS.H....K.Q...Q........ 380
+102004 324  ......I........N..F..F......H....L....L.....DK.Q...Q.....I.. 383
+102005 323  ......I........N..F..F......H....L....L.....DK.Q...Q........ 382
+66712  279  T.I.S.I.A.LSG..SLDF.L..R...LM..IQPVIDKL.EH.NST.              328
+                        \                                               
+                        |
+                      QGA                                               
+66711  279  T.I.S.I.A.LSG..SLDF.L..R...LM..IQPVIDKL.EH.NST.              328
+                        \                                               
+                        |
+                      QGA                                               
+66714  275  T.I.S.I.A.LNAGDNLEF.L..R...LM..IQPVIDKL.QH.N                 321
+                          \                                             
+                          |
+                        AGE                                             
+66713  275  T.I.S.I.A.LNAGDNLEF.L..R...LM..IQPVIDKL.QH.N                 321
+                          \                                             
+                          |
+                        AGE                                             
+74241  326  ......I.AL.T.PY.LDF.I..RN..LRC..KAM.PTLKEI.N.G.DI.LRVFEE.KE. 385
+103537 234  TT.LTLV.GI.N.S.EIDE.IQ.RT...R....EVIKN.PYE.APD.LT..DV.E.     292
+                                                \                       
+                                                |
+                                              SVN                       
+74240  327  ......I.AL.T.PYELDF.I..RN..LRS..KTM.PDLKEK.ND..DI.LKVFDE.KE. 386
+74243  318  .....LI.AL.T.PD.LDF.L..RN..MRC..KEI.PNLKGIKNDG.DI..R.E..EAS. 398
+                                                              \         
+                                                              |
+                                          LKVFDEHKEEDLSEFFHRLED         
+147486 195  .TLLSVI.AIILGP..LRS.AQ.RS..IG.Q.LDI.T.L.DL.DAD.LI.L          245
+147485 195  .TLLSVI.A.ILGP..LRA.TQ.RN..IG.Q.LDV.A.L.DL.DAD.LI.L          245
+74242  339  .....LI.AL.T.PD.LDF.L.IRN..MRC..KEI.PNLKCIKNDG.DI.LKVFEEDL.E 402
+                                                                  \     
+                                                                  |
+                                                               DEHK     
+74239  303  .G.L.LI.ALITPA.ELDF...IRS.LMR...HQV.QEL.EI.N.DM...LCVFDEDF.. 366
+                                                                  \     
+                                                                  |
+                                                               DEQG     
+74238  312  .G.L.LI.ALITPA.ELDF...IRS.LMR...HQV.QDL.EI.N.DMR..L-----.... 366
+103535 239  ATTFALI.TLIS.SQSVEE.QKIRNQ.KK..IT.VI.EL                      277
+326958 555  .ST.ILI.ML.DAP..LQL.C.IRAQ.ISC.IKRL.SKMEGFQY.VIDK..EHFRE.AI. 616
+                           \                                         \  
+                           |                                         |
+                           N                                         E  
+103539 261  TT..S.I.CIIS.PS.LPS.IEIRKA.LN.KIL..I.NL.                     300
+103536 787  AL.--.I.VLIFEM....V..NIRS..LR...YT..RE.KI.HEKT.FT..EIFEE---- 842
+                                                    \                   
+                                                    |
+                                                   KT                   
+147488 195  .TLLSAI.AIIFGT.ELRK..Q.RN..IG.Q.LDL.TKL.DL.D.D.LI.           244
+74245  288  L..LI.I.TLTNTPT.L.F.L..RC.IMRM...EFTKIVEASNN.N.Q             341
+               \                           \                            
+               |                           |
+              HS                        LYDR                            
+147487 195  .TLLSVI.AIIFGT.ELRN..Q.RN..IG.Q.LDL.TKL.DL.D.D.LI.           244
+103530 398  SIYLS.I..I.NTPAEIDL.LA.RQ..YW..IKEI.VKLSYD..P..DT..TVF       454
+                                                    \                   
+                                                    |
+                                                  NYT                   
+103531 270  TSF.NLV.SI.N.PA.LQV.IG.RS.....K.IELISNSKGV-..D.DT..NLFFE     324
+123873 448  LI.K.S.SVS----KEY.L.R.Y.TNHSK-HY.Q.M..M.DEKLH...KGLRK..LGLS. 502
+232294 1773 LKS...I.-.T.EMTNP.K--.Y.R..IFR.DKV.Y..VTQETNLK..LKSTS.I      1824
+123874 448  LI.K.S.SVS----KEY.L.R.Y.TNHSK-HY.Q.T..M.DEKLH...KGLRK..LGSS. 502
+60486  165                                .KN.HVVLMLVK.CKQ.SGKVIEEAQKLEE 194
+38551  631             .DT.MN...LS.RRQASI.EGENRIL.S..AQQ..EEG.GK.SAQ.TVS 690
+                                \                                 \     
+                                |                                 |
+                       RAMQKMAEDI                                 E     
+166497 285  R..V.LKRS.TALKDSEIH.A..-----------------IL.N....K.LQ.        320
+352249 1850                                             Q..Q.LSER.SQKCLE 1865
+60488  165                                .KN.HVVLMLVK.CKQ.SSKVIEEAQKLEE 194
+60496  165                                .KN.HVVLMLVK.CKQ.SGKVIEEAQKLEE 194
+60502  165                                .KN.HVVLMLVK.CKQ.SGRVIEEAQKLE. 194
+152842 1196                                  RFE.AL.K.TE.Q.EIALAP.QHLEE. 1222
+
+1_0    195  VAALMEDSETKTSALERVQELEDQLEREIDRNSEFLYKYAXXXXXXXXXXXXXXQLAMIR 254
+102001 378  .G..L..A...NA.....E...ENI                                    402
+102000 378  .G..L..A...NA.....E...ENI                                    402
+102002 381  .GG.L..A...NV...K.E...EHV.KLL.LEN.NMMRV.ELEKQLLQREKELESIKETY 444
+                                     \                                  
+                                     |
+                                  SHLT                                  
+102003 381  .GG.L..A...NV...K.E...EHV.KLL.LEN.NMMRV.ELEKQLLQREKELESIKETY 444
+                                     \                                  
+                                     |
+                                  SHLT                                  
+102004 384  .G..L..T...NAV..HME..QE.V..LR.AEN.SMA.I.                     427
+                                     \                                  
+                                     |
+                                  ALLT                                  
+102005 383  .GT.L.ET...NAV..HME..QE.V                                    407
+74243  399  .YSMLW.TVKE.R.                                               412
+74242  403  LSHRL..                                                      409
+74239  367  LKGRLD.                                                      373
+326958 617  YED.L.S.S..D.IEGE.KDMT.P.Q                                   644
+                 \                                                      
+                 |
+                QR                                                      
+103536 843  ----.MNED.QELD.-.LED.KR..GID..                               867
+123873 503  TQVFAHP.P.QK.PVQP.ED.AGN.WEKLREKIRSFVA.S-IAIDEITDINNTT...IFI 567
+             \                                                          
+             |
+            ECPEQK                                                      
+232470 979                  ..R..K.R..L.LL.QG.EQ.ECVLKRKEQHVAEQISKMMELA. 1022
+123874 503  TQVFANP.P.QK.PVQP.ED.AGN.WEKLREKIRSFVA.S-IAIDEITDINNTT...IFI 567
+             \                                                          
+             |
+            ECPEQK                                                      
+60486  195  .M.KL.EEK........ST.M.A.M.KQL---...                          234
+                            \                                           
+                            |
+                     EELSAEKR                                           
+38551  691  MKQKLLL..LDMKK.D...H.QNE.I.KN..EK.L.LL.QAQQPQAALLKQYQGK.QKMK 751
+                           \                                            
+                           |
+                           R                                            
+352249 1866 IG..TRQA.EREHT.R.C...HSH.SE....LRS.IASQGTGNSCGRSNERSSCE.EVLL 1936
+                               \                                        
+                               |
+                     QEGQELLRHNQ                                        
+232801 25         ..DD.S.GE.NLD..LNE.D..L.EDH...SA.                      57
+60488  195  .M.KL.EEKK.......ST.M.A.M.KQL---...                          234
+                            \                                           
+                            |
+                     EELSAEKR                                           
+60496  195  .MVKL.EEK........ST.M.A.M.KQL---...                          234
+                            \                                           
+                            |
+                     EELSAEKR                                           
+60502  195  .M.KLDEEKK......--E..STEKR.ST.MEAQMEKQLSEFDTEREQLRAKLHREEAHT 252
+152842 1223 MQS.KQVL.M.NQQIHLQEKKIIE..KLVEK.IILEERIQVLQQQNEDLKARID.NTVVT 1282
+
+1_0    255  QKLEEELTVMQRMLQHNEQELKKR 278
+102002 445  ENTSHQVHTLR.LIKEK.EAFQR. 468
+102003 445  ENTSNQVHTLR.LIKEK.EAFQR. 468
+123873 568  RGVD.NFD.SEEL.           581
+232470 1023 E.QAA..KALKETSENDTK.M..K 1046
+123874 568  RGVD.NFD.SEEL.           581
+38551  752  -A...TVRHQEKVIEKM.RV.ED. 774
+352249 1937 RVK.N..QYLKKEV.CLRD..Q   1958
+60502  253  AD.K..IDK.KK.IEQ         268
+152842 1283 RQ.S..NANL.EYVEKET..K.R  1305
+  Database: SWISS: SWISS sequence taken from the header [Last update
+  May/16/2009]
+    Posted date:  May 16, 2009  5:30 AM
+  Number of letters in database: 154,417,242
+  Number of sequences in database:  428,650
+  
+Lambda     K      H
+   0.324    0.136    0.378 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 428650
+Number of Hits to DB: 71,061,513
+Number of extensions: 2622254
+Number of successful extensions: 10812
+Number of sequences better than 10.0: 68
+Number of HSP's gapped: 11292
+Number of HSP's successfully gapped: 68
+Length of query: 280
+Length of database: 154,417,242
+Length adjustment: 115
+Effective length of query: 165
+Effective length of database: 105,122,492
+Effective search space: 17345211180
+Effective search space used: 17345211180
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 15 ( 7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 40 (21.6 bits)
+S2: 68 (30.8 bits)

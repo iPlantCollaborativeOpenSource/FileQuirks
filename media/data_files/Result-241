@@ -1,0 +1,111 @@
+BLASTP 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+Query= query
+         (239 letters)
+
+Database: PDBSH: PDBSH sequence taken from the header [Last update
+May/29/2009] 
+           87,947 sequences; 21,314,628 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+2CH9_A|2.1 | 1| 131|N|MOL_ID: 1; MOLECULE: CYSTATIN F; SYNONYM: ...    44   1e-04
+1N5P_A|NOT | 1| 105|N|MOL_ID: 1; MOLECULE: PROTEGRINS; CHAIN: A;...    37   0.015
+1N5H_A|NOT | 1| 105|N|MOL_ID: 1; MOLECULE: PROTEGRINS; CHAIN: A;...    37   0.015
+1LXE_A|2.50| 1| 101|N|MOL_ID: 1; MOLECULE: PROTEGRIN-3 PRECURSOR...    37   0.016
+1KWI_A|2.19| 1| 101|N|MOL_ID: 1; MOLECULE: PROTEGRIN-3 PRECURSOR...    37   0.016
+1YVB_I|2.70| 2| 111|N|MOL_ID: 1; MOLECULE: FALCIPAIN 2; CHAIN: A...    36   0.031
+1A90  |NOT | 1| 108|M|MOL_ID: 1; MOLECULE: CYSTATIN; CHAIN: NULL...    35   0.053
+1R4C_H|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_G|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_F|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_E|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_D|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_C|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_B|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1R4C_A|2.18| 8| 110|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.086
+1TIJ_B|3.03| 2| 120|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.087
+1TIJ_A|3.03| 2| 120|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A,...    34   0.087
+1G96_A|2.50| 1| 120|N|MOL_ID: 1; MOLECULE: CYSTATIN C; CHAIN: A;...    34   0.087
+1CEW_I|2.0 | 1| 108|N|CYSTATIN                                  ...    34   0.12 
+1A67  |NOT | 1| 108|N|MOL_ID: 1; MOLECULE: CYSTATIN; CHAIN: NULL...    34   0.12 
+1ROA_A|1.80| 1| 122|M|MOL_ID: 1; MOLECULE: CYSTATIN D; CHAIN: A;...    31   0.70 
+1RN7_A|2.50| 1| 122|M|MOL_ID: 1; MOLECULE: CYSTATIN D; CHAIN: A;...    31   0.70 
+2H6C_B|2.90| 2| 232|N|MOL_ID: 1; MOLECULE: CHLOROPHENOL REDUCTIO...    28   4.2  
+2H6C_A|2.90| 2| 232|N|MOL_ID: 1; MOLECULE: CHLOROPHENOL REDUCTIO...    28   4.2  
+
+1_0   34  KAVDAALTKYNSENKSGNQFVLYRITEVARMDNPDTFYSLKYQIKEGDCPFQSNKTWQDC 93
+29761 11  E..LR.VDRL.EQSSEA.LYR.LELDQPPKA.D.G.PKPVSFTV..TV..RPTRQPPEL. 71
+                                          \                           
+                                          |
+                                          E                           
+29749 11  E..LR.VDRL.EQSSEA.LYR.LELDQPPKA.D.G.PKPVSFTV..TV..RPTRQPPEL. 71
+                                          \                           
+                                          |
+                                          E                           
+26749 7   E..LR.VDRL.EQSSEA.LYR.LELDQPPKA.D.G.PKPVSFTV..TV..RPTRQPPEL. 67
+                                          \                           
+                                          |
+                                          E                           
+
+1_0   94  DYKDSAQAATGQCTATVAKRGNMKFSVAIQTCLITPAEGPVVTAQYECLGCVHPISTKSP 153
+66455 23                                                        .K.ND. 28
+29761 72  .F.ENGRVK--..VG..                                            86
+29749 72  .F.ENGRVK--..VG..                                            86
+26749 68  .F.ENGRVK--..VG..                                            82
+
+1_0   154 DLEPVLRYAIQYFNNNTSHSHLFDLKEVKRAQKQVVSGWNYEVNYSIAQTNCSKEE 209
+66455 29  GVLQAA..SVEK...C.NDMF..KESRIT..LV.I.K.LK.MLEVE.GR.T.K.NQ 84
+  Database: PDBSH: PDBSH sequence taken from the header [Last update
+  May/29/2009]
+    Posted date:  May 29, 2009  9:00 AM
+  Number of letters in database: 21,314,628
+  Number of sequences in database:  87,947
+  
+Lambda     K      H
+   0.317    0.130    0.390 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 87947
+Number of Hits to DB: 9,891,981
+Number of extensions: 375563
+Number of successful extensions: 1042
+Number of sequences better than 10.0: 24
+Number of HSP's gapped: 1042
+Number of HSP's successfully gapped: 28
+Length of query: 239
+Length of database: 21,314,628
+Length adjustment: 98
+Effective length of query: 141
+Effective length of database: 12,695,822
+Effective search space: 1790110902
+Effective search space used: 1790110902
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 60 (27.7 bits)

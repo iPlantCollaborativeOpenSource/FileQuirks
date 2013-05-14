@@ -1,0 +1,475 @@
+gc; GLYCHORMONER
+gx; PR00373
+gn; COMPOUND(8)
+ga; 06-JUL-1995; UPDATE 07-JUN-1999
+gt; Glycoprotein hormone receptor signature 
+gp; PRINTS; PR00237 GPCRRHODOPSN; PR00247 GPCRCAMP; PR00248 GPCRMGR
+gp; PRINTS; PR00249 GPCRSECRETIN; PR00250 GPCRSTE2; PR00899 GPCRSTE3
+gp; PRINTS; PR00251 BACTRLOPSIN
+gp; PRINTS; PR01143 FSHRECEPTOR; PR01144 LSHRECEPTOR; PR01145 TSHRECEPTOR
+gp; INTERPRO; IPR002131
+bb;
+gr; 1. ATTWOOD, T.K. AND FINDLAY, J.B.C. 
+gr; Fingerprinting G protein-coupled receptors.
+gr; PROTEIN ENG. 7(2) 195-203 (1994).
+gr;
+gr; 2. ATTWOOD, T.K. AND FINDLAY, J.B.C. 
+gr; G protein-coupled receptor fingerprints.
+gr; 7TM, VOLUME 2, EDS. G.VRIEND AND B.BYWATER (1993).
+gr;
+gr; 3. BIRNBAUMER, L.
+gr; G proteins in signal transduction.
+gr; ANNU.REV.PHARMACOL.TOXICOL. 30 675-705 (1990).
+gr;
+gr; 4. CASEY, P.J. AND GILMAN, A.G.
+gr; G protein involvement in receptor-effector coupling.
+gr; J.BIOL.CHEM. 263(6) 2577-2580 (1988).
+gr;
+gr; 5. ATTWOOD, T.K. AND FINDLAY, J.B.C. 
+gr; Design of a discriminating fingerprint for G protein-coupled receptors.
+gr; PROTEIN ENG. 6(2) 167-176 (1993).
+gr;
+gr; 6. WATSON, S. AND ARKINSTALL, S.
+gr; Glycoprotein hormones.
+gr; IN THE G PROTEIN-LINKED RECEPTOR FACTSBOOK, ACADEMIC PRESS, 1994, PP.142-149.
+bb;
+bb;
+gd; G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+gd; encompasses a wide range of functions (including various autocrine, para-
+gd; crine and endocrine processes). They show considerable diversity at the 
+gd; sequence level, on the basis of which they can be separated into distinct 
+gd; groups. We use the term clan to describe the GPCRs, as they embrace a group
+gd; of families for which there are indications of evolutionary relationship, 
+gd; but between which there is no statistically significant similarity in 
+gd; sequence [1,2]. The currently known clan members include the rhodopsin-like 
+gd; GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+gd; pheromone receptors, and the metabotropic glutamate receptor family.
+gd; 
+gd; The rhodopsin-like GPCRs themselves represent a widespread protein family 
+gd; that includes hormone, neurotransmitter and light receptors, all of
+gd; which transduce extracellular signals through interaction with guanine
+gd; nucleotide-binding (G) proteins. Although their activating ligands vary 
+gd; widely in structure and character, the amino acid sequences of the 
+gd; receptors are very similar and are believed to adopt a common structural 
+gd; framework comprising 7 transmembrane (TM) helices [3-5]. 
+gd; 
+gd; The gonadotrophins (luteinising hormone, choriogonadotrophin, follicle-
+gd; stimulating hormone) and thyroid-stimulating hormone are heterotrimeric
+gd; glycoproteins composed of a common alpha-subunit and distinct beta-subunits
+gd; [6]. The carbohydrate moiety of the glycoproteins has an essential role in
+gd; receptor recognition. The receptors share close sequence similarity, and
+gd; are characterised by large extracellular domains believed to be involved
+gd; in hormone binding [6].
+gd; 
+gd; GLYCHORMONER is an 8-element fingerprint that provides a signature for the
+gd; glycoprotein hormone receptors. The fingerprint was derived from an initial
+gd; alignment of 4 sequences: the motifs were drawn from conserved sections
+gd; within either loop or TM regions, focusing on those areas of the alignment
+gd; that characterise the glycoprotein hormone receptors but distinguish them
+gd; from the rest of the rhodopsin-like superfamily - motif 1 was drawn from
+gd; the N-terminal region leading into TM domain 1; motif 2 spans the first
+gd; cytoplasmic loop; motif 3 spans the first external loop; motif 4 lies in
+gd; TM domain 3; motif 5 lies at the C-terminus of TM domain 4 leading into the
+gd; second external loop; motif 6 spans the third cytoplasmic loop and part of
+gd; TM domain 6; and motif 7 spans the third external loop leading into TM 
+gd; domain 7. Two iterations on OWL26.0 were required to reach convergence, at
+gd; which point a true set comprising 19 sequences was identfied. Four partial
+gd; matches were also found, three of which are hormone receptor fragments,
+gd; and the fourth is a putative GPCR from the great pond snail, which is
+gd; highly similar to 3 of the motifs.
+gd;
+gd; An update on SPTR37_9f identified a true set of 26 sequences, and 3
+gd; partial matches.
+bb;
+bb;
+si; SUMMARY INFORMATION
+si; -------------------
+sd;   26 codes involving  8 elements
+sd;    0 codes involving  7 elements
+sd;    0 codes involving  6 elements
+sd;    1 codes involving  5 elements
+sd;    1 codes involving  4 elements
+sd;    1 codes involving  3 elements
+sd;    0 codes involving  2 elements
+bb;
+bb;
+ci; COMPOSITE FINGERPRINT INDEX
+ci; ---------------------------
+cr;
+cd;  8|  26   26   26   26   26   26   26   26  
+cd;  7|   0    0    0    0    0    0    0    0  
+cd;  6|   0    0    0    0    0    0    0    0  
+cd;  5|   1    1    1    1    1    0    0    0  
+cd;  4|   1    0    1    1    0    0    1    0  
+cd;  3|   1    0    0    1    0    1    0    0  
+cd;  2|   0    0    0    0    0    0    0    0  
+cd; --+-----------------------------------------
+cd;   |   1    2    3    4    5    6    7    8  
+bb;
+bb;
+tp; FSHR_HORSE     LSHR_BOVIN     LSHR_HUMAN     Q15996         
+tp; Q14751         FSHR_CHICK     LSHR_MOUSE     FSHR_SHEEP     
+tp; FSHR_BOVIN     FSHR_RAT       Q64183         LSHR_PIG       
+tp; LSHR_CALJA     TSHR_CANFA     FSHR_PIG       LSHR_RAT       
+tp; TSHR_MOUSE     TSHR_BOVIN     TSHR_SHEEP     FSHR_MACFA     
+tp; TSHR_HUMAN     FSHR_EQUAS     FSHR_HUMAN     TSHR_RAT       
+tp; GLHR_ANTEL     Q94979         
+bb;
+sn; Codes involving 5 elements
+st; Q27986         
+bb;
+sn; Codes involving 4 elements
+st; Q18759         
+bb;
+sn; Codes involving 3 elements
+st; GPCR_LYMST     
+bb;
+bb;
+tt; FSHR_HORSE       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; LSHR_BOVIN       LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; LSHR_HUMAN       LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; Q15996           LUTEINIZING HORMONE RECEPTOR - HOMO SAPIENS (HUMAN).
+tt; Q14751           LUTEINISING HORMONE-CHORIOGONADOTROPIN RECEPTOR - HOMO SAPIENS (HUMAN).
+tt; FSHR_CHICK       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; LSHR_MOUSE       LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; FSHR_SHEEP       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; FSHR_BOVIN       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; FSHR_RAT         FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; Q64183           FOLLICLE-STIMULATING HORMONE RECEPTOR - RATTUS NORVEGICUS (RAT).
+tt; LSHR_PIG         LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; LSHR_CALJA       LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; TSHR_CANFA       THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; FSHR_PIG         FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; LSHR_RAT         LUTROPIN-CHORIOGONADOTROPIC HORMONE RECEPTOR PRECURSOR (LH/CG-R) (LSH-R) (LUTEIN
+tt; TSHR_MOUSE       THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; TSHR_BOVIN       THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; TSHR_SHEEP       THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; FSHR_MACFA       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; TSHR_HUMAN       THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; FSHR_EQUAS       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; FSHR_HUMAN       FOLLICLE STIMULATING HORMONE RECEPTOR PRECURSOR (FSH-R) (FOLLITROPIN RECEPTOR) -
+tt; TSHR_RAT         THYROTROPIN RECEPTOR PRECURSOR (TSH-R) (THYROID STIMULATING HORMONE RECEPTOR) - 
+tt; GLHR_ANTEL       PROBABLE GLYCOPROTEIN HORMONE G protein COUPLED RECEPTOR PRECURSOR - ANTHOPLEURA
+tt; Q94979           TSH, FSH, LH/CG RECEPTOR - DROSOPHILA MELANOGASTER (FRUIT FLY).
+tt;
+tt; Q27986           THYROTROPIN (TSH) RECEPTOR VARIANT (TSH) - BOS TAURUS (BOVINE).
+tt;
+tt; Q18759           C50H2.1 PROTEIN - CAENORHABDITIS ELEGANS.
+tt;
+tt; GPCR_LYMST       G protein COUPLED RECEPTOR GRL101 PRECURSOR - LYMNAEA STAGNALIS (GREAT POND SNAI
+bb;
+bb;
+sh; SCAN HISTORY
+sh; ------------
+dn; OWL26_0     2   100 NSINGLE
+dn; SPTR37_9f   2    35 NSINGLE
+bb;
+bb;
+im; INITIAL MOTIF-SETS
+im; ------------------
+ic; GLYCHORMONER1
+il; 18
+it; Hormone receptor motif I - 1 
+id; FNPCEDIMGYDFLRVLIW               LSHR_HUMAN    350   350
+id; FNPCEDIMGYDILRVLIW               FSHR_SHEEP    353   353
+id; FNPCEDIMGYKFLRIVVW               TSHR_CANFA    405   405
+id; FNPCEDIMGDDILRVLIW               FSHR_BOVIN    353   353
+bb;
+ic; GLYCHORMONER2
+il; 14
+it; Hormone receptor motif II - 1
+id; TSRYKLTVPRFLMC                   LSHR_HUMAN    386    18
+id; TSQYKLTVPRFLMC                   FSHR_SHEEP    389    18
+id; TSHYKLTVPRFLMC                   TSHR_CANFA    441    18
+id; TSQYKLTVPRFLMC                   FSHR_BOVIN    389    18
+bb;
+ic; GLYCHORMONER3
+il; 14
+it; Hormone receptor motif III - 1
+id; YYNHAIDWQTGSGC                   LSHR_HUMAN    426    26
+id; YHNYAIDWQTGAGC                   FSHR_SHEEP    429    26
+id; YYNHAIDWQTGPGC                   TSHR_CANFA    481    26
+id; YHNYAIDWQTGAGC                   FSHR_BOVIN    429    26
+bb;
+ic; GLYCHORMONER4
+il; 15
+it; Hormone receptor motif IV - 1
+id; CSTAGFFTVFASELS                  LSHR_HUMAN    439    -1
+id; CDAAGFFTVFASELS                  FSHR_SHEEP    442    -1
+id; CNTAGFFTVFASELS                  TSHR_CANFA    494    -1
+id; CDAAGFFTVFASELS                  FSHR_BOVIN    442    -1
+bb;
+ic; GLYCHORMONER5
+il; 12
+it; Hormone receptor motif V - 1
+id; LPLVGVSNYMKV                     LSHR_HUMAN    500    46
+id; FPIFGISSYMKV                     FSHR_SHEEP    503    46
+id; LPLVGISSYAKV                     TSHR_CANFA    555    46
+id; FPIFGISSYMKV                     FSHR_BOVIN    503    46
+bb;
+ic; GLYCHORMONER6
+il; 19
+it; Hormone receptor motif VI - 1
+id; KDTKIAKKMAILIFTDFTC              LSHR_HUMAN    563    51
+id; SDTKIAKRMAMLIFTDFLC              FSHR_SHEEP    566    51
+id; KDTKIAKRMAVLIFTDFMC              TSHR_CANFA    618    51
+id; SDTKIAKRMAMLIFTDFLC              FSHR_BOVIN    566    51
+bb;
+ic; GLYCHORMONER7
+il; 17
+it; Hormone receptor motif VII - 1
+id; PLITVTNSKVLLVLFYP                LSHR_HUMAN    597    15
+id; PLITVSKSKILLVLFYP                FSHR_SHEEP    600    15
+id; PLITVTNSKILLVLFYP                TSHR_CANFA    652    15
+id; PLITVSKSKILLVLFYP                FSHR_BOVIN    600    15
+bb;
+ic; GLYCHORMONER8
+il; 20
+it; Hormone receptor motif VIII - 1
+id; FTKTFQRDFFLLLSKFGCCK             LSHR_HUMAN    626    12
+id; FTRNFRRDFFILLSKFGCYE             FSHR_SHEEP    629    12
+id; FTKAFQRDVFILLSKFGICK             TSHR_CANFA    681    12
+id; FTKNFRRDFFILLSKFGCYE             FSHR_BOVIN    629    12
+bb;
+fm; FINAL MOTIF-SETS
+fm; ----------------
+fc; GLYCHORMONER1
+fl; 18
+ft; Hormone receptor motif I - 2
+fd; FNPCEDIMGYDILRVLIW               FSHR_HORSE    352   352
+fd; FNPCEDIMGYNFLRVLIW               LSHR_BOVIN    352   352
+fd; FNPCEDIMGYDFLRVLIW               LSHR_HUMAN    350   350
+fd; FNPCEDIMGYDFLRVLIW                   Q15996    350   350
+fd; FNPCEDIMGYDFLRVLIW                   Q14751    352   352
+fd; FNPCEDIMGYNVLRVLIW               FSHR_CHICK    353   353
+fd; FNPCEDIMGYAFLRVLIW               LSHR_MOUSE    354   354
+fd; FNPCEDIMGYDILRVLIW               FSHR_SHEEP    353   353
+fd; FNPCEDIMGDDILRVLIW               FSHR_BOVIN    353   353
+fd; FNPCEDIMGYNILRVLIW                 FSHR_RAT    352   352
+fd; FNPCEDIMGYNILRVLIW                   Q64183    348   348
+fd; FNPCEDIMGYDFLRVLIW                 LSHR_PIG    350   350
+fd; FNPCEDIMGYDFLRVLIW               LSHR_CALJA    327   327
+fd; FNPCEDIMGYKFLRIVVW               TSHR_CANFA    405   405
+fd; FNPCEDIMGHDILRVLIW                 FSHR_PIG    353   353
+fd; FNPCEDIMGYAFLRVLIW                 LSHR_RAT    354   354
+fd; FNPCEDIMGYRFLRIVVW               TSHR_MOUSE    405   405
+fd; FNPCEDIMGYKFLRIVVW               TSHR_BOVIN    404   404
+fd; FNPCEDIMGYKFLRIVVW               TSHR_SHEEP    405   405
+fd; FNPCEDILGYNILRVLIW               FSHR_MACFA    353   353
+fd; FNPCEDIMGYKFLRIVVW               TSHR_HUMAN    405   405
+fd; FNPCEDIMGYDILRVLIW               FSHR_EQUAS    345   345
+fd; FNPCEDIMGYNILRVLIW               FSHR_HUMAN    353   353
+fd; FNPCEDIMGYKFLRIVVW                 TSHR_RAT    405   405
+fd; FHPCEDIMGYVWLTVVSF               GLHR_ANTEL    516   516
+fd; LNPCEDVMGYQWLRISVW                   Q94979    479   479
+bb;
+fc; GLYCHORMONER2
+fl; 14
+ft; Hormone receptor motif II - 2
+fd; TSQYKLTVPRFLMC                   FSHR_HORSE    388    18
+fd; TSRYKLTVPRFLMC                   LSHR_BOVIN    388    18
+fd; TSRYKLTVPRFLMC                   LSHR_HUMAN    386    18
+fd; TSRYKLTVPRFLMC                       Q15996    386    18
+fd; TSRYKLTVPRFLMC                       Q14751    388    18
+fd; SSQYKLTVPRFLMC                   FSHR_CHICK    389    18
+fd; TSRYKLTVPRFLMC                   LSHR_MOUSE    390    18
+fd; TSQYKLTVPRFLMC                   FSHR_SHEEP    389    18
+fd; TSQYKLTVPRFLMC                   FSHR_BOVIN    389    18
+fd; TSQYKLTVPRFLMC                     FSHR_RAT    388    18
+fd; TSQYKLTVPRFLMC                       Q64183    384    18
+fd; TSHYKLTVPRFLMC                     LSHR_PIG    386    18
+fd; TSRYKLTVPRFLMC                   LSHR_CALJA    363    18
+fd; TSHYKLTVPRFLMC                   TSHR_CANFA    441    18
+fd; TSQYKLTVPRFLMC                     FSHR_PIG    389    18
+fd; TSRYKLTVPRFLMC                     LSHR_RAT    390    18
+fd; TSHYKLTVPRFLMC                   TSHR_MOUSE    441    18
+fd; TSHYKLTVPRFLMC                   TSHR_BOVIN    440    18
+fd; TSHYKLTVPRFLMC                   TSHR_SHEEP    441    18
+fd; TSQYKLTVPRFLMC                   FSHR_MACFA    389    18
+fd; TSHYKLNVPRFLMC                   TSHR_HUMAN    441    18
+fd; TSQYKLTVPRFLMC                   FSHR_EQUAS    381    18
+fd; TSQYKLTVPRFLMC                   FSHR_HUMAN    389    18
+fd; TSHYKLTVPRFLMC                     TSHR_RAT    441    18
+fd; TSQRRLNVTRFLMC                   GLHR_ANTEL    552    18
+fd; IRPESTPVPRFLMC                       Q94979    516    19
+bb;
+fc; GLYCHORMONER3
+fl; 14
+ft; Hormone receptor motif III - 2
+fd; YHNYAIDWQTGAGC                   FSHR_HORSE    428    26
+fd; YYNHAIDWQTGSGC                   LSHR_BOVIN    428    26
+fd; YYNHAIDWQTGSGC                   LSHR_HUMAN    426    26
+fd; YYNHAIDWQTGSGC                       Q15996    426    26
+fd; YYNHAIDWQTGSGC                       Q14751    428    26
+fd; YYNYAIDWQTGAGC                   FSHR_CHICK    429    26
+fd; YYNHAIDWQTGSGC                   LSHR_MOUSE    430    26
+fd; YHNYAIDWQTGAGC                   FSHR_SHEEP    429    26
+fd; YHNYAIDWQTGAGC                   FSHR_BOVIN    429    26
+fd; YHNYAIDWQTGAGC                     FSHR_RAT    428    26
+fd; YHNYAIDWQTGAGC                       Q64183    424    26
+fd; YYNHAIDWQTGNGC                     LSHR_PIG    426    26
+fd; YYNHAIDWQTGSGC                   LSHR_CALJA    403    26
+fd; YYNHAIDWQTGPGC                   TSHR_CANFA    481    26
+fd; YHNYAIDWQTGAGC                     FSHR_PIG    429    26
+fd; YYNHAIDWQTGSGC                     LSHR_RAT    430    26
+fd; YYNHAIDWQTGPGC                   TSHR_MOUSE    481    26
+fd; YYNHAIDWQTGPGC                   TSHR_BOVIN    480    26
+fd; YYNHAIDWQTGPGC                   TSHR_SHEEP    481    26
+fd; YHNYAIDWQTGAGC                   FSHR_MACFA    429    26
+fd; YYNHAIDWQTGPGC                   TSHR_HUMAN    481    26
+fd; YHNYAIDWQTGAGC                   FSHR_EQUAS    421    26
+fd; YHNYAIDWQTGAGC                   FSHR_HUMAN    429    26
+fd; YYNHAIDWQTGPGC                     TSHR_RAT    481    26
+fd; YHNYVQQWQNGAGC                   GLHR_ANTEL    592    26
+fd; YFNFAYDWQYGLGC                       Q94979    556    26
+bb;
+fc; GLYCHORMONER4
+fl; 15
+ft; Hormone receptor motif IV - 2
+fd; CDAAGFFTVFASELS                  FSHR_HORSE    441    -1
+fd; CSAAGFFTVFASELS                  LSHR_BOVIN    441    -1
+fd; CSTAGFFTVFASELS                  LSHR_HUMAN    439    -1
+fd; CSTAGFFTVFASELS                      Q15996    439    -1
+fd; CSTAGFFTVFASELS                      Q14751    441    -1
+fd; CNAAGFFTVFASELS                  FSHR_CHICK    442    -1
+fd; CSAAGFFTVFASELS                  LSHR_MOUSE    443    -1
+fd; CDAAGFFTVFASELS                  FSHR_SHEEP    442    -1
+fd; CDAAGFFTVFASELS                  FSHR_BOVIN    442    -1
+fd; CDAAGFFTVFASELS                    FSHR_RAT    441    -1
+fd; CDAAGFFTVFASELS                      Q64183    437    -1
+fd; CSVAGFFTVFASELS                    LSHR_PIG    439    -1
+fd; CNTAGFFTVFASELS                  LSHR_CALJA    416    -1
+fd; CNTAGFFTVFASELS                  TSHR_CANFA    494    -1
+fd; CDAAGFFTVFASELS                    FSHR_PIG    442    -1
+fd; CGAAGFFTVFASELS                    LSHR_RAT    443    -1
+fd; CNTAGFFTVFASELS                  TSHR_MOUSE    494    -1
+fd; CNTAGFFTVFASELS                  TSHR_BOVIN    493    -1
+fd; CNTAGFFTVFASELS                  TSHR_SHEEP    494    -1
+fd; CDAAGFFTVFASELS                  FSHR_MACFA    442    -1
+fd; CNTAGFFTVFASELS                  TSHR_HUMAN    494    -1
+fd; CDAAGFFTVFGSELS                  FSHR_EQUAS    434    -1
+fd; CDAAGFFTVFASELS                  FSHR_HUMAN    442    -1
+fd; CNTAGFFTVFASELS                    TSHR_RAT    494    -1
+fd; CKILGFLAVFSSELS                  GLHR_ANTEL    605    -1
+fd; CKVAGFLTVFASHLS                      Q94979    569    -1
+bb;
+fc; GLYCHORMONER5
+fl; 12
+ft; Hormone receptor motif V - 2
+fd; LPIFGISTYMKV                     FSHR_HORSE    502    46
+fd; LPLVGVSNYMKV                     LSHR_BOVIN    502    46
+fd; LPLVGVSNYMKV                     LSHR_HUMAN    500    46
+fd; LPLVGVSNYMKV                         Q15996    500    46
+fd; LPLVGVSNYMKV                         Q14751    502    46
+fd; LPIFGISSYMKV                     FSHR_CHICK    503    46
+fd; LPLVGVSSYMKV                     LSHR_MOUSE    504    46
+fd; FPIFGISSYMKV                     FSHR_SHEEP    503    46
+fd; FPIFGISSYMKV                     FSHR_BOVIN    503    46
+fd; FPIFGISSYMKV                       FSHR_RAT    502    46
+fd; FPIFGISSYMKV                         Q64183    498    46
+fd; LPLVGVSSYMKV                       LSHR_PIG    500    46
+fd; LPLVGVSNYMKV                     LSHR_CALJA    477    46
+fd; LPLVGISSYAKV                     TSHR_CANFA    555    46
+fd; FPIFGISSYMKV                       FSHR_PIG    503    46
+fd; MPLVGISNYMKV                       LSHR_RAT    504    46
+fd; LPMVGISSYAKV                     TSHR_MOUSE    555    46
+fd; LPLVGISSYAKV                     TSHR_BOVIN    554    46
+fd; LPLVGISSYAKV                     TSHR_SHEEP    555    46
+fd; FPIFGISSYMKV                     FSHR_MACFA    503    46
+fd; LPLVGISSYAKV                     TSHR_HUMAN    555    46
+fd; LPIFGISTYMKV                     FSHR_EQUAS    495    46
+fd; FPIFGISSYMKV                     FSHR_HUMAN    503    46
+fd; LPMVGISSYAKV                       TSHR_RAT    555    46
+fd; VPLTGVSGYSKV                     GLHR_ANTEL    666    46
+fd; LPLFGISNYSST                         Q94979    630    46
+bb;
+fc; GLYCHORMONER6
+fl; 19
+ft; Hormone receptor motif VI - 2
+fd; SDTKIAKRMAILIFTDFLC              FSHR_HORSE    565    51
+fd; KDTKIAKKMAVLIFTDFTC              LSHR_BOVIN    565    51
+fd; KDTKIAKKMAILIFTDFTC              LSHR_HUMAN    563    51
+fd; KDTKIAKKMAILIFTDFTC                  Q15996    563    51
+fd; KDTKIAKKMAILIFTDFTC                  Q14751    565    51
+fd; SDTKIAKRMAILIFTDFLC              FSHR_CHICK    566    51
+fd; KDTKIAKKMAILIFTDFTC              LSHR_MOUSE    567    51
+fd; SDTKIAKRMAMLIFTDFLC              FSHR_SHEEP    566    51
+fd; SDTKIAKRMAMLIFTDFLC              FSHR_BOVIN    566    51
+fd; SDTKIAKRMATLIFTDFLC                FSHR_RAT    565    51
+fd; SDTKIAKRMATLIFTDFLC                  Q64183    561    51
+fd; KDTKIAKKMAVLIFTDFTC                LSHR_PIG    563    51
+fd; KDTKIAKKMAILIFTDFTC              LSHR_CALJA    540    51
+fd; KDTKIAKRMAVLIFTDFMC              TSHR_CANFA    618    51
+fd; SDTKIAKRMAMLIFTDFLC                FSHR_PIG    566    51
+fd; KDTKIAKKMAILIFTDFTC                LSHR_RAT    567    51
+fd; KDTKIAKRMAVLIFTDFMC              TSHR_MOUSE    618    51
+fd; KDTRIAKRMAVLIFTDFMC              TSHR_BOVIN    617    51
+fd; KDTRIAKRMAVLIFTDFMC              TSHR_SHEEP    618    51
+fd; SDTRIAKRMAMLIFTDFLC              FSHR_MACFA    566    51
+fd; KDTKIAKRMAVLIFTDFIC              TSHR_HUMAN    618    51
+fd; SDTKIAKRMGILIFTDFLC              FSHR_EQUAS    558    51
+fd; SDTRIAKRMAMLIFTDFLC              FSHR_HUMAN    566    51
+fd; KDTKIAKRMAVLIFTDFMC                TSHR_RAT    618    51
+fd; NDSKVAKRMAILVFTDMLC              GLHR_ANTEL    732    54
+fd; GELSVAKKMALLVFTNFAC                  Q94979    696    54
+bb;
+fc; GLYCHORMONER7
+fl; 17
+ft; Hormone receptor motif VII - 2
+fd; PLITVSKSKILLVLFYP                FSHR_HORSE    599    15
+fd; PLITVTNSKVLLVLFYP                LSHR_BOVIN    599    15
+fd; PLITVTNSKVLLVLFYP                LSHR_HUMAN    597    15
+fd; PLITVTNSKVLLVLFYP                    Q15996    597    15
+fd; PLITVTNSKVLLVLFYP                    Q14751    599    15
+fd; PLITVSKSKILLVLFYP                FSHR_CHICK    600    15
+fd; PLITVTNSKVLLVLFYP                LSHR_MOUSE    601    15
+fd; PLITVSKSKILLVLFYP                FSHR_SHEEP    600    15
+fd; PLITVSKSKILLVLFYP                FSHR_BOVIN    600    15
+fd; PLITVSKAKILLVLFYP                  FSHR_RAT    599    15
+fd; PLITVSKAKILLVLFYP                    Q64183    595    15
+fd; PLITVTNSKVLLVLFYP                  LSHR_PIG    597    15
+fd; PLITVTNSKVLLVLFYP                LSHR_CALJA    574    15
+fd; PLITVTNSKILLVLFYP                TSHR_CANFA    652    15
+fd; PLITVSKSKILLVLFYP                  FSHR_PIG    600    15
+fd; PLITVTNSKILLVLFYP                  LSHR_RAT    601    15
+fd; PLITVTNSKILLVLFYP                TSHR_MOUSE    652    15
+fd; PLITVTNSKILLVLFYP                TSHR_BOVIN    651    15
+fd; PLITVTNSKILLVLFYP                TSHR_SHEEP    652    15
+fd; PLITVSKAKILLVLFYP                FSHR_MACFA    600    15
+fd; PLITVSNSKILLVLFYP                TSHR_HUMAN    652    15
+fd; ALITVSKSKILLVLFYP                FSHR_EQUAS    592    15
+fd; PLITVSKAKILLVLFHP                FSHR_HUMAN    600    15
+fd; PLITVTNSGVLLVLFYP                  TSHR_RAT    652    15
+fd; TLLTVTQSKILLVFFFP                GLHR_ANTEL    766    15
+fd; PLINVTKSKILLVFFYP                    Q94979    730    15
+bb;
+fc; GLYCHORMONER8
+fl; 20
+ft; Hormone receptor motif VIII - 2
+fd; FTKNFRRDFFILLSKFGCYE             FSHR_HORSE    628    12
+fd; FTKAFQRDFFLLLSKFGCCK             LSHR_BOVIN    628    12
+fd; FTKTFQRDFFLLLSKFGCCK             LSHR_HUMAN    626    12
+fd; FTKTFQRDFFLLLSKFGCCK                 Q15996    626    12
+fd; FTKTFQRDFFLLLSKFGCCK                 Q14751    628    12
+fd; FTKTFRRDFFILLSKFGCCE             FSHR_CHICK    629    12
+fd; FTKAFQRDFFLLLSRFGCCK             LSHR_MOUSE    630    12
+fd; FTRNFRRDFFILLSKFGCYE             FSHR_SHEEP    629    12
+fd; FTKNFRRDFFILLSKFGCYE             FSHR_BOVIN    629    12
+fd; FTKNFRRDFFILLSKFGCYE               FSHR_RAT    628    12
+fd; FTKNFRRDFFILLSKFGCYE                 Q64183    624    12
+fd; FTKAFRRDFFLLLSKSGCCK               LSHR_PIG    626    12
+fd; FTKTFRRDFFLLLGKFGCCK             LSHR_CALJA    603    12
+fd; FTKAFQRDVFILLSKFGICK             TSHR_CANFA    681    12
+fd; FTKNFRRDVFILLSKFGCYE               FSHR_PIG    629    12
+fd; FTKAFQRDFLLLLSRFGCCK               LSHR_RAT    630    12
+fd; FTKAFQRDVFILLSKFGICK             TSHR_MOUSE    681    12
+fd; FTKAFQRDVFMLLSKFGICK             TSHR_BOVIN    680    12
+fd; FTKAFQRDVFMLLSKFGICK             TSHR_SHEEP    681    12
+fd; FTKNFRRDFFILLSKFGCYE             FSHR_MACFA    629    12
+fd; FTKAFQRDVFILLSKFGICK             TSHR_HUMAN    681    12
+fd; FTKNFRRDFFILLSKFGCYE             FSHR_EQUAS    621    12
+fd; FTKNFRRDFFILLSKCGCYE             FSHR_HUMAN    629    12
+fd; FTKAFQRDVFILLSKFGLCK               TSHR_RAT    681    12
+fd; FTKAFKRELFTALSRIGFCK             GLHR_ANTEL    795    12
+fd; LTSQYRQDLFTLLSKLGLCQ                 Q94979    759    12
+bb;

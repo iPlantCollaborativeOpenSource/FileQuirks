@@ -1,0 +1,5 @@
+BLASTN:adh_job1_embl_6_AM229724	EMBLNEW:AM229723	embl	>EM_EST:AM229724;	Dreissena polymorpha EST, clone BG_con_252 	248	7e-62	94	157	
+BLASTN:adh_job1_embl_8_AM229725	EMBLNEW:AM229723	embl	>EM_EST:AM229725;	Dreissena polymorpha EST, clone BG_con_279 	141	1e-29	92	103	
+BLASTN:adh_job1_embl_10_AM229727	EMBLNEW:AM229723	embl	>EM_EST:AM229727;	Dreissena polymorpha EST, clone BG_con_70 	133	3e-27	88	127	
+BLASTN:adh_job1_embl_12_AM230245	EMBLNEW:AM229723	embl	>EM_EST:AM230245;	Dreissena polymorpha EST, clone BG_con_237 	98	2e-16	100	49	
+BLASTN:adh_job1_embl_14_AM230210	EMBLNEW:AM229723	embl	>EM_EST:AM230210;	Dreissena polymorpha EST, clone BG_con_80 	98	2e-16	100	49	

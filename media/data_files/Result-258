@@ -1,0 +1,136 @@
+FASTA searches a protein or DNA sequence data bank
+ version 3.4t26 July 7, 2006
+Please cite:
+ W.R. Pearson & D.J. Lipman PNAS (1988) 85:2444-2448
+
+Query library /result/fasta/query/20090529223113_1372 vs /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+searching /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+
+  1>>> query 148 aa - 148 aa
+ vs  /db/pub/db/b/SWISS.DATA/swiss_all.seq library
+
+       opt      E()
+< 20   514     0:=
+  22     2     0:=          one = represents 651 library sequences
+  24     3     0:=
+  26     7     9:*
+  28    87    97:*
+  30   598   590:*
+  32  2311  2283:===*
+  34  7013  6192:=========*=
+  36 13171 12717:===================*=
+  38 21618 21016:================================*=
+  40 29043 29316:=============================================*
+  42 34338 35835:=====================================================  *
+  44 38808 39529:===========================================================*
+  46 39018 40261:===========================================================*
+  48 37247 38546:========================================================== *
+  50 34239 35173:===================================================== *
+  52 29882 30923:============================================== *
+  54 25883 26414:========================================*
+  56 22539 22063:=================================*=
+  58 18395 18114:===========================*=
+  60 15159 14673:======================*=
+  62 12665 11764:==================*=
+  64  9729  9355:==============*
+  66  7938  7394:===========*=
+  68  6208  5816:========*=
+  70  4920  4558:=======*
+  72  3819  3562:=====*
+  74  3056  2777:====*
+  76  2571  2161:===*
+  78  1809  1680:==*
+  80  1470  1304:==*
+  82  1125   998:=*
+  84   761   790:=*
+  86   629   612:*
+  88   512   473:*          inset = represents 6 library sequences
+  90   359   366:*
+  92   282   283:*         :=======================================*
+  94   215   219:*         :====================================*
+  96   161   170:*         :=========================== *
+  98   120   131:*         :==================== *
+ 100    88   102:*         :=============== *
+ 102    80    79:*         :=============*
+ 104    72    61:*         :==========*=
+ 106    46    47:*         :=======*
+ 108    37    36:*         :=====*=
+ 110    20    28:*         :====*
+ 112    20    22:*         :===*
+ 114     8    17:*         :==*
+ 116     7    13:*         :==*
+ 118    11    10:*         :=*
+>120    37     8:*         :=*=====
+154417117 residues in 428650 sequences
+ statistics sampled from 60000 to 428614 sequences
+  Expectation_n fit: rho(ln(x))= 4.9663+/-0.00019; mu= 7.1752+/- 0.011
+ mean_var=64.5745+/-13.092, 0's: 56 Z-trim: 57  B-trim: 0 in 0/65
+ Lambda= 0.159604
+ Kolmogorov-Smirnov  statistic: 0.0132 (N=29) at  54
+
+FASTA (3.49 May 2006) function [optimized, BL50 matrix (15:-5)] ktup: 2
+ join: 36, opt: 24, open/ext: -10/-2, width:  16
+ Scan time: 13.170
+The best scores are:                                      opt bits E(428650)
+sp|P24617|T2P2_NEIGO RecName: Full=Type-2 restrict ( 278)  956 228.2 3.6e-59
+sp|P29565|T2MT_METTF RecName: Full=Type-2 restrict ( 281)  400 100.2 1.2e-20
+
+>>sp|P24617|T2P2_NEIGO RecName: Full=Type-2 restriction   (278 aa)
+ initn: 956 init1: 956 opt: 956  Z-score: 1196.0  bits: 228.2 E(): 3.6e-59
+Smith-Waterman score: 956;  100.000% identity (100.000% similar) in 148 aa overlap (1-148:6-153)
+
+                    10        20        30        40        50     
+            AIINLANNPVVGVESHSQSNNRANQAGDALEEYVKDLFSGSFNLNETQRIARHAK
+            :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|P24 MNIIDAIINLANNPVVGVESHSQSNNRANQAGDALEEYVKDLFSGSFNLNETQRIARHAK
+               10        20        30        40        50        60
+
+          60        70        80        90       100       110     
+       VFSYLGNNSNPPDAMLRNGDAIEVKKIESKDSALALNSSHPKSKLSVDDSMLTKACKDAE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sp|P24 VFSYLGNNSNPPDAMLRNGDAIEVKKIESKDSALALNSSHPKSKLSVDDSMLTKACKDAE
+               70        80        90       100       110       120
+
+         120       130       140                                   
+       KWEEKDIIYIVGVVDKKKNLKHLAMVYGIDYCA                           
+       :::::::::::::::::::::::::::::::::                           
+sp|P24 KWEEKDIIYIVGVVDKKKNLKHLAMVYGIDYCADAECYLKIKNQIKEGIGNIGGIQFAET
+              130       140       150       160       170       180
+
+sp|P24 KELGRVNRIDPLNITYLRVRGMWGIENPWFVFNYIYQRNMEKSFNFMAIINEDKWNSFNN
+              190       200       210       220       230       240
+
+>>sp|P29565|T2MT_METTF RecName: Full=Type-2 restriction   (281 aa)
+ initn: 379 init1: 312 opt: 400  Z-score: 504.0  bits: 100.2 E(): 1.2e-20
+Smith-Waterman score: 400;  48.462% identity (76.923% similar) in 130 aa overlap (19-148:28-154)
+
+                        10        20        30        40        50 
+                AIINLANNPVVGVESHSQSNNRANQAGDALEEYVKDLFSGSFNLNETQRIA
+                                  :.:: :: : .:: ..:: : ..:.... . . 
+sp|P29 MSNLLQAIMNIKSIQERNLGSYKGVQDSKNRMNQMGVTLEVFLKDAFCNTFDIENKDLV-
+               10        20        30        40        50          
+
+              60        70        80        90       100       110 
+       RHAKVFSYLGNNSNPPDAMLRNGDAIEVKKIESKDSALALNSSHPKSKLSVDDSMLTKAC
+        ... ::::::..:::: .:..:::.::::: .  ... ::::.::::: :.:: .:.::
+sp|P29 -YSEYFSYLGNQNNPPDMILKGGDAVEVKKITGIKTSIQLNSSYPKSKLFVSDSRITEAC
+       60        70        80        90       100       110        
+
+             120       130       140                               
+       KDAEKWEEKDIIYIVGVVDKKKNLKHLAMVYGIDYCA                       
+       :. : :: ::::: .:.. ..  :: . .:::  : :                       
+sp|P29 KNCEDWEVKDIIYAIGTIPNRV-LKLMFFVYGDCYAASPSIYQRIVEEVKGGLHSTGLEF
+      120       130       140        150       160       170       
+
+sp|P29 SETNELGRINRVDPLGITDLRVRGMWIIKHPIKVFKNIIPPESIKNNNFNLIALMKAEKY
+       180       190       200       210       220       230       
+
+
+
+148 residues in 1 query   sequences
+154417117 residues in 428650 library sequences
+ Tcomplib [34t26] (4 proc)
+ start: Fri May 29 22:31:15 2009 done: Fri May 29 22:31:22 2009
+ Total Scan time: 13.170 Total Display time:  0.000
+
+Function used was FASTA [version 3.4t26 July 7, 2006]
