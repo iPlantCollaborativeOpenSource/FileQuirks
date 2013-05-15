@@ -1,8 +1,8 @@
-### FileQuirks
+## FileQuirks
 
 FileQuirks is a system which enables you to check the type of your raw text file containing biological data.
 
-## Contributors
+### Contributors
 
 Original Authors:
 
